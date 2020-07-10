@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>search engine</title>
+	<!--链接样式引入css文件 -->
+	<link rel="stylesheet" type="text/css" href="./site.css">
+	<!--引入远程的jquery库-->
+	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+</head>
+<!-- body 标签内部的标签才是在浏览器中我们能看到的部分，而head标签通常用来引入css文件和js文件，对字符编码作一些规定........ -->
+<body>
+    <!-- div布局 -->
+    <div class="searchBlock">
+        <input type="text" id="txtSearch" class="txtDefault">
+        <input type="button" id="submitButton" class="btn searchButton" value="search">
+		<br/>
+        <div id="result">
+
+        </div><!-- 对应id="result"的结束标签  -->
+
+    </div>
+	<script>
+		var showPlaintext = false;
+		$(document).ready(function(){
+			$("#submitButton").on("click", function(e){
+				e.preventDefault();
+				var searchContent = $("#txtSearch").val() + "\n";
+				$.post("php_client.php", {content: searchContent}, function(data, status){
+					if(status == "success"){
+						if(showPlaintext){
+							$("#result").html(data);
+						}else{
+							//将收到的json字符串（data）转化为json对象，注意json字符串与json对象的区别
+							var obj = eval("(" + data + ")");
+							$("#result").html("");//清空result内容,用的是jquery的html()函数
+							$.each(obj.files, function(i, item) {//遍历json对象，用的是jquery的each()方法，该json对象的格式近似于：{"files":[{"title":title_1,"summary":summary_1}，...................]}
+								$("#result").append(//将遍历到的数据显示在id为result这个div里面
+								//根据json对象的每一个子集的键显示相应的值，哟给你的是json的语法
+								"<div>[标题]<a href=\"" + item.url +"\">" + item.title  + "</a></div>" +
+								"<div>[摘要]" + item.summary+ "</div><hr/>");
+							});
+						}
+					}
+					else{
+						alert(error);
+					}
+				});
+			});
+		});
+	</script>
+</body>  <!-- body 结束标签 -->
+</html>  <!-- html 结束标签 -->

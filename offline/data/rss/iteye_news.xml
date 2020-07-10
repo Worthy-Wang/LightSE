@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ITeye资讯频道</title>
+    <description>ITeye每日IT资讯 - Java, Ruby, AJAX, Agile, 互联网, 软件行业资讯</description>
+    <link>http://www.iteye.com</link>
+    <language>zh-CN</language>
+    <copyright>Copyright 2003-2016, ITeye.com</copyright>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <generator>ITeye - 做最棒的软件开发交流社区</generator>
+    <atom:link href="http://www.iteye.com/rss/news" rel="self" type="application/rss+xml" />
+          <item>
+        <title>Erlang之父Joe Armstrong确认将参加中国软件开发者大会</title>
+        <description>
+          <![CDATA[
+          2016年11月18日-20日，由CSDN重磅打造的年终技术盛会，<a target="_blank" href="http://sdcc.csdn.net/">SDCC 2016中国软件开发者大会</a>将在北京举行，大会面向国内外的中高端技术人员，聚焦最前沿技术及一线的实践经验，从而助力企业的技术升级和改造、全面提升技术人员的综合实力。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8168/e4dc5104-0b3c-3f75-83e5-d663c87f33c6.jpg" /><br /></div><br />本次大会非常有幸地邀请到了Erlang最初的设计者和实现者Joe Armstrong来华，出席SDCC 2016·北京站的Keynote并带来精彩的主题分享，他也是Erlang OTP系统项目的首席架构师。他拥有瑞典皇家理工学院博士学位，是容错系统开发领域的世界级专家。此外，他还在开发旨在替代XML的标记语言ML9。现任职于爱立信公司。<br /><br />Joe Armstrong最广为人知的是他发明了Erlang编程语言，并且创建了用于构建Erlang应用程序的框架——开放电信平台（Open Telecom Platform，OTP）。在现代语言的版图中，Erlang有点另类。同很多流行的语言相比，它既老又新。早在1986年，也就是Perl出现的前一年，Armstrong就已经开始了Erlang的工作，当时它只作为商用产品出售并且主要在爱立信公司内部使用。<br /><br />这种情况直到1998年Erlang作为开源项目发布后才发生变化，那时Java和Ruby已经问世3年了。Erlang并非起源于Algol系列中的某个成员，而是源于逻辑编程语言Prolog。当时Erlang设计初衷也相当明确，它针对的软件是类似于电话交换机那样的高可用性、高可靠性系统。<br /><br />但是几乎在不经意间，Erlang适合于构建电话交换机的那些特征也让它非常适合于编写并发软件，当程序员们开始努力应对多核系统未来的发展趋势时，并发性引起了他们的注意。<br /><br />Armstrong本人也有点另类。他起初是一名物理工作者，在攻读物理学博士学位时因为用完积蓄而转向了计算机科学，找到一份研究员的工作，为英国人工智能领域奠基人之一的Donald Michie工作。在Michie的实验室，Armstrong接触了人工智能领域各个方面的杰作，成为英国机器人学会的创始成员并撰写了一些有关机器人视觉的论文。<br /><br />由于Lighthill所做的那份非常有名的调查报告 ，人工智能的资金来源枯竭，Armstrong又回到了物理学领域，从事了5年多与物理学编程相关的工作。开始时他在欧洲非相干散射科学协会（EISCAT）工作，后来又到了瑞典空间研究中心，最后加入了爱立信计算机科学实验室，Erlang就是在那里发明的。<br /><br />如果你想要获知他更多的情况，翻翻这本书吧编程人生 (豆瓣)。<br /><br />顺便八卦一下Erlang。Erlang这们语言最牛的地方就是强大的并行处理能力和容错机制。Armstrong的博客有篇浅显易懂的文章介绍Erlang背后的思想。值得一读。文章标题也很骠悍：“Concurrency Is Easy”。端的豪气万丈。简单说，Erlang能够创建和管理大量的进程（不是操作系统级别的）。那些进程在不同的操作系统上有同样的行为，可以被垃圾回收，对运行地点透明（location transparent），不会破坏其它进程的运行。任意两个进程间完全独立，不共享任何状态，一切交流通过消息来传递，当然也就无需上锁。这样的设计思想造就了适合解决如下问题的Erlang：<br /><ul><li>系统高度并发 － 支持几十万个并行行为</li><li>实时处理</li><li>计算高度分布</li><li>系统要求高度可靠：每年的脱机时间以分钟算，甚至永不当机</li><li>系统高度复杂：代码量以百万行计</li><li>持续操作：以年计</li><li>系统要求持续在线更新。 </li></ul><br />　　 <br />而要做到这些，需要：<br /><br /><ul><li>并发 进程</li><li>错误隔离 隔离进程</li><li>错误侦查 发现什么东西当掉了</li><li>错误诊断 为什么当掉</li><li>在线代码更新 持续进化的系统(同时运行多个版本)</li><li>稳定存储 崩溃恢复 </li></ul><br />　　 <br />系统彻底独立，遵循所谓的无共享语义是系统稳定和高并发的关键。至于句法么，可以到www.erlang.org上去看指南。<br /><br /><div class="quote_title">引用</div><div class="quote_div"><br />注：文章大多数内容整理自网络，感谢图灵和人民邮电出版社的授权。<br /></div>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31904#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Tue, 25 Oct 2016 09:02:41 +0800</pubDate>
+        <link>http://www.iteye.com/news/31904</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31904</guid>
+      </item>
+          <item>
+        <title>探讨增强现实（AR）基于模型的追踪技术</title>
+        <description>
+          <![CDATA[
+          <div class="quote_title">引用</div><div class="quote_div"><br />作者简介： 古鉴，于2015年加入暴风魔镜任 AR 合伙人，负责 AR 类产品及交互技术的研发工作。<br />本文为作者投稿，非经作者同意，请勿转载。欢迎技术投稿、约稿、给文章纠错，请发送邮件至mobile@csdn.net。<br /></div><br />最近增强现实越来越被大家熟悉起来。最近看到一个案例（<a target="_blank" href="http://www.pps.tv/w_19rtditek5.html">http://www.pps.tv/w_19rtditek5.html</a>），见图一。 现代汽车发布电子用车手册，其亮点是融入了 AR 技术。车主只需拿起手机或平板对准车子，该 AR 系统即能自动识别这是车子的哪一部分，并给出相关的信息。目前，该用车手册涵盖了空气滤清器、智能巡航控制、警示标志、机油、制动液等方面的信息，同时还包含基于增强现实技术的视频、指南。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8158/e7f6603b-d5c0-39e2-8e07-bfc1c691d369.png" /><br /></div><br /><div style="text-align: center;">图一 现代汽车运用增强现实技术</div><br />很多人问我这是用到了什么样的 AR 技术，是不是 SLAM？没错，这里面的确用到了 SLAM 相关技术。更确切地说，应该是 SLAM 框架中的一个重要技术环节：基于模型的追踪技术（Model Based Tracking）。<br /><br />今天，就让我们来讨论一下这个基于模型的追踪技术技术，我先从整体介绍一下增强现实中的追踪技术。增强现实技术的核心组成部分主要是(图二)：显示技术、输入交互技术和识别追踪技术。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8160/ee30df82-522b-38a6-b755-be37f3138cf4.png" /><br /></div><br /><div style="text-align: center;">图二 增强现实的核心技术</div><br />显示部分主要是光学成像相关技术，该部分与硬件相关的比较多，这里就不做展开介绍了。输入交互的技术主要涉及语音交互、手势交互等。这个我们会在下一期重点讨论。我认为有了交互技术及空间感知的追踪技术，即可实现了 AR 的基本功能。在这里，我们重点介绍追踪技术。<br /><br />追踪技术是计算机科学中一个广阔而重要的领域，它在教育、娱乐、工业和制造领域具有广泛的应用。伴随着成像设备和硬件计算能力的发展，当前基于计算机视觉的物体跟踪技术取得了重大的发展。<br /><br />追踪技术主要分为：<br /><br />光学追踪；<br />内部传感器追踪；<br />超声波追踪；<br />磁力追踪；<br />机械装置追踪。<br />光学追踪是相对来说成本最低，比较精确的解决方案。它的难点主要在于视觉算法的门槛较高。AR 中的光学追踪分为几种（见图三），在 VR 中 OutsideIn 的方式用的比较多，比如 Oculus、HTC Vive、PS VR用的都是 Outside 进行的位置追踪。但是在AR中，基本都是 InsideOut，比如说 Hololens。当然最近 Oculus 的一体机用的也是 InsideOut 的追踪方式。<br /><br />InsideOut 比 OutsideIn 更加方便，成本更加低。但目前，OutsideIn 的方式更为精确一些。如在一些工业场景，多使用反光材质的标示点或特殊材质进行 Outsidein 光学追踪。<br /><br />标识追踪现在用的比较多，比如说大家看到的识字卡片、绘本等都是所谓的标识追踪，其最早的代表就是 ARToolkit 的。但该基于 Marker 的技术需要预先在 AR 场景中粘贴一定的标识，在用户体验和适应性方面具有较大的局限性。为此，基于无标识的 AR 技术是目前发展的方向。其中，无标识别追踪是实现该技术核心问题之一，像是 SLAM 等都是属于这个类别。我们这次主要介绍红色部分的 Model-Based Tracking。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8162/bf5b2b30-a0fc-3171-804e-ce53ce48f08f.png" /><br /></div><br /><div style="text-align: center;">图三 光学追踪分类</div><br />Model-Based Tracking 的主要技术框架如下图四所示，下面将该过程分为建模（Models)、视觉信息处理(Visual processing)、跟踪(Tracking)三个方面，并依次对其进行展开。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8164/e3611f74-3793-33fb-9d5d-05839a3e0342.png" /><br /></div><br /><div style="text-align: center;">图四 基于模型跟踪的三个主要任务：Models，Visual processing，Tracking</div><br /><strong>1. 模型建立（Models）</strong><br />模型（Models）的建立主要从目标、传感器和环境三个方面展开。首先对于跟踪目标，需要该目标一些先验信息（prior knowledge)，如被跟踪物体的形状、外观、姿态等特性。其次是需要从传感器的角度去考虑，比如如果使用未标定的单目相机，其获取的信息多以 pixel 为单位，若使用立体相机或深度相机，其构建的尺寸信息是 Metric 的，因此不同传感器的选择对被跟踪物体的表征形式会有不同影响。最后是从环境的角度，在基于视觉的跟踪过程中，环境对跟踪的准确性具有很关键的作用，比如在室内光照、环境相对稳定的情况下，重建所得模型就具有更加稳定，能很大程度提高基于模型跟踪的准确性。<br /><br />当前，在模型建立（models）阶段，主要可分为 Online 和 Offline 两种模型构建技术。Online 在线建模方式：以 SLAM 为代表，其在追踪的同时建立模型，其中追踪和建模是两个相互依赖的过程，其彼此间的误差会相互传递并累加，为保证较好追踪精度，一般需要借助 Bundle Adjustment 等优化方法调整。但目前，该优化方法计算量较大。目前在 PC 端有较好的实现，在移动端尚存在计算能力相对不足的问题。Offline 离线建模方式：将建模和跟踪分开，规避了 SLAM 过程中建模的不确定性，同时克服了建模所需大量运算量的问题，因此该方法能提高跟踪的精度和效率。<br /><br />目前 Offline 离线建模主要是有两种情况：<br /><br />（1）已知目标物体的 CAD 形状，如模型在设计制造过程中已有的 CAD 先验知识，在工业应用及企业级别的应用场合，因此多以本情况为主。 <br />（2）通过传感器（如结构光扫描、RGBD、ToF等）逆向获取目标物体的模型信息，然后以此模型作为一个先验知识。在实际的生活应用中，个人参与者不大可能获取已有物体的 CAD 形状，因此只能借助简单的传感器离线获取模型，因此这种离线获取模型的方式更加适用于消费者。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8166/a5dfbb09-ce7e-38a7-b77a-b16397cd6828.png" /><br /></div><br /><div style="text-align: center;">图五 不同的物体跟踪形式（当前主要以Shape和Appearance为主）</div><br /><strong>2. 视觉信息处理 (Visual processing)</strong><br />视觉信息处理主要是提取和关联传感器所获取的目标物体信息，以更新整个跟踪系统的状态。在实际的应用中，我们需要根据被跟踪目标的特性，选择稳定的跟踪线索（如颜色、边界、运动规律、背景信息等等）。<br /><br />具体在实际应用过程中，是根据构建的模型信息，确定被预处理的对象。如在工业的 AR 等跟踪过程中，多以 CAD 的形状和拓扑信息为处理对象，该视觉信息处理过程即为对形状和拓扑信息的采样提取，和数据关联等。在 2D/3D 领域，多以其各自对应的纹理特征和形状特征为研究对象，整个视觉信息的处理过程是以提取、优化获取构建模型的稳定特征为目标。<br /><br />目前，该方法可进一步细分为：基于颜色的信息处理；基于关键特征的信息处理；基于轮廓的信息处理和基于模板的信息处理四部分。<br /><br /><strong>3. 跟踪 (Tracking)</strong><br />当被传感器获取的数据经预处理输入后，即可实现物体的定位跟踪，该过程具体可以细分为检测和跟踪两个阶段。在检测阶段，需要以被跟踪物体的先验信息作为初始值，利用觉信息处理技术获取的模型信息，与输入的数据进行匹配，确定其在空间的姿态，实现对目标的跟踪。<br /><br />目前针对移动端 6DoF（Degree of Freedom）的跟踪，主流是采用视觉和 IMU 进行融合，实现更稳定的跟踪（如 Tango）。<br /><br />以上就是我们极少的 model-Based tracking. 以后我们会逐一介绍增强现实技术是如何实现的。
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31903#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Tue, 25 Oct 2016 08:57:22 +0800</pubDate>
+        <link>http://www.iteye.com/news/31903</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31903</guid>
+      </item>
+          <item>
+        <title>训练神经网络的五大算法</title>
+        <description>
+          <![CDATA[
+          <div class="quote_title">引用</div><div class="quote_div"><br />原文： <a target="_blank" href="https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network.html">5 algorithms to train a neural network</a> <br />作者： Alberto Quesada 译者： KK4SBB <br />责编：何永灿，关注人工智能，投稿请联系 heyc@csdn.net 或微信号 289416419<br /></div><br />神经网络模型的每一类学习过程通常被归纳为一种训练算法。训练的算法有很多，它们的特点和性能各不相同。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8136/1d3ab907-3eeb-3a2c-b1a7-4cfe4e42d7f0.jpg" /><br /></div><br /><strong>问题的抽象</strong><br />人们把神经网络的学习过程转化为求损失函数f的最小值问题。一般来说，损失函数包括误差项和正则项两部分。误差项衡量神经网络模型在训练数据集上的拟合程度，而正则项则是控制模型的复杂程度，防止出现过拟合现象。<br /><br />损失函数的函数值由模型的参数（权重值和偏置值）所决定。我们可以把两部分参数合并为一个n维的权重向量，记为w。下图是损失函数f(w)的图示。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8138/5929de3f-5538-3b48-9b27-7dab0ceb1826.png" /><br /></div><br />如上图所示，w*是损失函数的最小值。在空间内任意选择一个点A，我们都能计算得到损失函数的一阶、二阶导数。一阶导数可以表示为一个向量：<br /><br />ᐁif(w) = df/dwi (i = 1,…,n)<br /><br />同样的，损失函数的二阶导数可以表示为海森矩阵（ Hessian Matrix ）：<br /><br />Hi,jf(w) = d2f/dwi·dwj (i,j = 1,…,n)<br /><br />多变量的连续可微分函数的求解问题一直被人们广泛地研究。许多的传统方法都能被直接用于神经网络模型的求解。<br /><br /><strong>一维优化方法</strong><br />尽管损失函数的值需要由多个参数决定，但是一维优化方法在这里也非常重要。这些方法常常用于训练神经网络模型。<br /><br />许多训练算法首先计算得到一个训练的方向d，以及速率η来表示损失值在此方向上的变化，f(η)。下图片展示了这种一维函数。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8140/a1a62dff-134b-3b38-a8c4-8aa4c5c46fc4.png" /><br /></div><br />f和η*在η1和η2所在的区间之内。<br /><br />由此可见，一维优化方法就是寻找到某个给定的一维函数的最小值。黄金分段法和Brent方法就是其中两种广泛应用的算法。这两种算法不断地缩减最小值的范围，直到η1和η2两点之间的距离小于设定的阈值。<br /><br /><strong>多维优化方法</strong><br />我们把神经网络的学习问题抽象为寻找参数向量w*的问题，使得损失函数f在此点取到最小值。假设我们找到了损失函数的最小值点，那么就认为神经网络函数在此处的梯度等于零。<br /><br />通常情况下，损失函数属于非线性函数，我们很难用训练算法准确地求得最优解。因此，我们尝试在参数空间内逐步搜索，来寻找最优解。每搜索一步，重新计算神经网络模型的参数，损失值则相应地减小。<br /><br />我们先随机初始化一组模型参数。接着，每次迭代更新这组参数，损失函数值也随之减小。当某个特定条件或是终止条件得到满足时，整个训练过程即结束。<br /><br />现在我们就来介绍几种神经网络的最重要训练算法。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8142/59cbe817-d7b8-387a-943a-06a812e4f42b.png" /><br /></div><br /><strong>1. 梯度下降法（Gradient descent）</strong><br />梯度下降方法是最简单的训练算法。它仅需要用到梯度向量的信息，因此属于一阶算法。<br /><br />我们定义f(wi) = fi and ᐁf(wi) = gi。算法起始于W0点，然后在第i步沿着di = -gi方向从wi移到wi+1，反复迭代直到满足终止条件。梯度下降算法的迭代公式为：<br /><br />wi+1 = wi - di·ηi, i=0,1,…<br /><br />参数η是学习率。这个参数既可以设置为固定值，也可以用一维优化方法沿着训练的方向逐步更新计算。人们一般倾向于逐步更新计算学习率，但很多软件和工具仍旧使用固定的学习率。<br /><br />下图是梯度下降训练方法的流程图。如图所示，参数的更新分为两步：第一步计算梯度下降的方向，第二步计算合适的学习率。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8144/be90cd9e-e072-3d7f-886b-bd4893651d6d.png" /><br /></div><br />梯度下降方法有一个严重的弊端，若函数的梯度变化如图所示呈现出细长的结构时，该方法需要进行很多次迭代运算。而且，尽管梯度下降的方向就是损失函数值减小最快的方向，但是这并不一定是收敛最快的路径。下图描述了此问题。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8146/91ed4ed7-ca93-391e-913d-1d2f7ac88f66.png" /><br /></div><br />当神经网络模型非常庞大、包含上千个参数时，梯度下降方法是我们推荐的算法。因为此方法仅需要存储梯度向量（n空间），而不需要存储海森矩阵（n2空间）<br /><br /><strong>2.牛顿算法（Newton’s method）</strong><br />因为牛顿算法用到了海森矩阵，所以它属于二阶算法。此算法的目标是使用损失函数的二阶偏导数寻找更好的学习方向。<br /><br />我们定义f(wi) = fi, ᐁf(wi) = gi and Hf(wi) = Hi。用泰勒展开式估计函数f在w0值<br /><br />f = f0 + g0 · (w - w0) + 0.5 · (w - w0)2 · H0<br /><br />H0是函数f在w0的海森矩阵值。在f(w)的最小值处g = 0，我们得到了第二个等式<br /><br />g = g0 + H0 · (w - w0) = 0<br /><br />因此，将参数初始化在w0，牛顿算法的迭代公式为<br /><br />wi+1 = wi - Hi-1·gi, i = 0,1,…<br /><br />Hi-1·gi 被称为牛顿项。值得注意的是，如果海森矩阵是一个非正定矩阵，那么参数有可能朝着最大值的方向移动，而不是最小值的方向。因此损失函数值并不能保证在每次迭代都减小。为了避免这种问题，我们通常会对牛顿算法的等式稍作修改：<br /><br />wi+1 = wi - (Hi-1·gi) ·ηi, i=0,1,…<br /><br />学习率η既可以设为固定值，也可以动态调整。向量d = Hi-1·gi被称为牛顿训练方向。<br /><br />下图展示的是牛顿法的流程图。参数的更新也分为两步，计算牛顿训练方向和合适的学习率。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8148/772ce1d5-5c87-347e-a89d-8d6fb31efd03.png" /><br /></div><br />此方法训练神经网络模型的效率被证明比梯度下降法更好。由于共轭梯度法不需要计算海森矩阵，当神经网络模型较大时我们也建议使用。<br /><br /><strong>4. 柯西-牛顿法（Quasi-Newton method）</strong><br />由于牛顿法需要计算海森矩阵和逆矩阵，需要较多的计算资源，因此出现了一个变种算法，称为柯西-牛顿法，可以弥补计算量大的缺陷。此方法不是直接计算海森矩阵及其逆矩阵，而是在每一次迭代估计计算海森矩阵的逆矩阵，只需要用到损失函数的一阶偏导数。<br /><br />海森矩阵是由损失函数的二阶偏导数组成。柯西-牛顿法的主要思想是用另一个矩阵G来估计海森矩阵的逆矩阵，只需要损失函数的一阶偏导数。柯西-牛顿法的更新方程可以写为：<br /><br />wi+1 = wi - (Gi·gi)·ηi, i=0,1,…<br /><br />学习率η既可以设为固定值，也可以动态调整。海森矩阵逆矩阵的估计G有多种不同类型。两种常用的类型是Davidon–Fletcher–Powell formula (DFP)和Broyden–Fletcher–Goldfarb–Shanno formula (BFGS)。<br /><br />柯西-牛顿法的流程图如下所示。参数更新的步骤分为计算柯西-牛顿训练方向和计算学习率。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8150/a22bc250-c2c1-3b4e-b813-e0babae3ef76.png" /><br /></div><br />许多情况下，这是默认选择的算法：它比梯度下降法和共轭梯度法更快，而不需要准确计算海森矩阵及其逆矩阵。<br /><br /><strong>5. Levenberg-Marquardt算法</strong><br />Levenberg-Marquardt算法又称为衰减的最小 平方法，它针对损失函数是平方和误差的形式。它也不需要准确计算海森矩阵，需要用到梯度向量和雅各布矩阵。<br /><br />假设损失函数f是平方和误差的形式：<br /><br />f = ∑ ei2, i=0,…,m<br /><br />其中m是训练样本的个数。<br /><br />我们定义损失函数的雅各布矩阵由误差项对参数的偏导数组成，<br /><br />Ji,jf(w) = dei/dwj (i = 1,…,m &amp; j = 1,…,n)<br /><br />m是训练集中的样本个数，n是神经网络的参数个数。雅各布矩阵的规模是m·n<br /><br />损失函数的梯度向量是：<br /><br />ᐁf = 2 JT·e<br /><br />e是所有误差项组成的向量。<br /><br />最后，我们可以用这个表达式来估计计算海森矩阵。<br /><br />Hf ≈ 2 JT·J + λI<br /><br />λ是衰减因子，以确保海森矩阵是正的，I是单位矩阵。<br /><br />此算法的参数更新公式如下：<br /><br />wi+1 = wi - (JiT·Ji+λiI)-1·(2 JiT·ei), i=0,1,…<br /><br />若衰减因子λ设为0，相当于是牛顿法。若λ设置的非常大，这就相当于是学习率很小的梯度下降法。<br /><br />参数λ的初始值非常大，因此前几步更新是沿着梯度下降方向的。如果某一步迭代更新失败，则λ扩大一些。否则，λ随着损失值的减小而减小，Levenberg-Marquardt接近牛顿法。这个过程可以加快收敛的速度。<br /><br />下图是Levenberg-Marquardt算法训练过程的流程图。第一步计算损失值、梯度和近似海森矩阵。然后衰减参数和衰减系数。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/8152/ad6822e7-735b-383a-a34e-4c4ce6539ef3.png" /><br /></div><br />由于Levenberg-Marquardt算法主要针对平方和误差类的损失函数。因此，在训练这类误差的神经网络模型时速度非常快。但是这个算法也有一些缺点。首先，它不适用于其它类型的损失函数。而且，它也不兼容正则项。最后，如果训练数据和网络模型非常大，雅各布矩阵也会变得很大，需要很多内存。因此，当训练数据或是模型很大时，我们并不建议使用Levenberg-Marquardt算法。<br /><br /><strong>内存使用和速度的比较</strong><br />下图绘制了本文讨论的五种算法的计算速度和内存需求。如图所示，梯度下降法往往是最慢的训练方法，它所需要的内存也往往最少。相反，速度最快的算法一般是Levenberg-Marquardt，但需要的内存也更多。柯西-牛顿法较好地平衡了两者。<br /><div style="text-align: center;"><img src="http://dl2.iteye.com/upload/attachment/0120/8154/a8cc7972-b5c2-3999-ba3d-2e86d6567452.png" /></div><br />总之，如果我们的神经网络模型有上千个参数，则可以用节省存储的梯度下降法和共轭梯度法。如果我们需要训练很多网络模型，每个模型只有几千个训练数据和几百个参数，则Levenberg-Marquardt可能会是一个好选择。其余情况下，柯西-牛顿法的效果都不错。
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31902#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Tue, 25 Oct 2016 08:46:30 +0800</pubDate>
+        <link>http://www.iteye.com/news/31902</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31902</guid>
+      </item>
+          <item>
+        <title>Facebook 用 Rust 重写 Mercurial 服务器</title>
+        <description>
+          <![CDATA[
+          Linus Torvalds创建的Git分布式版本控制系统是市场占有率最高的版本控制系统：Git占了七成，另一个开源分布式版本控制系统Mercurial 则占了约13.5%。大多数开发者偏爱Git而对Mercurial 持怀疑态度，但如今他们<a target="_blank" href="http://www.theregister.co.uk/2016/10/18/facebook_mercurial_devs_forget_git/">正改变对Mercurial态度</a>。<br /><br />在本月早些时候举行的Mercurial开发者会议上， Facebook演示了Mercurial在可扩展性方面的优势：它开发了一个扩展高效缓存blame查询，查询速度提升了4-10x，以前要花10秒的blame查询现在只要1秒；Facebook正在用 Rust重写Mercurial 服务器，将支持可插拔的键值存储；Facebook演示了增强工作流的功能hg absorb；Facebook、Google和 Unity正在Mercurial上实验虚拟文件系统，加快处理大量文件和改进自动操作。<br /><br />来自：<a target="_blank" href="http://www.solidot.org/story?sid=50054">Solidot</a>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31898#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Fri, 21 Oct 2016 10:20:53 +0800</pubDate>
+        <link>http://www.iteye.com/news/31898</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31898</guid>
+      </item>
+          <item>
+        <title>苹果终于任命AI研究负责人，Ruslan其人其事</title>
+        <description>
+          <![CDATA[
+          昨日，CMU卡内基梅隆大学副教授Ruslan Salakhutdinov发推宣布加入苹果，业内纷纷表示“苹果AI有救了”。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/7232/264e40f1-6c4f-3d50-a496-c58742f54e5d.png" /><br /></div><br />Ruslan Salakhutdinov拥有多伦多大学机器学习方向博士学位，师从人工智能之父Geoffrey Hinton。说起Geoffrey Hinton大家不会陌生，正是他自1960年代起，一步步将深度学习从边缘学科变成现如今AI技术的核心，进而引发此次深度学习热潮的掀起。Geoffrey Hinton麾下的人工智能圈子可谓把控着当今各巨头的深度学习命脉，从谷歌、微软、Facebook的人工智能负责人，到国内我们所熟知的百度首席科学家吴恩达，都出自Geoffrey Hinton组建的人工智能团队NCAP。<br /><br />Ruslan当然也在这个圈子里，能成为Geoffrey的学生，Ruslan必然有很高的学术水平，根据其个人简历所述，Ruslan共发表论文105篇。据谷歌学术统计，其论文共被引15667次，h指数高达43。其发表的Restricted Boltzmann machines for collaborative filtering、Dropout: a simple way to prevent neural networks from overfitting、Bayesian probablisitic matrix factorization using MCMC三篇论文均有很高的科研价值。<br /><br />2009年Ruslan从多伦多大学取得博士学位后，在麻省理工大学开始了他的博士后生涯，研究方向为：大脑与认知科学、计算机科学和人工智能。两年后（2011），Ruslan重回多伦多大学，任教于计算机科学系和统计科学系，职称为助理教授。今年2月，Ruslan前往卡内基梅隆大学（拥有世界上最好的计算机科学学院）任机器学习专业副教授。仅8个月后便拥有除副教授之外的第二重身份——苹果人工智能研究总监，其职业发展速度不可谓不快。<br /><br />加入苹果后，Ruslan第一件事便是招兵买马。要加入他的团队，需要至少为计算机科学方向博士，且有高性能的机器学习系统的设计与研发经验，并且要求对深度学习、计算机视觉、机器学习、增强学习、系统优化以及数据挖掘均有造诣。团队要求如此之高，不禁让人好奇，苹果在AI方向究竟要有何动作。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/7234/9d6b77aa-da47-3685-873c-d1d46e0d8c0a.png" /><br /></div><br />一直以来，业界普遍认为苹果的人工智能弱于谷歌、微软、Facebook等公司，主要原因有二。一方面是因为众所周知的苹果喜欢保密的脾气。为了防止竞争者的效仿，苹果一般不会将研发成果发表。因此业内有声音认为，如此高产的Ruslan教授加入苹果后，其研发成果将会被苹果保密，这将是全世界深度学习行业的损失。第二方面是苹果尊重用户隐私的产品卖点，使其不能像其他行业巨头一样将用户的信息储存到云端并在云端强大的服务器上进行学习。因此苹果选择将AI学习系统放在个人的设备上，毫无疑问，这大大削弱了苹果AI的竞争力。<br /><br />但苹果表示，对此他们已经有了很好的解决方案。其基于个人设备的深度学习系统，大小仅为200MB左右（取决于所储存的私人信息的多少）。然而神经网络的训练需要大量的数据样本，既然苹果称自己不会将用户的隐私数据存储至云端，那么该神经网络要如何训练？对此，苹果表示，其人工智能的训练包括两部分，在云端的针对大量不敏感信息的训练，以及在个人设备上的针对个人敏感信息的个性化训练。为此，苹果于今年六月推出了Differential Privacy技术，称为差别隐私保护方法。其具体原理为，在敏感数据中加入噪音，从而使系统不能识别用户的ID等信息，换句话说，系统在训练时不知道样本的出处，从而达到数据保护的目的。<br /><br />此方法是否会行之有效？苹果尊重用户隐私权的做法是不是作茧自缚？抑或高人自有妙计？笔者相信苹果自有其一套行事准则。<br /><br />近年来苹果通过收购深度学习公司获得了大量深度学习方面的人才，至今仍在广纳贤士的进程中。在苹果网站上进行职位搜索，能发现129个在招职位与深度学习有关。且苹果对于深度学习的招聘并非只看中经验，而是着重于候选人的基本素质，如数理及统计能力、计算机相关能力等。手握大量人才，苹果没有像其他各巨头一样成立深度学习研发中心，而是将深度学习专家分散至各个产品中，让深度学习的思想落地，这也成就了iOS10为用户带来的多重人工智能体验。<br /><br />苹果的人工智能体现在细节中，而非某个重磅的人工智能产品。例如Siri的声音、Siri的理解能力、从主界面右滑会出现系统猜测的用户将要打开的APP等。底层一些的有通过深度学习算法延长设备的续航时间、iPad Pro手写功能防止手掌对纸张的滑动等等，都体现了苹果深度学习的应用。<br /><br />对于此次苹果雇佣Ruslan， Hacker News上的一些评论很有意思。<br /><div class="quote_title">引用</div><div class="quote_div"><br /><ul><li>vonnik：Ruslan早在十年前就是人工智能方面的大粗腿了啊，他可是Geoff Hinton的学生啊，2006年那篇RBMs的论文上面就有他的名字啊。苹果这次赚大了。</li><li>joe_the_user：一个响当当的名字或许在华尔街或者媒体圈有用，但是在科技界，用处可能不大。原因在于：1. 机器学习发展速度可能是当今世界上所有学科里面最快的，因此在机器学习领域，人们关心的不是你之前十年做过多少研究有过多少成果，而是你现在用这个理论做了什么。2. 正是因为开放科研结果，机器学习才能发展到当下的程度，而苹果一直秉持着科研结果保密的态度，这使其对其他科研学者的吸引力大大降低。仅仅雇佣一位大牛对于其AI事业并不会有大的推动作用。</li><li>system16：从Swift看来，苹果保密的态度似乎已经有了放宽。我觉得他们从地图和Siri上面学到了教训，当一个产品需要大量的数据支撑，来为用户提供更好的交互体验的时候，闭关锁国是不行的。</li><li>Grandalf：我用iPhone五年了，但是我从来没用过Siri，前两天我的iPhone坏了，为了等iPhone7，我用了一个月的安卓。用安卓的时候我被OK Google惊艳到了，所以当我拿到IPhone7的时候我开始用Siri。用OK Google，你让它完成的事情它能做得很好，但是Siri就连播放音乐有的时候都做不到。</li><li>IBM：我觉得Siri表现得很好，用Siri放音乐你甚至不用碰手机一下。现在大家都在把Siri和Google Now作比较，我觉得这不公平。苹果自身没有搜索引擎，所以苹果没有强大的数据库来训练Siri来回答一些常识性问题。而且二者的定位也不一样，Siri是私人助手，是帮你做事情的。而且现在苹果也开放了一些Siri API，所以日后的功能肯定会越来越多。</li></ul><br /></div><br />
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31897#comments" style="color:red;">已有 <strong>1</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Fri, 21 Oct 2016 09:34:13 +0800</pubDate>
+        <link>http://www.iteye.com/news/31897</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31897</guid>
+      </item>
+          <item>
+        <title>【知识库专访】蒋守壮：Hive性能优化实战分享</title>
+        <description>
+          <![CDATA[
+          【编者按】Hive作为Hadoop家族的重要一员，具有学习成本低，开发者可通过类SQL语句快速实现简单的MapReduce统计，不必开发专门的MapReduce应用。在<a target="_blank" href="http://lib.csdn.net/assemble">攒库</a>中，Hive也不负众望，得到了非常高的票数。为此，CSDN知识库特邀社区专家蒋守壮（博客：<a target="_blank" href="http://blog.csdn.net/jiangshouzhuang">http://blog.csdn.net/jiangshouzhuang</a>）绘制了Hive技术图谱，帮助广大开发者更加系统、全面的学习直播技术。<br /><br /><a target="_blank" href="http://lib.csdn.net/base/hive"><strong>Hive知识库发布，速来关注！</strong></a><br /><br />与此同时，我们还采访了蒋守壮老师，分享他的技术成长之路以及对Hive技术的解读与思考。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/7229/3688c1f4-f66e-327c-8d66-49cf3f38cee9.jpg" /><br /></div><br /><div style="text-align: center;">CSDN社区专家、知识库特邀编辑蒋守壮</div><br /><span style="font-size: large;"><strong>结缘大数据技术</strong></span><br /><strong>CSDN:请简单地介绍一下自己。</strong><br /><br /><strong>蒋守壮：</strong>首先非常感谢CSDN能够给我这次被专访的机会，可以让我重新审视自己的职业发展历程，也希望能够帮助一些同行的朋友们。目前就职万达网络科技集团有限公司，是一名大数据分析师和大数据平台架构师。<br /><br />我是电子专业出身，但自己对软件行业非常感兴趣，所以大学里一边学习本专业课程，一边到图书馆或活跃在相关技术网站上学习计算机专业课程。虽然累点苦点，但是为自己职业生涯打下了扎实的基础。<br /><br />从毕业后至今，我已经在IT圈跌打滚爬5年多了，经历了很多，有苦有乐，这些都丰富了自己的阅历。工作以来，我一直热爱分享和交流技术，热衷于写博客（CSDN），参与开源社区（Apache一些顶级项目），也乐于在Github上开源自己的软件产品。慢慢地，我从一名菜鸟，成长为资深工程师和架构师，但是我要学习的东西太多了，我会一直坚持下去。<br /><br /><strong>CSDN:你是如何与计算机结缘，踏上大数据开发之路的，能否跟我们分享一下。</strong><br /><br /><strong>蒋守壮：</strong>其实我与计算机结缘的原因，可能会和一些朋友相似，是因为黑客，觉得很酷，也很有挑战性的。这是一个启蒙阶段，于是我开始漫长的探索，学习汇编，C语言，C++，Java；学习计算机原理，Linux内核；学习网络，TCP/IP；学习密码学；学习各种主流数据库；学习脚本，Perl，Python，Shell等等。为了测试一些病毒，因为不可能用自己笔记本的操作系统测试，于是就开始研究虚拟化技术，使用虚拟机搭建各种Linux操作系统进行模拟测试，就这样，走上了一条不归路（是技术研究不归路，不是进局里了）。在这个探索的过程中，发现自己对Linux和数据库方面特别感兴趣，于是2011年毕业后就从事了Linux和数据库方面的工作。<br /><br />从2012年底开始，我开始接触MPP（大规模并行处理）架构的关系型数据库，使用和维护过Vertica和Greenplum等MPP架构的数据库。在电信行业分析TB和PB级别海量数据时性能还是非常不错的。但是随着业务的发展，处理非结构化和半结构化数据的需求迫在眉睫。我一直关注和参与Apache开源社区，见证了Hadoop生态圈的快速发展，Hadoop非常方便处理非结构化和半结构化数据，于是我们的大数据平台架构开始融合Hadoop，形成混合架构。随着Hadoop生态圈家族不断壮大，支持各种场景的组件出现，SQL支持也非常完善，于是大数据平台架构就逐渐以Hadoop为核心来构建。尤其这两年来，Spark，Flink等通用并行框架不断发展壮大，集成批处理，流计算，实时分析，机器学习和图计算，为企业级构建大数据平台提供更多的选择。<br /><br /><strong>CSDN:分享一下你最近使用的框架，它们都解决了哪些方面的问题。</strong><br /><br /><strong>蒋守壮：</strong>前段时间，我使用Kafka，Spark Streaming和HBase来进行实时数据计算分析，将保险用户相关的数据发送到Kafka消息队列，后端将从Kafka消费数据，并使用Spark Streaming进行流数据实时分析，然后将处理后的数据写入HBase集群中，最后用户从HBase中获取分析好的数据。<br /><br />现阶段，我们基于现有的Hadoop大数据平台，集成Apache Kylin组件，Kylin可以对Hive中的表进行关联后多维度处理，并将结果写入HBase，其与Hadoop生态圈整合非常完善，非常适合用来做海量数据规模下的OLAP分析，进行实时或准实时查询上百亿数据。另外，Kylin和BI工具也可以很好的集成，比如Tableau，Saiku等。<br /><br /><span style="font-size: large;"><strong>Hive痛点直击&amp;经验分享</strong></span><br /><strong>CSDN：hive的使用场景有哪些？适合实时性强的分析场景使用么？</strong><br /><br /><strong>蒋守壮：</strong>Hive是建立在Hadoop上的数据仓库基础构架，它的最佳使用场合是大数据集的批处理作业，一般延迟性比较高，并不能够在大规模数据集上实现低延迟快速的查询，所以不适合实时性强的分析场景。不过目前Hive底层的计算框架除了支持原生的MapReduce，还支持Tez和Spark，这对提升Hive的查询处理性能帮助很大，从Hive 2.0版本开始，推荐使用Tez或Spark作为Hive的计算引擎。<br /><br />如果希望实时查询分析，可以结合Impala，Presto，Drill等开源的交互式、实时的查询引擎使用，它们能够访问Hive中的表进行数据查询分析。<br /><br /><strong>CSDN：hive的技术特点有哪些？ 类sql操作啊，内置大量用户函数udf等等。</strong><br /><br /><strong>蒋守壮：</strong>Hive应该是第一个出现的SQL on Hadoop的产品，技术特点如下：<br /><ul><li>类SQL查询方式，支持标准SQL也比较全面；</li><li>支持索引，加快数据查询；</li><li>元数据保存在关系型数据库中，比如MySQL，可以减少查询过程中执行语义检查的时间；</li><li>支持多种数据存储格式类型，比如Text，Sequence，RCFile，Parquet和ORC等，针对不同的场景进行选择；</li><li>数据存储在HDFS分布式文件系统中，实现冗余高可用；</li><li>内置常用的基本函数，以及窗口分析型函数，同时支持用户自定义UDF，UDAF，UDTF函数；</li><li>底层计算引擎支持MapReduce，Tez和Spark，根据需要进行动态选择。</li></ul><br /><strong>CSDN：Hive创建的内部表和外部表有何异同？</strong><br /><br /><strong>蒋守壮：</strong>这个其实和很多传统数据库中的内部表和外部表一样，没有什么差别。<br /><br />我将从表的创建和删除两方面简单介绍一下：<br /><ul><li>Hive 创建内部表时，后面执行导入操作时会将用户数据移动到表所在的数据仓库指向的路径；</li><li>若创建外部表时，只会记录表对应的用户数据所在的路径，不对用户数据的位置做任何改变。</li><li>在删除表的时候，内部表的元数据和用户数据会被一起删除；</li><li>而外部表只会删除元数据，不删除用户数据。这样外部表相对来说更加安全些，数据组织也更加灵活，方便共享源数据。</li></ul><br /><br /><strong>CSDN：Hive的优化技巧有哪些？比如如何处理数据倾斜、大表与小表join时，如何优化性能。</strong><br /><br /><strong>蒋守壮：</strong>Hive优化其实涉及到几方面，其中一方面是计算引擎方面的优化，比如你使用MapReduce作为计算引擎，那么就需要优化MapReduce；如果你选择Spark作为计算引擎，那么需要对Spark进行优化。<br /><br />这里我仅从Hive这一层面介绍该如何优化，基本内容如下：<br /><br />(1)表设计层面优化<br /><ul><li>合理利用中间结果集，避免查过就丢的资源浪费，减低Hadoop的IO负载</li><li>合理设计表分区，包括静态分区和动态分区</li><li>尽量不使用复杂或低效函数，比如count(distinct)，可以使用其他方式实现</li><li>选择合适的表存储格式和压缩格式</li><li>如果某些逻辑使用系统函数可能嵌套好几层，那么可以使用自定义函数实现</li><li>适当使用索引</li></ul><br />(2)语法和参数层面优化<br /><ul><li>合理控制mapper和reducer数</li><li>设置map和reduce的内存大小</li><li>合并小文件</li><li>避免数据倾斜，解决数据倾斜问题</li></ul><br />处理数据倾斜的方法其实有很多，不论是Group by还是Join时出现数据倾斜，其实都是数据热点的问题，即某些Key值太多，导致都分发到一个节点执行，那么我们可以将数据量比较大的Key拿出来单独处理，最后再合并到结果集中。如果出现数据倾斜的Key值对结果无关紧要，比如空值，那么我们可以过滤处理，或者将空值加上随机数，进行分发到集群的所有节点并行处理。当然也可以利用Hive自带的参数进行优化，设置当分组或关联的Key值超过多少数量时，进行单独处理，即额外启动一个MapReduce作业处理。 <br />这方面的具体优化过程，请参考我的<a target="_blank" href="http://blog.csdn.net/jiangshouzhuang">技术博客</a>。<br /><ul><li>减少Job数</li><li>Join优化</li></ul><br />尽量将小表放到join的左边。小表和大表join时，如果差一个以及以上数量级并且小表数据量很小，可以使用mapjoin方式，将小表全部读入内存中，在map阶段进行表关联匹配。大表和大表进行关联时，要注意数据倾斜的问题。如果两个表以相同Key进行分桶，以及表的桶个数是倍数关系，可以使用bucket join，加快关联查询。<br /><ul><li>避免笛卡尔积</li><li>提前裁剪数据，减少处理的数据量，避免资源浪费</li></ul><br />(3)Hive Job优化<br /><ul><li>并行化执行——每个查询被Hive转化成多个阶段，有些阶段关联性不大，则可以并行化执行，减少执行时间。</li><li>本地化执行</li><li>JVM重利用——JVM重利用可以是Job长时间保留slot，直到作业结束，这在对于有较多任务和较多小文件的任务是非常有意义的，减少执行时间。</li><li>推测执行——所谓的推测执行，就是当所有的task都开始运行之后，Job Tracker会统计所有任务的平均进度，如果某个task所在的节点配置内存比较低或者CPU负载很大，导致任务执行比总体任务的平均执行要慢，此时Job Tracker就会在其他节点启动一个新的相同的任务，原有任务和新任务哪个先执行完就把其他节点的另外一个任务kill掉。</li><li>Hive中间结果压缩数据——中间压缩就是处理Hive查询的多个job之间的数据，对于中间压缩，最好选择一个节省CPU耗时的压缩方式</li></ul><br /><br /><strong>CSDN：分享一下Hive数据仓库经验。</strong><br /><br /><strong>蒋守壮：</strong>由于Hive的类SQL和类数据库功能，它向非编程人员开放了大数据Hadoop生态系统，Hive也推动了Hadoop的普及和发展。<br /><br />企业使用Hive来构建数据仓库，一是可以节约成本，二是基于SQL开发，将传统数据库迁移到Hadoop平台上分析也相关方便，三是支持和Hive集成的Hadoop生态圈的产品也丰富，满足架构扩展。<br /><br />在使用Hive来构建企业级数据仓库时要注意以下几点：<br /><ul><li>根据不同业务数据来源，在Hive创建不同的数据库，方便分类管理；</li><li>表的文件存储格式尽量采用Parquet或ORC，不仅降低存储量，还优化了查询，压缩，表关联等性能；</li><li>Hive的计算引擎，推荐使用Tez或Spark；</li><li>实现用户权限的控制，针对不同项目设置相应的用户，相互之间权限独立，实现数据安全，也可以根据需要，授予相应表权限。</li></ul><br /><br /><span style="font-size: large;"><strong>学习心得</strong></span><br /><strong>CSDN：关于技术学习您有什么心得？我们上线了知识库系统化学习的方法，您会怎么应用呢？</strong><br /><br /><strong>蒋守壮：</strong>其实我学习任何一门新技术的过程都比较相似，可以总结为以下几点：<br /><ul><li>俗话说，工欲善其事，必先利其器，首先我一般都会根据官方文档将环境搭建起来，然后运行官方的示例，先从整体上感受一下。</li><li>阅读该新技术比较好的书籍或博客文档，最好结合官方文档一起阅读，一定要记得做笔记或写博客。与此同时，可以多加入一些技术群或公众号。</li><li>当对该技术的原理，架构，基本操作都熟练时，就开始寻找好的项目进行实战，现在Github上开源项目很多，可以学习别人的思路或开发过程。</li><li>源码分析，这个是加深理解该技术的关键步骤。如果你只希望达到应用的水平，可以不用分析源码；但是如果你希望能够优化或者定制该技术某些方面，那么分析源码是必经的过程。</li><li>对于源码分析，一定不要漫无目的的查看源码，因为现在很多开源软件的代码比较多，这样你将很容易进入黑洞，不可自拔，回头一看，可能啥都不知道了。源码分析先挑选简单的模块分析，搭建好调测平台，进行代码跟踪，这样可以增加自信心。假如我要分析Spark源码，我首先查看Spark启动、客户端访问部分的源码，看一下RDD底层源码如何实现，也就是你要选择一个主题去分析源码并跟踪调测，久而久之，我就会将很多模块内容串联起来，也慢慢加深对Spark源码的理解。</li><li>最后，对修改的源码进行重新编译打包，然后部署环境进行验证，体会激动的时刻。</li></ul><br />上面的过程是交互循环的，不是一蹴而就的，你将需要经历时间的磨练，而且在这过程中，你会遇到很多问题，一定要对每个问题刨根问底，从根本上解决，并且坚持做好笔记或写博客，方便后续查看。<br /><br />另外，CSDN推出的知识库，给我们提供了系统学习的方法。如果我要学习一门新技术，比如Docker，我可以进入<a target="_blank" href="http://lib.csdn.net/base/docker">Docker知识库</a>，里面列出了Docker的每个知识点，并且每个知识点下面都会有该领域的专家精选的博客文章。此外，还可以把其它平台上看到的干货添加到自己的<a target="_blank" href="http://lib.csdn.net/my/structure">个人图谱</a>当中，创建你的专属知识库。选择自己感兴趣的知识点进行系统学习，效率非常高。<br /><br /><strong>CSDN：听说你在10月份即将推出自己的第一本技术书籍，请简单介绍一下。</strong><br /><br /><strong>蒋守壮：</strong>Apache的顶级项目Apache Kylin，这是一个开源的分布式分析引擎，是由eBay研发并贡献给开源社区，其提供Hadoop之上的SQL查询接口及多维分析（OLAP）能力以支持超大规模数据。书的名字暂定为《基于Apache Kylin构建企业级大数据分析平台》，预计10月份底左右出版，该书比较全面地介绍Apache Kylin的各方面，以及集成到现有的大数据平台中进行多维数据分析。<br /><br />关注Kylin项目很久了，也见证了第一个由中国团队完整贡献到Apache的顶级项目。尤其这一年多，Kylin快速发展，功能和稳定性不断提升，我也积极地参与Kylin开源社区，同时也希望借助自己的微薄力量来推广Kylin的使用，帮助更多的朋友认识和使用Kylin来解决企业中基于Hadoop的多维数据分析的需求。<br /><br /><strong>CSDN：你最近关注的技术有哪些？</strong><br /><br /><strong>蒋守壮：</strong>这段时间研究的技术，大体上有三方面，这里我就简单描述一下，具体大家可以访问官网查询更多内容：<br /><br />第一方面：自动化运维工具Ansible。Ansible算是比较新的自动运维工具，基于Python开发，集合了众多运维工具的优点，实现了批量系统配置，批量程序部署和批量运行命令等功能。研究这方面内容，主要是因为项目组已经实现基于Ansible快速部署高可用并且安全的大数据平台，提升用户的体验效果和满意度。<br /><br />第二方面：Flink实时流处理框架。个人一直觉得Flink在实时流方面的架构非常优秀，而且只需要很少的配置就能够实现高吞吐率和低延迟。将来希望在项目中更多地实战Flink实时流处理应用。<br /><br />第三方面：Docker容器技术。深入研究Docker在分布式和大数据架构中的应用，比如基于Docker构建企业的私用镜像仓库，方便企业能够快速部署大数据平台，也可以将企业中的一些应用实现Docker微服务化。<br /><br /><strong>推荐阅读：</strong><br /><ul><li><a target="_blank" href="http://geek.csdn.net/news/detail/106068">【知识库专访】亲加CTO郝飞：直播技术架构解密与优化之道</a></li><li><a target="_blank" href="http://geek.csdn.net/news/detail/88239">前端开发人员必须了解的七大技能图谱</a></li><li><a target="_blank" href="http://geek.csdn.net/news/detail/96883">来吧 主流编程语言图谱+知识库都在这了</a></li><li><a target="_blank" href="http://geek.csdn.net/news/detail/97799">主流编程语言图谱+知识库（二）</a></li></ul>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31896#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Fri, 21 Oct 2016 09:24:15 +0800</pubDate>
+        <link>http://www.iteye.com/news/31896</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31896</guid>
+      </item>
+          <item>
+        <title>Java 社区论坛 - Sym 1.6.0 发布</title>
+        <description>
+          <![CDATA[
+          <div style="font-size: 14px;" class="iteye-blog-content-contain">
+<h2 style="">简介</h2>
+<p style=""><a style="background-color: transparent; color: #4078c0;" href="https://github.com/b3log/symphony">Sym</a> 是一个用 Java 写的现代化的社区论坛，欢迎来<span style="font-weight: 600;"><a style="background-color: transparent; color: #4078c0;" href="https://hacpai.com/register">体验</a></span>！（如果你需要搭建一个企业内网论坛，请使用 <a style="background-color: transparent; color: #4078c0;" href="https://github.com/FangStarNet/symphonyx">SymX</a>）</p>
+<ul style="">
+<li style="">非常详细的 <a style="background-color: transparent; color: #4078c0;" href="http://naotu.baidu.com/file/cd31354ac9abc047569c73c560a5a913?token=b9750ae13f39ef9a">Sym 功能点脑图</a>
+</li>
+<li style="margin-top: 0.25em;">如果你在搭建或者二次开发时碰到问题，欢迎加 Q 群 17370164 进行讨论</li>
+</ul>
+<p style="">Sym 的诞生是有如下几点原因：</p>
+<p style="">（正版）</p>
+<ul style="">
+<li style="">好用的 Java 开源论坛系统难以寻找</li>
+<li style="margin-top: 0.25em;">很多系统界面上仍然保持着老式风格，远远没有跟上前端发展的脚步</li>
+<li style="margin-top: 0.25em;">很多系统没有创新、好玩的特性，缺少现代化的用户体验</li>
+<li style="margin-top: 0.25em;">我们正在探索新的论坛模式，实现独奏（<a style="background-color: transparent; color: #4078c0;" href="https://github.com/b3log/solo">Solo</a>）与协奏（<a style="background-color: transparent; color: #4078c0;" href="https://github.com/b3log/symphony">Symphony</a>）相结合的<a style="background-color: transparent; color: #4078c0;" href="https://hacpai.com/b3log">社区新体验</a>
+</li>
+</ul>
+<p style="">（野版）</p>
+<ul style="">
+<li style="">做最 NB 的开源论坛系统</li>
+<li style="margin-top: 0.25em;">作者技痒，炫技之作</li>
+</ul>
+<h2 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E5%9F%BA%E6%9C%AC%E7%90%86%E5%BF%B5"></a>基本理念</h2>
+<h3 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E5%AE%9E%E6%97%B6%E4%BA%A4%E4%BA%92"></a>实时交互</h3>
+<p style="">在浏览帖子时，传统论坛都是需要刷新页面来查看回帖的，而 Sym 则是基于 WebSocket 技术进行回帖推送，看帖时不需要刷新页面也可以看到其他人回帖。</p>
+<h3 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E4%BA%92%E8%81%94"></a>互联</h3>
+<p style="">Sym 提供了 <a style="background-color: transparent; color: #4078c0;" href="https://hacpai.com/article/1457158841475">API</a> 进行帖子、回帖的同步（<a style="background-color: transparent; color: #4078c0;" href="https://hacpai.com/b3log">B3log 构思</a>），目前 <a style="background-color: transparent; color: #4078c0;" href="https://github.com/b3log/solo">Solo</a>、<a style="background-color: transparent; color: #4078c0;" href="https://github.com/DT27/B3logForHacPai">Typecho</a>、<a style="background-color: transparent; color: #4078c0;" href="https://github.com/zblogapp/hacpai">Z-BlogPHP</a>、<a style="background-color: transparent; color: #4078c0;" href="https://github.com/zh-h/hacpai-sync-wordpress">WordPress</a> 均已经提供插件来进行内容同步，欢迎大家进行接入！</p>
+<h3 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#html5"></a>HTML5</h3>
+<p style="">Sym 使用了很多 HTML5 提供的技术特性，比如</p>
+<ul style="">
+<li style="">通过使用本地存储防止编辑帖子/回帖时内容丢失</li>
+<li style="margin-top: 0.25em;">使用了音频特性来进行帖子/回帖音频录制、播放</li>
+<li style="margin-top: 0.25em;">复制/粘贴上传图片</li>
+<li style="margin-top: 0.25em;">CSS3 动画</li>
+</ul>
+<p style="">通过使用这些技术，Sym 可以让用户在分享、交流时更加便捷、舒服</p>
+<h2 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E5%AE%89%E8%A3%85"></a>安装</h2>
+<p style="">需求：Maven3+、MySQL5.5+、Jetty9+/Tomcat9+</p>
+<ol style="">
+<li style="">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/b3log/symphony/archive/master.zip">下载</a>源码</li>
+<li style="margin-top: 0.25em;">解压后修改 <code style="">src/main/resources/local.properties</code> 中的数据库配置，并创建数据库</li>
+<li style="margin-top: 0.25em;">
+<em style="">可能需要</em>修改 <code style="">latke.properties</code> 中的端口为容器端口</li>
+<li style="margin-top: 0.25em;">
+<em style="">可能需要</em>修改 <code style="">init.properties</code> 中的管理员账号</li>
+<li style="margin-top: 0.25em;">使用 <code style="">mvn install</code> 进行构建</li>
+<li style="margin-top: 0.25em;">将构建好的 war 包部署到容器中，数据库表会在第一次启动时自动建立</li>
+</ol>
+<p style="">注意：</p>
+<ul style="">
+<li style="">没有数据库建表 SQL 脚本，手动建库后，表会在第一次启动时自动生成</li>
+<li style="margin-top: 0.25em;">生产环境建议使用反向代理，并需要配置好 WebSocket 代理</li>
+<li style="margin-top: 0.25em;">Tomcat 用 9 以上版本，最好是使用最新版本</li>
+</ul>
+<h2 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E9%85%8D%E7%BD%AE"></a>配置</h2>
+<ul style="">
+<li style="">图片上传默认是上传服务器本地，要使用<a style="background-color: transparent; color: #4078c0;" href="https://portal.qiniu.com/signup?code=3lewbghpvrqky">七牛</a>可配置 <code style="">symphony.properties</code> 中的 <code style="">qiniu.*</code> 属性</li>
+<li style="margin-top: 0.25em;">将 WEB-INF/cron.xml 中注释掉的部分打开</li>
+<li style="margin-top: 0.25em;">邮件发送使用的是 <a style="background-color: transparent; color: #4078c0;" href="http://sendcloud.sohu.com/">SendCloud</a>，需要配置 <code style="">symphony.properties</code> 中的 <code style="">sendcloud.*</code> 属性</li>
+<li style="margin-top: 0.25em;">用户注册时需要验证邮箱的，所以必须先配置好 SendCloud</li>
+</ul>
+<p style="">如果遇到问题，可以参考一下这篇<a style="background-color: transparent; color: #4078c0;" href="https://hacpai.com/article/1468824093225">帖子</a>。</p>
+<h2 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E6%A1%88%E4%BE%8B"></a>案例</h2>
+<ul style="">
+<li style=""><a style="background-color: transparent; color: #4078c0;" href="https://hacpai.com/">黑客派</a></li>
+<li style="margin-top: 0.25em;"><a style="background-color: transparent; color: #4078c0;" href="http://www.cnq.net/">宽客网</a></li>
+<li style="margin-top: 0.25em;"><a style="background-color: transparent; color: #4078c0;" href="http://www.gzit.info/">贵州IT</a></li>
+<li style="margin-top: 0.25em;"><a style="background-color: transparent; color: #4078c0;" href="https://imspm.com/">超级产品经理</a></li>
+<li style="margin-top: 0.25em;"><a style="background-color: transparent; color: #4078c0;" href="https://titandb.cn/">Titandb 学习主站</a></li>
+</ul>
+<p style="">如果你也搭建好了，欢迎通过 Pull Request 将你的站点加到这个列表中 :-p</p>
+<h2 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E5%95%86%E7%94%A8%E6%8E%88%E6%9D%83"></a>商用授权</h2>
+<p style="">如果需要将 Sym 用于商用（比如公司搭建对外社区），则必须付费，报价 ￥4000，请联系我（Q845765）进行细节咨询。</p>
+<h2 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E5%BC%80%E6%BA%90%E6%8E%88%E6%9D%83"></a>开源授权</h2>
+<p style="">请仔细查看并遵循<a style="background-color: transparent; color: #4078c0;" href="https://github.com/b3log/symphony#terms">使用条款</a>，尊重我们的劳动成果。</p>
+<p style="">商用授权和开源授权在功能上没有任何区别，但商用授权后可以去除页脚版权部分。如果在未获得商用授权前私自去除版权部分，必将追究法律责任。</p>
+<h2 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E6%84%9F%E6%82%9F"></a>感悟</h2>
+<p style="">在实现 <a style="background-color: transparent; color: #4078c0;" href="https://hacpai.com/b3log">B3log 构思</a>的这几年：</p>
+<ul style="">
+<li style="">我们见证了 xAE（GAE/BAE/SAE/etc）的兴起与没落。2009 年选择了 GAE 作为服务器，并开始实现 <a style="background-color: transparent; color: #4078c0;" href="https://github.com/b3log/latke">Latke</a> 框架来解决跨云平台，直到<a style="background-color: transparent; color: #4078c0;" href="https://hacpai.com/article/1443685401909">告别 GAE</a>，不得不感叹技术更迭之快</li>
+<li style="margin-top: 0.25em;">感受到了自造轮子的优缺点，并且可以肯定一点：对于一个想要长久的产品来说，自制技术框架优势远大于劣势</li>
+<li style="margin-top: 0.25em;">一个好玩的产品或说是细节特性然并卵，需要做的是一个能够持续提供用户价值的产品/特性</li>
+<li style="margin-top: 0.25em;">虽然直到目前 B3log 系产品用户不多，但我们已经初步证明了：Java 用来实现博客、论坛没有什么不好的</li>
+<li style="margin-top: 0.25em;">使用开源软件，了解开源思想，融入开源</li>
+<li style="margin-top: 0.25em;"><a style="background-color: transparent; color: #4078c0;" href="https://hacpai.com/article/1471007706462">如果你想做个程序员相关的论坛，请三思</a></li>
+<li style="margin-top: 0.25em;"><a style="background-color: transparent; color: #4078c0;" href="https://hacpai.com/article/1465652829809">你怎么看待社群、社区这两个词？</a></li>
+<li style="margin-top: 0.25em;"><a style="background-color: transparent; color: #4078c0;" href="https://hacpai.com/article/1462028669762">UGC 社区价值生态</a></li>
+</ul>
+<h2 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E8%B4%A1%E7%8C%AE"></a>贡献</h2>
+<p style="">Sym 的主要作者是 <a style="background-color: transparent; color: #4078c0;" href="https://github.com/88250">Daniel</a> 与 <a style="background-color: transparent; color: #4078c0;" href="https://github.com/Vanessa219">Vanessa</a>，所有贡献者可以在<a style="background-color: transparent; color: #4078c0;" href="https://github.com/b3log/symphony/graphs/contributors">这里</a>看到。</p>
+<p style="">我们非常期待你加入到这个项目中，无论是使用反馈还是代码补丁，都是对 Sym 一份满满的爱 ❤️</p>
+<h2 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#terms"></a>Terms</h2>
+<ul style="">
+<li style="">This software is open sourced under the Apache License 2.0</li>
+<li style="margin-top: 0.25em;">You can not get rid of the "Powered by <a style="background-color: transparent; color: #4078c0;" href="http://b3log.org/">B3log 开源</a> • <a style="background-color: transparent; color: #4078c0;" href="https://github.com/b3log/symphony">Sym</a>" from any page, even which you made</li>
+<li style="margin-top: 0.25em;">If you want to use this software for commercial purpose, please mail to <a style="background-color: transparent; color: #4078c0;" href="mailto:support@liuyun.io">support@liuyun.io</a> for a commercial license request</li>
+<li style="margin-top: 0.25em;">Copyright © b3log.org, all rights reserved</li>
+</ul>
+<h2 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E9%B8%A3%E8%B0%A2"></a>鸣谢</h2>
+<p style="">Sym 的诞生离不开以下开源项目：</p>
+<ul style="">
+<li style="">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/jquery/jquery">jQuery</a>：前端 JavaScript 工具库</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/codemirror/CodeMirror">CodeMirror</a>：前端 Markdown 编辑器内核</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/isagalaev/highlight.js">Highlight.js</a>：前端代码高亮库</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/Ranks/emojify.js">emojify.js</a>：前端 Emoji 处理库</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/DIYgod/APlayer">APlayer</a>：前端 HTML5 音乐播放器</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/ecomfe/echarts">ECharts</a>：前端 JavaScript 交互式图表库</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/mathjax/MathJax">MathJax</a>：前端数学公式渲染引擎</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/rderveloy/JavaScript-Sound-Recorder">SoundRecorder</a>：前端 HTML5 录音库</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/zeroclipboard/zeroclipboard">ZeroClipboard</a>：前端剪贴板支持</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="http://pajhome.org.uk/crypt/md5/index.html">JavaScript MD5</a>：前端 JavaScript MD5 库</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/joewalnes/reconnecting-websocket">ReconnectingWebSocket</a>：前端 WebSocket 重连库</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/domchristie/to-markdown">to-markdown</a>：前端 HTML 转换 Markdown</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/faisalman/ua-parser-js">UAParser.js</a>：前端 User-Agent 解析库</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="http://sass-lang.com/">Sass</a>：前端 CSS 处理工具</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/jhy/jsoup">jsoup</a>：Java HTML 解析器</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/sirthias/pegdown">pegdown</a>：Java Markdown 处理库</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="http://commons.apache.org/">Apache Commons</a>：Java 工具库集</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/oblac/jodd">Jodd</a>：Java 工具库集</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/vdurmont/emoji-java">emoji-java</a>：Java Emoji 处理库</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/HaraldWalker/user-agent-utils">User-Agent-Utils</a>：Java User-Agent 解析库</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/alibaba/druid">Druid</a>：Java 数据库连接池</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="http://freemarker.org/">FreeMarker</a>：好用的 Java 模版引擎</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://github.com/b3log/latke">Latke</a>：Java Web 框架</li>
+<li style="margin-top: 0.25em;">
+<a style="background-color: transparent; color: #4078c0;" href="https://netbeans.org/">NetBeans</a>：全宇宙暂时排名第三的 IDE</li>
+</ul>
+<hr style="">
+<h2 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E5%8A%9F%E8%83%BD%E5%9B%BE%E8%A7%A3"></a>功能图解</h2>
+<p style=""><span style="font-weight: 600;">首页</span></p>
+<p style=""><a style="background-color: transparent; color: #4078c0;" target="_blank" href="https://cloud.githubusercontent.com/assets/873584/19502589/a71b28ca-95e0-11e6-82da-2e2585f912d4.png"><img style="border-style: none; max-width: 100%;" alt="index" src="https://cloud.githubusercontent.com/assets/873584/19502589/a71b28ca-95e0-11e6-82da-2e2585f912d4.png"></a></p>
+<p style=""><span style="font-weight: 600;">帖子</span></p>
+<p style=""><a style="background-color: transparent; color: #4078c0;" target="_blank" href="https://cloud.githubusercontent.com/assets/873584/19502600/b9a92172-95e0-11e6-9a39-402c08b87e6f.png"><img style="border-style: none; max-width: 100%;" alt="article" src="https://cloud.githubusercontent.com/assets/873584/19502600/b9a92172-95e0-11e6-9a39-402c08b87e6f.png"></a></p>
+<p style="">（右边红色回帖按钮的位置应该在右下角，截图软件不给力..）</p>
+<p style=""><span style="font-weight: 600;">个人设置</span></p>
+<p style=""><a style="background-color: transparent; color: #4078c0;" target="_blank" href="https://cloud.githubusercontent.com/assets/873584/19502605/c04f1e46-95e0-11e6-980f-a927bd774dc3.png"><img style="border-style: none; max-width: 100%;" alt="settings" src="https://cloud.githubusercontent.com/assets/873584/19502605/c04f1e46-95e0-11e6-980f-a927bd774dc3.png"></a></p>
+<p style=""><span style="font-weight: 600;">发布编辑</span></p>
+<ul style="">
+<li style="">Markdown 编辑器，支持 GFM 语法</li>
+<li style="margin-top: 0.25em;">LaTeX 数学公式</li>
+<li style="margin-top: 0.25em;">复制粘贴时自动转换为 Markdown</li>
+<li style="margin-top: 0.25em;">Chrome 下可以直接粘贴图片，其他浏览器支持拖拽</li>
+<li style="margin-top: 0.25em;">除了使用文字，也可以在帖子内进行录音</li>
+<li style="margin-top: 0.25em;">支持 Emoji</li>
+<li style="margin-top: 0.25em;">使用本地存储保障数据在未提交时不丢</li>
+</ul>
+<p style=""><a style="background-color: transparent; color: #4078c0;" target="_blank" href="https://cloud.githubusercontent.com/assets/873584/19502607/c290209c-95e0-11e6-8fca-484cdef94bd6.png"><img style="border-style: none; max-width: 100%;" alt="post" src="https://cloud.githubusercontent.com/assets/873584/19502607/c290209c-95e0-11e6-8fca-484cdef94bd6.png"></a></p>
+<h3 style="">
+<a style="" class="anchor" href="https://github.com/b3log/symphony#%E7%A7%BB%E5%8A%A8%E7%AB%AF"></a>移动端</h3>
+<p style="">移动端使用单独的模版进行渲染，解决通过一套模版自适应不能达成的效果和体验。</p>
+<p style=""><a style="background-color: transparent; color: #4078c0;" target="_blank" href="https://cloud.githubusercontent.com/assets/873584/19502609/c4b25502-95e0-11e6-9d6a-1ea18bfebf6f.png"><img style="border-style: none; max-width: 100%;" alt="mobile" src="https://cloud.githubusercontent.com/assets/873584/19502609/c4b25502-95e0-11e6-9d6a-1ea18bfebf6f.png"></a></p>
+</div>
+          <br/><br/>
+          感谢 <a href="http://88250.iteye.com">88250</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    <br/><br/><span>资讯来源：<a href='https://hacpai.com/article/1476845608414' target='_blank'>黑客派</a></span>
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31894-release-sym-160#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Fri, 21 Oct 2016 08:54:05 +0800</pubDate>
+        <link>http://www.iteye.com/news/31894-release-sym-160</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31894</guid>
+      </item>
+          <item>
+        <title>【知识库专访】阿里孙佰贵：深度学习十问十答</title>
+        <description>
+          <![CDATA[
+          【编者按】深度学习，作为人工智能研究中一个新的领域，其动机在于建立可以模拟人脑进行去分析学习，模仿人脑的逻辑去解释数据的神经网络。为了帮助大家能够更加系统化的学习该门课程，知识库特邀请了CSDN社区专家、知识库特邀编辑孙佰贵精心绘制了深度学习知识图谱。<br /><br /><a target="_blank" href="http://lib.csdn.net/base/deeplearning"><strong>点击进入深度学习知识库</strong></a><br /><br />与此同时，我们还采访了孙佰贵（博客地址：<a target="_blank" href="http://blog.csdn.net/sunbaigui">http://blog.csdn.net/sunbaigui</a>）老师，分享他是如何与深度学习结缘以及技术层面的理解与思考。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6833/91a11898-b44a-31af-a395-13c8ba7a08d6.jpg" /><br /></div><br /><div style="text-align: center;">孙佰贵</div><br /><strong>CSDN：请先简单地介绍一下自己。</strong><br /><br />孙佰贵：我叫孙佰贵，本科毕业于宁波大学，本科期间曾参加ACM编程竞赛取得最好成绩是省赛银奖，地区赛铜奖。 <br />硕士毕业于浙大CAD&amp;CG国家重点实验室，硕士期间主要研究方向是计算机视觉（图像分割、视频分割、视频2D转3D）。 <br />硕士毕业后来到阿里巴巴工作至今，主要研究和应用方向为深度学习，包括图像分类、图像搜索、广告点击率预测，曾发表一篇ACMMM长文，论文地址http://arxiv.org/abs/1609.06018。在本科大一做ACM编程竞赛开始就坚持着写博客，在csdn上已经陆续写了7、8年。<br /><br /><strong>CSDN：能否分享一下，你是如何与深度学习结缘，并从事这个领域的。</strong><br /><br />孙佰贵：在本科大三的时候接触到人工智能课程，对里面的手写数字识别尤其感兴趣，当时手写数字识别是用BP（深度学习的基石）网络去做，感觉非常酷。于是打算考研进修，因为觉得人机交互是人工智能普及的必经之路，所以读研期间选择了计算机视觉。<br /><br />刚入职阿里巴巴工作时也找了图像方向的岗位，当时进到组里的时候，我对组里的各个业务方向还有技术方向都详细研究了下，由于我对人工智能一直有强烈的兴趣所以就选择了当时组里比较新的深度学习方向，然后我当时就成了阿里第二批做深度学习的人，第一批做的人很少，大概就几个，我师兄就是其中一个。<br /><br /><strong>CSDN：在深度学习领域，目前有很多开源的工具和库，开发者该如何选择适合他们的深度学习框架？</strong><br /><br />孙佰贵：通常一聊到开源，大家首先会看这个开源代码写的性能是否足够好，代码风格是否足够好，支持的特性是否特别前沿。但是往往以上几点都有可能成为误区，一个真正好的开源是要有足够大的开发者人气的，并且它必须是易扩展的，然后还要是易移植的，其实只要有前两点，那这个开源库是一定会不停的更新，这点非常重要，很多开源一时热，但没有开发者基础，往往很容易就冷掉了。<br /><br />好的开源也要是易移植的，因为工业上用开源的话，一般都会用到线上，这就要求这个开源必须是非常容易移植的，caffe在工业界比较受欢迎。<br /><br />以上都是基于工业上的需求去选的，一般做学术的话可能会更加要求少量编程，所以一般theano，torch在学术界很受欢迎。<br /><br /><strong>CSDN：如何利用高性能计算加速深度学习算法？</strong><br /><br />孙佰贵：现在深度学习的加速也是一个非常火热的研究方向，在硬件方面一般采用FPGA或者GPU进行加速，在算法方面一般采用并行计算去加速。<br /><br /><strong>CSDN：目前Intel和Nvidia两家都砸重金押注深度学习，并在处理器、软件栈、生态建设等展开全方位布局，您对此有何评价？</strong><br /><br />孙佰贵：从商业上来讲，当前这两家在处理器、软件栈、生态建设等方面的布局其实可以看做是一个问题，那就是要卖处理器。早前，Intel专注于CPU，Nvidia专注于GPU分工比较明确，最早Intel在GPU领域有集成显卡，一般情况下也能满足个人的需求，所以导致Nvidia的市场份额一直都不大。近几年工业界在深度学习方面的突飞猛进式的研究与业务拓展，迎来了GPU的高需求期，Nvidia凭借其在GPU独立显卡领域的优势迅速提升了其销售额，也使得Nvidia的市值在最近提升了很多。<br /><br />从深度学习生态上来讲，Intel在深度学习上的发力，使得工业界之后有更多的选择，也能加速深度学习硬件层面上的突破式创新，对于开发者来讲多了一种选择，这无疑是一种福音。<br /><br /><strong>CSDN：从工程应用角度，您认为一个深度学习平台的易用性和效率哪方面更重要？</strong><br /><br />孙佰贵：这两者缺一不可，线上的性能效率往往直接决定了该应用能不能上线；然而易用性往往决定了迭代速度；在互联网里，应用的迭代速度与效率都非常重要。<br /><br />CSDN：目前Google，微软，Facebook，百度分别开源了自己的深度学习平台，形成百花齐放，百家争鸣的局面，您认为哪个更适合初学者，哪个更适合生产部署？<br /><br />孙佰贵：这三家公司开源的深度学习平台，都带有一些局限性，有些门槛太高，有些专注于某个特定领域，我认为最适合初学者的还是非商业公司的开源，比如caffe，torch等。<br /><br />从易部署角度来讲，Google的TF比较好。<br /><br /><strong>CSDN：阿里哪些典型业务使用了深度学习，其有效性体现在哪些方面？</strong><br /><br />孙佰贵：阿里有很多语音，图像，视频相关的都使用了深度学习，有效性在于深度学习在这些方向上的效果都远高于传统算法，这些方向能放大深度学习擅长特征表达学习的优势，因为原先在这些方向上特征的抽取往往都是人工制定的，人工制定的特征存在一个问题，那就是它并不是适用于所有的数据场景的，深度学习可以在任一一个数据场景中学习出专属于这个数据集的特征描述，这是深度学习的优势所在。<br /><br /><strong>CSDN：深度学习理论方面有哪些由于当前技术水平限制还不能用于工程实现？</strong><br /><br />孙佰贵：由于深度学习强依赖于硬件、集群、大数据，这使得深度学习是少数的工业界成果不输于学术界成果的领域。深度学习是一个重实践的领域，一般情况下，深度学习理论都是在实验上验证过而沉淀下来的，所以往往是先由工程后有理论。<br /><br /><strong>CSDN：技术路线方面，对于DL的入门和进阶，您有什么建议？我们上线了知识库系统化学习的方法，您会怎样应用？</strong><br /><br /><strong>孙佰贵：</strong>DL入门的话一般挑一些权威的survey或者书籍，如下作者写的一些资料比较权威：Yoshua Bengio、Geoffrey Hinton、Yann LeCun、Andrew Ng，然后挑一个开源跟着教程去跑例子，比较推荐torch、theano、caffe。<br /><br />DL进阶的话一定要选择一个开源去做详细的代码解读，比较推荐caffe，然后再去了解各种深度学习相关的领域以及竞赛，再就是一定要去arxiv网站上定期查看DL的相关文章，了解DL最新研究状况与动态。<br /><br />技术学习一般都是由点及面，上线的知识库可能会很大，除了了解该技术全面的知识点外，还需要挑这里面的某个细分领域去做仔细的研究与学习=&gt;&gt;<a target="_blank" href="http://lib.csdn.net/base/deeplearning">进入深度学习知识库</a><br /><br /><strong>推荐阅读：</strong><br /><br /><ul><li><a target="_blank" href="http://geek.csdn.net/news/detail/106068">【知识库专访】亲加CTO郝飞：直播技术架构解密与优化之道</a></li><li><a target="_blank" href="http://geek.csdn.net/news/detail/106360">CSDN技术主题月深度学习框架 精华集锦</a></li><li><a target="_blank" href="http://geek.csdn.net/news/detail/88239">前端开发人员必须了解的七大技能图谱</a></li><li><a target="_blank" href="http://geek.csdn.net/news/detail/96883">来吧 主流编程语言图谱+知识库都在这了</a></li><li><a target="_blank" href="http://geek.csdn.net/news/detail/97799">主流编程语言图谱+知识库（二）</a></li></ul><br />更多内容请关注CSDN知识库。该产品汇集了领域专家们精心绘制的各重点技术领域的知识图谱，及由特邀编辑（领域专家）从海量数据中层层筛选出的精华内容和资源（学习视频、实践Demo、图书）。知识图谱可以帮助开发者全局把控该技术领域，而精选内容更能让开发者从技术细节加深了解该领域的每个核心技术点。扫描以下二维码，获取更多CSDN知识库内容。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6835/99241ebd-41a6-3e31-ac26-e67f26a786f5.jpg" /><br /></div><br />个人知识图谱已上线，快来订制你的专属知识库吧=&gt;&gt;<a target="_blank" href="http://blog.csdn.net/baiyuzhong2012/article/details/52587847"><strong>你的个人图谱上线了，快来领取！</strong></a>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31893#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Wed, 19 Oct 2016 10:10:39 +0800</pubDate>
+        <link>http://www.iteye.com/news/31893</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31893</guid>
+      </item>
+          <item>
+        <title>JEECMS v8 发布，java 开源 CMS 系统</title>
+        <description>
+          <![CDATA[
+          JEECMSv8 是java开源的站群管理系统，支持栏目模型、内容模型交叉自定义、以及具备支付和财务结算的内容电商为一体的内容管理系统。 <br /><br />对于不懂技术的用户来说，只要通过后台的简单设置即可自定义出集新闻管理、图库管理、视频管理、下载系统、文库管理、政务公开、作品管理、产品发布、供求信息、房屋租售、招聘信息、网络问卷调查及留言板于一体的综合性且不失个性化门户网站。&nbsp; <br />对于技术达人来说，jeecms不仅提供全部源码，而且在研发之初即全面的考虑了二次开发的高效性和代码的高移植性，是一款非常容易上手和二次开发的产品。&nbsp; <br />JEECMSv8版本是一款集PC互联网、移动互联网和微信网站于一体的网站群管理系统，jeecmsV7不仅可以通过H5自适应的方式实现手机网页模板，还可以采用v7专享的移动端模板，实现了同一个网站PC端和移动端所展现的风格或者内容一致或完全不一样的效果，让网站更适应用户的浏览体验。&nbsp; <br />JEECMSv8版本新增作者投稿、投稿管理、投稿佣金收益管理和内容赞赏功能，集成了支付宝和微信多种场景多终端的支付方案，为下一波内容电商从业人员提供技术动力。 <br /><br /><br />JEECMSv8支持PC网站、手机网站、微信网站、手机APP和可移动触摸大屏，一套系统即可完成五端一体化管理的网站建设。&nbsp; <br /><br />jeecmsV8新增功能：&nbsp;&nbsp; <br />新增功能&nbsp; <br />1、Spring3升级Spring4&nbsp; hibernate3升级hibernate4&nbsp; <br />2、文章打赏模块，支持微信、支付宝支付（电脑端扫码支付，手机端移动支付）支持作者提现，平台提现打款以及相关数据统计等&nbsp; <br />3、应用中心作为插件功能，可快速查看官方发布最新功能模块、系统更新包、BUG修复包等。&nbsp; <br />4、热词标签，热词新增推荐功能&nbsp; <br />5、新增内容查询缓存时间，在不需要即时发布更新的情况下可以提升查询效率&nbsp;&nbsp; <br />6、新增工作流是否允许跨级&nbsp; <br />7、编辑器升级&nbsp; <br />8、新增模型自定义字段也可以自定义上传的字段，模型字段增加是否必填选项控制&nbsp; <br />9、模型区分全站、本站模型区分&nbsp; <br />10、访问量统计新增月访问量、周访问量&nbsp; <br />11、内容新增推荐级别功能&nbsp; <br />12、评论调整每条评论要有点赞和回复功能，管理员以外的人也能回复，可配置是否开放评论 、允许重复评论&nbsp; <br />13、投票选项后台新增上传图片功能&nbsp; <br />14、文库更改模式，无需转换成swf，支持手机阅读&nbsp; <br />15、更改后台首页数据调用&nbsp; <br />16、栏目标签获取内容数量（总数、当月发布数、当日发布数、这周发布数、今年发布数）&nbsp; <br />17、新增内容操作记录&nbsp; <br />18、新增管理员查询条件 <br />19、网站前后台全面升级&nbsp; <br />20、繁简体一键切换 <br /><br />BUG修复&nbsp; <br /><br />修复 tomcat8下，后台配置资源管理错误<br />修复Tomcat8资源预览时，如预览图片时，路径出错&nbsp; <br />修复静态化环境则采用根首页设置的话，手机静态首页会覆盖电脑端静态首页&nbsp; <br />修复调查选项切换就不能添加调查项目&nbsp; <br />修复主栏目会自动生成前台静态页 添加的副栏目的栏目页不因为增加有信息而自动生成静态页&nbsp; <br />修复在后台登陆了，退出，然后在会员前台登陆后又跳转到后台了&nbsp; <br />修复共享管理点击分页到所有内容列表的下一页了&nbsp; <br />优化栏目修改处增加个模型选项，可以让用户调整&nbsp; <br />优化数据统计完善&nbsp; <br />修复发布时间不能修改问题&nbsp; <br />修复部门管理权限 留言审核没有区分问题&nbsp; <br />插件功能相关优化调整&nbsp; <br />优化新增调整栏目名称自动生成栏目访问路径&nbsp; <br />修复当新增加文章标题或描述内容超出字段长值时，系统直接报异常错误问题&nbsp; <br />修复模型管理，帮助位置，输入2位以上数字，保存，页面报错问题&nbsp; <br />修复内容类型编辑页面中，ID未实现判重校验问题&nbsp; <br />修复投票管理-添加某一投票标题，点击提交 系统报错问题<br />修复后台页面中，列表中页数中输入11位数字回车后页面报错问题<br />前台演示地址：<a target="_blank" href="http://demo.jeecms.com/">http://demo.jeecms.com/</a>&nbsp;&nbsp; （手机直接访问和PC端效果不一样哦）<br />后台演示地址：<a target="_blank" href="http://demo.jeecms.com/jeeadmin/jeecms/index.do">http://demo.jeecms.com/jeeadmin/jeecms/index.do</a><br />后台用户名：test&nbsp;&nbsp;&nbsp; 密码：test<br /><br />系统安装包、源码下载地址：<a target="_blank" href="http://www.jeecms.com/download.jhtml">http://www.jeecms.com/download.jhtml</a>
+          <br/><br/>
+          感谢 <a href="http://jeecms.iteye.com">jeecms</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    <br/><br/><span>资讯来源：<a href='http://www.jeecms.com/download.jhtml' target='_blank'>JEECMS</a></span>
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31890#comments" style="color:red;">已有 <strong>3</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Wed, 19 Oct 2016 09:57:44 +0800</pubDate>
+        <link>http://www.iteye.com/news/31890</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31890</guid>
+      </item>
+          <item>
+        <title>Noms：灵感来自Git的数据库</title>
+        <description>
+          <![CDATA[
+          <div class="quote_title">引用</div><div class="quote_div"><br />原文：<a target="_blank" href="https://github.com/attic-labs/noms.git">Noms – A versioned, forkable, syncable database</a> <br />作者：Noms 翻译：<a target="_blank" href="http://www.kawabangga.com/">赖信涛</a> 责编：仲培艺<br /></div><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6819/93525f4a-638c-3f98-8991-4fc94f8c6f2c.png" /><br /></div><br />Noms是一个类似于Git的去中心化的数据库。支持Fork，混合版本，同步等。目前已经在GitHub上开源，并且有两个编程语言的实现。一个是Go，一个是JavaScript。在Github上，还提供了很多实用工具以及应用范例。<br /><br /><strong>关于Noms</strong><br />Nom相比于其它数据库，主要有以下不同：<br /><ul><li>Content-addressed 如果你想要往Noms存放数据，不必担心要插入的数据是否存在。重复的数据在Noms中会被自动忽略。在Noms里，没有更新，只有插入；</li><li>Append-only 如果你想向Noms提交什么数据，不必担心覆盖的问题。你添加的记录都有历史版本。默认情况下，Noms永远不会删除数据，你可以查看数据库的整个历史版本，比较两次提交的不同，或者回退到之前的任何一个版本；</li><li>Typed 任何数据值，数据表和数据库的版本，都有一个类型（type），当你添加数据的时候，会自动生成。如果你对自己足够自信，也可以自己实现Noms对类型的处理；</li><li>Decentralized 如果我给你一份数据库，你和我都可以同时修改数据，互不影响。一段时间之后可以合并在一起。</li></ul><br />Setup<br />Noms支持MacOSX和Linux。你可以自己从源代码变异Windows版本，一般情况下都能正常工作，但是并不受官方支持。<br /><br /><ul><li><a target="_blank" href="https://s3-us-west-2.amazonaws.com/download.noms.io/index.html?prefix=jobs/NomsBuildGoBinaries/">下载Noms最新版本</a></li><li>解压tar -xzf noms-*.tar.gz</li><li>运行</li></ul><br />./noms ds <a target="_blank" href="http://demo.noms.io/cli-tour">http://demo.noms.io/cli-tour</a><br /><br />./noms log <a target="_blank" href="http://demo.noms.io/cli-tour::sf-film-locations">http://demo.noms.io/cli-tour::sf-film-locations</a><br /><br /><strong>Explore</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6821/30196b2c-e046-3a2e-9af5-8c1ec2a35add.png" /><br /></div><br /><strong>讨论</strong><br />niftich说：像这样的开源技术非常好。这可以用来做分布式的文件编辑应用。或者其它想要做分布式多个示例并支持以后合并的应用。<br /><br />aboodman（作者）说： 以下介绍一些资源：一个原型查询语言，以及如何在Noms中创建索引的示例（<a target="_blank" href="https://www.youtube.com/watch?v=fv6_T5yaWns">https://www.youtube.com/watch?v=fv6_T5yaWns</a>）；如何合并以及处理潜在的冲突（<a target="_blank" href="https://www.youtube.com/watch?v=–7dgoJBdjU">https://www.youtube.com/watch?v=–7dgoJBdjU</a>）
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31892#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Wed, 19 Oct 2016 09:27:39 +0800</pubDate>
+        <link>http://www.iteye.com/news/31892</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31892</guid>
+      </item>
+          <item>
+        <title>ITeye新闻热点月刊：2016年9月总第103期发布了！</title>
+        <description>
+          <![CDATA[
+          ITeye新闻热点月刊总第103期（2016年9月版）发布了！制作精美，内容丰富，为您总结一个月最精彩的技术新闻。 <br /><br />【<a target="_blank" href="http://www.iteye.com/news/download_pdf/13653">点击下载ITeye 2016年9月新闻热点月刊</a>】 <br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6447/fbbba352-7057-331b-8775-7ad83f4eea9e.png" /><br /></div><br /><br /><strong>&gt;&gt;精彩内容推荐：</strong><br /><a target="_blank" href="http://www.iteye.com/news/31864"><strong>微信小程序，大多数人都搞错的八个问题</strong></a><br />小程序目前被炒得沸沸扬扬，无数媒体和企业借机获取阅读流量。 这再次证明一<br />点，微信想让什么火，真的就能让什么火。但四处传的消息很多是失真的，本文列<br />出8个多数人都搞错的问题。<br /><br /><a target="_blank" href="http://www.iteye.com/news/31834"><strong>浅谈RxJava与2.0的新特性</strong></a><br />为什么 RxJava 如此受到 Android 开发者们的欢迎，不外乎两个原因。异步，链<br />式操作。<br /><br />【<a target="_blank" href="http://www.iteye.com/news/download_pdf/13653">点击下载ITeye 2016年9月新闻热点月刊</a>】&nbsp; <br /><br />【<a target="_blank" href="http://www.iteye.com/news/monthly">查看所有ITeye新闻热点月刊</a>】
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31887#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Mon, 17 Oct 2016 15:13:12 +0800</pubDate>
+        <link>http://www.iteye.com/news/31887</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31887</guid>
+      </item>
+          <item>
+        <title>2016年收入最高的5个编程语言</title>
+        <description>
+          <![CDATA[
+          <div class="quote_title">引用</div><div class="quote_div"><br />译文链接：<a target="_blank" href="http://www.codeceo.com/article/top-5-paying-language-2016.html">http://www.codeceo.com/article/top-5-paying-language-2016.html</a><br />英文原文：<a target="_blank" href="https://techcus.com/p/r1zSmbXut/top-5-highest-paying-programming-languages-of-2016/">Top 5 Highest Paying Programming Languages of 2016</a><br />翻译作者：<a target="_blank" href="http://www.codeceo.com/">码农网</a> – 小峰<br /></div><br /><br />电子书网站Packt公布了其2016年技术提高报告。它提供的统计数据基于超过11,000名IT专业人士参与的关于2016年收入最高的编程语言的调研。它同时还介绍了流行的web框架和主题。<br /><br />高效的程序员是基于IT的企业结构的中坚力量。企业雇用擅长于不同编程语言的人，并支付他们薪水，这样人员才不会被竞争对手撬走。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6398/46247ec3-ea5e-3cee-af1e-f80dfd6829a0.jpg" /><br /></div><br />现在有许许多多的编程语言，数以千计的开发人员在用这些编程语言工作。但是，在薪水方面，学习有些编程语言的人超过学习其他语言的人。Packt，一个电子书网站，发布了2016年技术提高的调查报告，涉及来自世界各地的11500名开发人员。<br /><br />该报告描述了领先的IT专业人员和开发人员所使用的编程语言的趋势。在受访者中，来自美国的人数最多，其次是英国。<br /><br />最流行的编程语言是：<br /><ul><li>JavaScript</li><li>Python</li><li>Java</li><li>C</li><li>SQL</li></ul><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6400/e51618bc-a943-3534-ba84-c4bff8210fd6.jpg" /><br /></div><br />榜首是客户端脚本语言JavaScript。之所以对JavaScript的需求会升级，是因为越来越多的业务应用被转移到web浏览器。Python是一种通用语言，它可以用于从渗透测试到web开发。Python被广泛应用于各种组织，如D-LINK，惠普，飞利浦等。<br /><br />而既老旧又年轻的C语言也在名单中。C语言主要用于年轻的程序员在学校上手编码的时候。所以，很明显，在企业部门的话C语言专家可能得不到太高的薪水。<br /><br />然而，这些语言从财务角度来看都不是最好的。尽管它们很成功，但是开发人员并不能从这些语言上赚到最高的薪水。<br /><br />更赚钱的编程语言都并不大受欢迎。平均年薪薪酬最高的语言是：<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6404/639f0e67-2b84-3731-9bda-b30e23155cbd.png" /><br /></div><br /><ul><li>Bash——$ 100,000</li><li>Perl——$ 95,000</li><li>Scala——$ 90,000</li><li>SQL——$ 62,000</li><li>Delphi——$ 60,000</li></ul><br />专家程序员使用诸如bash和Perl语言。因此，当决定职位薪资结构的时候，这些语言更受企业喜欢。谷歌的Go（$ 50,000）语言俨然已经获得了关注，比更受欢迎的用于为苹果生态系统编码app的Swift表现更佳。Golang被设计得更让C语言老将喜欢，其代码一直以来保持着可读性和简洁。<br /><br />Golang被设计得更让C语言老将喜欢，其代码一直以来保持着可读性和简洁。它被接受主要是因为速度，快速的编码会话非常便捷。软件工程师以及应用软件开发是这种语言两个选择最多的工作。选择后端web开发的也相当多。<br /><br />流行的Web开发框架：<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6406/0fa89b03-382a-34e7-9521-aa41c5742d70.jpg" /><br /></div><br />Web框架中，AngularJS，是图表的佼佼者。然而，相当大百分比的开发人员已经开始或计划转移到几个月前发布的AngularJS 2。那些不盯着AngularJS 2的准备迎接更新的Facebook造的ReactJS。<br /><br />热门研究主题：<br /><br />除了编程语言和框架这些东西之外，调查也提及了开发者社区中感兴趣的流行领域。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6408/342abe28-1182-3933-9891-4dfd163e501c.jpg" /><br /></div><br />机器学习和大数据自去年以来一直是IT行业的热门话题。我们最近看到基于IBM Watson的机器学习如何想出对一种罕见的<a target="_blank" href="https://school.codequs.com/p/BkfCrOT_">血液癌症类型进行有效的治疗</a>。<br /><br />详细信息请阅读2016年技能提升<a target="_blank" href="https://www.packtpub.com/skill-up-2016">报告</a>。<br /><br />有什么补充，欢迎告诉我们。
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31886#comments" style="color:red;">已有 <strong>2</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Mon, 17 Oct 2016 10:35:09 +0800</pubDate>
+        <link>http://www.iteye.com/news/31886</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31886</guid>
+      </item>
+          <item>
+        <title>Firefox发布了更多实验特性</title>
+        <description>
+          <![CDATA[
+          <div class="quote_title">引用</div><div class="quote_div"><br />原文：<a target="_blank" href="http://www.debugpoint.com/2016/10/firefox-launches-experimental-features/">Firefox Launches More Experimental Features</a> <br />作者：ARINDAM 翻译：赖信涛 责编：仲培艺<br /></div><br />最近，又有三个实验性的项目作为Mozilla Test Pilot项目的一部分发布了。Mozilla Test Pilot主要给用户提供一些尚处在开发中，未正式发布的先进特性，在未来有可能加入到官方的安装包中。<br /><br />在今年年初，Mozilla发布了项目的一部分，例如：<br /><ul><li>全局搜索（Universal Search）</li><li>标签中心（Tab Center）</li><li>不再有404页面（No More 404s）</li><li>Activity流（Activity Stream）</li></ul><br />除此之外，最近又有三个特性加入其中：<br /><ul><li>页面截图（Page Shot）</li><li>小视频窗口（Min Vid）</li><li>上网痕迹保护（Tracking Protection）</li></ul><br />下面是新特性速览，你可以安装来体验（文末有安装教程）。<br /><strong>Page Shot</strong><br />在浏览网页时，你可以使用Mozilla的网页截图获取截图图片，而不必再调用系统的截图功能。只需要点击工具栏上的截图按钮，还可以选择截图的区域，并通过社交网络分享。截图的保存使用了Pagesshot.net的保存服务。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6380/383798f3-4d97-38c0-8a87-710d7d3a1aa5.png" /><br /></div><br /><strong>小视频窗口</strong><br />小视频窗口特性可以让你在一个较小的窗口下，在浏览其它标签页的同时继续观看视频。这个特性目前兼容youtube和Vimeo视频，并计划在将来支持更多的视频网站。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6382/6557ea8c-e515-370e-b533-439ba0346afd.png" /><br /></div><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6384/4bd0d701-ad7e-3273-a659-58b893b4529b.png" /><br /></div><br /><strong>上网痕迹保护</strong><br />现在的上网痕迹保护只在Firefox的无痕浏览模式下有。现在这项实验性功能支持所有浏览和所有网站。你可以根据你的喜好对某些网站开启或关闭这项功能。<br /><br /><strong>其他特性</strong><br />标签页中心（Tab Center）<br /><br />窗口的左侧会有一个带搜索功能的标签列表。这对宽屏显示器来说非常有用。tab窗口还支持自动隐藏。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6386/4eea09b7-f916-322f-9972-fda03cdbae18.png" /><br /></div><br />活动流<br /><br />你最近的活动历史会以一种全新的方式，带有分享功能，显示在下面。不仅仅像以前那样仅仅只有链接，它还会显示一些描述，缩略图以及分享等一些你可能需要的功能。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6388/6be73f9d-5779-39f3-8ccf-59d3fef41701.png" /><br /></div><br /><strong>如何体验这些功能</strong><br />在Firefox中打开<a target="_blank" href="https://testpilot.firefox.com/experiments/">https://testpilot.firefox.com/experiments/</a>，安装Test Pilot扩展。然后安装你想要体验的特性。<br /><br />安装成功之后，你将在工具栏看见这些按钮。点击按钮可以快速开关这些功能。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6390/bd085d63-6336-316f-9982-4d37d888869d.png" /><br /></div><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6392/de2ccfa8-949e-3217-a9ba-923caf63f93d.png" /><br /></div><br />这些功能非常惊艳。但是请注意，它们依然处于开发中，所以你可能遇到一些bug，也可能让浏览器的性能变慢。但是它们仍然是值得体验的。<br /><br /><strong>讨论</strong><br /><strong>lewisl9029说：</strong>尝试了这些新特性之后，Firefox马上成了我最喜欢的浏览器！我非常喜欢Tab Center、Page Shot、Min Vid，和Tracking Protection这些功能！马上在我所有设备上的Firefox安装了这些扩展。希望Firefox能提供不同设备的Firefox之间的同步功能，现在，我不得不挨个安装他们。<br /><br /><strong>SNvD7vEJ说：</strong>我希望Activity Stream可以将活动历史用某种树的形式展示，当你从网页进入某个链接，然后又退回来，进入另一个链接。这些动作会用树的形式展示出来，就更好了——或者说，他们已经有这个功能了，只是我不知道而已？
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31885#comments" style="color:red;">已有 <strong>2</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Mon, 17 Oct 2016 09:54:48 +0800</pubDate>
+        <link>http://www.iteye.com/news/31885</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31885</guid>
+      </item>
+          <item>
+        <title>阿里云开放AliSQL数据库源码下载</title>
+        <description>
+          <![CDATA[
+          10月14日，在2016杭州云栖大会上，AliSQL正式开放了源代码的下载，即日可在官网下载使用。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6169/b79deb51-9a4b-3a64-98f7-725b2cf67174.jpg" /><br /></div><br />AliSQL是阿里巴巴基于于MySQL官方版本的一个分支，应用于阿里巴巴集团业务以及阿里云数据库服务。目前由阿里云数据库团队维护。<br /><br />AliSQL版本在强度和广度上都经历了极大的考验。最新的AliSQL版本从其他开源分支比如：Percona，MariaDB，WebScaleSQL等社区得到帮助，也从阿里巴巴MySQL领域的经验和解决方案得到经验。<br /><br />据阿里云资深总监李津表示，在AliSQL上赋予了300多个改进。<br /><br />据悉，AliSQL增加更多监控指标，并针对电商秒杀、物联网大数据压缩、金融数据安全等场景提供个性化的解决方案。可帮助中小企业和开发者提升数据运营能力。<br /><br />另有专家表示，“在通用基准测试场景下，AliSQL版本比MySQL官方版本有着70%的性能提升。在秒杀场景下，性能提升100倍。”<br /><br />本文来自：<a target="_blank" href="http://www.oschina.net/news/78061/alisql-code-can-download-now">开源中国</a>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31882#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Fri, 14 Oct 2016 16:49:49 +0800</pubDate>
+        <link>http://www.iteye.com/news/31882</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31882</guid>
+      </item>
+          <item>
+        <title>高性能 TCP/UDP/HTTP 通信框架 HP-Socket v4.0.1 发布</title>
+        <description>
+          <![CDATA[
+          <div style="font-size: 14px;" class="iteye-blog-content-contain">
+<p><a target="_blank" href="http://www.jessma.org/"><span style="line-height: 1.5;"><img height="150" alt="HP-Socket" width="225" src="http://static.oschina.net/uploads/space/2013/0609/023923_mORT_867443.png"></span></a></p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><span style="line-height: 1.5;">　　</span><span style="color: #800000; font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 12px; line-height: normal;">HP-Socket 是一套通用的高性能 TCP/UDP/HTTP 通信框架，包含服务端组件、客户端组件和 Agent 组件，广泛适用于各种不同应用场景的 TCP/UDP/HTTP 通信系统，提供 C/C++、C#、Delphi、E（易语言）、Java、Python 等编程语言接口。HP-Socket 对通信层实现完全封装，应用程序不必关注通信层的任何细节；HP-Socket 提供基于事件通知模型的 API 接口，能非常简单高效地整合到新旧应用程序中。</span></span></p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><span><span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">　　</span><span style="color: #800000; font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 12px; line-height: normal;">为了让使用者能方便快速地学习和使用 HP-Socket，迅速掌握框架的设计思想和使用方法，特此精心制作了大量 Demo 示例（如：PUSH 模型示例、<span style="color: #800000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;">PULL 模型示例、</span><span style="color: #800000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;">PACK 模型示例、</span>性能测试示例以及其它编程语言示例）。HP-Socket 目前运行在 Windows 平台，将来会实现跨平台支持。</span></span></span></span></p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><span><span><span style="color: #800000; font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 12px; line-height: normal;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">　　</span><a target="_blank" href="http://wenku.baidu.com/view/f27f3a76cc22bcd127ff0c8b">《HP-Socket v4.0 开发指南》</a></span></span></span></span></p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><strong>----------------------------------------------------------------</strong></p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><strong><span style="font-size: 18px;">通用性</span></strong></p>
+<ul style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;">
+<li>HP-Socket 的唯一职责就是接收和发送字节流，不参与应用程序的协议解析等工作。</li>
+<li>HP-Socket 与应用程序通过接口进行交互，并完全解耦。任何应用只要实现了 HP-Socket 的接口规范都可以无缝整合 HP-Socket。</li>
+</ul>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><strong><span style="font-size: 18px;">易用性</span></strong></p>
+<ul>
+<li><span style="line-height: 1.5;"><span style="line-height: normal;">易用性对所有通用框架都是至关重要的，如果太难用还不如自己重头写一个来得方便。因此，HP-Socket 的接口设计得非常简单和统一。</span></span></li>
+<li><span style="line-height: 1.5;"><span style="line-height: normal;">HP-Socket 完全封装了所有底层通信细节，应用程序不必也不能干预底层通信操作。通信连接被抽象为 Connection ID，Connection ID 作为连接的唯一标识提供给应用程序来处理不同的连接。</span></span></li>
+<li><span style="line-height: normal;">HP-Socket 提供 PUSH / PULL / PACK 等接收模型， 应用程序可以灵活选择以手工方式、 半自动方式或全自动方式处理封解包， PULL / PACK 接收模型在降低封解包处理复杂度的同时能大大减少出错几率。</span></li>
+</ul>
+<p><strong><span style="font-size: 18px;">高性能</span></strong></p>
+<ul style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;">
+<li>
+<strong>Client 组件：</strong>基于 Event Select 通信模型，在单独线程中执行通信操作，避免与主线程或其他线程相互干扰。每个组件对象管理一个 Socket 连接。</li>
+<li>
+<strong>Server 组件：</strong>基于 IOCP 通信模型，并结合缓存池、私有堆（Private Heap）等技术，支持超大规模连接，在高并发场景下实现高效内存管理。</li>
+<li>
+<strong>Agent 组件：</strong>对于代理服务器或中转服务器等应用场景，服务器自身也作为客户端向其它服务器发起大规模连接，一个 Agent 组件对象同时可管理多个 Socket 连接；Agent 组件与 Server 组件采用相同的技术架构，可以用作代理服务器或中转服务器的客户端部件。</li>
+</ul>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><strong><span style="font-size: 18px;">伸缩性</span></strong></p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;">　　应用程序能够根据不同的容量要求、通信规模和资源状况等现实场景调整 HP-Socket 的各项性能参数（如：工作线程的数量、缓存池的大小、发送模式和接收模式等），优化资源配置，在满足应用需求的同时不必过度浪费资源。</p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;">　　 <em>(项目主页：<a target="_blank" href="http://www.jessma.org/">点击这里</a>，下载地址：<a target="_blank" href="http://www.oschina.net/p/hp-socket">点击这里</a>)</em></p>
+<hr>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><span style="font-size: 18px; color: #333399;"><strong><em>*** v4.0.1更新 ***</em></strong></span></p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><em><strong><span><span><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 12px; line-height: normal;"> &gt; 增加 HTTP 系列通信组件：</span></span></span></span></strong></em></p>
+<p>-----------------</p>
+<p><img alt="" src="http://img.bbs.csdn.net/upload/201610/08/1475857393_73495.png"></p>
+<p><img alt="" src="http://img.bbs.csdn.net/upload/201610/08/1475857418_443165.png"></p>
+<ol>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">新增 HTTP Server 组件<br> 1) 组件类：CHttpServer、CHttpsServer<br> 2) 实现接口：ITcpServer / IComplexHttpResponder<br> 3) 监听器接口：IHttpServerListener</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">新增 HTTP Agent 组件<br> 1) 组件类：CHttpAgent、CHttpsAgent<br> 2) 实现接口：ITcpAgent / IComplexHttpRequester<br> 3) 监听器接口：IHttpAgentListener</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">新增 HTTP Client 组件<br> 1) 组件类：CHttpClient、CHttpsClient<br> 2) 实现接口：ITcpClient / IHttpRequester<br> 3) 监听器接口：IHttpServerListener</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">新增 HTTP 示例 Demo<br> 1) TestEcho-Http （源代码）<br> 2) TestEcho-Http-4C （4C LIB / 4C DLL）</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;">
+<span style="font-size: 12px;"><span style="font-size: 12px;">Http 监听器<br> 1) 监听器事件：<br></span></span>
+<pre class="brush:shell; toolbar: true; auto-links: false;">OnMessageBegin()	: 【可选】开始解析
+OnRequestLine()		: 【可选】请求行解析完成（仅用于 HTTP 服务端）
+OnStatusLine()		: 【可选】状态行解析完成（仅用于 HTTP 客户端）
+OnHeader()		: 【可选】请求头通知
+OnHeadersComplete()	: 【必须】请求头完成通知
+OnBody()		: 【必须】请求体报文通知
+OnChunkHeader()		: 【可选】Chunked 报文头通知
+OnChunkComplete()	: 【可选】Chunked 报文结束通知
+OnMessageComplete()	: 【必须】完成解析通知
+OnUpgrade()		: 【可选】升级协议通知
+OnParseError()		: 【必须】解析错误通知</pre>
+<span style="font-size: 12px;"><span style="font-size: 12px;">2) 监听器事件返回值（EnHttpParseResult<span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;">）</span>：<br></span></span>
+<pre class="brush:shell; toolbar: true; auto-links: false;">HPR_OK		: 继续解析
+HPR_SKIP_BODY	: 跳过当前请求 BODY（仅用于 OnHeadersComplete 事件）
+HPR_UPGRADE	: 升级协议（仅用于 OnHeadersComplete 事件）
+HPR_ERROR	: 终止解析，断开连接</pre>
+</li>
+</ol>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><em><strong><span><span><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 12px; line-height: normal;"> &gt; 组件接口调整：</span></span></span></span></strong></em></p>
+<p>-----------------</p>
+<ol>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">IServer 和 IAgent 组件的所有监听器回调方法增加‘事件源’参数，如：OnShutdown() -&gt; OnShutdown(T* pSender)</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">IClient 组件的所有监听器回调方法增加‘连接ID’参数，如：OnHandShake(IClient* pClient) -&gt; OnHandShake(T* pSender, CONNID dwConnID)</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">IServer 和 IAgent 接口增加接口方法： Get/SetMaxConnectionCount() 用于设置最大连接数，最大连接数默认：10000</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">OnHandShake() 事件触发规则调整：非 SSL 组件在 OnConnect() 事件后也触发 OnHandShake() 事件，使 SSL 组件和 SSL 组件处理流程一致</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">HPSocket4C 增加 PACK 组件监听器的创建、销毁方法，新版本必须使用下列方法创建、销毁 PACK 组件监听器：<br> 1) Create_HP_TcpPackServerListener / Destroy_HP_TcpPackServerListener<br><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;">2) </span>Create_HP_TcpPackAgentListener / Destroy_HP_TcpPackAgentListener<br><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;">3) </span>Create_HP_TcpPackClientListener / Destroy_HP_TcpPackClientListener<br></span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">SSL 组件支持 SNI<br> 1) SSL 初始化方法 HP_SSL_Initialize()，增加 SNI 回调函数指针参数<br> 2) 新增方法 HP_SSL_AddServerContext()，用于 加载 SNI 主机证书</span></li>
+</ol>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><em><strong><span><span><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 12px; line-height: normal;"> &gt; 其他更新：</span></span></span></span></strong></em></p>
+<p>-----------------</p>
+<ol>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">IServer 和 IAgent 组件采用 Ring Pool 取代 R/W Lock + Map 维护活动连接，提升读写和并发性能</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">更新所有 Demo 示例代码</span></li>
+</ol>
+<hr>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><span style="font-size: 18px; color: #333399;"><strong><em>*** v3.5.1更新 ***</em></strong></span></p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><em><strong><span><span><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 12px; line-height: normal;"> &gt; 增加 SSL 系列通信组件：</span></span></span></span></strong></em></p>
+<p>-----------------</p>
+<ol>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">新增 SSL PUSH 组件：CSSLServer、CSSLAgent、CSSLClient</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">新增 SSL PULL 组件：CSSLPullServer、CSSLPullAgent、CSSLPullClient</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">新增 SSL PACK 组件：CSSLPackServer、CSSLPackAgent、CSSLPackClient</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px; line-height: 1.5;">SSL Server 实现 ITcpServer 接口，SSL Agent 实现 ITcpAgent 接口，SSL Client 实现 ITcpClient 接口</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px; line-height: 1.5;">启动 SSL 通信组件前需要调用 HP_SSL_Initialize() 函数初始化 SSL 全局环境参数</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px; line-height: 1.5;">通信结束后调用 HP_SSL_Cleanup() 函数清理 SSL 全局运行环境</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;">
+<span style="font-size: 12px; line-height: 1.5;"><span style="font-size: 12px; line-height: 1.5;">新增 SSL 相关示例 Demo：</span></span>
+<pre class="brush:shell; toolbar: true; auto-links: false;">1) TestEcho-SSL		（源代码）
+2) TestEcho-SSL-Pack	（DLL / 4C DLL）
+3) TestEcho-SSL-4C	（4C LIB）
+4) TestEcho-SSL-PFM	（LIB）</pre>
+</li>
+</ol>
+<p><span><img alt="" src="http://img.bbs.csdn.net/upload/201605/23/1463992712_737233.jpg"></span></p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><em><strong><span><span style="font-family: Arial, Helvetica, sans-serif;"><span style="line-height: normal;">&gt; 组件接口调整：</span></span></span></strong></em></p>
+<p>-----------------</p>
+<ol>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">ITcpServerListener 接口增加 SSL 握手成功事件：OnHandShake(CONNID dwConnID)</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">ITcpAgentListener 接口增加 SSL 握手成功事件：OnHandShake(CONNID dwConnID)</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">ITcpClientListener 接口增加 SSL 握手成功事件：OnHandShake(IClient* pClient)</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">枚举类型 EnSocketError 增加‘SSL 环境未就绪’错误代码 SE_SSL_ENV_NOT_READY </span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">增加枚举类型：EnSSLSessionMode（SSL 工作模式），EnSSLVerifyMode（SSL 验证模式） </span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">HPSocket-SSL DLL 主要头文件：SocketInterface-SSL.h，HPSocket-SSL.h</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">HPSocket4C-SSL DLL 主要头文件：HPSocket4C-SSL.h</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">Tcp Pack 系列组件可设置的最大包长调整为 4194303/0x3FFFFF 字节</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">Tcp Pack 系列组件的有效包头标识取值范围调整为 0 ~ 1023/0x3FF</span></li>
+</ol>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><em><strong><span><span style="font-family: Arial, Helvetica, sans-serif;"><span style="line-height: normal;">&gt; 增加静态库工程：</span></span></span></strong></em></p>
+<p>-----------------</p>
+<ol>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">新增项目工程 HPSocketLIB 和 HPSocketLIB4C 用于编译 HPSocket 和 HPSocket4C 静态库</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">静态库与动态库的使用方式一致（请参考示例 Demo：TestEcho-SSL-4C 和 TestEcho-SSL-PFM）</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">使用 HPSocket 或 HPSocket4C 静态库时，需要在工程属性中定义预处理宏 -&gt; HPSOCKET_STATIC_LIB</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">静态库目标文件不包含在发布包中（因为太大），如果需要请自行编译</span></li>
+</ol>
+<hr>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><span style="font-size: 18px; color: #333399;"><strong><em>*** v3.4.4更新 ***</em></strong></span></p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><em><strong><span><span><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 12px; line-height: normal;"> &gt; 增加 Tcp Pack 系列通信组件：</span></span></span></span></strong></em></p>
+<p>-----------------</p>
+<ol>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">Tcp Pack 系列组件保证每个 OnReceive 事件都向应用程序提供一个完整数据包</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">Tcp Pack 系列组件是 PUSH/PULL 模式的结合体，应用程序不必处理分包（如：PUSH）与数据抓取（如：PULL）</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">Tcp Pack 系列组件提供 Get/SetMaxPackSize() 和 Get/SetPackHeaderFlag() 方法，用来设置最大包长和包头标识</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px; line-height: 1.5;">CTcpPackServer 实现 ITcpServer 接口，CTcpPackAgent 实现 ITcpAgent 接口，CTcpPackClient 实现 ITcpClient 接口<img alt="" src="http://img.bbs.csdn.net/upload/201610/12/1476242688_133695.jpg"></span></li>
+</ol>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><em><strong><span><span style="font-family: Arial, Helvetica, sans-serif;"><span style="line-height: normal;">&gt; 组件接口调整：</span></span></span></strong></em></p>
+<p>-----------------</p>
+<ol>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">OnClose/OnError 合并为一个通信事件： OnClose(CONNID dwConnID, EnSocketOperation enOperation, int iErrorCode)</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">枚举类型 EnSocketOperation 增加一个枚举值： SO_CLOSE = 5，标识关闭 Socket 操作</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">IServer 和 IAgent 接口删除接口方法： Get/SetRecvPolicy()</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">IServer 和 IAgent 接口删除接口方法： Get/SetMaxShutdownWaitTime()</span></li>
+</ol>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;"><em><strong><span><span style="font-family: Arial, Helvetica, sans-serif;"><span style="line-height: normal;">&gt; Bug 修复：</span></span></span></strong></em></p>
+<p>-----------------</p>
+<ol>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">修复 TCP Pack Agent “异步连接失败导致程序崩溃” Bug</span></li>
+<li style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 12px;">修复 vc-common-src 公共代码包的 CCASQueue 可能导致无限循环 Bug</span></li>
+</ol>
+<hr>
+</div>
+          <br/><br/>
+          感谢 <a href="http://guaishou.iteye.com">guaishou</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31880#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Fri, 14 Oct 2016 16:41:59 +0800</pubDate>
+        <link>http://www.iteye.com/news/31880</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31880</guid>
+      </item>
+          <item>
+        <title>Facebook 发布新 Node 模块管理器 Yarn，或将取代 npm 客户端</title>
+        <description>
+          <![CDATA[
+          <div class="quote_title">引用</div><div class="quote_div"><br />本文为掘金投稿，译文出自 : 掘金翻译计划（翻译不易，欢迎 Star 支持）。<br />原文链接 : <a target="_blank" href="https://code.facebook.com/posts/1840075619545360">Yarn: A new package manager for JavaScript</a><br />原文作者 : <a target="_blank" href="https://www.facebook.com/sebmck">SEBASTIAN MCKENZIE</a>，<a target="_blank" href="https://www.facebook.com/cpojer">CHRISTOPH POJER</a>，<a target="_blank" href="https://www.facebook.com/thejameskyle">JAMES KYLE</a><br />译者 : <a target="_blank" href="https://github.com/Zhangjd">达仔</a><br />校对者: <a target="_blank" href="https://github.com/sqrthree">根号三</a><br /></div><br />在 JavaScript 社区中，工程师们互相分享成千上万的代码，帮助我们节省大量编写基础组件、类库或框架的时间。每个代码包可能都依赖于其他代码，而代码间的依赖关系则由包管理器负责维护。目前最流行的 JavaScript 包管理器是 npm 客户端，在 npm 仓库中提供了多达 30 万的软件包。据统计，已有超过 500 万的工程师使用 npm 仓库，其软件包下载量达到了 50 亿次/月。<br /><br />在Facebook中，我们多年来一直在使用npm客户端并取得了成功，但随着代码仓库与团队人数的增长，我们在一致性、安全性以及性能方面遇到了挑战。在尝试解决每个方面的问题后，我们最终决定着手打造一套新的客户端解决方案，以帮助我们更可靠地管理依赖。我们把这个客户端工具称为 Yarn —— 更加快速、可靠、安全的 npm 客户端的替代品。<br /><br />我们在此荣幸地宣布，我们与Exponent、Google和Tilde进行了合作，并开源 Yarn 项目。工程师在使用 Yarn 时，依然可以访问 npm 仓库，但 Yarn 能够更快速地安装软件包和管理依赖关系，并且可以在跨机器或者无网络的安全环境中保持代码的一致性。Yarn 提高了开发效率，并解决了共享代码时面临的一些问题，使得工程师们可以专注在构建新产品以及新特性上。<br /><br /><strong>JavaScript包管理方式在Facebook的演变</strong><br />在包管理工具出现之前，JavaScript 工程师们通常依赖的项目并不多，因此会把依赖直接存储在工程目录或上传到 CDN 上。在 Node.js 出现后不久，第一个主流的 JavaScript 包管理工具 npm 被引入进来，并很快成为了最受欢迎的包管理工具之一。从此，新的开源项目不断涌现，工程师们比起以前更加乐于分享代码了。<br /><br />在 Facebook 中，我们有很多项目都要依赖 npm 仓库上的代码，比如 React。但随着内部规模的扩大，我们面临着以下挑战：在跨平台与跨用户之间安装依赖时的代码一致性问题、在安装依赖时花费太长时间、以及 npm 客户端自动执行某些依赖库的代码所导致的安全性问题。我们尝试过寻找这些问题的解决方案，但在这个过程中通常又会引起一些新的问题。<br /><br /><strong>尝试修改npm客户端</strong><br />在开始阶段，我们遵循了最佳实践，在代码仓库中只跟踪了 package.json 文件的变化，并要求工程师手动运行 npm install 命令安装依赖。这种模式在开发人员的电脑上没有问题，但在持续集成环境中遇到了困难，因为出于安全与可靠性的考虑，持续集成环境需要进行沙箱隔离，不能进行联网，因此也无法安装依赖。<br /><br />接下来，我们尝试在代码仓库中跟踪整个node_modules目录的文件变化。虽然这种方式有效，却使得一些简单操作变得复杂化了。比如，对 babel 更新一个次要版本号时，会产生多达 800,000 行的提交记录，此外由于 lint 规则的存在，引起无效的 utf-8 字节序列、windows 换行符、非 png 压缩图片等问题时，将会导致工程师经常需要花费一整天的时间合并 node_modules 目录的文件。而我们负责源码控制的团队也指出，跟踪 node_modules 目录会引入过多的元数据。比如 React Native 的 package.json 文件目前只列出了68项依赖，但在运行 npm install 后，node_modules 目录整整包含了 121,358 个文件。<br /><br />最后，为了有效组织 Facebook 逐渐增长的工程师人数以及管理需要安装的代码量，我们尝试修改 npm 客户端。我们决定压缩整个 node_modules 目录，并上传到内部 CDN，然后我们的工程师与持续集成系统都能从 CDN 上下载并解压文件，从而保证了代码一致性。这样我们就可以从源码控制系统中删除数以万计的文件了，但不足之处是工程师现在不仅在拉代码时需要联网了，构建也同样需要联网。<br /><br />我们还试图为 npm 的 shrinkwrap 功能寻求优化方案，这个工具是用来锁定依赖版本号的。但 Shrinkwrap 功能的文件默认不会生成，如果开发者忘记了生成这一步骤，文件就不会被同步更新，因此我们编写了一个工具，以确定 Shrinkwrap 的文件内容和 node_modules 目录中的文件相符。这些文件由大量的 JSON 块组成，并且键名是无序的，因此每次更改通常会导致 Shrinkwrap 文件的内容大幅变化，难以进行代码审查。为减缓这一问题，我们还需要借助一个额外的脚本，对所有条目进行排序。<br /><br />最后，通过 npm 升级单个依赖包时，基于 语义化版本号 规则，npm 通常会连同其他无关依赖一起更新。这使得每次更新都会比预期产生更多的变化，工程师们认为这样把 node_modules 提交上传到 CDN 的过程，难以达到预期的效果。<br /><br /><strong>构建新客户端</strong><br />与其围绕 npm 客户端继续构建基础设施，不如从整体上再次回顾这些问题。伦敦办公室的 Sebastian McKenzie 提出，如果我们建立一个新客户端工具以代替 npm 客户端，从而解决我们的核心问题呢？这一构思很快得到了我们的认同，团队对于这个主意也感到非常兴奋。<br /><br />在开发过程中，我们与业界的工程师们进行了交流讨论，发现他们也面临着类似的问题，也尝试过许多类似的解决方案，通常只能把这些问题逐一解决。很明显，有必要把整个 JavaScript 社区正在面临的问题集合起来，然后我们就可以开发一个主流的解决方案了。在此感谢 Exponent、 Google 与 Tilde 的工程师们的协助，我们共同建立了 Yarn 客户端，并在每一个主流 JS 框架以及 Facebook 外的使用场景中测试验证了 Yarn 的性能。今天（2016-10-11），我们很荣幸把这个工具开源分享到社区中。<br /><br /><strong>介绍 Yarn</strong><br />Yarn 是一个新的包管理器，用于替代现有的 npm 客户端或者其他兼容 npm 仓库的包管理工具。Yarn 保留了现有工作流的特性，优点是更快、更安全、更可靠。<br /><br />任何包管理器的主要功能都是安装某些软件包，软件包即用于特定功能的某段代码，通常是从一个全局的仓库安装到工程师的本地环境。每个软件包可以依赖于其他包，也可以不依赖。一个典型的项目结构的依赖树通常会包含数十个、数百个甚至上千个软件包。<br /><br />这些依赖包通常是带版本号的，通过语义化版本控制（semver）安装。Semver 定义的版本号反映了每个新版本更改的类型，到底是进行了不兼容的API改动（MAJOR），还是添加了向后兼容的新特性（MINOR），还是进行了向后兼容的 bug 修复（PATCH）。然而，semver 依赖于软件包的开发者不能犯错误——如果依赖关系没有加锁，可能会引入一些破坏性更改或者产生新的 bug。<br /><br /><strong>结构</strong><br />在Node生态系统中，依赖通常安装在项目的 node_modules 文件夹中。然而，这个文件的结构和实际依赖树可能有所区别，因为重复的依赖可以合并到一起。npm 客户端把依赖安装到 node_modules 目录的过程具有不确定性。这意味着当依赖的安装顺序不同时，node_modules 目录的结构可能会发生变化。这种差异可能会导致类似“我的机子上可以运行，别的机子不行”的情况，并且通常要花费大量时间定位与解决。<br /><br />Yarn通过lockfiles文件以及一个确定性的、可靠的安装算法，解决了版本问题和npm 的不确定性问题。Lockfile文件把安装的软件包版本锁定在某个特定版本，并保证 node_modules 目录在所有机器上的安装结果都是相同的。Lockfile 还使用简洁的有序键名的格式，保证了每次的文件变化最小化，进行代码审查也更为简单。<br /><br />安装过程分为以下三个步骤：<br /><ul><li>处理： Yarn 通过向代码仓库发送请求，并递归查找每个依赖项，从而解决依赖关系。</li><li>抓取： 接下来，Yarn 会查找全局的缓存目录，检查所需的软件包是否已被下载。如果没有，Yarn 会抓取对应的压缩包，并放置在全局的缓存目录中，因此 Yarn 支持离线安装，同一个安装包不需要下载多次。依赖也可以通过 tarball 的压缩形式放置在源码控制系统中，以支持完整的离线安装。</li><li>生成： 最后，Yarn 从全局缓存中把需要用到的所有文件复制到本地的 node_modules 目录中。</li></ul><br />通过清晰地细分这些步骤，以及确定性的算法支持，使得 Yarn 支持并行操作，从而最大化地利用资源，并加速安装进程。在一些 Facebook 的项目上，Yarn 甚至可以把安装过程降低一个数量级，从几分钟到只需几秒钟。Yarn 还使用了互斥锁，以确保多个 CLI 实例同时运行时不会互相冲突与影响。<br /><br />纵观整个过程，Yarn 对于软件包安装加上了严格的限制。你可以对哪个生命周期脚本作用于哪个软件包进行控制。软件包的 checksum 也会存储在 lockfile 中，以确保每一次安装都可以得到同一个包。<br /><br /><strong>特性</strong><br />Yarn 除了让安装过程变得更快与更可靠，还添加了一些额外的特性，从而进一步简化依赖管理的工作流。<br /><ul><li>同时兼容npm与<a target="_blank" href="https://bower.io/">bower</a>工作流，并支持两种软件仓库混合使用</li><li>可以限制已安装模块的协议，并提供方法输出协议信息</li><li>提供一套稳定的公有JS API，用于记录构建工具的输出信息</li><li>可读、最小化、美观的 CLI 输出信息</li></ul><br /><br /><strong>Yarn 用于生产环境</strong><br />我们已经在 Facebook 中把 Yarn 用于生产环境，并且效果非常理想。Yarn 有效地管理了许多 JavaScript 项目的包依赖关系。在每次迁移时，构建都可以离线进行，因此加速了工作流程。我们基于 React Native 在不同条件下进行安装时间测试，比较了 Yarn 与 npm 的性能，<a target="_blank" href="https://yarnpkg.com/en/compare">具体参见这里</a>。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/6158/8d1c3b17-d8c5-35d0-8246-7b4201e2f7a2.gif" /><br /></div><br /><strong>起步</strong><br />最简单的起步方法是：<br /><pre name="code" class="java">
+npm install -g yarnpkg
+yarn
+</pre><br />yarn CLI 代替了原有开发工作流中 npm CLI 的作用，用法可能是单纯的替代，也可能是一个新的、相似的命令：<br /><pre name="code" class="java">
+npm install → yarn
+</pre><br />不需要带参数，yarn 命令会读取 package.json 文件，然后从 npm 仓库中抓取软件包，并放置到 node_modules 目录中。等价于运行 npm install。<br /><pre name="code" class="java">
+npm install --save &lt;name&gt; → yarn add &lt;name&gt;
+</pre><br />我们避免了 npm install &lt;name&gt; 命令中安装“不可见的依赖”的行为，并分离出一个新命令。运行 yarn add &lt;name&gt; 等价于运行 npm install --save &lt;name&gt;。<br /><br /><strong>未来</strong><br />目前已经有许多成员一起参与到 Yarn 的构建中，以解决我们的共同问题，我们也希望 Yarn 未来能真正成为一个大众化的社区项目。Yarn 目前已经<a target="_blank" href="https://github.com/yarnpkg/yarn">在GitHub开源</a> ，我们也已经准备好向 Node 社区进行推广：使用 Yarn、分享构思、编写文档、互相支持，并帮助构建一个很棒的社区来进行长期维护。我们相信 Yarn 已经拥有一个良好的开局，如果有你的帮助，Yarn的未来将会更加美好。
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31881#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Fri, 14 Oct 2016 16:38:49 +0800</pubDate>
+        <link>http://www.iteye.com/news/31881</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31881</guid>
+      </item>
+          <item>
+        <title>15 个开源的顶级人工智能工具</title>
+        <description>
+          <![CDATA[
+          AI是科技研究中最热门的方向之一。像 IBM、谷歌、微软、Facebook 和亚马逊等公司都在研发上投入大量的资金、或者收购那些在机器学习、神经网络、自然语言和图像处理等领域取得了进展的初创公司。考虑到人们对此感兴趣的程度，我们将不会惊讶于斯坦福的专家在<a target="_blank" href="https://ai100.stanford.edu/sites/default/files/ai_100_report_0906fnlc_single.pdf">人工智能报告</a>中得出的结论：“越来越强大的人工智能应用，可能会对我们的社会和经济产生深远的积极影响，这将出现在从现在到 2030 年的时间段里。”<br /><br />在最近的一篇<a target="_blank" href="http://www.datamation.com/applications/artificial-intelligence-software-45-ai-projects-to-watch-1.html">文章</a>中，我们概述了 45 个十分有趣或有前途的人工智能项目。在本文中，我们将聚焦于开源的人工智能工具，详细的了解下最著名的 15 个开源人工智能项目。<br /><br />以下这些开源人工智能应用都处于人工智能研究的最前沿。<br /><br /><strong>1. Caffe</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5324/14079a10-876d-38a8-b21c-f75b8239b80f.jpg" /><br /></div><br />它是由贾扬清在加州大学伯克利分校的读博时创造的，Caffe 是一个基于表达体系结构和可扩展代码的深度学习框架。使它声名鹊起的是它的速度，这让它受到研究人员和企业用户的欢迎。根据其网站所言，它可以在一天之内只用一个 NVIDIA K40 GPU 处理 6000 万多个图像。它是由伯克利视野和学习中心（BVLC）管理的，并且由 NVIDIA 和亚马逊等公司资助来支持它的发展。<br /><br /><strong>2. CNTK</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5326/2c8f60c2-0f0c-382d-8fc8-b3bb6fcc2bf0.jpg" /><br /></div><br />Computational Network Toolkit的缩写，<a target="_blank" href="https://www.cntk.ai/">CNTK</a>是一个微软的开源人工智能工具。不论是在单个 CPU、单个 GPU、多个 GPU 或是拥有多个 GPU 的多台机器上它都有优异的表现。微软主要用它做语音识别的研究，但是它在机器翻译、图像识别、图像字幕、文本处理、语言理解和语言建模方面都有着良好的应用。<br /><br /><strong>3. Deeplearning4j</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5328/5a221e0c-8954-3394-a26c-9f2f58b6aa55.jpg" /><br /></div><br /><a target="_blank" href="http://deeplearning4j.org/">Deeplearning4j</a>是一个 java 虚拟机（JVM）的开源深度学习库。它运行在分布式环境并且集成在 Hadoop 和 Apache Spark 中。这使它可以配置深度神经网络，并且它与 Java、Scala 和 其他 JVM 语言兼容。<br /><br />这个项目是由一个叫做 Skymind 的商业公司管理的，它为这个项目提供支持、培训和一个企业的发行版。<br /><br /><strong>4. DMTK</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5330/61e4887a-0f99-3956-b7ba-260d794ff205.jpg" /><br /></div><br /><a target="_blank" href="http://www.dmtk.io/">DMTK</a>是分布式机器学习工具Distributed Machine Learning Toolkit的缩写，和 CNTK 一样，是微软的开源人工智能工具。作为设计用于大数据的应用程序，它的目标是更快的训练人工智能系统。它包括三个主要组件：DMTK 框架、LightLDA 主题模型算法和分布式（多义）字嵌入算法。为了证明它的速度，微软声称在一个八集群的机器上，它能够“用 100 万个主题和 1000 万个单词的词汇表（总共 10 万亿参数）训练一个主题模型，在一个文档中收集 1000 亿个符号，”。这一成绩是别的工具无法比拟的。<br /><br /><strong>5. H20</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5332/e1abcefa-2ae7-322d-92ba-69eb7617409e.jpg" /><br /></div><br />相比起科研，<a target="_blank" href="http://www.h2o.ai/">H2O</a>更注重将 AI 服务于企业用户，因此 H2O 有着大量的公司客户，比如第一资本金融公司、思科、Nielsen Catalina、PayPal 和泛美都是它的用户。它声称任何人都可以利用机器学习和预测分析的力量来解决业务难题。它可以用于预测建模、风险和欺诈分析、保险分析、广告技术、医疗保健和客户情报。<br /><br />它有两种开源版本：标准版 H2O 和 Sparking Water 版，它被集成在 Apache Spark 中。也有付费的企业用户支持。<br /><br /><strong>6. Mahout</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5334/15953afe-9550-3204-a388-a158e4ae267b.jpg" /><br /></div><br />它是 Apache 基金会项目，<a target="_blank" href="http://mahout.apache.org/">Mahout</a>是一个开源机器学习框架。根据它的网站所言，它有着三个主要的特性：一个构建可扩展算法的编程环境、像 Spark 和 H2O 一样的预制算法工具和一个叫 Samsara 的矢量数学实验环境。使用 Mahout 的公司有 Adobe、埃森哲咨询公司、Foursquare、英特尔、领英、Twitter、雅虎和其他许多公司。其网站列了出第三方的专业支持。<br /><br /><strong>7. MLlib</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5336/91cd2e08-86b3-30f2-91cd-5b53cc0edf55.jpg" /><br /></div><br />由于其速度，Apache Spark 成为一个最流行的大数据处理工具。<a target="_blank" href="https://spark.apache.org/mllib/">MLlib</a>是 Spark 的可扩展机器学习库。它集成了 Hadoop 并可以与 NumPy 和 R 进行交互操作。它包括了许多机器学习算法如分类、回归、决策树、推荐、集群、主题建模、功能转换、模型评价、ML 管道架构、ML 持久、生存分析、频繁项集和序列模式挖掘、分布式线性代数和统计。<br /><br /><strong>8. NuPIC</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5339/4fcf7ed4-9c98-31a6-be9c-bb68fd42541d.jpg" /><br /></div><br />由<a target="_blank" href="http://numenta.com/">Numenta</a>公司管理的<a target="_blank" href="http://numenta.org/">NuPIC</a>是一个基于分层暂时记忆Hierarchical Temporal Memory，HTM理论的开源人工智能项目。从本质上讲，HTM 试图创建一个计算机系统来模仿人类大脑皮层。他们的目标是创造一个 “在许多认知任务上接近或者超越人类认知能力” 的机器。<br /><br />除了开源许可，Numenta还提供NuPic的商业许可协议，并且它还提供技术专利的许可证。<br /><br /><strong>9. OpenNN</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5341/1b666e3b-8ac3-3ce6-a838-1cbe33f40084.jpg" /><br /></div><br />作为一个为开发者和科研人员设计的具有高级理解力的人工智能，<a target="_blank" href="http://www.opennn.net/">OpenNN</a>是一个实现神经网络算法的 c++ 编程库。它的关键特性包括深度的架构和快速的性能。其网站上可以查到丰富的文档，包括一个解释了神经网络的基本知识的入门教程。OpenNN的付费支持由一家从事预测分析的西班牙公司Artelnics提供。<br /><br /><strong>10. OpenCyc</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5344/2a012f1e-8b40-346c-b0c4-e8e8ea0c72d3.jpg" /><br /></div><br />由 Cycorp 公司开发的<a target="_blank" href="http://www.cyc.com/platform/opencyc/">OpenCyc</a>提供了对Cyc知识库的访问和常识推理引擎。它拥有超过 239,000 个条目，大约 2,093,000 个三元组和大约 69,000 owl：这是一种类似于链接到外部语义库的命名空间。它在富领域模型、语义数据集成、文本理解、特殊领域的专家系统和游戏 AI 中有着良好的应用。该公司还提供另外两个版本的 Cyc：一个可免费的用于科研但是不开源，和一个提供给企业的但是需要付费。<br /><br /><strong>11. Oryx 2</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5346/80f38d81-c344-30fa-abd8-224bab74fd01.jpg" /><br /></div><br />构建在Apache Spark和Kafka之上的<a target="_blank" href="http://oryx.io/">Oryx 2</a>是一个专门针对大规模机器学习的应用程序开发框架。它采用一个独特的三层 λ 架构。开发者可以使用 Orys 2 创建新的应用程序，另外它还拥有一些预先构建的应用程序可以用于常见的大数据任务比如协同过滤、分类、回归和聚类。大数据工具供应商 Cloudera 创造了最初的 Oryx 1 项目并且一直积极参与持续发展。<br /><br /><strong>12. PredictionIO</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5348/ebe3c896-a566-3b07-921b-f1982d36ea89.jpg" /><br /></div><br />今年的二月，Salesforce 收购了<a target="_blank" href="https://prediction.io/">PredictionIO</a>，接着在七月，它将该平台和商标贡献给 Apache 基金会，Apache 基金会将其列为孵育计划。所以当 Salesforce 利用 PredictionIO 技术来提升它的机器学习能力时，成效将会同步出现在开源版本中。它可以帮助用户创建带有机器学习功能的预测引擎，这可用于部署能够实时动态查询的 Web服务。<br /><br /><strong>13. SystemML</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5351/a6256a0e-472c-3a76-a781-9750c640454c.jpg" /><br /></div><br />最初由 IBM 开发，<a target="_blank" href="http://systemml.apache.org/">SystemML</a>现在是一个Apache大数据项目。它提供了一个高度可伸缩的平台，可以实现高等数学运算，并且它的算法用 R 或一种类似 python 的语法写成。企业已经在使用它来跟踪汽车维修客户服务、规划机场交通和连接社会媒体数据与银行客户。它可以在 Spark 或 Hadoop 上运行。<br /><br /><strong>14. TensorFlow</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5353/5cf7f759-7a92-3ed3-ab95-644da02eb17b.jpg" /><br /></div><br /><a target="_blank" href="https://www.tensorflow.org/">TensorFlow</a>是一个谷歌的开源人工智能工具。它提供了一个使用数据流图进行数值计算的库。它可以运行在多种不同的有着单或多 CPU 和 GPU 的系统，甚至可以在移动设备上运行。它拥有深厚的灵活性、真正的可移植性、自动微分功能，并且支持 Python 和 c++。它的网站拥有十分详细的教程列表来帮助开发者和研究人员沉浸于使用或扩展他的功能。<br /><br /><strong>15. Torch</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5355/2a343d06-6f56-352c-abc8-4902fe7de643.jpg" /><br /></div><br /><a target="_blank" href="http://torch.ch/">Torch</a>将自己描述为：“一个优先使用 GPU 的拥有机器学习算法广泛支持的科学计算框架”，它的特点是灵活性和速度。此外，它可以很容易的通过软件包用于机器学习、计算机视觉、信号处理、并行处理、图像、视频、音频和网络等方面。它依赖一个叫做 LuaJIT 的脚本语言，而 LuaJIT 是基于 Lua 的。
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31877#comments" style="color:red;">已有 <strong>1</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Tue, 11 Oct 2016 11:30:08 +0800</pubDate>
+        <link>http://www.iteye.com/news/31877</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31877</guid>
+      </item>
+          <item>
+        <title>2016收入最高的5门编程语言 Java和C没在前五</title>
+        <description>
+          <![CDATA[
+          <div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5311/6ff16f7d-ecc1-3b7f-be3e-4a159152654b.jpg" /><br /></div><br />电子书网站Packt公布了其2016年技术提高报告。它提供的统计数据基于超过 11,000 名 IT 专业人士参与的关于 2016 年收入最高的编程语言的调研。它同时还介绍了流行的 web 框架和主题。<br /><br />高效的程序员是基于 IT 的企业结构的中坚力量。企业雇用擅长于不同编程语言的人，并支付他们薪水，这样人员才不会被竞争对手撬走。<br /><br />现在有许许多多的编程语言，数以千计的开发人员在用这些编程语言工作。但是，在薪水方面，学习有些编程语言的人超过学习其他语言的人。Packt，一个电子书网站，发布了 2016 年技术提高的调查报告，涉及来自世界各地的 11500 名开发人员。<br /><br />该报告描述了领先的 IT 专业人员和开发人员所使用的编程语言的趋势。在受访者中，来自美国的人数最多，其次是英国。<br /><br /><strong>最流行的编程语言是：</strong><br /><div class="quote_title">引用</div><div class="quote_div"><br />Python<br /><br />JavaScript<br /><br />Java<br /><br />PHP<br /><br />SQL<br /></div><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5313/c8093ef2-6428-3349-aa5e-921f2bbfdc44.jpg" /><br /></div><br />客户端脚本语言 JavaScript 与榜首 Python 不相上下。之所以对 JavaScript 的需求会升级，是因为越来越多的业务应用被转移到 web 浏览器。Python 是一种通用语言，它可以用于从渗透测试到 web 开发。Python 被广泛应用于各种组织，如D-LINK，惠普，飞利浦等。<br /><br />而既老旧又年轻的C语言也在名单中。C语言主要用于年轻的程序员在学校上手编码的时候。所以，很明显，在企业部门的话C语言专家可能得不到太高的薪水。<br /><br />然而，这些语言从财务角度来看都不是最好的。尽管它们很成功，但是开发人员并不能从这些语言上赚到最高的薪水。<br /><br />更赚钱的编程语言都并不大受欢迎。平均年薪薪酬最高的语言是：<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5315/e755b9c5-7e78-34d8-ad37-2c254f9a84ad.jpg" /><br /></div><br /><div class="quote_title">引用</div><div class="quote_div"><br />Bash——$ 100,000<br /><br />Perl——$ 95,000<br /><br />Scala——$ 90,000<br /><br />SQL——$ 62,000<br /><br />Delphi——$ 60,000<br /></div><br />专家程序员使用诸如 bash 和 Perl 语言。因此，当决定职位薪资结构的时候，这些语言更受企业喜欢。谷歌的 Go（$ 50,000）语言俨然已经获得了关注，比更受欢迎的用于为苹果生态系统编码 app 的 Swift 表现更佳。Golang 被设计得更让C语言老将喜欢，其代码一直以来保持着可读性和简洁。它被接受主要是因为速度，快速的编码会话非常便捷。软件工程师以及应用软件开发是这种语言两个选择最多的工作。选择后端 web 开发的也相当多。<br /><br /><strong>流行的Web开发框架：</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5318/5c5bff37-743a-3f46-8ade-a02467708978.jpg" /><br /></div><br />Web框架中，AngularJS，是图表的佼佼者。然而，相当大百分比的开发人员已经开始或计划转移到几个月前发布的 AngularJS 2。那些不盯着 AngularJS 2 的准备迎接更新的 Facebook 造的 ReactJS。<br /><br /><strong>热门研究主题：</strong><br /><br />除了编程语言和框架这些东西之外，调查也提及了开发者社区中感兴趣的流行领域。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/5320/58113862-ca4e-3b1e-90c1-3f50a55c32d0.jpg" /><br /></div><br />机器学习和大数据自去年以来一直是 IT 行业的热门话题。<br /><br />未来君认为能赚钱的编程语言都是好语言！~<br /><br />本文来自：<a target="_blank" href="http://dy.163.com/v2/article/detail/C31RU4CI0511AP7J.html">网易订阅</a>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31876#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Tue, 11 Oct 2016 11:02:10 +0800</pubDate>
+        <link>http://www.iteye.com/news/31876</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31876</guid>
+      </item>
+          <item>
+        <title>Spark 2.0 时代全面到来 —— 2.0.1 版本发布</title>
+        <description>
+          <![CDATA[
+          距离Spark 2.0.0发布两个月后，Spark 2.0.1版本发布了，这是一个修正版本，共处理了300多个Issue，涉及spark稳定性和bug等方面的修复 ，它的发布意味着Spark 2.0接近生产环境使用要求，想要尝试Spark 2.0的可以动手了。<br /><br />Apache Spark 2.0是基于spark branch-2.x 开发的，相比于branch-1.0，它在功能和性能等方面均有巨大改进。在性能方面，Spark 2.x 有2~10倍的提升；在功能方面，Spark SQL中的Dataset变得成熟，Spark 2.x通过Dataset重构了Spark Streaming和MLlib的API，进而使得这两个系统在易用性和性能方面有重大提升，<strong>在不久的将来，Dataframe/Dataset API（high-level API）将取代RDD API（low-level API），成为主流的Spark编程接口</strong>。<br /><br />Apache Spark 2.x在性能和功能方面的改进主要包括：<br /><br /><strong>1. 性能方面</strong><br /><br />相比于Spark 1.0，Spark 2.0在引擎性能方面有重大优化，其优化主要体现在Spark Core和Spark SQL两个系统上，其优化主要得益于Tungsten计划（“钨丝计划”），其主要动机是优化Spark内存和CPU的使用，使其能够逼近物理机器的性能极限。<br /><ul><li>利用“整阶段代码生成”（“whole stage code generation”），使得SQL和DataFrame中算子性能优化2-10倍</li><li>通过“向量化计算”提升Parquet格式文件的扫描吞吐率</li><li>提升ORC格式文件的读写性能</li><li>提升Catalyst查询优化器性能</li></ul><br /><br /><strong>2. 功能方面</strong><br /><br />（1）Spark Core/SQL:Tungsten Phase 2，优化CPU与Memory方面<br /><br />“钨丝计划”完成第二阶段任务，在内存和CPU使用方面进一步优化Spark引擎性能，重构了大量数据结构和算法的实现，使得Dataframe/Dataset性能得到显著提升，这使得Dataframe/Dataset有能力成为其他几个系统（比如Spark Streaming和MLlib）的基础API。<br /><br />注：“钨丝计划”包括三个方面的优化：<br /><br />Memory Management and Binary Processing： Java GC严重，且java对象内存开销大，可采用类似C语言机制，直接操纵binary data（sun.misc.Unsafe）<br />Cache-aware Computation：合理使用CPU的L1/L2/L3 cache，设计对cache友好的算法<br />Code Generation：可去除条件检查，减少虚函数调度等<br /><br />（2）Spark SQL: 统一DataFrame与Dataset API<br /><br />众所周知，在Spark 1.x中，DataFrame API存在很多问题，包括不是类型安全的(not type-safe)，缺乏函数式编程能力（not object-oriented）等，为了克服这些问题，社区引入了Dataset，相比于DataFrame，它具有以下几个特点：类型安全，面向对象编程方式；支持非结构化数据（json）；java与scala统一接口和性能极好的序列化框架等，她将成为Spark未来主流的编程接口（RDD API是low-level API，而Dataset则是high-level API）。<br /><br />（3）Spark SQL：支持SQL 2003<br /><br />Spark SQL在通用性方面有重大突破，它跑通了所有（99个）TPC-DS查询 ，并有以下几个改进：<br /><ul><li>解析器可同时支持ANSI-SQL 和Hive QL</li><li>实现了DDL</li><li>支持大部分子查询</li><li>支持View</li></ul><br />（4）Spark Streaming：引入Structured Streaming<br /><br />Spark Streaming基于Spark SQL（DataFrame / Dataset ）构建了high-level API，使得Spark Streaming充分受益Spark SQL的易用性和性能提升。Spark Streaming重构的API主要是面向结构化数据的，被称为“Structured Streaming”，其主要特性包括：<br /><ul><li>DataFrame / Dataset API的支持</li><li>提供了Event time, windowing, sessions, sources &amp; sink等API</li><li>连接流式数据与静态数据集</li><li>交互式查询结果：通过JDBC server将RDD结果暴露出去，以便于交互式查询</li></ul><br />（5）Spark MLlib: MLlib 2.0诞生<br /><br />Spark MLlib朝着2.0进化，主要体现在机器学习模型的多样化，持久化和定制化上，具体包括：<br /><ul><li>广义线性模型的全面实现</li><li>Python &amp; R API的支持</li><li>增强模型持久化能力</li><li>Pipieline定制化</li></ul><br />Apache Spark 2.0在功能和性能的重大改进，使得它在分布式计算领域进一步巩固了自己的地位，随着Spark应用越来越广泛，它将变成数据工程师的一项基本技能。<br /><br />Apache Spark 2.0.1 发行说明：<a target="_blank" href="https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12315420&amp;version=12336857">https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12315420&amp;version=12336857</a><br /><br />Apache Spark 2.0.1下载地址：<a target="_blank" href="http://spark.apache.org/downloads.html">http://spark.apache.org/downloads.html</a><br /><br />Apache Spark 2.0 新特性与展望：<a target="_blank" href="http://www.chinahadoop.cn/course/697">http://www.chinahadoop.cn/course/697</a><br /><br />来自：<a target="_blank" href="http://www.oschina.net/news/77840/apache-spark-2-0-1">开源中国</a>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31875#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Tue, 11 Oct 2016 10:38:40 +0800</pubDate>
+        <link>http://www.iteye.com/news/31875</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31875</guid>
+      </item>
+          <item>
+        <title>【最好用的】Java APNS开源库apns4j-1.1.0发布</title>
+        <description>
+          <![CDATA[
+          <div class="iteye-blog-content-contain">
+<p style="margin-bottom: 1.1em; color: #362e2b; font-family: 'microsoft yahei';">开源地址：<a style="color: #6a3906;" href="https://github.com/teaey/apns4j">https://github.com/teaey/apns4j</a></p>
+<h1 style="margin-top: 0.8em; margin-bottom: 0.8em; font-weight: 100; color: #362e2b; font-family: 'microsoft yahei';">【最好用的】Java APNS开源库apns4j-1.1.0发布</h1>
+<ul style="color: #362e2b; font-family: 'microsoft yahei';">
+<li>
+<p style="margin-bottom: 1.1em;">提升API的易用性，移除繁杂的初始化逻辑，入口集中到cn.teaey.apns4j.Apns4j</p>
+</li>
+<li>
+<p style="margin-bottom: 1.1em;">提供简单的异步服务</p>
+</li>
+<li>
+<p style="margin-bottom: 1.1em;">增加ios7以上静默推送设置（content-available）</p>
+</li>
+<li>
+<p style="margin-bottom: 1.1em;">sendAndFlush -&gt; send 或许开始就是个错误！</p>
+</li>
+<li>
+<p style="margin-bottom: 1.1em;">减少builder模式，能够更好的与spring等框架做集成</p>
+</li>
+<li>
+<p style="margin-bottom: 1.1em;">groupId调整：cn.teaey.apns4j</p>
+</li>
+</ul>
+<pre name="code" class="java">&lt;dependency&gt;
+    &lt;groupId&gt;cn.teaey.apns4j&lt;/groupId&gt;
+    &lt;artifactId&gt;apns4j&lt;/artifactId&gt;
+    &lt;version&gt;1.1.0&lt;/version&gt;
+&lt;/dependency&gt;
+
+//Step 1
+ApnsChannelFactory apnsChannelFactory = Apns4j.newChannelFactoryBuilder()
+.keyStoreMeta("${path to your keystore}")
+.keyStormPwd("${keystore password}")
+.build();
+
+//Setp 2
+ApnsChannel apnsChannel = apnsChannelFactory.newChannel();
+
+//Step 3 create &amp; init notify payload
+ApnsPayload apnsPayload = Apns4j.newPayload()
+        .alertActionLocKey("FixMe")
+        .alertTitle("Title")
+        .alertBody("Pushed by apns4j")
+        .sound("default");
+
+//Step 4 send via channel
+apnsChannel.send(TestConts.deviceToken, apnsPayload);
+
+//Step 5 in the end, apnsChannel can be Recycle and Reuse 
+apnsChannel.close();</pre>
+<p style="font-size: 14px;"> </p>
+<p style="margin-bottom: 1.1em; color: #362e2b; font-family: 'microsoft yahei';">有疑问请留言，或者联系本人： <br>masfay@me.com <br>github：<a style="color: #6a3906;" href="http://github.com/teaey">http://github.com/teaey</a></p>
+<p style="margin-bottom: 1.1em; color: #362e2b; font-family: 'microsoft yahei';"> </p>
+<p style="margin-bottom: 1.1em; color: #362e2b; font-family: 'microsoft yahei';"><span style="color: #362e2b; font-family: 'microsoft yahei';"> </span></p>
+<p style="margin-bottom: 1.1em; color: #362e2b; font-family: 'microsoft yahei';"><span style="color: #362e2b; font-family: 'microsoft yahei';">开源地址：https://github.com/teaey/apns4j</span></p>
+</div>
+          <br/><br/>
+          感谢 <a href="http://teaey.iteye.com">冲杯茶喝</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    <br/><br/><span>资讯来源：<a href='http://github.com/teaey' target='_blank'>http://github.com/teaey</a></span>
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31869-javaapns-apns4j-apns#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Tue, 11 Oct 2016 10:34:48 +0800</pubDate>
+        <link>http://www.iteye.com/news/31869-javaapns-apns4j-apns</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31869</guid>
+      </item>
+          <item>
+        <title>Hugo：一个快速、现代的静态网页引擎</title>
+        <description>
+          <![CDATA[
+          Hugo是一个制作静态页面的工具，非常灵活，可以以多种形式工作，是制作博客、文档、个人履历等非常合适的工具。Hugo激发了创造力，让建造网页变得充满乐趣。<br /><br /><strong>一次编写，到处运行</strong><br />Hugo可能是你用过的最容易安装的软件——只要下载打开就可以了！Hugo并不依赖任何权限、数据库、运行库、解释器或外部库。使用Hugo编写的网站可以运行在S3，Github Pages，Dropbox或其它任何静态网页托管上。<br /><br /><strong>强大的性能</strong><br />Hugo为速度和性能而生。我们付出很大的精力来尽可能地减少编译时间。大多数编译只要毫秒级的时间就可以完成！<br /><br /><strong>灵活</strong><br />Hugo可以灵活地适应你的任务。你可以使用任何你喜欢的方式组织URL，通过自定义的index页面和分类组织内容。使用任何形式定义你自己的元数据，例如YAML、TOML或JSON。最棒的是，Hugo不需要任何配置文件就可以处理这些差异。Hugo就是好。<br /><br /><strong>讨论</strong><br /><ul><li>sfifs说：我喜欢Hugo最大的原因是：几乎所有其它的引擎都要求我安装完整的Ruby或JavaScript开发环境，才能预览我的博客，而Hugo就不需要。</li><li>eberkund说：为什么我要从jekyll换到Hugo呢？现在已经有无数的网站生成工具了，而且它们几乎都有差不多的特性。有没有两者都用过的人来解释一下，这些工具究竟有什么不同？</li><li>andmarios说：对我来说，最重要的是他们的静态库如何。</li></ul><br /><br />我确实用过Jekyll，但是对于一个会运行很多年的网站来说，照顾一个ruby app是我不想插手的事。也许我的服务器和我的桌面端的Ruby版本不同，也许一些Ruby Gems已经在我的发行版安装了，但不是我想要的，这就得重新手动安装它们，每次Gem提供的功能出了什么问题，我就得手动重新安装一下，还得SSH到服务器再重装。有时候由于发行版的原因，一些Gem还不能装。也许jekyll哪天发了新版本，用了最新Ruby特性。<br /><br />Hugo在这方面有很多优势，比如内置服务器、实时载入和在本地测试时方便的链接转换等。<br /><br />托管地址：<a target="_blank" href="https://github.com/spf13/hugo">https://github.com/spf13/hugo</a>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31874#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Tue, 11 Oct 2016 10:33:41 +0800</pubDate>
+        <link>http://www.iteye.com/news/31874</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31874</guid>
+      </item>
+          <item>
+        <title>TIOBE 2016年10月编程语言排行榜：Go语言将问鼎2016年度编程语言宝座？</title>
+        <description>
+          <![CDATA[
+          距2016年度编程语言的宣布仅剩三个月了，这次宝座将会花落谁家呢？与去年同期相比，2016年仅有两种语言的增长率超过了1%，分别是Go语言和Groovy语言。<br /><br />不过要注意的是：Groovy在2015年底出现了爆炸性的增长，因此在2017年1月左右的增长速度可能就不会太快了。因此，谷歌的Go语言似乎就是那个唯一了，这其中Docker这个以Go语言写就的容器应用普及开来很可能在其中助了一把力。<br /><br />其他类似Objective-C、Swift以及R语言等编程语言的年度增长率虽接近1%，但应当还达不到年度编程语言的标准。特别是再次挤入候选名单的Objective-C，从2014年4月的12.875%下跌到2016年1月的1.074%，不过目前又在回升了。<br /><br /><strong>编程语言排行榜 TOP20 榜单</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/4703/7615ce6a-d232-3949-82c2-a867814c13e3.png" /><br /></div><br /><strong>下面是第 21-50 位的编程语言，排名如下：</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/4705/453cf2b6-1d55-3209-a3fb-25291f92b58d.png" /><br /></div><br /><strong>Top 10编程语言TIOBE指数走势（2002-2016）</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/4707/9bc337eb-3f8a-319e-b484-d0940a0165f3.png" /><br /></div><br />下面是50-100名：由于差异较小，仅将名称列在下面（按照首字母排序）<br /><div class="quote_title">引用</div><div class="quote_div"><br />(Visual) FoxPro, 4th Dimension/4D, ABC, ActionScript, APL, AutoLISP, bc, BlitzMax, Bourne shell, C shell, CFML, cg, Common Lisp, Crystal, Eiffel, Elixir, Elm, Forth, Hack, Icon, IDL, Inform, Io, J, Julia, Korn shell, Kotlin, Maple, ML, MQL4, MS-DOS batch, NATURAL, NXT-G, OCaml, OpenCL, Oz, Pascal, PL/I, PowerShell, REXX, S, Simulink, Smalltalk, SPARK, SPSS, Standard ML, Stata, Tcl, VBScript, Verilog<br /></div><br /><strong>Top 10编程语言排行榜更长期走势（1986-2016）</strong><br />（注：该位次取自12个月的平均值）<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/4709/7a5f0a8f-8a31-3e0f-b919-946116f433a4.png" /><br /></div><br /><strong>年度编程语言（2003-2015）</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/4711/cb21663c-9d95-3afd-a666-112e19642799.png" /><br /></div><br />必须声明这个榜单本身采集的是英文世界的数据，虽然在反映趋势上有一些参考意义，但与中国的实际情况不完全符合，而且，这张采样本身也有相当大的局限性。<br /><br /><strong>【说明】</strong><br /><br />TIOBE 编程语言社区排行榜是编程语言流行趋势的一个指标，每月更新。这份排行榜排名基于互联网上有经验的程序员、课程和第三方厂商的数量。排名使用著名的搜索引擎（诸如Google、MSN、Yahoo!、Wikipedia、YouTube以及Baidu等）进行计算。请注意这个排行榜只是反映某个编程语言的热门程度，并不能说明一门编程语言好不好，或者一门语言所编写的代码数量多少。<br /><br />这个排行榜可以用来考查你的编程技能是否与时俱进，也可以在开发新系统时作为一个语言选择依据。具体解释可以点击这里查看。<br /><br />原文链接： <a target="_blank" href="http://www.tiobe.com/tiobe_index">TIOBE Index for October 2016</a>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31872#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Sat, 08 Oct 2016 15:49:07 +0800</pubDate>
+        <link>http://www.iteye.com/news/31872</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31872</guid>
+      </item>
+          <item>
+        <title>深度学习性能提升的诀窍</title>
+        <description>
+          <![CDATA[
+          <div class="quote_title">引用</div><div class="quote_div">原文：<a target="_blank" href="http://machinelearningmastery.com/improve-deep-learning-performance/">How To Improve Deep Learning Performance</a> <br />作者： Jason Brownlee <br />翻译： KK4SBB 责编：何永灿</div><br /><strong>克服过拟合和提高泛化能力的20条技巧和诀窍</strong><br /><br />你是如何提升深度学习模型的效果？ <br />这是我经常被问到的一个问题。 <br />有时候也会换一种问法： <br />我该如何提高模型的准确率呢？ <br />……或者反过来问： <br />如果我的网络模型效果不好，我该怎么办？ <br />通常我的回答是“具体原因我不清楚，但我有一些想法可以试试”。 <br />然后我会列举一些我认为能够提升性能的方法。 <br />为了避免重复罗列这些内容，我打算在本文中把它们都写出来。 <br />这些想法不仅可以用于深度学习，事实上可以用在任何机器学习的算法上。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/4510/36bbe45b-ad8e-3e90-9425-4c12a676e4db.jpg" /><br /></div><br />如何提升深度学习的性能 <br /><a target="_blank" href="https://www.flickr.com/photos/pedrosimoes7/8654817332/">Pedro Ribeiro Simoes</a>拍摄<br /><br /><strong>提升算法性能的想法</strong><br />这个列表并不完整，却是很好的出发点。 <br />我的目的是给大家抛出一些想法供大家尝试，或许有那么一两个有效的方法。 <br />往往只需要尝试一个想法就能得到提升。 <br />如果你用下面某一种想法取得了好效果，请在评论区给我留言！ <br />如果你还有其它想法或是对这些想法有拓展，也请告诉大家，或许会对我们大家有帮助！ <br />我把这个列表划分为四块：<br /><ul><li>从数据上提升性能</li><li>从算法上提升性能</li><li>从算法调优上提升性能</li><li>从模型融合上提升性能</li></ul><br />性能提升的力度按上表的顺序从上到下依次递减。举个例子，新的建模方法或者更多的数据带来的效果提升往往好于调出最优的参数。但这并不是绝对的，只是大多数情况下如此。 <br />我在文章中添加了不少博客教程和相关的经典神经网络问题。 <br />其中有一些想法只是针对人工神经网络，但大多数想法都是通用性的。你可以将它们与其它技术结合起来使用。 <br />我们开始吧。<br /><br /><strong>1.从数据上提升性能</strong><br />调整训练数据或是问题的抽象定义方法可能会带来巨大的效果改善。甚至是最显著的改善。 <br />下面是概览：<br /><ul><li>收集更多的数据</li><li>产生更多的数据</li><li>对数据做缩放</li><li>对数据做变换</li><li>特征选择</li></ul><br />重新定义问题<br />1）收集更多的数据<br />你还能收集到更多的训练数据吗？ <br />你的模型的质量往往取决于你的训练数据的质量。你需要确保使用的数据是针对问题最有效的数据。 <br />你还希望数据尽可能多。 <br />深度学习和其它现代的非线性机器学习模型在大数据集上的效果更好，尤其是深度学习。这也是深度学习方法令人兴奋的主要原因之一。 <br />请看下面的图片：<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/4512/4378c98c-1f11-36b9-8fda-2f8644c14775.png" /><br /></div><br />什么是深度学习？ <br />幻灯片来自Andrew Ng<br /><br />不总是数据阅读效果越好，多数情况下如此。如果让我选择，我会选择要更多的数据。 <br />相关阅读：<br /><ul><li><a target="_blank" href="https://www.edge.org/response-detail/26587">数据集压倒算法</a></li></ul><br />2) 产生更多的数据<br />深度学习算法往往在数据量大的时候效果好。 <br />我们在上一节已经提到过这一点。 <br />如果由于某些原因你得不到更多的数据，也可以制造一些数据。<br /><ul><li>如果你的数据是数值型的向量，那么随机生成已有向量的变形向量。</li><li>如果你的数据是图像，用已有的图像随机生成相似图像。</li><li>如果你的数据是文本，做法你懂得……</li></ul><br />这类做法通常被称为数据扩展或是数据生成。 <br />你可以使用生成模型，也可以用一些简单的小技巧。 <br />举个例子，若是用图像数据，简单地随机选择和平移已有的图像就能取得很大的提升。它能提升模型的泛化能力，如果新的数据中包含这类变换就能得到很好的处理。 <br />有时候是往数据中增加噪声，这相当于是一种规则方法，避免过拟合训练数据。 <br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/image-augmentation-deep-learning-keras/">深度学习中的图像数据扩充</a></li><li><a target="_blank" href="ftp://ftp.sas.com/pub/neural/FAQ3.html#A_jitter">训练含有噪声的数据</a></li></ul><br />3) 对数据做缩放<br />此方法简单有效。 <br />使用神经网络模型的一条经验法宝就是： <br />将数据缩放到激活函数的阈值范围。 <br />如果你使用sigmoid激活函数，将数据缩放到0~1之间。如果选用tanh激活函数，将值域控制在-1~1之间。 <br />输入、输出数据都经过同样的变换。比如，如果在输出层有一个sigmoid函数将输出值转换为二值数据，则将输出的y归一化为二进制。如果选用的是softmax函数，对y进行归一化还是有效的。 <br />我还建议你将训练数据扩展生成多个不同的版本：<br /><br />归一化到0 ~ 1<br />归一化到-1 ~ 1<br />标准化<br />然后在每个数据集上测试模型的性能，选用最好的一组生成数据。 <br />如果更换了激活函数，最好重复做一次这个小实验。 <br />在模型中不适合计算大的数值。此外，还有许多其它方法来压缩模型中的数据，比如对权重和激活值做归一化，我会在后面介绍这些技巧。 <br />相关阅读：<br /><ul><li><a target="_blank" href="ftp://ftp.sas.com/pub/neural/FAQ2.html#A_std">我需要对输入数据（列向量）做标准化吗?</a></li><li><a target="_blank" href="ftp://ftp.sas.com/pub/neural/FAQ2.html#A_std">如何用Scikit-Learn准备机器学习的输入数据</a></li></ul><br />4） 对数据做变换<br />与上一节的方法相关，但是需要更多的工作量。 <br />你必须真正了解所用到的数据。数据可视化，然后挑出异常值。 <br />先猜测每一列数据的分布<br /><br />这一列数据是不是倾斜的高斯分布，若是如此，尝试用Box-Cox方法纠正倾斜<br />这一列数据是不是指数分布，若是如此，则进行对数变换<br />这一列数据是不是存在某些特性，但是难以直观地发现，尝试一下对数据平方或者开方<br />是否可以将特征离散化，以便更好地强调一些特征<br />凭你的直觉，尝试几种方法<br /><br />是否可以用投影的方法对数据预处理，比如PCA？<br />是否可以将多个属性合并为单个值？<br />是否可以发掘某个新的属性，用布尔值表示？<br />是否可以在时间尺度或是其它维度上有些新发现？<br />神经网络有特征学习的功能，它们能够完成这些事情。 <br />不过你若是可以将问题的结构更好地呈现出来，网络模型学习的速度就会更快。 <br />在训练集上快速尝试各种变换方法，看看哪些方法有些，而哪些不起作用。 <br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/how-to-define-your-machine-learning-problem/">如何定义你的机器学习问题</a></li><li><a target="_blank" href="http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/">特征挖掘工程，如何构造特征以及如何提升</a></li><li><a target="_blank" href="http://machinelearningmastery.com/prepare-data-machine-learning-python-scikit-learn/">如何用Scikit-Learn准备机器学习的输入数据</a></li></ul><br />5） 特征选择<br />神经网络受不相关数据的影响很小。 <br />它们会对此赋予一个趋近于0的权重，几乎忽略此特征对预测值的贡献。 <br />你是否可以移除训练数据的某些属性呢？ <br />我们有许多的特征选择方法和特征重要性方法来鉴别哪些特征可以保留，哪些特征需要移除。 <br />动手试一试，试一试所有的方法。 <br />如果你的时间充裕，我还是建议在相同的神经网络模型上选择尝试多个方法，看看它们的效果分别如何。<br /><br />也许用更少的特征也能得到同样的、甚至更好的效果。<br />也许所有的特征选择方法都选择抛弃同一部分特征属性。那么就真应该好好审视这些无用的特征。<br />也许选出的这部分特征给你带来了新的启发，构建出更多的新特征。<br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/an-introduction-to-feature-selection/">特征选择入门介绍</a></li><li><a target="_blank" href="http://machinelearningmastery.com/feature-selection-machine-learning-python/"><a target="_blank" href="基于Python的机器学习中的特征选择问题&lt;/a&gt;">基于Python的机器学习中的特征选择问题</a></a></li></ul><br />6) 问题重构<br />在回到你问题的定义上来。 <br />你所收集到的这些观测数据是描述问题的唯一途径吗？ <br />也许还有其它的途径。也许其它途径能更清晰地将问题的结构暴露出来。 <br />我自己非常喜欢这种练习，因为它强迫我们拓宽思路。很难做好。尤其是当你已经投入大量的时间、精力、金钱在现有的方法上。 <br />即使你列举了3 ~ 5种不同的方式，至少你对最后所选用的方式有充足的信心。<br /><br />也许你可以将时间元素融入到一个窗口之中<br />也许你的分类问题可以转化为回归问题，反之亦然<br />也许可以把二值类型的输出转化为softmax的输出<br />也许你可以对子问题建模<br />深入思考问题是一个好习惯，最好在选择工具下手之前先完成上述步骤，以减少无效的精力投入。 <br />无论如何，如果你正束手无策，这个简单的连续能让你思如泉涌。 <br />另外，你也不必抛弃前期的大量工作，详情可以参见后面的章节。<br /><br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/how-to-define-your-machine-learning-problem/">如何定义机器学习问题</a></li></ul><br /><strong>2. 从算法上提升性能</strong><br />机器学习总是与算法相关。 <br />所有的理论和数学知识都在描述从数据中学习决策过程的不同方法（如果我们这里仅讨论预测模型）。 <br />你选用深度学习来求解，它是不是最合适的技术呢？ <br />在这一节中，我们会简单地聊一下算法的选择，后续内容会具体介绍如何提升深度学习的效果。 <br />下面是概览：<br /><ul><li>算法的筛选</li><li>从文献中学习</li><li>重采样的方法</li></ul><br />我们一条条展开。<br /><br />1） 算法的筛选<br />你事先不可能知道哪种算法对你的问题效果最好。 <br />如果你已经知道，你可能也就不需要机器学习了。 <br />你有哪些证据可以证明现在已经采用的方法是最佳选择呢？ <br />我们来想想这个难题。 <br />当在所有可能出现的问题上进行效果评测时，没有哪一项单独的算法效果会好于其它算法。所有的算法都是平等的。这就是天下没有免费的午餐理论的要点。<br /><br />也许你选择的算法并不是最适合你的问题。 <br />现在，我们不指望解决所有的问题，但当前的热门算法也许并不适合你的数据集。 <br />我的建议是先收集证据，先假设有其它的合适算法适用于你的问题。 <br />筛选一些常用的算法，挑出其中适用的几个。<br /><ul><li>尝试一些线性算法，比如逻辑回归和线性判别分析</li><li>尝试一些树模型，比如CART、随机森林和梯度提升</li><li>尝试SVM和kNN等算法</li><li>尝试其它的神经网络模型，比如LVQ、MLP、CNN、LSTM等等</li><li>采纳效果较好的几种方法，然后精细调解参数和数据来进一步提升效果。 </li></ul><br />将你所选用的深度学习方法与上述这些方法比较，看看是否能击败他们？ <br />也许你可以放弃深度学习模型转而选择更简单模型，训练的速度也会更快，而且模型易于理解。 <br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/a-data-driven-approach-to-machine-learning/">一种数据驱动的机器学习方法</a></li><li><a target="_blank" href="http://machinelearningmastery.com/why-you-should-be-spot-checking-algorithms-on-your-machine-learning-problems/">面对机器学习问题为何需要筛选算法</a></li><li><a target="_blank" href="http://machinelearningmastery.com/spot-check-classification-machine-learning-algorithms-python-scikit-learn/">用scikit-learn筛选机器学习的分类算法</a></li></ul><br />2） 从文献中学习<br />从文献中“窃取”思路是一条捷径。 <br />其它人是否已经做过和你类似的问题，他们使用的是什么方法。 <br />阅读论文、书籍、问答网站、教程以及Google给你提供的一切信息。 <br />记下所有的思路，然后沿着这些方向继续探索。 <br />这并不是重复研究，这是帮助你发现新的思路。<br /><br />优先选择已经发表的论文 <br />已经有许许多多的聪明人写下了很多有意思的事情。利用好这宝贵的资源吧。 <br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/how-to-research-a-machine-learning-algorithm/">如何研究一种机器学习算法</a></li><li><a target="_blank" href="http://scholar.google.com/">Google学术</a></li></ul><br />3） 重采样的方法<br />你必须明白自己模型的效果如何。 <br />你估计的模型效果是否可靠呢？ <br />深度学习模型的训练速度很慢。 <br />这就意味着我们不能用标准的黄金法则来评判模型的效果，比如k折交叉验证。<br /><ul><li>也许你只是简单地把数据分为训练集和测试集。如果是这样，就需要保证切分后的数据分布保持不变。单变量统计和数据可视化是不错的方法。</li><li>也许你们可以扩展硬件来提升效果。举个例子，如果你有一个集群或是AWS的账号，我们可以并行训练n个模型，然后选用它们的均值和方差来获取更稳定的效果。</li><li>也许你可以选择一部分数据做交叉验证（对于early stopping非常有效）。</li><li>也许你可以完全独立地保留一部分数据用于模型的验证。</li></ul><br />另一方面，也可以让数据集变得更小，采用更强的重采样方法。<br /><br /><ul><li>也许你会看到在采样后的数据集上训练得到的模型效果与在全体数据集上训练得到的效果有很强的相关性。那么，你就可以用小数据集进行模型的选择，然后把最终选定的方法应用于全体数据集上。</li><li>也许你可以任意限制数据集的规模，采样一部分数据，用它们完成所有的训练任务。</li><li>你必须对模型效果的预测有十足的把握。 </li></ul><br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/">用Keras评估深度学习模型的效果</a></li><li><a target="_blank" href="http://machinelearningmastery.com/evaluate-performance-machine-learning-algorithms-python-using-resampling/">用重采样的方法评估机器学习算法的效果</a></li></ul><br /><strong>3. 从算法调优上提升性能</strong><br />你通过算法筛选往往总能找出一到两个效果不错的算法。但想要达到这些算法的最佳状态需要耗费数日、数周甚至数月。 <br />下面是一些想法，在调参时能有助于提升算法的性能。<br /><ul><li>模型可诊断性</li><li>权重的初始化</li><li>学习率</li><li>激活函数</li><li>网络结构</li><li>batch和epoch</li><li>正则项</li><li>优化目标</li><li>提早结束训练</li></ul><br />你可能需要指定参数来多次（3-10次甚至更多）训练模型，以得到预计效果最好的一组参数。对每个参数都要不断的尝试。 <br />有一篇关于超参数最优化的优质博客：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/">如何用Keras网格搜索深度学习模型的超参数</a></li></ul><br />1） 可诊断性<br />只有知道为何模型的性能不再有提升了，才能达到最好的效果。 <br />是因为模型过拟合呢，还是欠拟合呢？ <br /><strong>千万牢记这个问题。千万。</strong> <br />模型总是处于这两种状态之间，只是程度不同罢了。 <br />一种快速查看模型性能的方法就是每一步计算模型在训练集和验证集上的表现，将结果绘制成图表。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/4587/8c17797c-364d-367f-9f61-7daccb5b5d93.png" /><br /></div><br />在训练集和验证集上测试模型的准确率<br /><ul><li>如果训练集的效果好于验证集，说明可能存在过拟合的现象，试一试增加正则项</li><li>如果训练集和验证集的准确率都很低，说明可能存在欠拟合，你可以继续提升模型的能力，延长训练步骤。</li><li>如果训练集和验证集的曲线有一个焦点，可能需要用到early stopping的技巧了</li></ul><br />经常绘制类似的图表，深入研究并比较不同的方法，以提高模型的性能。<br /><br /><strong>这些图表也许是你最有价值的诊断工具。</strong> <br />另一种有效的诊断方法是研究模型正确预测或是错误预测的样本。 <br />在某些场景下，这种方法能给你提供一些思路。<br /><ul><li>也许你需要更多的难预测的样本数据</li><li>也许你可以从训练集中删去那些容易被学习的样本</li><li>也许你可以有针对性地对不同类型的输入数据训练不同的模型</li></ul><br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/">用Keras展现深度学习模型的训练过程</a></li><li><a target="_blank" href="http://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/">机器学习算法的过拟合和欠拟合</a></li></ul><br />2） 权重的初始化<br />有一条经验规则：用小的随机数初始化权重。 <br />事实上，这可能已经足够了。但是这是你网络模型的最佳选择吗？ <br />不同的激活函数也可以有不同的应对策略，但我不记得在实践中存在什么显著的差异。 <br />保持你的模型结构不变，试一试不同的初始化策略。 <br />记住，权重值就是你模型需要训练的参数。几组不同的权重值都能取得不错的效果，但你想得到更好的效果。<br /><ul><li>尝试所有的初始化方法，找出最好的一组初始化值</li><li>试一试用非监督式方法预学习，比如自动编码机</li><li>尝试用一组现有的模型权重参数，然后重新训练输入和输出层（迁移学习）</li></ul><br />记住，修改权重初始化值的方法与修改激活函数或者目标函数的效果相当。 <br />相关阅读：<br /><ul><li><a target="_blank" href="http://deepdish.io/2015/02/24/network-initialization/">深度网络模型的初始化</a></li></ul><br />3） 学习率<br />调节学习率也能带来效果提升。 <br />这里也有一些探索的思路：<br /><ul><li>尝试非常大、非常小的学习率</li><li>根据参考文献，在常规值附近用网格化搜索</li><li>尝试使用逐步减小的学习率</li><li>尝试每隔固定训练步骤衰减的学习率</li><li>尝试增加一个向量值，然后用网格搜索</li></ul><br />大的网络模型需要更多的训练步骤，反之亦然。如果你添加了更多的神经节点和网络层，请加大学习率。 <br />学习率与训练步骤、batch大小和优化方法都有耦合关系。<br /><br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/using-learning-rate-schedules-deep-learning-models-python-keras/">使用Keras对深度学习模型进行学习率调节</a></li><li><a target="_blank" href="ftp://ftp.sas.com/pub/neural/FAQ2.html#A_learn_rate">反向传播算法该选用什么学习率？</a></li></ul><br />4） 激活函数<br />也许你应该选用ReLU激活函数。 <br />仅仅因为它们的效果更好。 <br />在ReLU之前流行sigmoid和tanh，然后是输出层的softmax、线性和sigmoid函数。除此之外，我不建议尝试其它的选择。 <br />这三种函数都试一试，记得把输入数据归一化到它们的值域范围。 <br />显然，你需要根据输出内容的形式选择转移函数。 <br />比方说，将二值分类的sigmoid函数改为回归问题的线性函数，然后对输出值进行再处理。同时，可能需要调整合适的损失函数。在数据转换章节去寻找更多的思路吧。 <br />相关阅读：<br /><ul><li><a target="_blank" href="ftp://ftp.sas.com/pub/neural/FAQ2.html#A_act">为何使用激活函数？</a></li></ul><br />5） 网络拓扑结构<br />调整网络的拓扑结构也会有一些帮助。 <br />你需要设计多少个节点，需要几层网络呢？ <br />别打听了，鬼知道是多少。 <br />你必须自己找到一组合理的参数配置。<br /><br />试一试加一层有许多节点的隐藏层（拓宽）<br />试一试一个深层的神经网络，每层节点较少（纵深）<br />尝试将上面两种组合<br />尝试模仿近期发表的问题类似的论文<br />尝试拓扑模式和书本上的经典技巧（参考下方的链接）<br />这是一个难题。越大的网络模型有越强的表达能力，也许你就需要这样一个。 <br />更多晨的结构提供了抽象特征的更多结构化组合的可能，也许你也需要这样一个网络。 <br />后期的网络模型需要更多的训练过程，需要不断地调节训练步长和学习率。 <br />相关阅读： <br />下面的链接可能给你提供一些思路：<br /><ul><li><a target="_blank" href="ftp://ftp.sas.com/pub/neural/FAQ3.html#A_hl">我的网络模型该设计几层呢？</a></li><li><a target="_blank" href="ftp://ftp.sas.com/pub/neural/FAQ3.html#A_hu">我的网络模型该设计几个节点呢？</a></li></ul><br />6） batch和epoch<br />batch的大小决定了梯度值，以及权重更新的频率。一个epoch指的是训练集的所有样本都参与了一轮训练，以batch为序。 <br />你尝试过不同的batch大小和epoch的次数吗？ <br />在前文中，我们已经讨论了学习率、网络大小和epoch次数的关系。 <br />深度学习模型常用小的batch和大的epoch以及反复多次的训练。 <br />这或许对你的问题会有帮助。<br /><br />尝试将batch大小设置为全体训练集的大小（batch learning）<br />尝试将batch大小设置为1（online learning）<br />用网格搜索尝试不同大小的mini-batch（8，16，32，…）<br />尝试再训练几轮epoch，然后继续训练很多轮epoch<br />尝试设置一个近似于无限大的epoch次数，然后快照一些中间结果，寻找效果最好的模型。 <br />有些模型结构对batch的大小很敏感。我觉得多层感知器对batch的大小很不敏感，而LSTM和CNN则非常敏感，但这都是仁者见仁。<br /><br />相关阅读：<br /><ul><li><a target="_blank" href="ftp://ftp.sas.com/pub/neural/FAQ2.html#A_styles">什么是批量学习、增量学习和在线学习？</a></li><li><a target="_blank" href="https://www.quora.com/Intuitively-how-does-mini-batch-size-affect-the-performance-of-stochastic-gradient-descent">直觉上，mini-batch的大小如何影响（随机）梯度下降的效果？</a></li></ul><br />7） 正则项<br />正则化是克服训练数据过拟合的好方法。 <br />最近热门的正则化方法是dropout，你试过吗？ <br />Dropout方法在训练过程中随机地略过一些神经节点，强制让同一层的其它节点接管。简单却有效的方法。<br /><ul><li>权重衰减来惩罚大的权重值</li><li>激活限制来惩罚大的激活函数值</li></ul><br />尝试用各种惩罚措施和惩罚项进行实验，比如L1、L2和两者之和。 <br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/">使用Keras对深度学习模型做dropout正则化</a></li><li><a target="_blank" href="ftp://ftp.sas.com/pub/neural/FAQ3.html#A_decay">什么是权值衰减？</a></li></ul><br />8） 优化方法和损失函数<br />以往主要的求解方法是随机梯度下降，然而现在有许许多多的优化器。 <br />你尝试过不同的优化策略吗？ <br />随机梯度下降是默认的方法。先用它得到一个结果，然后调节不同的学习率、动量值进行优化。 <br />许多更高级的优化方法都用到更多的参数，结构更复杂，收敛速度更快。这取决于你的问题，各有利弊吧。 <br />为了压榨现有方法的更多潜力，你真的需要深入钻研每个参数，然后用网格搜索法测试不同的取值。过程很艰辛，很花时间，但值得去尝试。 <br />我发现更新/更流行的方法收敛速度更快，能够快速了解某个网络拓扑的潜力，例如：<br /><ul><li><a target="_blank" href="https://arxiv.org/abs/1412.6980">ADAM</a></li><li>RMSprop</li></ul><br />你也可以探索其它的优化算法，例如更传统的算法（Levenberg-Marquardt）和比较新的算法（基因算法）。其它方法能给SGD创造好的开端，便于后续调优。 <br />待优化的损失函数则与你需要解决的问题更相关。 <br />不过，也有一些常用的伎俩（比如回归问题常用MSE和MAE），换个损失函数有时也会带来意外收获。同样，这可能也与你输入数据的尺度以及所使用的激活函数相关。 <br />相关阅读：<br /><ul><li><a target="_blank" href="http://sebastianruder.com/optimizing-gradient-descent/">梯度下降优化算法概览</a></li><li><a target="_blank" href="http://geek.csdn.net/news/detail/104190">什么是共轭梯度和Levenberg-Marquardt？</a></li><li><a target="_blank" href="http://ai.stanford.edu/~ang/papers/icml11-OptimizationForDeepLearning.pdf">深度学习的优化方法，2011</a></li></ul><br />9） Early Stopping<br />你可以在模型性能开始下降的时候停止训练。 <br />这帮我们节省了大量时间，也许因此就能使用更精细的重采样方法来评价模型了。 <br />early stopping也是防止数据过拟合的一种正则化方法，需要你在每轮训练结束后观察模型在训练集和验证集上的效果。 <br />一旦模型在验证集上的效果下降了，则可以停止训练。 <br />你也可以设置检查点，保存当时的状态，然后模型可以继续学习。 <br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/check-point-deep-learning-models-keras/">如何在Keras给深度学习模型设置check-point</a></li><li><a target="_blank" href="ftp://ftp.sas.com/pub/neural/FAQ3.html#A_stop">什么是early stopping？</a></li></ul><br /><strong>4. 用融合方法提升效果</strong><br />你可以将多个模型的预测结果融合。 <br />继模型调优之后，这是另一个大的提升领域。 <br />事实上，往往将几个效果还可以的模型的预测结果融合，取得的效果要比多个精细调优的模型分别预测的效果好。 <br />我们来看一下模型融合的三个主要方向：<br /><ul><li>模型融合</li><li>视角融合</li><li>stacking</li></ul><br />1） 模型融合<br />不必挑选出一个模型，而是将它们集成。 <br />如果你训练了多个深度学习模型，每一个的效果都不错，则将它们的预测结果取均值。 <br />模型的差异越大，效果越好。举个例子，你可以使用差异很大的网络拓扑和技巧。 <br />如果每个模型都独立且有效，那么集成后的结果效果更稳定。 <br />相反的，你也可以反过来做实验。 <br />每次训练网络模型时，都以不同的方式初始化，最后的权重也收敛到不同的值。多次重复这个过程生成多个网络模型，然后集成这些模型的预测结果。 <br />它们的预测结果会高度相关，但对于比较难预测的样本也许会有一点提升。 <br />相关阅读：<br /><ul><li><a target="_blank" href="http://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/">用scikit-learn集成机器学习算法</a></li><li><a target="_blank" href="http://machinelearningmastery.com/how-to-improve-machine-learning-results/">如何提升机器学习的效果</a></li></ul><br />2） 视角融合<br />如上一节提到的，以不同的角度来训练模型，或是重新刻画问题。 <br />我们的目的还是得到有用的模型，但是方式不同（如不相关的预测结果）。 <br />你可以根据上文中提到的方法，对训练数据采取完全不同的缩放和变换技巧。 <br />所选用的变化方式和问题的刻画角度差异越大，效果提升的可能性也越大。 <br />简单地对预测结果取均值是一个不错的方式。<br /><br />3）stacking<br />你还可以学习如何将各个模型的预测结果相融合。 <br />这被称作是stacked泛化，或者简称为stacking。 <br />通常，可以用简单的线性回归的方式学习各个模型预测值的权重。 <br />把各个模型预测结果取均值的方法作为baseline，用带权重的融合作为实验组。<br /><ul><li><a target="_blank" href="http://machine-learning.martinsewell.com/ensembles/stacking/">Stacked Generalization (Stacking)</a></li></ul><br /><strong>总结</strong><br />各抒己见吧<br /><br />补充资料<br />还有一些非常好的资料，但没有像本文这么全面。 <br />我在下面列举了一些资料和相关的文章，你感兴趣的话可以深入阅读。<br /><ul><li><a target="_blank" href="ftp://ftp.sas.com/pub/neural/FAQ.html">神经网络常见问答</a></li><li><a target="_blank" href="http://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/">如何用网格搜索法求解深度学习模型的超参数</a></li><li><a target="_blank" href="http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html">深度神经网络必知的技巧</a></li><li><a target="_blank" href="http://stackoverflow.com/questions/37020754/how-to-increase-validation-accuracy-with-deep-neural-net">如何提升深度神经网络的验证准确率？</a></li></ul><br />如果你知道其它的好资源，欢迎留言。
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31871#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Sat, 08 Oct 2016 15:37:50 +0800</pubDate>
+        <link>http://www.iteye.com/news/31871</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31871</guid>
+      </item>
+          <item>
+        <title>TEDx漕河泾沙龙报名开启</title>
+        <description>
+          <![CDATA[
+          <img src="http://dl2.iteye.com/upload/attachment/0120/3442/8fa17d57-e8ed-3b62-a523-0a9da6861f27.png" /><br />原力<br />生于识<br />补偿演化，盘涅再生<br />我们感知，而后彳亍而行<br /><br />原力<br />连结过去与未来的起承流传<br />见证知识与技术的天作之合<br />甚至于，在艺术与文学的影子里<br />丈量着未知世界，如梦之梦<br /><br />后来，有人拿起钥匙<br />将规则解密<br />有人似飞蛾扑火，却胜涅槃重生<br />跨越万水千山，从此不必远渡重洋<br />有人结下殊胜之缘，寻着前人轨迹<br />脚步错落笃定<br /><br />在奇思妙想和能量场中<br />原力定义了怎样的真实？<br />在历史漫漫长路中<br />原力如何永燃灵感的火花？<br /><br />且再问一次，你是谁？<br />生命来去，而<br />原力是你我，你我是原力<br /><br /><br /><img src="http://dl2.iteye.com/upload/attachment/0120/3444/3de6ac3c-c4b0-38fb-8077-660d2e5b22a1.png" /><br /><br /><img src="http://dl2.iteye.com/upload/attachment/0120/3446/ceaa9205-8f11-3054-bcb6-11a7bddbda1c.png" /><br /><br /><img src="http://dl2.iteye.com/upload/attachment/0120/3448/d056c079-dd70-381c-b559-358b88edca3b.png" /><br /><br /><br />2016年10月25日（周二）13:00<br />TEDxCaohejingPark沙龙活动将在<br />上海漕河泾新兴技术开发区万丽酒店举行<br />活动分2场，中间休息60分钟，预计17:00结束<br /><br />除非有特殊情况，我们希望您能参与整场活动。我们也期待您能在休息时与观众和演讲人互动。<br /><br />TED观众非常开放多元，且拥有包容创新观点的心态，我们希望 TEDxCaohejingPark沙龙提供同样轻松的环境，每个人都乐于沟通交流。<br /><br />当天的日程安排（暂定）<br /><br />13:00～13:30&nbsp; -&nbsp;&nbsp; 签到<br />13:30～15:00&nbsp; -&nbsp;&nbsp; 第一场<br />15:00～15:50&nbsp; -&nbsp;&nbsp; 中场休息<br />15:50～17:00&nbsp; -&nbsp;&nbsp; 第二场<br /><br /><strong>报名地址：<a target="_blank" href="http://www.bagevent.com/event/223002">http://www.bagevent.com/event/223002</a></strong>
+          <br/><br/>
+          感谢 <a href="http://rnifeasy1.iteye.com">rnifeasy1</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31868#comments" style="color:red;">已有 <strong>0</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Thu, 29 Sep 2016 20:25:46 +0800</pubDate>
+        <link>http://www.iteye.com/news/31868</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31868</guid>
+      </item>
+          <item>
+        <title>谷歌发布神经机器翻译 翻译质量接近笔译人员</title>
+        <description>
+          <![CDATA[
+          <div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2965/bf402906-6223-3512-80ff-240c389a3242.jpeg" /><br /></div><br />据外媒报道，谷歌于昨日发布了网页版和移动版的谷歌翻译。在汉译英的过程中，会采用全新的神经机器翻译，而这个App每天要进行一千八百万次这样的翻译。此外，谷歌针对这个翻译系统的运作原理，发表了一篇学术论文。<br />早前，谷歌就曾表示它们在谷歌翻译中运用了神经网络技术，但只限于实时视觉翻译这个功能。前段时间，谷歌的高级员工Jeff Dean曾告诉VentureBeat，谷歌已经在尝试把越来越多的深度学习功能融入到谷歌翻译中。除此之外，谷歌的一位发言人在邮件中告诉VentureBeat，最新的神经机器翻译是他们努力研发深度学习功能的成果。<br />实际上，谷歌一直以来都在致力于将深度神经网络融入它旗下越来越多的应用软件中，其中包括Google Allo和Inbox by Gmail。这个功能可以帮助谷歌更快捷、更有效地处理它们的数据。<br />谷歌的神经机器翻译（GNMT）对八层长的短时记忆递归神经网络（LSTM-RNNs）依赖性很强。“通过层间残留联系可以加强梯度流。”谷歌科学家在论文中写道。在图像处理器的帮助下，神经网络一旦变得足够成熟，谷歌就可以靠它尚未发布的张量处理单元进行数据处理。<br />虽然神经机器翻译并不永远是最佳之选，但是谷歌的各种尝试显示，在某些情况下它还是有过人之处的。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2971/4b3c56df-8329-370e-8830-0830a8110e5b.jpeg" /><br /></div><br />“人们对这个翻译系统的评价显示，比起之前基于短语的翻译系统，在翻译多种语言时，神经学习翻译系统的错误率已经降低了60%，其中包括英法互译，英西互译以及英汉互译。附加实验的结果显示，翻译系统的质量将和笔译人员平均水准更加接近。”<br /><br />在昨天发表的一篇博文中，Google Brain Team的研发科学家Quoc Le和Mike Schuster提到，有了双语评分员的帮助，在翻译Wikipedia上的多语种样句时，谷歌神经机器翻译的错误率实际上已经降低了55%到85%。<br />尽管如此，这个系统还是不完美的。“神经机器翻译还是会犯一些笔译人员永远都不可能犯的错误，比如漏了一些单词、把一些常见的名字或是少见的专有名词翻错、对文章语境缺乏整体把控等等。所以，我们还是有很大的进步空间。但不可否认的是，神经机器翻译具有里程碑意义。”<br /><br />来自：<a target="_blank" href="http://tech.163.com/16/0928/09/C21QPSV600097U80.html">网易科技</a>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31867#comments" style="color:red;">已有 <strong>1</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Wed, 28 Sep 2016 17:37:43 +0800</pubDate>
+        <link>http://www.iteye.com/news/31867</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31867</guid>
+      </item>
+          <item>
+        <title>Mozilla宣布停止 Firefox OS 的开发</title>
+        <description>
+          <![CDATA[
+          Mozilla 去年底宣布终止智能手机实验，停止开发和销售 Firefox OS 智能手机，它在2016年7月底停止了Firefox OS的商业开发，如今则宣布终止所有 Firefox OS 相关工作。Firefox OS 是一个开源项目，现在它的维护将全部转交给社区。<br /><br />Mozilla开发者称，为了快速演化和启用 Gecko引擎的新架构变化，它的Platform Engineering 团队需要从 mozilla-central移除与Firefox OS/B2G OS相关的所有代码，继续从事B2G OS开发的开源社区将需要fork Gecko，从一个独立的分支维护一个完整版的Gecko引擎。Mozilla称这是一个痛苦但必要的决定。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2955/28346a8b-7307-3cdb-ae41-5d6bc51cb769.png" /><br /></div><br /><br />来自：<a target="_blank" href="http://www.cnbeta.com/articles/543399.htm">cnBeta.COM</a>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31866#comments" style="color:red;">已有 <strong>1</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Wed, 28 Sep 2016 17:20:36 +0800</pubDate>
+        <link>http://www.iteye.com/news/31866</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31866</guid>
+      </item>
+          <item>
+        <title>Java 9 将推迟到2017年7月发布</title>
+        <description>
+          <![CDATA[
+          本来以为在明年3月可以尝鲜的Java 9却要延迟了，据外媒报道，甲骨文宣布原定于2017年3月推出的Java 9将再延至2017年7月发布，主要原因是Java 9内置的模组化架构Jigsaw需要更长的时间来开发。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2949/d44931f9-1183-3d25-93b6-e66f77fa63e8.jpg" /><br /></div><br />甲骨文Java平台的架构师Mark Reinhold在<a target="_blank" href="http://mail.openjdk.java.net/pipermail/jdk9-dev/2016-September/004887.html">OpenJDK的邮件列表</a>中提到了这个新的发布日期<br /><div class="quote_title">引用</div><div class="quote_div"><br />Despite this progress, at this point it's clear that Jigsaw needs more time. We recently received critical feedback that motivated a redesign of the module system's package-export feature [5], without which we'd have failed to achieve one of our main goals. There are, beyond that, still many open design issues [6], which will take time to work through. Looking at the release as a whole, the number of open bugs that are new in JDK 9 is quite a bit larger than it was at this point in JDK 8. The maintainers of many popular projects are now actively testing against the JDK 9 EA builds [7], but we'd like to see even more in order to be confident that potential issues have been found and reported. For these reasons I hereby propose a four-month extension of the JDK 9 schedule, moving the General Availability (GA) milestone to July 2017.<br /></div><br />Mark Reinhold称，由于收到使用者反馈，需要重新设计模组化架构Jigsaw中的Package-Export功能，更重要的是Java 9中还存在大量安全漏洞和Bug需要修复。<br /><br />据悉，模组化架构Jigsaw将成为Java 9的核心功能，甲骨文也证实将会在Java9中新增新命令行工具Jshell、支持HTTP/2与新增多项API等。另外于今年1月推出的JDK9早期试用版不再支持Java浏览器外挂。<br /><br />本文来自：<a target="_blank" href="http://news.pconline.com.cn/841/8412482.html">太平洋新闻</a>和<a target="_blank" href="http://www.pixelstech.net/article/1474909477-Java-9-release-is-delayed-again">pixelstech.net</a>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31865#comments" style="color:red;">已有 <strong>10</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Wed, 28 Sep 2016 16:59:35 +0800</pubDate>
+        <link>http://www.iteye.com/news/31865</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31865</guid>
+      </item>
+          <item>
+        <title>微信小程序，大多数人都搞错的八个问题</title>
+        <description>
+          <![CDATA[
+          <div class="quote_title">引用</div><div class="quote_div"><br />声明：本文为CSDN原创投稿文章。 <br />作者：王安，数字天堂DCloud公司创始人兼CEO <br />责编：陈秋歌，关注微信开发等领域，寻求报道或者投稿请发邮件chenqg#csdn.net。研发心得、项目实战、前沿技术、外文翻译……，只要是技术干货，十分欢迎投稿至chenqg#csdn.net。人人都是主编，这里就是你的舞台。 <br />欢迎加入“微信开发技术”群，参与热点、难点技术交流。请加群主微信「Rachel_qg」,申请入群，务必注明「公司+职位」。<br /></div><br />小程序目前被炒得沸沸扬扬，无数媒体和企业借机获取阅读流量。<br /><br />这再次证明一点，微信想让什么火，真的就能让什么火。这种能力真是全中国再也没有人有了，政府也没有。<br /><br />但四处传的消息很多是失真的，废话不说，先列出8个多数人都搞错的问题：<br /><br />1.小程序是HTML5；<br />2.小程序是B/S的；<br />3.把M站改改就可以接入到小程序里；<br />4.小程序体验不佳；<br />5.小程序适合低频长尾应用；<br />6.小程序是新的Appstore；<br />7.小程序做不起来，需求不高；<br />8.小程序会做起来，但会和原生应用长期并存。<br />以上8个是很多人凭直觉得出的结论，但真正深度调研和思考后，发现直觉和真相差好远。<br /><div class="quote_title">引用</div><div class="quote_div">注：本文有技术、有商业，不懂技术的可以只看商业相关的。</div><br /><strong>1.小程序不是HTML5</strong><br /><br />小程序是微信全新定义的规范，是基于XML+JS的，不支持也不兼容HTML，兼容受限的部分CSS写法。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2936/879a349b-08e0-3fa7-93c7-4ae58cae117f.png" /><br /></div><br />上图为一个小程序的代码目录，后缀名分别是wxml、wxss和js。<br /><br />不过微信对wxml的全称定义也不是weixin xml，而是WeiXin Markup Language，很霸气的要自成体系感。自然wxss也是WeiXin Style Sheets喽。<br /><br />因为很多人把xml念成叉妹儿，现在大家不要念错哦，不要念达不流叉妹儿，要念微信妹儿。<br /><br />下面是一段wxml示例，相对于早期的XML，扩展了花括号模板的写法。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2938/a49ab43a-552d-3d60-9039-9abec60ba683.png" /><br /></div><br />虽然是要求强闭合的XML，但if写法和标准的XML也不一样。<br /><br />JS部分，小程序支持ECMAScript6，由于没有Web，自然DOM、Window这些都不能用，jQuery就更没啥关系了。<br /><br />很多小白说JS不就是HTML的一部分吗？HTML是归W3C管的，JS是归ECMA国际管的。JS是无处不在的一种解释性脚本语言，除了浏览器里，还有运行在服务器上的Nodejs，运行在PC和Mac机的nodewebkit…<br /><br />也就是说小程序是微信基于XML和JS定义的一套标记语言，全新的生态，一个轻OS。 <br />开发工具、UI框架也都是腾讯做的，过去Web上的三方工具、框架生态，完全没有用。<br /><br />也就是小程序开发者，将会是一个独立的职业。<br /><br />培训机构有的忙了，在这个全新生态下，一切都推到重来。<br /><br />顺便也澄清一个误区，小程序和腾讯X5引擎也没关系。X5是QQ浏览器团队的，是基于HTML的，但小程序是微信团队自研的。<br /><br /><strong>2.小程序不是B/S</strong><br /><br />微信宣传的一个重点，是触手可得，不用安装。<br /><br />但小程序并不是B/S的在线页面，它是C/S架构的。<br /><br />在wxml里，通过wx.request（类似ajax）或socket连接服务器。<br /><br />很多人不明白C/S应用为什么也可以即点即用，不用安装。其实这不是微信的首创，首创是DCloud的流应用。只要是动态语言，加上合适的算法，就可以先下载部分程序并运行，然后边用边下，类似于流媒体。<br /><br />别忘了微信也同时宣传了强大的离线能力，毕竟B/S的切屏体验太烂，C/S才能有更好的用户体验。<br /><br />只是不知道微信对小程序的空间占用问题会怎么管理，反正微信以后肯定是越来越大。<br /><br /><strong>3.M站不能改造成小程序</strong><br /><br />其实看明白前2点，自然就明白第3点了。一个基于HTML的、B/S的M站，跟小程序并无关系。<br /><br />老板们可能认为M站或之前公众号里的Wap站简单改改就可以接入小程序，然后对工程师报的工期不可理解，此时工程师可以把此文转给老板看，小程序是相当于重新做了一个App，从开发、设计、测试、运维升级都是单独的一套。哦，你还得加个学习成本和风险，如此新的东西一次搞利索的可能性不大。<br /><br />如果你之前有一个服务号的Wap站，你也不能放弃服务号而只做小程序，所以你的业务得多头维护。<br /><br />这里有一个很大的问题，就是做一版小程序，ROI（投资回报）是不是正的？新开一条产品线并长期运维，代价绝对不菲，对应的用户流量够大吗？ARPU值（单位用户价值）够高吗？能收回投资吗？这个问题有点大，下面单说。<br /><br /><strong>4.小程序的体验不如原生应用？反了</strong><br /><br />我知道这个观点有点违反大多数人的直觉。但世界在变。<br /><br />用户的使用体验是由很多要素作用影响的，过去我们说的体验主要是进入应用后的操作流畅度。关于这个维度，很多观点是：小程序嘛，操作流畅度基于Web和原生App之间。<br /><br />其实随着手机硬件和网络的发展，两年内上市的手机上，包括几百元的低端机，小程序的操作流畅度和原生的差距，用户是感受不到的。其实在小程序之前，HTML5+和React Native也都早做到了这一点。<br /><br />而且你也可以反过来想想，小程序作为微信在移动互联网下半场最重要的战略，如果操作流畅度不好，张小龙会出来站台还批准它上线？<br /><br />除了操作流畅度，用户体验还受很多环节影响。<br /><br />有个在其他开发者生态不常见的事情，就是微信出了UI框架并很强调各个小程序的体验一致性，它希望用户在微信里使用各个小程序时，UI基本一致，用户不会觉得乱，不需要学习和适应。<br /><br />然后微信还有统一的账户登陆体系，再加上小程序本身触手可得的特点，那么想象下用户的综合感受：不停使用各种触手可得、用完即走、UI体验一致、操作流畅、不用登陆注册的小程序们，还是挺爽的，这种体验比用原生应用还爽。<br /><br />当时代发展到App的操作体验已经无法再有明显提升后，用户体验痛点已经从简单的在App里操作的流畅度转向其他地方了。如果还抱着旧观念不放，只能被转换思路的竞品超越。<br /><br />5.小程序并非只适合低频或长尾应用<br /><br />iPhone刚出Appstore时，确实首先活跃在其中的都是创业者，但最后所有人都卷进来了。<br /><br />小程序的设计目标可是大生态，没有定位于只吸纳低频长尾应用。所有人都被卷进来是迟早的事。<br /><br />有人觉得入口太深会导致高频应用仍然留在桌面，但入口的深浅是会演化的，如果微信感觉到目前的入口深度影响了用户便利性，它立即会提高，它会在桌面创建快捷方式。如果某天微信出了独立的桌面laucher或小程序入口App，也不要诧异。下一代的微信，核心已经不是微信这个通信App，核心已经是庞大的小程序生态了，从哪个入口进入就不重要了。哦对了，如果腾讯委托代工出了不能装原生应用的手机也不要诧异，哦，如果支持iPhone用户0元换机也不要诧异。<br /><br />跑题了，不过当前的小程序生态发展也确实存在先后关系，低频的比高频的先进来、光脚的比穿鞋的先进来。<br /><br />原生App体量已经很大的玩家，就是穿鞋的，他们希望用户持续保留他们的原生App在桌面。<br /><br />在移动互联网上半场，有个游戏规则：因为App偏重，用户手机里一个品类一般只装一个App，那么烧钱买到最多流量的，就是最后的赢家，而竞品想把用户再抢过来就非常难了。<br /><br />上半场烧了无数钱剩下的大玩家们，面对游戏规则的改变想必心情是极其复杂的。 <br />可是复杂也没办法，腾讯旗下亲儿子、干儿子占据移动互联网大半壁江山，小程序里，刚开始就会有大玩家，其他竞争对手跟不跟呢，心情复杂也得跟啊。<br /><br />当然最尴尬的还是阿里、百度们，看着别人抽你血却想不出办法。<br /><br /><strong>6.小程序不是应用商店，是OS</strong><br /><br />很多人说微信想做应用商店，只能说太小瞧微信了，人家明明要做操作系统嘛。 <br />2015年张小龙就在筹划应用号了，闭门搞了一年多怎么会是个应用商店这种小生意。应用商店只是OS生态里的一个发行环节，而微信恰恰不打算挣发行的钱。<br /><br />国内的应用商店，都是中心化的流量分发，做的是卖流量的生意。用户看到的，不是最好的，而是出价最高的。不止是应用商店，百度现在也是这个问题，顺便吐槽下百度的搜索第三定律：出价最高者，对自己的网站最有自信，也就是对最终用户最有价值。<br /><br />微信显然不是这样的思路，微信的去中心化，其实是一种保证良品得到更大流量的机制，这种机制非常有利于生态的起步。<br /><br />一个小程序，没有下载刷榜，微信会采集用户的实际使用量、反复使用率、新增传播趋势，给你推荐最好的。<br /><br />不扯发行的事了。小程序确实是按OS标准打造的，开发语言、IDE都是自成体系。Facebook推出React Native时也没做IDE，并且全部开源，但微信的野心不一样，真的是从头到尾要建设和控制生态，并且是封闭生态，就像iOS的生态一样。甚至小程序的开发者，每年也要像iOS的开发者一样交几百元年费。<br /><br />有人会觉得手机原生OS才是老大，这种二级生态搞不起来。其实在PC上，Windows上的互联网就是二级生态，做的比Windows原生生态大，当初Flash算是三级生态了，如果不是HTML5打压，也做的非常大了。但也确实存在一个问题，Apple是极其封闭的，在Apple上二级生态想做很大是非常难的，而Android就不一样了，尤其是中国的Android，不像国外被Google控制着，在国外若有人乱搞，Google Play可以将其下架，但在中国就谁都拿微信没招了。<br /><br />说到这里还是真诚感谢中国政府的，你的英明决策，给中国互联网创造了一个引领全球的机会。在国外，Apple和Google是既得利益者，还没人撼得动，但中国出现了这样的机会，移动互联网下半场，中国终于要开始引领全球了！<br /><br />如果在Apple下架微信时，中国政府能够以反垄断法之类的名义杀下Apple，那就是又帮了大忙了（微信是不是应该给我付咨询费啊）。<br /><br /><strong>7.小程序的需求不强烈？很多未来，不体验过自己是想不到的</strong><br /><br />福特说，你问用户要什么交通工具，用户会说他想要一匹更快的马，没人会认为汽车是未来。<br /><br />iPhone发布时，Nokia和黑莓嘲笑说：全触摸屏不靠谱，按键是最佳用户体验。然后临死还说：我们没做错什么，不知道为什么会这样。<br /><br />那么小程序的核心理念：“触手可得”，到底是不是用户需求，是不是未来方向？ <br />Of cause！这跟电容触摸屏是一样的道理，直击人性底层，能让你的大脑皮层产生爽的感觉。<br /><br />所有让人爽的东西，都是发展方向。而一旦一个有影响力的巨头去做，就成了不可逆转的前进方向。<br /><br />微信，是一个尤其深谙人性、擅长让人爽的产品，你一旦爽过了，就退不回去了。 <br />想象下一切触手可得的上帝感，手机里全是可以放心的、高品质的、无需适应UI的、不用登陆注册的服务，触手可得、用完即走，太爽了。然后你就会变成它的拥护者，以证明自己更酷。有人在用原生应用，你就会告诉他：hi，你不知道小程序吗？怎么还在用那么笨重的大程序啊。如果有个开发商的应用只有原生版，你就会骂：这是什么老土厂商，竟然还让我下载安装，不用了！<br /><br /><strong>8.小程序和原生应用将长期并存？原生必将没落</strong><br /><br />小程序生态是原生生态的下一代替代品，是时代的进化产物。Windows原生应用当然也不会消失，但大部分服务都在互联网上了。小程序看中的也是这块，邮件客户端什么的就不要在小程序里用了，但你目前在PC浏览器里使用的各种服务，全部会纳入小程序的生态范围。<br /><br />小程序出来后，原生生态和其对抗是让历史倒退，没有意义。就像微信冲击运营商的短信业务时，电信运营商的对抗也是无意义的。<br /><br />对抗小程序的，不会是原生生态，只能是其他触手可及的类小程序生态。<br /><br />微信这条大鲶鱼进来后，Apple、Google等众多巨头都会有反应，他们不是没技术，只是原来躺着挣钱很舒服，不愿意革自己命，但多久会落实行动也难讲，毕竟只是为了中国市场而革全世界市场的命，好像不太划算。<br /><br />有人觉得革掉原生应用的命，过程会很长，其实这个进程的进度是由微信控制的。 <br />微信做的越激进，引发的旧利益既得者的反弹会越严重；但温水煮青蛙的杀原生生态，又存在用户习惯培养的成功把握度不高的问题。<br /><br />小程序毕竟是全新事物，培养C端用户习惯是需要引爆点的，微信自然不缺引爆能力。<br /><br />当初要做游戏，开屏就是打飞机，然后全民都在打飞机。<br /><br />当初要做支付，推出群红包，然后全民都在抢红包，瞬间颠覆支付宝的地位。<br /><br />11月小程序将面向手机用户开放，现在引爆设计肯定已经做了不止一稿，比如开屏就推一个很好玩的小程序，造成全民都用小程序的热潮，然后所有观望的开发商全都会跳下海。再然后微信持续推出比一比手机清洁度在好友中的排名之类的玩意，持续给优质小程序和用户需求做对接，过半年就没人下载原生应用了，再过半年原来装的原生应用也大多卸了。<br /><br />那些被颠覆的人能怎样呢？就像马云在微信红包出来后虽然嚷嚷这是偷袭珍珠港，可你又没有原子弹打回去啊。事实上小程序不是偷袭珍珠港，这是降维打击，就像三体人留下那句话：毁灭你，与你何干。<br /><br />8个常见误区解释了，再简单说下小程序里的机会和威胁。<br /><br /><strong>小程序的创业机会在于：</strong><br />1.人才市场，因为小程序工程师将有一个从0开始高速增长的红利，其中的线上线下培训、招聘、书籍出版等相关领域会享受一次红利。<br />2.如果你是个光脚的创业者，那么就豁出去认真做小程序，抛弃原生，从微信用户的特点出发重新设计产品，做轻、做服务化，一定要用完即走，不要考虑次日留存，当时用爽最重要。<br />3.充分利用社交特点，做社交类服务，比如多人互动、上下游联动。小程序是可以发到群里的、朋友圈里的，想想群红包这种社交产品，想象空间很大。<br />4.充分发挥线下优势，做线下商家服务。线下扫码入口，基本就是微信的天下。<br />5.由于阿里、百度等一些巨头不会入驻小程序，留下一片空间给创业者。<br />6.其实被我公开说了的机会，可能就不是机会了…<br /><br /><strong>小程序的威胁：</strong><br /><br />1.如果你在原生App下已经是既得利益者，那么你做小程序的话，ROI高概率不划算，因为新开一个产品，从产品、开发、测试、持续运维升级，资源消耗太大了，由于短期内小程序的体量和你已经拥有的原生体量还差不少，分出精兵强将干这事会让你很郁闷。如果你不担心小程序创业潮里的新兵蛋子干翻你，你就暂时不用管小程序这事了。否则，ROI为负你也得搞。<br />2.原生生态下生存的很多公司的商业模式会受到很大冲击，安卓应用市场、原生应用广告产业链、原生工程师培训，都会受影响。篇幅有限，想要咨询如何减少冲击，可以私聊我微博weibo.com/wangan2000。<br />3.哦，通篇没说，虽然浏览器不是原生生态产物，但也会被架空。标准浏览器的体验无法与小程序抗衡。就是小程序这个生态如果占据了用户心智和时间，原生和浏览器生态都会受冲击。<br />4.就个人职业而言，原生开发、UI设计、流量运营这些领域的人的失业率会增加。微信有统一的UI要求，然后UI设计师就躺枪了。获取流量的玩法，也和原生不一样了，没法买买买了，不过移动互联网进入下半场后，很多公司的流量采购部门本身也在裁员。很多人还怀疑Android和iOS的开发工程师会不会真的失业，你觉得iPhone出来后，symbian工程师会不会失业呢？虽然当年也确实有很多人认为不会失业吧。<br /><br />最后，作为一个技术人员，吐槽下：我不喜欢封闭！<br /><br />虽然然并卵吧。<br /><br />哦，对了，最后再提醒下被小程序冲击的人，你们的不爽不要来喷我，又不是我要冲击你们，提醒你们是好事。
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                      <br/><br/>声明：本文系ITeye网站发布的原创资讯，严禁任何网站转载本文，否则必将追究法律责任！
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31864#comments" style="color:red;">已有 <strong>6</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Wed, 28 Sep 2016 16:50:06 +0800</pubDate>
+        <link>http://www.iteye.com/news/31864</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31864</guid>
+      </item>
+          <item>
+        <title>详解微信小程序开发教程</title>
+        <description>
+          <![CDATA[
+          <strong>微信应用开放的服务和组件包含如下：</strong><br /><ul><li>视图容器：视图(View)、滚动视图、Swiper</li><li>基础内容：图标、文本、进度条</li><li>表单组件：按钮、表单等等</li><li>操作反馈</li><li>导航</li><li>媒体组建：音频、图片、视频。</li><li>地图</li><li>画布</li><li>文件操作能力</li><li>网络：上传下载能力、WebSocket</li><li>数据：数据缓存能力</li><li>位置：获取位置、查看位置</li><li>设备：网络状态、系统信息、重力感应、罗盘</li><li>界面：设置导航条、导航、动画、绘图等等</li><li>开放接口：登录，包括签名加密，用户信息、微信支付、模板消息</li></ul><br /><strong>审核：</strong><br />根据《微信小程序平台服务协议》，里面有关描述如下：<br /><br />2.4 为确保微信小程序平台、微信公众平台、其他用户等各方的安全、稳定及良好的用户体验，腾讯将对需要发布的小程序进行发布审核。<br /><br />“发布审核”是指由用户发起，将其完成初始化开发的小程序提交至腾讯，由腾讯自行或委托第三方对该小程序的合法性、合理性、安全性、稳定性、可操作性、用户体验等各方面，采用包括但不限于开发信息核对、安全测试、UI测试、随机测试、动态测试、安全测试等方式，进行审查、甄别、试验与评估的过程。发布审核结果包括审核通过与审核不通过两种。审核不通过的，该小程序将无法发布。<br /><br />之后小程序的审核极有可能采取和App store类似的策略，但相比微信其他平台的审核，各位严格和复杂。<br /><br /><strong>教程：</strong><br />微信应用号（小程序，「应用号」的新称呼）终于来了！目前还处于内测阶段，微信只邀请了部分企业参与封测。想必大家都关心应用号的最终形态到底是什么样子？怎样将一个「服务号」改造成为「小程序」？我们暂时以一款简单的第三方工具的实例，来演示一下开发过程吧。<br /><br />OK，为了让大家尽快看到这份教程，博卡君注定要熬夜了！今晚开始更新，希望明天一早就能发布第一篇教程！记录开始！看看几天能完成变身吧！<br /><br />序言<br /><br />开始开发应用号之前，先看看官方公布的「小程序」教程吧！（以下内容来自微信官方公布的「小程序」开发指南）<br /><br />本文档将带你一步步创建完成一个微信小程序，并可以在手机上体验该小程序的实际效果。这个小程序的首页将会显示欢迎语以及当前用户的微信头像，点击头像，可以在新开的页面中查看当前小程序的启动日志。<br /><br /><strong>1. 获取微信小程序的 AppID</strong><br /><br />首先，我们需要拥有一个帐号，如果你能看到该文档，我们应当已经邀请并为你创建好一个帐号。注意不可直接使用服务号或订阅号的 AppID。 利用提供的帐号，登录 <a target="_blank" href="https://mp.weixin.qq.com">https://mp.weixin.qq.com</a>，就可以在网站的「设置」-「开发者设置」中，查看到微信小程序的 AppID 了。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2636/192b3371-fa63-3f29-9c4e-310aa781684a.jpg" /><br /></div><br />注意：如果我们不是用注册时绑定的管理员微信号，在手机上体验该小程序。那么我们还需要操作「绑定开发者」。即在「用户身份-开发者」模块，绑定上需要体验该小程序的微信号。本教程默认注册帐号、体验都是使用管理员微信号。<br /><br /><strong>2.创建项目</strong><br /><br />我们需要通过开发者工具，来完成小程序创建和代码编辑。<br /><br />开发者工具安装完成后，打开并使用微信扫码登录。选择创建「项目」，填入上文获取到的 AppID，设置一个本地项目的名称（非小程序名称），比如「我的第一个项目」，并选择一个本地的文件夹作为代码存储的目录，点击「新建项目」就可以了。<br /><br />为方便初学者了解微信小程序的基本代码结构，在创建过程中，如果选择的本地文件夹是个空文件夹，开发者工具会提示，是否需要创建一个 quick start 项目。选择「是」，开发者工具会帮助我们在开发目录里生成一个简单的 demo。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2638/763c36f9-c85a-3215-80fe-3249dd2d85c1.png" /><br /></div><br />项目创建成功后，我们就可以点击该项目，进入并看到完整的开发者工具界面，点击左侧导航，在「编辑」里可以查看和编辑我们的代码，在「调试」里可以测试代码并模拟小程序在微信客户端效果，在「项目」里可以发送到手机里预览实际效果。<br /><br /><strong>3. 编写代码</strong><br /><br />点击开发者工具左侧导航的「编辑」，我们可以看到这个项目，已经初始化并包含了一些简单的代码文件。最关键也是必不可少的，是 app.js、app.json、app.wxss 这三个。其中，.js 后缀的是脚本文件，.json 后缀的文件是配置文件，.wxss 后缀的是样式表文件。微信小程序会读取这些文件，并生成小程序实例。<br /><br />下面我们简单了解这三个文件的功能，方便修改以及从头开发自己的微信小程序。<br /><br />app.js 是小程序的脚本代码。我们可以在这个文件中监听并处理小程序的生命周期函数、声明全局变量。调用 MINA 提供的丰富的 API，如本例的同步存储及同步读取本地数据。<br /><pre name="code" class="java">
+//app.js
+App({
+  onLaunch: function () {
+    //调用API从本地缓存中获取数据
+    var logs = wx.getStorageSync('logs') || []
+    logs.unshift(Date.now())
+    wx.setStorageSync('logs', logs)
+  },
+  getUserInfo:function(cb){
+    var that = this;
+    if(this.globalData.userInfo){
+      typeof cb == "function" &amp;&amp; cb(this.globalData.userInfo)
+    }else{
+      //调用登录接口
+      wx.login({
+        success: function () {
+          wx.getUserInfo({
+            success: function (res) {
+              that.globalData.userInfo = res.userInfo;
+              typeof cb == "function" &amp;&amp; cb(that.globalData.userInfo)
+            }
+          })
+        }
+      });
+    }
+  },
+  globalData:{
+    userInfo:null
+  }
+})
+</pre><br />app.json 是对整个小程序的全局配置。我们可以在这个文件中配置小程序是由哪些页面组成，配置小程序的窗口 背景色，配置导航条样式，配置默认标题。注意该文件不可添加任何注释。<br /><pre name="code" class="java">
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}
+</pre><br />app.wxss 是整个小程序的公共样式表。我们可以在页面组件的class属性上直接使用app.wxss中声明的样式规则。<br /><pre name="code" class="java">
+/**app.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+}
+</pre><br /><strong>4.创建页面</strong><br /><br />在这个教程里，我们有两个页面，index 页面和 logs 页面，即欢迎页和小程序启动日志的展示页，他们都在 pages 目录下。微信小程序中的每一个页面的【路径+页面名】都需要写在 app.json 的 pages 中，且 pages 中的第一个页面是小程序的首页。<br /><br />每一个小程序页面是由同路径下同名的四个不同后缀文件的组成，如：index.js、index.wxml、index.wxss、index.json。.js 后缀的文件是脚本文件，.json 后缀的文件是配置文件，.wxss 后缀的是样式表文件，.wxml 后缀的文件是页面结构文件。<br /><br />index.wxml是页面的结构文件：<br /><pre name="code" class="java">
+&lt;view class="container"&gt;
+  &lt;view  bindtap="bindViewTap" class="userinfo"&gt;
+    &lt;image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"&gt;&lt;/image&gt;
+    &lt;text class="userinfo-nickname"&gt;{{userInfo.nickName}}&lt;/text&gt;
+  &lt;/view&gt;
+  &lt;view class="usermotto"&gt;
+    &lt;text class="user-motto"&gt;{{motto}}&lt;/text&gt;
+  &lt;/view&gt;
+</pre><br />本例中使用了 、、来搭建页面结构，绑定数据和交互处理函数。<br /><br />index.js是页面的脚本文件，在这个文件中我们可以监听并处理页面的生命周期函数、获取小程序实例，声明并处理数据，响应页面交互事件等。<br /><pre name="code" class="java">
+//index.js
+//获取应用实例
+var app = getApp()
+Page({
+  data: {
+    motto: 'Hello World',
+    userInfo: {}
+  },
+  //事件处理函数
+  bindViewTap: function() {
+    wx.navigateTo({
+      url: '../logs/logs'
+    })
+  },
+  onLoad: function () {
+    console.log('onLoad')
+    var that = this
+    //调用应用实例的方法获取全局数据
+   app.getUserInfo(function(userInfo){
+      //更新数据
+      that.setData({
+        userInfo:userInfo
+      })
+    })
+  }
+})
+index.wxss是页面的样式表：
+
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+.userinfo-nickname {
+  color: #aaa;
+}
+.usermotto {
+  margin-top: 200px;
+}
+</pre><br />页面的样式表是非必要的。当有页面样式表时，页面的样式表中的样式规则会层叠覆盖 app.wxss 中的样式规则。如果不指定页面的样式表，也可以在页面的结构文件中直接使用 app.wxss 中指定的样式规则。<br /><br />index.json是页面的配置文件：<br /><br />页面的配置文件是非必要的。当有页面的配置文件时，配置项在该页面会覆盖 app.json 的 window 中相同的配置项。如果没有指定的页面配置文件，则在该页面直接使用 app.json 中的默认配置。<br /><br />logs的页面结构<br /><pre name="code" class="java">
+&lt;!--logs.wxml--&gt;
+&lt;view class="container log-list"&gt;
+  &lt;block wx:for-items="{{logs}}" wx:for-item="log"&gt;
+    &lt;text class="log-item"&gt;{{index + 1}}. {{log}}&lt;/text&gt;
+  &lt;/block&gt;
+&lt;/view&gt;
+</pre><br />logs 页面使用 控制标签来组织代码，在 上使用 wx:for-items 绑定 logs 数据，并将 logs 数据循环展开节点<br /><pre name="code" class="java">
+//logs.js
+var util = require('../../utils/util.js')
+Page({
+  data: {
+    logs: []
+  },
+  onLoad: function () {
+    this.setData({
+      logs: (wx.getStorageSync('logs') || []).map(function (log) {
+        return util.formatTime(new Date(log))
+      })
+    })
+  }
+})
+</pre><br />运行结果如下：<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2640/08cd2ab9-5c54-3e56-bd56-fc77db4fcbe7.jpg" /><br /></div><br /><strong>5.手机预览</strong><br /><br />开发者工具左侧菜单栏选择「项目」，点击「预览」，扫码后即可在微信客户端中体验。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2650/375bfd25-04c9-3c87-a255-931e3a460ad6.jpg" /><br /></div><br />目前，预览和上传功能尚无法实现，需要等待微信官方的下一步更新。<br /><br />如你所见，微信官方给出的开发指南还非常简单，很多细节、代码和功能都没有明确的展示，所以接下来就到博卡君展示实力的时候啦！开发教程正式开始！<br /><br /><strong>第一章：准备工作</strong><br />做好准备工作很重要。开发一个微信应用号，你需要提前到微信的官方网站（weixin.qq.com）下载开发者工具。<br /><br /><strong>1.下载最新微信开发者工具，打开后你会看到该界面：</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2658/6547146a-0f18-3006-b93d-3b939801699c.png" /><br /></div><br /><strong>2. 点击「新建 web+」项目，随后出现如下画面：</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2660/226dc6a6-d6d6-3f20-988c-87da7abb7165.jpg" /><br /></div><br /><strong>3. 该页面内的各项内容需要注意——</strong><br /><br /><ul><li>AppID：依照官方解释来填。</li><li>Appname: 项目最外层文件夹名称，如你将其命名为「ABC」，则之后的全部项目内容均将保存在「/ABC/…」目录下。</li><li>本地开发目录：项目存放在本地的目录。</li><li>注：再次强调，如果你和团队成员共同开发该项目，则建议你们使用同样的目录名称及本地目录，以确保协同开发的统一性。如果你之前已有项目，则导入过程与以上内容近似，不再赘述。</li></ul><br /><br /><strong>4. 准备工作全部完成后，点击「新建项目」按钮，弹出框点「确定」</strong><br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2662/91cbc54f-b115-349d-9889-15352673abd6.jpg" /><br /></div><br /><strong>5. 如上图所示，此刻，微信开发者工具已经为你自动构建了一个初始的demo项目</strong>，该项目内包含了一个微信应用项目所需具备的基本内容和框架结构。点击项目名称（图中即「cards」）进入该项目，就能看到整个项目的基本架构了：<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2668/4c0a9aba-74cf-39f5-a8ee-a0c0705388cc.jpg" /><br /></div><br /><strong>第二章：项目构架</strong><br />微信目前用户群体非常庞大，微信推出公众号以后，火爆程度大家都看得到，也同样推动着 Html 5 的高速发展，随着公众号业务的需求越来越复杂，应用号现在的到来也是恰到好处。<br /><br />博卡君发现，微信提供给开发者的方式也在发生全面的改变：从操作 DOM 转为操作数据，基于微信提供的一个过桥工具实现很多 Html 5 在公众号很难实现的功能，有点类似于 hybrid 开发，不同于 hybrid 开发的方式是：微信开放的接口更为严谨，结构必须采用他提供给的组件，外部的框架和插件都不能在这里使用上，让开发者完全脱离操作 DOM，开发思想转变很大。<br /><br />工欲善其事，必先利其器。理解它的核心功能非常重要，先了解它的整个运作流程。<br /><br />生命周期：<br /><br />在index.js里面：<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2670/fa449240-0cca-39b7-bee1-7f254d0081d5.jpg" /><br /></div><br />开发者工具上 Console 可以看到：<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2672/bbd6ecca-33de-35ba-893a-9161236fc599.jpg" /><br /></div><br />在首页 console 可以看出顺序是 App Launch–&gt;App Show–&gt;onLoad–&gt;onShow–&gt;onReady。<br /><br />首先是整个 app 的启动与显示，app 的启动在 app.js 里面可以配置，其次再进入到各个页面的加载显示等等。可以想象到这里可以处理很多东西了，如加载框之类的都可以实现等等。<br /><br /><strong>路由：</strong><br /><br />路由在项目开发中一直是个核心点，在这里其实微信对路由的介绍很少，可见微信在路由方面经过很好的封装，也提供三个跳转方法。<br /><br />wx.navigateTo(OBJECT)：保留当前页面，跳转到应用内的某个页面，使用wx.navigateBack可以返回到原页面。<br /><br />wx.redirectTo(OBJECT)：关闭当前页面，跳转到应用内的某个页面。<br /><br />wx.navigateBack()：关闭当前页面，回退前一页面。<br /><br />这三个基本上使用足够，在路由方面微信封装的很好，开发者根本不用去配置路由，往往很多框架在路由方面配置很繁琐。<br /><br /><strong>组件：</strong><br /><br />此次微信在组件提供方面也是非常全面，基本上满足项目需求，故而开发速度非常快，开发前可以认真浏览几次，开发效率会很好。<br /><br /><strong>其它：</strong><br /><br />任何外部框架以及插件基本上无法使用，就算原生的 js 插件也很难使用，因为以前的 js 插件也基本上全部是一操作 dom 的形式存在，而微信应用号此次的架构是不允许操作任何 dom，就连以前开发者们习惯使用的动态设置的rem.js也是不支持的。<br /><br />此次微信还提供了 WebSocket，就可以直接利用它做聊天，可以开发的空间非常大。<br /><br />跟公众号对比博卡君发现，开发应用号组件化，结构化，多样化。新大陆总是充满着惊喜，更多的彩蛋等着大家来发现。<br /><br /><strong>更多信息请点击原文链接：<a target="_blank" href="http://xituqu.com/508.html">http://xituqu.com/508.html</a></strong>
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31862#comments" style="color:red;">已有 <strong>1</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Tue, 27 Sep 2016 15:48:33 +0800</pubDate>
+        <link>http://www.iteye.com/news/31862</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31862</guid>
+      </item>
+          <item>
+        <title>百度正式宣布推出深度学习开源平台PaddlePaddle</title>
+        <description>
+          <![CDATA[
+          百度近日正式对外宣布开放其深度学习开源平台PaddlePaddle，这也是继Google、Facebook、IBM后又一家将人工智能技术开源的公司。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2678/3a195cec-f72e-31e3-ac14-92a17a946ec6.jpg" /><br /></div><br />PaddlePaddle的前身是百度于2013年自主研发的深度学习平台Paddle（Parallel Distributed Deep Learning，并行分布式深度学习），且一直为百度内部工程师研发使用。<br /><br />PaddlePaddle在深度学习框架方面，覆盖了搜索、图像识别、语音语义识别理解、情感分析、机器翻译、用户画像推荐等多领域的业务和技术。今年9月1日百度世界大会上，百度首席科学家Andrew Ng（吴恩达）首次宣布将百度深度学习平台对外开放，命名PaddlePaddle。<br /><br />目前，PaddlePaddle已实现CPU/GPU单机和分布式模式，同时支持海量数据训练、数百台机器并行运算，以应对大规模的数据训练。此外，PaddlePaddle具备高质量GPU代码，提供了Neural Machine Translation、推荐、图像分类、情感分析、Semantic Role Labelling等5个Task，每个Task都可迅速上手，且大部分任务可直接套用。<br /><div style="text-align: center;"><br /><img src="http://dl2.iteye.com/upload/attachment/0120/2682/7da2f5b0-c346-3e54-a45a-698e1649ff5d.jpg" /><br /></div><br /><div style="text-align: center;">PaddlePaddle研发负责人徐伟</div><br />百度资深科学家、PaddlePaddle研发负责人徐伟介绍：“在PaddlePaddle的帮助下，深度学习模型的设计如同编写伪代码一样容易，设计师只需关注模型的高层结构，而无需担心任何琐碎的底层问题。未来，程序员可以快速应用深度学习模型来解决医疗、金融等实际问题，让人工智能发挥出最大作用。”<br /><br />目前，PaddlePaddle已在百度30多项主要产品和服务之中发挥着作用，如外卖的预估出餐时间、预判网盘故障时间点、精准推荐用户所需信息、海量图像识别分类、字符识别（OCR）、病毒和垃圾信息检测、机器翻译和自动驾驶等领域。以外卖行业为例，外卖员等待商家出餐的时间耗时严重，百度将不同时段商家的客流量、菜品的制作时间和订单量等数据交给了PaddlePaddle，经过对海量数据的深度学习处理，如今，百度外卖的内部系统可以预估每个商家菜品出餐时间，及时告知外卖员，提高了送餐效率，系统也可以更加合理地规划取餐和送餐的路线。<br /><br />早在今年1月份，百度便将可让人工智能软件运行更高效的关键代码Warp-CTC开源。该代码可直接用在当前的人工智能框架中，不仅比传统CTC训练速度快百倍，还大幅降低了对硬件的要求，缩短了研发的周期，让端到端的深度学习变得简单、快速。<br /><br />据百度方面透露，9月底百度还将发布PaddlePaddle的新版本，将全面支持Mac操作系统、以及Cuda8.0和GCC5.4的支持，同时进一步优化了安装过程，帮助更多开放者更好地“上手”。<br /><br />公开资料显示，谷歌于去年11月发布并开源了新的机器学习平台TensorFlow，供相关技术人员进行语音识别或照片识别等多项机器深度学习领域的研究；IBM几乎同步采取了行动，于去年11月底宣布通过Apache软件基金会免费为外部程序员提供System ML人工智能工具的源代码；社交巨头Facebook，继去年1月公开多款深度学习人工智能工具后，又于去年12月开源了Big Sur人工智能硬件架构。（李根）<br /><br />来自：新浪科技
+          <br/><br/>
+          感谢 <a href="http://mengyidan1988.iteye.com">mengyidan1988</a> 投递这篇资讯
+                    
+          
+          <br/><br/>
+          <span style="color:red;">
+            <a href="http://www.iteye.com/news/31863#comments" style="color:red;">已有 <strong>4</strong> 人发表留言，猛击-&gt;&gt;<strong>这里</strong>&lt;&lt;-参与讨论</a>
+          </span>
+          <br/><br/><br/>
+<span style="color:#E28822;">ITeye推荐</span>
+<br/>
+<ul><li><a href='/clicks/433' target='_blank'><span style="color:red;font-weight:bold;">—软件人才免语言低担保 赴美带薪读研！— </span></a></li></ul>
+<br/><br/><br/>
+          ]]>
+        </description>
+        <pubDate>Tue, 27 Sep 2016 15:37:11 +0800</pubDate>
+        <link>http://www.iteye.com/news/31863</link>
+        <guid isPermaLink="false">http://www.iteye.com/news/31863</guid>
+      </item>
+      </channel>
+</rss>

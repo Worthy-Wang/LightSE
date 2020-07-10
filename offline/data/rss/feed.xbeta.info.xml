@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>善用佳软</title>
+	<atom:link href="https://xbeta.info/feed" rel="self" type="application/rss+xml" />
+	<link>https://xbeta.info</link>
+	<description></description>
+	<lastBuildDate>Fri, 14 Oct 2016 12:33:13 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>[转]反对修订《美国联邦刑事诉讼规则和证据规则》第 41 条</title>
+		<link>https://xbeta.info/rule-41.htm</link>
+		<comments>https://xbeta.info/rule-41.htm#respond</comments>
+		<pubDate>Fri, 05 Aug 2016 05:44:01 +0000</pubDate>
+		<dc:creator><![CDATA[善用佳软]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://xbeta.info/?p=1886</guid>
+		<description><![CDATA[反对修订《美国联邦刑事诉讼规则和证据规则》第 41 条]]></description>
+				<content:encoded><![CDATA[<p>收到一位国外朋友的邮件，建议转发<a href="https://zh.vpnmentor.com/blog/fight-rule-41/">对美国拟修订第41条规则的抵制</a>。大概研究了一下， 《美国联邦刑事诉讼规则和证据规则》第 41 条为「<a href="https://www.law.cornell.edu/rules/frcrmp/rule_41">搜查和扣押</a>」 。美国政府准备修订相关条款，而该修订行为会对个人信息安全造成损害。美国很多科技媒体、社群、个人，都在抵制这一修订。转发一下，也欢迎大家发表意见。毕竟，这个世界是紧密联系在一起的！</p>
+<blockquote>
+<h2>不要让美国政府侵入个人的计算机 – 停止修订第41条规则</h2>
+<p>Ariel Hochstadt (前谷歌雇员，国际科技讲师)</p>
+<p><img class="alignnone" src="http://ww1.sinaimg.cn/large/46dac66fgw1f6it7uzo7nj20hs05xwes.jpg" width="640" height="213" /></p>
+<p>美国政府希望采用一种模糊不清的程序——修订一条称为第41条规则的联邦规定——从而充分扩大他们侵入我们计算机的权限。第41条规则的修订将会使其更容易闯入我们的计算机、收集数据、进行远程监控。这些修订可能会影响在世界任何地方使用联网计算机的任何人。然而，他们对采用隐私保护技术如Tor和 VPN的人员的影响则不尽相同。美国国会直到12月1日才可阻止修订的生效。我们需要大声疾呼。与你的朋友以及在你的博客上分享这个帖子。提高人们对修订第41条规则的意识！</p>
+<h2>什么是第41条规则？它如何对生活在美国之外的你产生影响？</h2>
+<p>第41条规则授权联邦治安法官签发执法搜索和查封的许可。但它含有一条重要限制：它要求政府必须获得其所欲执行搜索的管辖区域法官的许可，某些有限的情况除外。第41条规则的修订将会削弱这条限制，允许政府在某一管辖区域申请许可，执行对位于另一管辖区域的计算机的远程搜索。修订将会适用于下列情况：<br />
+* 有人采用“技术手段”隐藏其计算机的位置时；或<br />
+* 调查僵尸网络时，此时受损的计算机位于5个或更多行政区。</p>
+<p>50家组织 – 包括公共利益集团、隐私工具提供商以及因特网公司 – 团结起来，大声疾呼，反对修订第41条规则。vpnMentor与noglobalwarrants.org协调一致，领导要求撤销所提议的第41条规则修订的全球性努力。虽然noglobalwarrants.org专注于美国公民，鼓励他们联系其国会代表，但对这条规则的全球性意识依然极为重要，因为<strong>美国政府也将能够侵入采用 VPN 或 Tor 浏览器的全球用户。</strong>这就是我们将“行动呼吁”翻译为26种语言、尽最大努力在全球分享的原因。</p>
+<p>reject rule 41 changes</p>
+<h2>修订第41条规则错在哪里？</h2>
+<p><strong>规则修订可能会极大增加执法人员侵入我们计算机的频率。</strong>这是因为修订条款将会授权这个国家几乎任何联邦治安法官签发这类许可。执法人员可择地诉讼，找到美国最利于起诉或最不懂技术的地方法官，签发这些危险的许可。根据这些规则的修订条款，如果人们的隐私保护技术使其计算机的位置模糊不清，美国几乎任何行政区的法官都可能授权执法人员远程搜索或侵入他们的计算机。这就意味着，极其在意隐私的人有可能受到这一规则修订大小不一的影响。</p>
+<p>在很多情况下，地方法官可能会不顾其他国家的法律保护，<strong>在不知情的情况下签发侵入位于世界各地，</strong>而非只是美国的计算机的许可。</p>
+<p>规则修订还会致使执法人员寻求远程搜索成千上万计算机的单一许可 – 违反美国宪法第四条修正案和国际人权法的保护条款。</p>
+<p>非法侵入 – 秘密闯入计算机、复制数据、删除数据或执行代码 – 可能会对用户及其设备产生严重后果。比之僵尸网络本身，政府代表实际上可能会在僵尸网络调查期间对无辜用户的计算机造成更大的损害。如果国会采取极端措施，授权政府非法侵入，则必须对何时允许此类行动进行严格限制，对遵守美国宪法和国际法的用户给予强有力的保护。</p>
+<p>如果美国国会不采取行动，<strong>这条新规则的更新则将于2016年12月1日生效。</strong>这就是我们必须大声疾呼，要求否决这一规则修订的原因。在社交网络和你的博客上分享这条帖子吧。</p></blockquote>
+-- <a href="http://xbeta.info">http://xbeta.info</a>　　<small>( 6793ee6ca67cfacc9d4333d9ae43a11b)</small>]]></content:encoded>
+			<wfw:commentRss>https://xbeta.info/rule-41.htm/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>麦步智能手表试用体验：超长待机是硬道理，开放平台是未来</title>
+		<link>https://xbeta.info/maibu-watch.htm</link>
+		<comments>https://xbeta.info/maibu-watch.htm#comments</comments>
+		<pubDate>Fri, 22 Apr 2016 13:11:38 +0000</pubDate>
+		<dc:creator><![CDATA[善用佳软]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://xbeta.info/?p=1876</guid>
+		<description><![CDATA[2 周前，收到麦步智能手表的邮件：介绍其特点，询问试用意向。读完邮件，印象很好：文字、配图都比较详细，也写了不少针我的个性内容，十分用心。而智能手表作为新兴事物，难免存在众多不足。无论当下领先一点、落后一点，只要用心，坚持就能做好。介绍的产品特点——智能手表上的番茄钟 app、超长待机，又继续增加了印象分。我进而看其官网，见到「极客实验室」、「麦步应用遵循知识共享协议」的用语，印象分继续加持。于是，接受试用，等待发货。
+<span class="readmore"><a href="https://xbeta.info/maibu-watch.htm" title="麦步智能手表试用体验：超长待机是硬道理，开放平台是未来" target="_blank">......(共3896字)</a></span>]]></description>
+				<content:encoded><![CDATA[<p>2 周前，收到<a href="http://maibu.cc/">麦步智能手表</a>的邮件：介绍其特点，询问试用意向。读完邮件，印象很好：文字、配图都比较详细，也写了不少针我的个性内容，十分用心。而智能手表作为新兴事物，难免存在众多不足。无论当下领先一点、落后一点，只要用心，坚持就能做好。介绍的产品特点——智能手表上的番茄钟 app、超长待机，又继续增加了印象分。我进而看其官网，见到「极客实验室」、「麦步应用遵循知识共享协议」的用语，印象分继续加持。于是，接受试用，等待发货。</p>
+<h2>开机体验</h2>
+<p>关注开箱图和细节，参见：<a href="http://www.appinn.com/maibu-watch/" target="_blank">用了 2 周「麦步智能手表」，它是这个样子的｜小众软件</a></p>
+<p>总体来说，开机过程非常流畅，对普通用户（当然不是全体人，而是有较大概率的潜在用户），不存在任何问题。在蓝牙配对成功、表/机相连的时刻，考虑到很可能是人们第一次佩戴智能手表，所以，不妨做得更有仪式感。比如在手机端出现一个特殊的页面，并允许分享到社交网络。</p>
+<p>开机过程中看到了电量，还有一大半。基于对「超长3周待机」的信任，直接使用，懒得充电。</p>
+<p>开机后，默认表盘实用而简洁，非常简洁：</p>
+<ol>
+<li>省电屏幕，只有黑白两色。</li>
+<li>上部，约占屏幕 60%，是黑底白字
+<ul>
+<li>第一行是星期、日期，小字，最简洁的格式： 周五 4/22</li>
+<li>第二行是时间，大字，也是最简洁的格式： 15:57</li>
+</ul>
+</li>
+<li>下部，约占屏幕 40%，是白底黑字，大字显示当天的运动步数。</li>
+</ol>
+<p><img class="alignnone" src="http://ww1.sinaimg.cn/large/46dac66fgw1f35r698a4gj207p093jry.jpg" width="277" height="327" /></p>
+<p>同事看到后，直接表示：他一直寻找的跑步设备就是——比手机更便携、能显示时间、能记录运动。</p>
+<h2>关于「智能」的体验</h2>
+<p>在我看来，可穿戴设备的「智能」，有三项主要意义。</p>
+<p><strong>一是消息提醒功能：</strong>智能手机的提醒消息，通过近场蓝牙，传送到手表上。</p>
+<p>人与工具（尤其是手机、穿戴设备、PC）这样的高级工具，越来越集成为一个系统，共同与外部世界交互。但同时，因为工具（或工具系统）复杂性的提升，人机界面也在不断进化整合。最明显的例子，先是工具输入端的「inbox/收件箱」，后是工具输出端的「notification center/通知中心」。而可穿戴设备，在传统的收集方面，并无优势。相比而言，通知中心的价值尤显重要。</p>
+<p>我自己的手机提醒，已经做过长期的优化、自定义，提醒项数量频度符合我的需求。因此，我没有关注是否有手机→手表的中间过滤机制。</p>
+<p>实用体验来看，确实比手机方便了不少。抬腕即看，比从口袋/桌上拿起手机，更为快捷。有时走在路上，手机收到消息提醒，你可能不方便查看，又担心错过消息。但手表几乎消除这个死角场景。</p>
+<p>而同时，虽然开了蓝牙，但减少了手机的操作，手机待机时间或许更长。——这个附加价值，也是我很看重的。比如，我推荐 Kindle 的一个理由，就是让 iPhone 待机变长 :-)</p>
+<p>另外，震动提醒（目前震动力度稍弱，需要像小米手环那样，更强一些），也减少了对他人的干扰。</p>
+<p><img class="alignnone" src="http://ww3.sinaimg.cn/large/46dac66fgw1f35refeulij20800930tg.jpg" width="288" height="327" /> <img class="alignnone" src="http://ww4.sinaimg.cn/large/46dac66fgw1f35re9tptrj2086093jsb.jpg" width="294" height="327" /> <img class="alignnone" src="http://ww2.sinaimg.cn/large/46dac66fgw1f35rdrfl94j207u093750.jpg" width="282" height="327" /></p>
+<p><strong>二是可以安装app</strong></p>
+<p>对手表而言，表盘是一类特殊的 app，很容易体现个性化。所以，官方区分了表盘和功能应用，做了区分。<br />
+表盘：表盘实际就是一个桌面app，相当于一直开启，显示最常用的信息。在开机体验中，也介绍了「星期+日期+时间+步数」的默认表盘。此外，官方提供了多种表盘，有能力的用户也可以自己开发表盘，来展示更多信息，或采取不同的样式。我作为一个实用主义者，非常满意默认表盘，在商店预览了所有表盘后，基本没有尝试。</p>
+<p>应用：目前应用数量不多，限于硬件性能、展现面积，并没有特别让人眼前一亮的应用。</p>
+<p>但几个效率类应用，值得特别说一下：</p>
+<ol>
+<li>番茄钟：我一直觉得，作为一款「计时」工具，番茄钟若非独立实体，最合适的虚拟环境就一定是手表。因为它天生就是专为计时而生！推荐试用+使用。</li>
+<li>滴答清单：能同步 5 条任务，每条任务显示的字数也比较少，主要起提醒作用。可以在手表上查看任务，也可以「确定」标记为完成。但偶尔会出现与手机端滴答清单app失去连接的情况。（此时，手表手机的蓝牙连接仍然正常）不过，仍然赞一下麦步与滴答两家，对时间管理爱好者的支持，和创新的勇气！相信在几款时间管理工具相差无几的情况下，对手表端的支持，或许成为选择的关键因素。</li>
+<li>记事表盘：虽然是表盘，但也算是提醒、效率类。适合把自律自勉的话，放在表盘上，时刻提醒。变态一点，也可以把要记忆的内容，发送到表盘上。</li>
+</ol>
+<p><img class="alignnone" src="http://ww1.sinaimg.cn/large/46dac66fgw1f35rt22mrrj207q093ab7.jpg" width="278" height="327" /> <img class="alignnone" src="http://ww1.sinaimg.cn/large/46dac66fgw1f35rt9cfi3j20960930td.jpg" width="330" height="327" /> <img class="alignnone" src="http://ww2.sinaimg.cn/large/46dac66fgw1f35rtdltoxj208g0930t8.jpg" width="304" height="327" /></p>
+<p>闹钟功能：最初使用时，发现手表本身除了「整点提醒」外，没有闹钟功能。应用市场有「静音闹钟」，还提醒占用较大存储空间，也让人感觉不太放心。后来，iOS手机端继安卓手机端之后，也增加了闹钟功能：手机上设置，同步到手表。但使用过程中，仍然有些不方便。或许有技术原因，但我坚持认为，手表上直接设置闹钟，应该是基本功能。如果做同步，那应该把手机系统设置的闹钟，直接可选择地传到手表。</p>
+<p>整点提醒：因为震动稍弱，此功能有时感知不到；有时感知到了，以为有消息提醒，看表，疑惑一下，才想起是整点；至今仍然不理解的是：夜间的震动是自动关闭了？还是我睡熟了没有感觉到？</p>
+<p>总体来看，麦步在效率应用上，是特别用心的。这方面有需求的朋友，可多关注、多尝试、多反馈，相信厂家会快速跟进的。</p>
+<p><strong>「智能」的第三个含义是人性化，</strong>是在前面基本功能做到的情况下，更人性的做法。比如，现在设置中的「晃动亮屏」，思路很好，但我这里无效。我相信随着传感器的进步、大数据算法的改进，未来会有更多更人性化的场景。仅就上文中提到的 2 个场景进行展开：</p>
+<ol>
+<li>抬腕亮屏：什么算抬腕，通过算法/反馈学习用户习惯去判断；如果光线亮，也不必要亮屏；用户一直抬着手腕，屏幕背光就不要关闭。</li>
+<li>震动提醒：不同环境的强度，应该是不同的；不同类型的提醒，也可以是不同的节奏；用户抬腕之后，震动就应该停止了。</li>
+</ol>
+<h2>「智能」之外的功能，也很重要</h2>
+<h3>手表</h3>
+<p>智能手表，首先是手表。而手表，作为一个独立产品、行业，需求已经被证明。因此，单从「时间」感这个维度上，就足以发掘很多用户。很多年轻人已经没有佩戴手表的习惯，但作为「手表+」，接受起来就容易得多。对那些有戴表习惯的用户，「手表+」的概念也容易转换。我之前不佩戴手表，要看时间就需要掏出手机，不仅不方便，还会出现这种情况：打开手机，发现一个提醒消息，看一下或处理一下，又放回了口袋——然后意识到刚才是要看时间！佩戴手表期间，对时间的掌控、减少手机的使用频次，都有明显改善。</p>
+<p>与手环对比，能更好理解「手表」的基础定位。手环，几乎是全新无依托的事物。我不知道其他用户的情况如何，我自己使用过一段时间的小米手环后，最后还是停用送人了。</p>
+<p>因此，智能手表，是基于手表的7分功能，增加2分新功能，再增加1分有趣，就有很大市场。而智能手环，抛开价格便宜的因素，实用功能，尤其是强需求的实用功能，其实不多。</p>
+<h3>计步</h3>
+<p>计步是一个简单，但容易快速吸引用户的功能。</p>
+<p>需要「计时+计步」功能的同事，非常有兴趣的试用了麦步手表。尽管几天后归还，表示功能还是太简单不满足需求——跑步需要 GPS、速度……</p>
+<p>我女儿，刚 6 周岁，上学路上佩戴手表，格外高兴。走几步就看一下步数、时间。</p>
+<h2>其他感想</h2>
+<h3>不要夸大智能</h3>
+<p>我自己，并不是「智能」设备的狂热用户，更算是一个宏观上抱着信心和支持，但微观上持实用主义。这大概与我的年纪有关，也与我从事「智能电视」创业有关。「智能」设备，最典型的当然是手机。而「智能」手机也确实不负这个称呼，完全超越了手机打电话、发短信的功能，几乎具备了计算机的大部分功能，并且体验极佳，称为「智能」，实至名归。而「智能电视」，则因为行业在硬件、设计方面的历史包袱、落后、懒惰，仍然很难使用。冠以「智能」，固然是用了同样的 Android 系统，但更是为了营销的需要、估值的需要。所以，在用户看来，智能手机，确实是能做很多事，并且真带来生活改变、日常惊喜的手机。而智能电视，则更多是「能上网、价格便宜，但自己也没觉得有什么不同」的电视。</p>
+<p>夸大智能，不一定是厂家本意。很多情况下，因为风险投资的参与，就要追求极限（甚至超越客观规律）的增长率，带来了透支性、过度宣传、超前宣传。</p>
+<p>苹果手表：只简单试用过，但我宁可用黑白屏换取长待机。</p>
+<h3>用心积累</h3>
+<p>文中所述，试用手表之前的好感，来自于邮件的用心、官网体现的理念。有付出，细心的用户一定能感受到。</p>
+<p>试用几天之后，突然想起：不久前在朋友圈见过佐拉的文章，似乎就是麦步。核实，果然。因为佐拉的好评，以及他还动手制作了表盘的参与，更拉近了距离。</p>
+<p>滴答：作为先开拓国际市场，后开拓国内市场的优秀产品，很多重度或早期的时间管理爱好者已经选定了自己的工具。但他们对智能手表这一新兴领域的重视、抢先支持，肯定会在新用户、及老用户再次选择时，取得先机。至少在我，虽然没有从目前的主力工具转移到滴答，但印象分至少增加了5分。</p>
+<h3>工具只是工具，善用才是王道</h3>
+<p>早上送女儿上学，麦步手表都是她戴着。那天刚好生日，我就用妻子的手机给我发微信：安安，祝你生日快乐！小家伙感到震动，抬腕查看，惊喜有加！（后续：过了会儿，她说：爸爸，肯定是你发的。为什么能在手表上显示啊。于是我讲了 妈妈的手机→基站→千里之外腾讯服务器→基站→我手机→蓝牙到手表的 路径，小家伙表示很有意思）</p>
+<p>麦步市场中，有个特别的「手机防丢表盘」，就是巧妙利用了手机随身，如果蓝牙断开，则自动提醒的功能。那么，稍加改进，也可以在特殊情况下，让孩子佩带手表，启用安全模式，在断开时手机端也向家长进行提醒。</p>
+<h2>总结</h2>
+<p>作为一款简洁实用的手表，超长待机、消息提醒，这两项功能足以保证它可以长期使用。而开放的系统，又为它提供了足够的扩展空间。所以，想尝试智能手表的朋友，不妨从麦步 开始。</p>
+<p><a href="https://maibu.tmall.com/?spm=a1z10.1-b.1997427721.d4918105.N1fjH6">官方售价 399 元</a>。麦步 官方向善用佳软的读者赠送了优惠码——但是，为了更方便，大家还是直接用小众软件的优惠吧，哈哈：领取天猫优惠券！</p>
+<p>PS：如果大家有兴趣，可以留言，说不定能争取更多流转试用的机会。</p>
+-- <a href="http://xbeta.info">http://xbeta.info</a>　　<small>( 6793ee6ca67cfacc9d4333d9ae43a11b)</small>]]></content:encoded>
+			<wfw:commentRss>https://xbeta.info/maibu-watch.htm/feed</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>【转载+补充】最强免费萤幕录影软体 ActivePresenter 教学影片神器</title>
+		<link>https://xbeta.info/activepresenter.htm</link>
+		<comments>https://xbeta.info/activepresenter.htm#comments</comments>
+		<pubDate>Tue, 12 Apr 2016 23:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[善用佳软]]></dc:creator>
+				<category><![CDATA[2 图像影音]]></category>
+		<category><![CDATA[录屏软件]]></category>
+
+		<guid isPermaLink="false">http://xbeta.info/?p=1835</guid>
+		<description><![CDATA[2016-04-12 更新：感恩 yuxiaoxu 网友，AP 的简体/繁体中文语言包已经翻译并发布了。大家可以下载后，解压到 AP 安装目录的 ……\ActivePresenter\locales\ 下，然后 view → language 切换到「简体中文」，重新启动即可生效。下载 http://xici800.cn/5opXo2
+<span class="readmore"><a href="https://xbeta.info/activepresenter.htm" title="【转载+补充】最强免费萤幕录影软体 ActivePresenter 教学影片神器" target="_blank">......(共5298字)</a></span>]]></description>
+				<content:encoded><![CDATA[<p>2016-04-12 更新：感恩 yuxiaoxu 网友，AP 的简体/繁体中文语言包已经翻译并发布了。大家可以下载后，解压到 AP 安装目录的 ……\ActivePresenter\locales\ 下，然后 view → language 切换到「简体中文」，重新启动即可生效。下载 <a href="http://xici800.cn/5opXo2">http://xici800.cn/5opXo2</a></p>
+<h2>xbeta序</h2>
+<p>看到电脑玩物发了<a href="http://atomisystems.com/activepresenter/free-edition/" target="_blank">ActivePresenter</a> 的文章，非常高兴和激动。我几年来介绍ActivePresenter的愿望，终于由老朋友代为实现了。先说结论：<strong>来自越南的 ActivePresenter 是最强大的免费录屏软件，相当于 BB FlashBack 的收费版，非常适合『有更高要求+愿花时间学习复杂软件+愿花时间精心编辑录屏视频』的用户。</strong></p>
+<h3>1、令人赞叹的 ActivePresenter</h3>
+<p>ActivePresenter 绝对是功能最强大的免费录屏软件（另有收费版）。但非常可惜，无论在国内还是国外，它的知名度都很低。</p>
+<p>从技术角度，AP是一款非常强大的软件，并且无论官网设计还是软件UI，都是大公司风范。如果其他软件算是“录屏软件”的话，那对AP来说，“录”只是它的1/3功能，此外的“制作”和“编辑”的功能，也极为强大。比如，一个视频项目可以由多个slide（本意是幻灯片的一页，但我认为理解为一节视频更合适）组成，每个slide可以是图片、ppt、视频；每个slide可以添加多层对象、多音轨；每个对象/音轨，可以进行多种编辑——分割、起止时间、截取片段……</p>
+<p>从商业角度，AP的免费版提供了大量在其他软件的收费版才具有的功能。甚至，一般用户都没有必要购买它昂贵的收费版。</p>
+<p>而还有两项一般用户不太注意的地方，也令人赞叹：它的帮助文档（如图），简直可与早期的电器说明手册相媲美。而它的出处，更是让人意想不到：<span style="color: #ff0000;">ActivePresenter 来自越南</span>~ 公司所在地就在越南河内。这大概是它没能被搜索引擎、科技媒体、软件爱好者广泛发现的原因。</p>
+<p><img class="" src="http://img.xbeta.info/2016/ap-3.png" alt="超级详细的ActivePresenter帮助文档" width="509" height="422" /></p>
+<h3>2、为什么迟迟没有介绍 ActivePresenter</h3>
+<p>我早期写博客文章，无知无畏，所以写了很多Vim和Total Commander的文章。越到后面，越感觉难以下笔，尤其是面对一些极其优秀的软件。</p>
+<p>比如当时面对 ActivePresenter ，我的感觉是：</p>
+<ul>
+<li>从文章看，要写近万字才有介绍全它的功能。但如此长文，如何还能引起读者的阅读兴趣？如何让文章与作品同样优秀？在当时的精力下，都比较困难。</li>
+<li>这样复杂的软件，只有文章恐怕仍不易入门，最好有视频教程……</li>
+<li>竟然出自越南，我应该采访一下开发团队，并促成国内合作。</li>
+<li>不过，联系采访之前是不是应该把官网先翻译了……</li>
+</ul>
+<p>其实上面每一项都启动过，但也都没有完成。所以，积累了一些素材，但文章始终没发。</p>
+<h3>3、接触与使用 ActivePresenter 的历程</h3>
+<p>2013年12月，研究录屏软件时，在为知笔记中记录了 ActivePresenter 3个版本（当时只有免费/标准/专业版，尚无现在的教育版）之<a href="http://atomisystems.com/activepresenter/features-comparison/" target="_blank">功能对比</a>，做了大部分翻译。此后有大量各软件录制视频的参数对比记录。</p>
+<p>2013年2月，用它制作了一段给女儿讲故事的视频：①把女儿的绘本每页拍照；②各照片导入ActivePresenter，成为N个片段；③讲故事并录音；④把录音文件用<a href="http://xbeta.info/audacity-recorder.htm" target="_blank">Audacity</a>去除噪音，并分割；④在AP中，N幅照片与N段录音融合；⑤导出视频。</p>
+<p>2015年7月，用ActivePresenter录制了一些公开发布的视频（当时是刚发现B站的无二压上传）。用AP主要是为了添加封面和目录。</p>
+<p>比如 <a href="http://www.bilibili.com/video/av2614560/" target="_blank">《在TC中一键压制x264视频》</a> 中明显不是直接录制的视频，实际前几段都是用ActivePresenter制作的，导入图片再添加文字（或者直接在PowerPoint中制作并导入ActivePresenter）；后面的目录字幕，也是用AP添加的。如图：<br />
+<a href="http://img.xbeta.info/2016/ap-2.png"><img class="alignnone" src="http://img.xbeta.info/2016/ap-2.png" alt="用ActivePresenter录制TC相关视频的界面" width="800"/></a></p>
+<p><a href="http://www.bilibili.com/video/av2640528/">邮箱大师 Windows版的安装与基本界面</a> 视频中，开篇的语音就是利用AP的功能自动生成的！也就是说，我标注上文字，就可以让AP来自己配音：男声、女声、时长……见图：<br />
+<a href="http://img.xbeta.info/2016/ap-1.png"><img class="alignnone" src="http://img.xbeta.info/2016/ap-1.png" alt="ActivePresenter文字转语音功能" width="800" /></a></p>
+<h3>4、ActivePresenter的功能补充</h3>
+<h4>A。各版本功能比较</h4>
+<p>3个版本（免费/标准/专业）共有的功能：</p>
+<ol>
+<li>导出图片 (PNG, JPEG)</li>
+<li>导出视频(AVI, MPEG4, WMV, WebM, MKV)</li>
+<li>导出SCORM 1.2, SCORM 2004</li>
+</ol>
+<p>标准版和专业版的额外功能：</p>
+<ol>
+<li>导出flash（flv）</li>
+<li>导出HTML幻灯片</li>
+<li>导出PDF</li>
+<li>导出MS Word</li>
+<li>导出MS Excel</li>
+<li>导出MS PowerPoint</li>
+<li>导入MS PowerPoint</li>
+</ol>
+<p>专业版独有的功能：</p>
+<ol>
+<li>导出HTML5交互</li>
+<li>导出flash交互</li>
+</ol>
+<p>从上面的对比来看，免费版仿佛功能很少。但实际上，上述对比仅限于导入/导出功能。而该软件强大的录制、编辑功能，在各个版本都是具备的。它们包括——</p>
+<ol>
+<li>智能录制：在鼠标或键盘按下时，捕获屏蔽。每个动作将形成独立的片段（slide），这样既方便后续编辑，也方便观众/用户仔细了解每个操作步骤。</li>
+<li>完整动作录制（FMR：Full Motion Recording）：把完整的屏幕操作录制下来，并作为一个片段（slide），后续可以编辑——文字注释、语音解说、点击声音、标题、过渡效果……</li>
+<li>交互与分支：录制教程并用AJAX/Flash模拟格式发布后，用户可以通过点击等方式进行交互，教程会根据用户的行为反馈不同内容。</li>
+<li>音频视频编辑：可以同时或分别对视频、音频的不同音轨进行编辑：剪切、删除、裁剪、合并、分割、改变音量、添加冻结帧。</li>
+<li>事件与动作：丰富灵活的事件-动作机制，可以定义不同的学习场景、步骤，来响应用户的不同行为。比如，用户鼠标左击如何，右击如何，正确如何，错误如何……</li>
+<li>标注样式：录制内容上还可以添加各种标注。并且这些标注支持不同的边框线型、填充、文字效果、阴影。</li>
+<li>过渡效果：对片段、视频、标注对象，都可以添加丰富的过渡效果。</li>
+<li>智能标注：会根据你的动作自动添加标注，比如“双击xx图标”。这样制作教程非常迅速。</li>
+</ol>
+<p>关于导出，不仅可以导出AVI, FLV, WMV,  MP4，WebM（较新格式，目前实用性不强，但体现了软件的前瞻性）等视频格式，并且支持帧频、关键帧、质量等参数，以便于平衡视频质量与文件大小。并且可以导出HTML5，这样在PC、平板、手机的浏览器中都能正常运行。</p>
+<p>注：SCORM是一种数字教学内容的格式规范。全称 Shareable Content Object Reference Model，译为共享内容对象参考模型或共享组件引用模式，由ADL (Advanced Distribution Learning Initiative)集成各个学习标准制定而成。</p>
+<h3>5、录屏方案的选择</h3>
+<p>对ActivePresenter的赞叹和欣赏是一方面，但从实用角度，估计大多数人是不需要它的。功能虽然强大，但操作起来也比较繁琐。实际上，我自己的录屏方案是这样的：</p>
+<ol>
+<li><a href="http://xbeta.info/free-wink.htm">wink</a> 已经停用：最早推荐方案是Wink，原因是录制flash教程画面无损、体积超小、精确交互。但现在，flash时代已经过去，尤其难以找到上传空间。并且，软件久不更新（该团队后面还开发过手机上录屏直播的app）。</li>
+<li><a href="http://www.tlxsoft.com/index1.htm" target="_blank">屏幕录像专家</a>：界面很简陋但性能很好的国产软件。我是付费用户，但不注册的使用限制也比较少。它的优点是适合长时间录制，占用资源少，操作便捷，转码mp4很快很方便。如果只发给少数人，则独有的lxe文件格式更清晰小巧。1小时的录屏可以压缩到100MB。</li>
+<li>ActivePresenter：如果需要制作封面、目录页、或添加文字注释，我就使用ActivePresenter。</li>
+<li>转码/压缩工具：<a href="http://maruko.appinn.me/" target="_blank">小丸工具箱</a>（强力推荐）</li>
+<li>如果别人问起，我通常推荐 BB FlashBack Express：因为它免费、入门易、网站的介绍也比较多。</li>
+</ol>
+<h3>6、录屏之后的发布</h3>
+<p>现在是在线视频的时代，但PC操作录屏发布，却没有特别好的普遍方案。大家看一下各软件博客偶尔录制并发布的在线视频就明白：明明录制时极为清晰，上传后却画质极渣。</p>
+<p>实际上，我在这方面投入的研究实验时间，比研究录屏软件更长。用不同的参数录制、压制，上传到不同网站，做过各种对比。最早找到的是sina无二压方案；后来也用过土豆的原画方案——但这些方法现在已经过期。目前可用的，主要是B站上传方案。说起来又是一篇长文，也曾<a href="https://www.zhihu.com/people/xbeta/answers?order_by=vote_num" target="_blank">在知乎介绍过</a>，此处不展开。</p>
+<p>我现在如需发布，是操作录屏则发B站（低码率而清晰，真正高效环保）；拍摄的视频则直接iPhone录制，用优酷/腾讯等视频客户端直接上传。</p>
+<p>好，序言结束，下面开始转载：</p>
+<h2>最强免费萤幕录影软体 ActivePresenter 教学影片神器</h2>
+<p>作者：电脑玩物 　　 出处：<a href="http://www.playpcesor.com/2016/01/activepresenter.html" target="_blank">http://www.playpcesor.com/2016/01/activepresenter.html</a></p>
+<p>Windows 上有很多免费萤幕录影软体，例如我之前介绍过的：<a href="http://www.playpcesor.com/2015/09/Screencastify-chrome.html" target="_blank">免费萤幕录影神器！推荐这款比软体好用 Chrome 套件</a> 、<a href="http://www.playpcesor.com/2013/11/blog-post.html" target="_blank">桌面萤幕录影免费软体推荐：超简单在教学影片上画重点解说</a></p>
+<p>这些萤幕录影软体都各有优点，今天要跟大家推荐的这款「 ActivePresenter 」也有自己的特色。</p>
+<p>或许我不会说「 ActivePresenter 」是最好用或是最佳桌面录影工具，但是「 ActivePresenter 」绝对是「最强大」的免费萤幕录影软体，这是什麽意思呢？因为「 ActivePresenter 」介面或许不是那麽好上手，但丰富的功能却可以满足真正要「製作专业教学影片」、「编辑各种数位教材」的需求！所以最强大当之无愧。</p>
+<p>如果你是一位老师、训练人员、产品客服，或是你在任何情况下要製作一段包含短片、包含简报、包含语音、包含各种操作说明特效的完整教学影片，而你发现一般萤幕录影软体没办法满足你进阶需求时，免费的「 ActivePresenter 」或许能帮上你的忙。</p>
+<h3>1. 最快上手！录製包含点击特效的软体操作影片</h3>
+<p>「 ActivePresenter 」功能有点複杂，介面也很有特色，或许刚刚安装后的你会有点摸不着头绪。</p>
+<p>没关係，在还没有搞清楚他的所有进阶功能前，我们还是可以把「 ActivePresenter 」当作一款简单的桌面萤幕录影软体来使用！</p>
+<p>只要点击［ New Capture ］，选择第一项「 Record Software Demo 」，也就是录製桌面软体操作影片即可。<br />
+<img src="http://img.xbeta.info/2016/activepresenter-01.png" alt="ActivePresenter" /><br />
+这时候会弹出「 ActivePresenter 」的录影工具列，我们可以决定要全萤幕或局部录影，可以选择高画质，可以录下系统的声音，或是外接麦克风的声音。</p>
+<p>更棒的是，录影过程中我们的每一次滑鼠或操作点击，都会在影片中自动加上特效！</p>
+<p>按下红色的录影按钮，就开始录製桌面操作影片。</p>
+<p>而录製中按下［ Ctrl ］+［ End ］，就可以结束录影。<br />
+<img src="http://img.xbeta.info/2016/activepresenter-02.png" alt="ActivePresenter" /></p>
+<p>结束录影后，会进入「 ActivePresenter 」的影片编辑介面，你会看到「 ActivePresenter 」也是一个很完整的影片编辑器，我们可以在这裡剪接影片，去掉教学影片中不想要的段落，或是继续录製其他片段，最后把它们合併成完整教学影片。<br />
+<img src="http://img.xbeta.info/2016/activepresenter-03.png" alt="ActivePresenter" /></p>
+<h3>2. 进阶需求！聪明录影功能，自动帮每次操作建立分段影片教材</h3>
+<p>开始慢慢熟悉「 ActivePresenter 」后，就让我们来看看他更强大的教学教材製作功能，这时候我们在［ Capture ］中选择［ Smart Capture ］。</p>
+<p>这个「聪明录製」模式有什麽特色呢？他会在录影过程中，根据我们每一次的操作点击，自动把教学影片分割成一段一段的短片。<br />
+<img src="http://img.xbeta.info/2016/activepresenter-04.png" alt="ActivePresenter" /></p>
+<p>并且会在每一个操作动作的短片简报中，在正确操作位置自动加上教学说明图解。</p>
+<p>这样一来，是不是更轻鬆的产生一个可以自动重组、修改的教学影片专桉？我们可以像是製作简报那样，开始在这些分段的短片中快速编辑，产生有模有样的教学影片。<br />
+<img src="http://img.xbeta.info/2016/activepresenter-05.png" alt="ActivePresenter" /></p>
+<h3>3. 更全面的免费版本：无浮水印、无时间限制、个人非商业使用</h3>
+<p>而本文提到的所有「 ActivePresenter 」录影与编辑功能，都是可以提供个人非商业性免费使用的！这对学校老师来说非常有帮助。</p>
+<p>而且「 ActivePresenter 」的免费版不会有浮水印，也没有影片製作的时间限制。<br />
+<img src="http://img.xbeta.info/2016/activepresenter-06.png" alt="ActivePresenter" /></p>
+<h3>4. 有动有静的影片简报编辑</h3>
+<p>「 ActivePresenter 」既然是为了製作教学影片、数位教材而诞生的软体，那麽除了前面的录影与剪接外，他还具备了很多额外的注解互动特效。</p>
+<p>例如你真的可以在影片中插入其他简报、插入图片，快速在「 ActivePresenter 」类似简报软体的编辑画面中，製作有动（操作短片）有静（说明简报）的教学影片。<br />
+<img src="http://img.xbeta.info/2016/activepresenter-07.png" alt="ActivePresenter" /></p>
+<h3>5. 针对录製教学影片的丰富教学特效元素</h3>
+<p>「 ActivePresenter 」也有丰富的教学特效素材可以使用，让我们放到简报或影片上！</p>
+<p>例如可以用聚光灯效果来聚焦影片中的某个重要操作动作，或是加上新的滑鼠游标说明轨迹等等，大家可以在製作教学影片的过程慢慢研究。<br />
+<img src="http://img.xbeta.info/2016/activepresenter-08.png" alt="ActivePresenter" /></p>
+<h3>6. 支援输出各种影片格式</h3>
+<p>而最后「 ActivePresenter 」编辑而成的教学教材，可以转档输出成许多格式，免费版就支援输出成各种格式的影片档桉。</p>
+<p>「 ActivePresenter 」或许不是最简单易用的萤幕录影软体，但却是最强大的教学影片製作工具，想要製作数位教材的老师、训练人员、产品客服，都值得好好利用。（转载结束）</p>
+-- <a href="http://xbeta.info">http://xbeta.info</a>　　<small>( 6793ee6ca67cfacc9d4333d9ae43a11b)</small>]]></content:encoded>
+			<wfw:commentRss>https://xbeta.info/activepresenter.htm/feed</wfw:commentRss>
+		<slash:comments>48</slash:comments>
+		</item>
+		<item>
+		<title>[已结束]过完节，关爱一下牙齿吧~</title>
+		<link>https://xbeta.info/aiya.htm</link>
+		<comments>https://xbeta.info/aiya.htm#comments</comments>
+		<pubDate>Tue, 23 Feb 2016 07:32:49 +0000</pubDate>
+		<dc:creator><![CDATA[善用佳软]]></dc:creator>
+				<category><![CDATA[5 其他]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[gift]]></category>
+
+		<guid isPermaLink="false">https://xbeta.info/?p=1854</guid>
+		<description><![CDATA[【2016-02-26 星期五 更新】活动结束，已经给如下朋友发出邮件（按评论所留邮箱），请按要求于2月28日中午前提供收货地址。prcgolf 补习生 心如新入 Baldur Rockey 蠢蛋小丑鱼
+春节前收到一份有意思的礼物——牙膏+牙刷+杯子。
+有意思，是因为：
+（1）此前深刻感悟：日常实用之物为礼，每次都能睹物思人，感情效率极高。
+<span class="readmore"><a href="https://xbeta.info/aiya.htm" title="[已结束]过完节，关爱一下牙齿吧~" target="_blank">......(共1334字)</a></span>]]></description>
+				<content:encoded><![CDATA[<p>【2016-02-26 星期五 更新】活动结束，已经给如下朋友发出邮件（按评论所留邮箱），请按要求于2月28日中午前提供收货地址。prcgolf 补习生 心如新入 Baldur Rockey 蠢蛋小丑鱼</p>
+<p><strong>春节前收到一份有意思的礼物——牙膏+牙刷+杯子。</strong></p>
+<p>有意思，是因为：</p>
+<p>（1）此前深刻感悟：日常实用之物为礼，每次都能睹物思人，感情效率极高。<br />
+（2）曾对蜂产品比较了解，所以，见到propolis （蜂胶）自动脑补了很多信息。<br />
+（3）2015回顾，我最满意的新硬件就是电动牙刷（爱妻所赠），远超小米手环。</p>
+<p><img style="float: left;" src="http://img.xbeta.info/2016/aiya-icon.jpg" alt="爱牙app" width="220" height="110" />后面聊天才得知，赠礼的朋友在「爱牙」工作。「<a href="http://www.51aiya.com/" target="_blank">爱牙</a>」是一款集牙齿健康问题免费在线咨询牙医、实时预约牙科看牙、牙友互动交流和口腔护理用品一站式购买等众多功能于一身的牙齿健康管理 APP。就此创业项目，我认为，在牙齿健康方面，国内还有极大增长空间。而此种消费，很适合订阅模式。而用户在知识、用品选择上，也非常需要可信的推荐精选、新鲜尝试。只是我并没有试用 app，感觉从网站切入，远比app 要轻便很多。</p>
+<p><strong>更多礼物来了！朋友说，也愿意给善用佳软的其他朋友们，也提供一些福利。</strong>我认为是好事，并思考了「软件」博客，与牙齿这款「硬件」的关系。</p>
+<p>先想起老子。我的记忆中，关于软硬之辩，最早源于《道德经》，比如“柔弱胜刚强” “天下之至柔，驰骋天下之至坚”。甚至，也产生了最早的心灵鸡汤，传说孔子拜访老子时，老子曾经让他看自己的牙——差不多掉光了；再看舌头——完好无损；所以，柔弱胜刚强。今天的苏州金鸡湖畔，还有一尊如此场景的刚柔之道老子像，露仅有的一颗门牙，吐出长长的舌头，受到网友吐嘈。</p>
+<p>又想起鲁迅。年前在读许寿裳所著《鲁迅传》；春节期间到绍兴，参观了先生故居；回来后整理补充了故居族谱中未显示的部分（<a href="http://www.familyecho.com/?p=QBXTY&amp;c=x0vppd9pna&amp;f=676780978113344855" target="_blank">xbeta 整理的鲁迅族谱</a>）。毛泽东曾称“鲁迅的骨头是最硬的”，这当然是指“没有丝毫的奴颜和媚骨”的精神品质，而非生理意义。因为骨头最硬的鲁迅先生，自己及父亲曾经饱受牙病困扰。1925年先生在《从胡须说到牙齿》中称，“我从小就是牙痛党之一”。1930年3月，因左联及自己被通缉严压，49岁的鲁迅焦愤上火、牙齿肿痛，最后拔去全部牙齿，改以假牙。</p>
+<p>鲁迅先生的名字，很容易令人联想起一句古话：一年树谷，十年树木，百年树人。而我又联想到近人的话：想一年领先，可每天多工作一小时；想十年领先，可每天多学习一小时；想一生领先，请每天多锻炼一小时。</p>
+<p>锻炼一小时太难，那就从更容易的爱牙 10 分钟做起吧。</p>
+<p><del datetime="2016-02-26T03:14:04+00:00"><strong><span style="color: #ff0000;">珍爱牙齿，用心留言，就有机会收到 <a href="http://www.51aiya.com/" target="_blank">爱牙 app</a> 送出的惊喜（名额有限）。</span></strong></del>
+<p>Who Will Write My Essay For Me Thank god for thousands of viruses incessantly caused him <a href="http://mycollegepapers.org">college paperweights</a> Our name of truehearted reversive customers whobuy essaysof the highest timbre from us is getting yearner day by day. Buy Sociology Essays Online Secure Hua had demonstrated so rapidly that in the close an with-it, outside</p>
+-- <a href="http://xbeta.info">http://xbeta.info</a>　　<small>( 6793ee6ca67cfacc9d4333d9ae43a11b)</small>]]></content:encoded>
+			<wfw:commentRss>https://xbeta.info/aiya.htm/feed</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>顶级免费看图软件IrfanView v4.41发布：提供平板UI</title>
+		<link>https://xbeta.info/irfanview-v441.htm</link>
+		<comments>https://xbeta.info/irfanview-v441.htm#comments</comments>
+		<pubDate>Tue, 08 Dec 2015 07:34:30 +0000</pubDate>
+		<dc:creator><![CDATA[善用佳软]]></dc:creator>
+				<category><![CDATA[2 图像影音]]></category>
+		<category><![CDATA[看图软件]]></category>
+		<category><![CDATA[IrfanView]]></category>
+
+		<guid isPermaLink="false">http://xbeta.info/?p=1829</guid>
+		<description><![CDATA[顶级免费看图软件 IrfanView 升级到 v4.41，加强了对平板电脑的支持。推荐平板用户尝试、反馈。现翻译其版本更新日志，以示支持。  [下载IrfanView 4.41]
+IrfanView 4.41（2015-11-29发布，xbeta译）
+64位版本：如果64位扫描驱动未安装，自动改用32位驱动。
+<span class="readmore"><a href="https://xbeta.info/irfanview-v441.htm" title="顶级免费看图软件IrfanView v4.41发布：提供平板UI" target="_blank">......(共877字)</a></span>]]></description>
+				<content:encoded><![CDATA[<p>顶级免费看图软件 IrfanView 升级到 v4.41，加强了对平板电脑的支持。推荐平板用户尝试、反馈。现翻译其版本更新日志，以示支持。  <a href="http://down.tech.sina.com.cn/page/6603.html">[下载IrfanView 4.41]</a></p>
+<h2>IrfanView 4.41（2015-11-29发布，xbeta译）</h2>
+<div>64位版本：如果64位扫描驱动未安装，自动改用32位驱动。</div>
+<div><strong>为平板电脑设计的新对话框/图形界面。</strong></div>
+<div>新热键：shift+tab 用来启动/结束平板模式的对话框。</div>
+<div>新热键：ctrl+insert：复制</div>
+<div>新热键：Q 暂停/继续，用于定时翻页的幻灯播放</div>
+<div>新命令行参数：写入到csv文件: /info=infofile.csv</div>
+<div>安装插件的新参数：/silent 静默安装， /folder 指定目录。详见 FAQ。</div>
+<div>移除了&#8221;Amazon 1Button App&#8221;。</div>
+<div>修正其他bug（自动颜色校正；PNG压缩；64位路径）</div>
+<div></div>
+<h2>Version 4.41 ( &#8211; CURRENT VERSION &#8211; ) (Release date: 2015-11-29)</h2>
+<div>64-bit version: Use 32-bit TWAIN drivers if 64-bit drivers not installed</div>
+<div>New dialog/GUI on Windows tablets (&#8220;2 in 1&#8221;, Thanks to Arun Anbu from Intel)</div>
+<div>New hotkey: SHIFT + Tab: Start/End Tablet mode dialog</div>
+<div>New hotkey: CTRL + Insert: Edit-&gt;Copy</div>
+<div>New Slideshow hotkey: Q = Pause/Resume a timer slideshow</div>
+<div>New option for /info command line: write CSV file: /info=infofile.csv</div>
+<div>Added PlugIns-Installer options for: /silent and /folder (Check FAQs page)</div>
+<div>&#8220;Amazon 1Button App&#8221; offer removed</div>
+<div>Some fixes (Auto color correction, PNG compression, UNC-Paths in 64-bit)</div>
+-- <a href="http://xbeta.info">http://xbeta.info</a>　　<small>( 6793ee6ca67cfacc9d4333d9ae43a11b)</small>]]></content:encoded>
+			<wfw:commentRss>https://xbeta.info/irfanview-v441.htm/feed</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>欢迎加入微信：一些准备工作</title>
+		<link>https://xbeta.info/wechat.htm</link>
+		<comments>https://xbeta.info/wechat.htm#respond</comments>
+		<pubDate>Mon, 12 Oct 2015 05:15:50 +0000</pubDate>
+		<dc:creator><![CDATA[善用佳软]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://xbeta.info/?p=1825</guid>
+		<description><![CDATA[因工作繁忙，本博客更新日益减少。
+微博更新相对多一些：@善用佳软  http://weibo.com/xbeta
+微信公众号（扫码添加）偶尔会写一些内容。
+关注微信公众号之后，也可以按操作找朋友拉入微信群：xbeta微信试验群 ——如何使用，还没想好  。加入后保先持沉默即可，不用打招呼。反正我不太聊天。
+<span class="readmore"><a href="https://xbeta.info/wechat.htm" title="欢迎加入微信：一些准备工作" target="_blank">......(共147字)</a></span>]]></description>
+				<content:encoded><![CDATA[<p>因工作繁忙，本博客更新日益减少。</p>
+<p>微博更新相对多一些：<a href="http://weibo.com/xbeta" target="_blank">@善用佳软</a>  <a href="http://weibo.com/xbeta" target="_blank">http://weibo.com/xbeta</a></p>
+<p>微信公众号（扫码添加）偶尔会写一些内容。</p>
+<p>关注微信公众号之后，也可以按操作找朋友拉入微信群：xbeta微信试验群 ——如何使用，还没想好 <img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" /> 。加入后保先持沉默即可，不用打招呼。反正我不太聊天。</p>
+<p><img class="alignnone" src="http://img.xbeta.info/2015/qr-xbeta-wechat.jpg" alt="微信订阅号“善用佳软”" width="258" height="258" /></p>
+-- <a href="http://xbeta.info">http://xbeta.info</a>　　<small>( 6793ee6ca67cfacc9d4333d9ae43a11b)</small>]]></content:encoded>
+			<wfw:commentRss>https://xbeta.info/wechat.htm/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ditto:首选的剪贴板增强软件（更新）</title>
+		<link>https://xbeta.info/ditto.htm</link>
+		<comments>https://xbeta.info/ditto.htm#comments</comments>
+		<pubDate>Sat, 19 Sep 2015 23:02:01 +0000</pubDate>
+		<dc:creator><![CDATA[善用佳软]]></dc:creator>
+				<category><![CDATA[windows]]></category>
+		<category><![CDATA[系统工具]]></category>
+		<category><![CDATA[clipboard]]></category>
+		<category><![CDATA[ditto]]></category>
+
+		<guid isPermaLink="false">http://xbeta.info/?p=794</guid>
+		<description><![CDATA[注重效率的用户都喜欢剪贴板增强软件[1]。早期，我推荐免费小巧的 ClipX 和 CLCL 。而最近几年，善用佳软明确推荐：Ditto 是最好的免费剪贴板增强软件，是提高效率的首选方案。
+目录：
+一、Ditto简介
+二、界面展示
+三、Ditto 亮点与不足
+<span class="readmore"><a href="https://xbeta.info/ditto.htm" title="Ditto:首选的剪贴板增强软件（更新）" target="_blank">......(共5548字)</a></span>]]></description>
+				<content:encoded><![CDATA[<p>注重效率的用户都喜欢剪贴板增强软件<sup id="_ref-1" class="reference"><a href="#_note-1">[1]</a></sup>。早期，我<a href="http://blog.sina.com.cn/s/blog_46dac66f010000c1.html">推荐免费小巧的 ClipX 和 CLCL</a> 。而最近几年，善用佳软明确推荐：<strong>Ditto 是最好的免费剪贴板增强软件，是提高效率的首选方案。</strong></p>
+<blockquote id="index"><p>目录：<br />
+<a href="http://xbeta.info/ditto.htm#h-1">一、Ditto简介</a><br />
+<a href="http://xbeta.info/ditto.htm#h-2">二、界面展示</a><br />
+<a href="http://xbeta.info/ditto.htm#h-3">三、Ditto 亮点与不足</a><br />
+<a href="http://xbeta.info/ditto.htm#h-3.1">1. 搜索</a><br />
+<a href="http://xbeta.info/ditto.htm#h-3.2">2. 合并粘贴</a><br />
+<a href="http://xbeta.info/ditto.htm#h-3.3">3. 纯文本粘贴</a><br />
+<a href="http://xbeta.info/ditto.htm#h-3.4">4. 基于永久条目的命名粘贴（推荐）</a><br />
+<a href="http://xbeta.info/ditto.htm#h-3.5">5. 网络分享</a><br />
+<a href="http://xbeta.info/ditto.htm#h-3.6">6. 文件回收站</a><br />
+<a href="http://xbeta.info/ditto.htm#h-3.7">7. 支持主题</a><br />
+<a href="http://xbeta.info/ditto.htm#h-3.8">8. Ditto的不足之处</a><br />
+<a href="http://xbeta.info/ditto.htm#h-4">四、Ditto使用指南：入门篇</a><br />
+<a href="http://xbeta.info/ditto.htm#h-4.1">1. 下载与安装</a><br />
+<a href="http://xbeta.info/ditto.htm#h-4.2">2. 使用中文语言</a><br />
+<a href="http://xbeta.info/ditto.htm#h-4.3">3. 中文字体设定（重要）</a><br />
+<a href="http://xbeta.info/ditto.htm#h-4.4">4. 开始使用：复制/粘贴</a><br />
+<a href="http://xbeta.info/ditto.htm#h-5">五、Ditto使用指南：进阶篇（待补）</a><br />
+<a href="http://xbeta.info/ditto.htm#h-6">六、常见问题（Ditto FAQ）</a><br />
+<a href="http://xbeta.info/ditto.htm#h-appendix">附录</a></p></blockquote>
+<p>总体内容亦可参见下图：<br />
+<img src="http://img.xbeta.info/dittov.png" alt="[image]" /></p>
+<h2 id="h-1">一、Ditto简介　　<a href="http://xbeta.info/ditto.htm#index"><span style="font-size: 12px;">[返回目录]</span></a></h2>
+<p>Ditto 是一款开源、免费、强大的剪贴板增强工具。可以把复制过的所有内容保存起来（可以设定保存日期或条目总数），快捷地供后续调用。还可以合并粘贴，纯文本粘贴，支持分组、置顶、快速搜索、热键粘贴功能。并且，还可以通过网络共享剪贴板内容。</p>
+<p>主页：<a href="http://ditto-cp.sourceforge.net/">http://ditto-cp.sourceforge.net/</a></p>
+<p>教程：<a href="http://xbeta.info/ditto.htm">http://xbeta.info/ditto.htm</a></p>
+<p>最新语言包：<a href="http://jianguoyun.com/p/DUxYPEIQpvLnBRi1-A0">http://jianguoyun.com/p/DUxYPEIQpvLnBRi1-A0</a> （比官方语言包翻译更完整，且优化了alt热键。2015-09）</p>
+<h2 id="h-2">二、界面展示　　<a href="http://xbeta.info/ditto.htm#index"><span style="font-size: 12px;">[返回目录]</span></a></h2>
+<p>平常情况下，Ditto只是系统托盘中的图标。按下热键（默认 ctrl+`）后，会出现的粘贴主界面；再点击右键会弹出功能丰富的菜单。参见下图：<br />
+<img src="http://img.xbeta.info/dittod.png" alt="[image]" /></p>
+<p>通过其较为复杂的设置界面，你可以间接了解，Ditto的功能是如何丰富。参见flash（566&#215;498，60+KB）：<br />
+<embed src="files/ditto2.swf" type="application/x-shockwave-flash" width="566" height="498"></embed></p>
+<h2 id="h-3">三、Ditto 亮点与不足　　<a href="http://xbeta.info/ditto.htm#index"><span style="font-size: 12px;">[返回目录]</span></a></h2>
+<p>我最看重的优点有：搜索、合并、命名粘贴。</p>
+<h3 id="h-3.1">1. 搜索</h3>
+<p>Ditto中可以保留大量（取决于数据库容量）的历史记录。如果想搜索某条记录，只须在主界面的搜索框中输入文字，过滤后的结果会<strong>实时</strong>展现出来。<br />
+说明：<br />
+&#8211; 实时过滤的方式，比传统的“搜索词→回车→搜索结果列表”更为易用。<br />
+&#8211; 支持中文。<br />
+&#8211; 早期中文显示会旋转90°，新版已经修复。<br />
+&#8211; 并非对每条记录的“全文”进行搜索，而是前N个字符，这是为了搜索效率。<sup><a id="u-note-2" href="#note-2">[2]</a></sup></p>
+<h3 id="h-3.2">2. 合并粘贴</h3>
+<p>Ditto允许合并粘贴，就是把多条记录，一次性粘贴到目标窗口。在收集资料时，这点尤其有用。<br />
+使用方法：弹出窗口中，按住Shift或Ctrl再点击鼠标左键。</p>
+<h3 id="h-3.3">3. 纯文本粘贴　　<a href="http://xbeta.info/ditto.htm#index"><span style="font-size: 12px;">[返回目录]</span></a></h3>
+<p>如果复制了带格式文本（比如，来自网页、office文件），默认是带格式粘贴，但 Shift+Enter 表示纯文本粘贴。<br />
+以前很多人还要通过记事本中转来消除格式，有了Ditto后，一切简单了。</p>
+<h3 id="h-3.4">4. 快捷粘贴</h3>
+<p>经常有一些内容需要重复使用。比如，电话号码、邮箱、公司地址…… 。这些信息可以通过输入法实现，也可以用剪贴板工具实现。</p>
+<p>早期Ditto 有一项非常强大的功能——<strong>命名粘贴（Named Paste）</strong>。很多用户（包括我）是此功能的粉丝，但开发者自己对此功能并不喜欢，在2010年12月23日发布的 v3.17.0.17 版本中，取消了该功能的热键。受到了很多用户的反对。尽管作者声称，也可以按照用户呼吁恢复此热键，但迄今为止，此功能仍然缺失。</p>
+<p>快速粘贴的基本原理是这样的：首先，某些复制的条目要设置为“不自动删除”，防止过期后自动清理。其次，要为它们提供快捷调用方式。和其他剪贴板工具一样，Ditto也支持设置<strong>全局热键</strong>、<strong>鼠标</strong>调用。但条目数量较多后，用类似“缩写输入”的方式更为有效。而新旧版的差异，在于调用“缩写输入”的方式变化。<br />
+使用步骤举例：<br />
+&#8211; 在任何程序中打出一段常用文本，比如“——善用佳软，免费软件义工”。<br />
+&#8211; 选中，复制。<br />
+&#8211; 进入 Ditto，选中此条目：右键→“属性” 或 直接按下 Alt+Enter。<br />
+&#8211; 在如下界面中，设定此条目为“不自动删除”（因为是常用文本）；Quick Paste Text 为“x1”（就是<strong>设定缩写</strong>）；热键和组也十分有用，但此处暂且略过。确定，保存。<br />
+<img src="http://img.xbeta.info/ditto2.png" alt="[image]" /><br />
+&#8211; 要使用这一条目时，早期操作如下：进入任一程序（比如记事本）。按下<strong>热键win+v</strong>（取决于你的设定，上述演示flash中设定为win+v），会弹出一个窗口，“Ditto-给粘贴指定”，这时输入“x1”——不要引号，不用在意显示的大写。奇迹就发生了：“——善用佳软，免费软件义工”自动上屏。</p>
+<p>&#8211; 而目前的做法只能是：按下普通的热键（默认ctrl+`）显示Ditto主界面，在查询框键入 『\q x1』 ，然后回车。相比之前要多输入『tab \q 空格』。</p>
+<p>取消命名粘贴后，此功能近乎鸡肋。完全可以不使用 quick paste text，而通过修改 title 来实现。比如在常用的条目title中加一个 cy 表示常用，然后，在搜索时除一般关键词再增加 cy 即可。</p>
+<p>对于要求最高的快捷上屏条目，建议改用条目属性中的热键实现。比如上屏中指定了x键，则按下 Ditto 主热键后，再按 x 可实现文字上屏。这里的条目热键，既可以定义单键，也可以定义 ctrl-x, ctrl-shift-x 这样的组合键。</p>
+<p>需要说明的是，快速粘贴常用条目的功能，可以理解为输入法、常用文本输入工具。但Ditto比通常工具更为强大的是，它能输入的不仅是一个“词条”，而可以是<strong>“多行文本、带格式的文本、图片和文件”</strong>。</p>
+<p>&nbsp;</p>
+<h3 id="h-3.5">5. 网络分享</h3>
+<p>即一个组内，多人共享剪贴板。暂从略。</p>
+<h3 id="h-3.6">6. 文件回收站</h3>
+<p>这是一个<strong>变通</strong>应用。但是，<strong>软件的变通应用非常重要！</strong><br />
+如果你 ctrl+x 方式把一个文件删除了，过后又想恢复，就可通过Ditto的历史记录来实现。</p>
+<h3 id="h-3.7">7. 支持主题　　<a href="http://xbeta.info/ditto.htm#index"><span style="font-size: 12px;">[返回目录]</span></a></h3>
+<p>我虽然自己喜欢简近乎陋的界面，并且主张<strong>软件是拿来用的，不是拿来欣赏的。</strong>但很多网友对美化、DIY有一些需求，而 Ditto 是支持更换主题（themes）的，可参见 http://ditto-cp.wiki.sourceforge.net/Current+Themes 。</p>
+<h3 id="h-3.8">8. Ditto的不足之处</h3>
+<p><strong>顺序粘贴：</strong>和大多数免费剪贴板软件一样，Ditto也缺乏“顺序粘贴” 或 “强力粘贴”功能。有需求者，可参照 <a href="http://xbeta.info/clipx-clcl-ditto.htm#hamsin">Hamsin Clipboard 顺序粘贴功能</a> 进行试用。支持此功能的免费软件，目前只发现 Hamsin Clipboard 一款。”</p>
+<h2 id="h-4">四、Ditto使用指南：入门篇　　<a href="http://xbeta.info/ditto.htm#index"><span style="font-size: 12px;">[返回目录]</span></a></h2>
+<h3 id="h-4.1">1. 下载与安装</h3>
+<p>好的下载习惯是到官方网站，这样可以得到最新、安全的软件。<a href="http://ditto-cp.sourceforge.net/">Ditto官网</a> 首页上，有多个下载链接：区分了32位和64位版本，区分了便携版与安装版。</p>
+<p>有网友反映，便携版遇到过Ditto窗口背后的程序无法操作的问题（鸣谢 dexter，2015-09），而安装版则无此问题。</p>
+<h3 id="h-4.2">2. 使用中文语言</h3>
+<p>下载包中，已经包含了简体中文语言文件 &#8230;\Ditto\Language\Chinese.xml 。但该语言包过于陈旧，请使用本文开头提供的链接，由我补充翻译。某些内容仍为英文，原因是开发者未提供这些文字对应的翻译资源。<br />
+<img src="http://img.xbeta.info/ditto1ul6.png" alt="[image]" /></p>
+<p>为了精简，可删除多余的语言文件，只保留简体中文和English。</p>
+<h3 id="h-4.3">3. 中文字体设定（<span style="color: #ff0000;">最新版已经不需要</span>）　　<a href="http://xbeta.info/ditto.htm#index"><span style="font-size: 12px;">[返回目录]</span></a></h3>
+<p><span style="color: #ff0000;">　　早期版本有如下bug，最新版本已经修复。</span></p>
+<p>问题一：主界面字体太小，汉字躺倒显示。<br />
+解决方法：请修改字体（如下图）。<br />
+<img src="http://img.xbeta.info/ditto2vh3.png" alt="[image]" /><br />
+第1：改用合适的字号。<br />
+第2：字体选择“宋体”等，不要选择“@宋体”这样的（@ 表示横向字体）。<br />
+第3：保存设定，重启Ditto。</p>
+<p>问题二：经过上述设置后，搜索框键入的字体是躺倒的，如下图。<br />
+<img src="http://img.xbeta.info/ditto3hi8.png" alt="[image]" /><br />
+解决方法：<br />
+方法1：和善用佳软一样，无视之。<br />
+方法2：chen bin 网友提供修了bug改版。『这里是重新编译的ditto (unicode版本)，修复了中文字体躺倒的问题。<a href="https://files.getdropbox.com/u/858862/Ditto.exe">https://files.getdropbox.com/u/858862/Ditto.exe</a> (提示:从非官方网站下载的版本,例如我的版本,可能中毒,感染木马,风险自负)』<br />
+方法3：暂时忍受，待官方修复版。热心的 chen bin 网友已经提交bug报告和修复，见 https://sourceforge.net/forum/forum.php?thread_id=3313122&amp;forum_id=287511 。</p>
+<h3 id="h-4.4">4. 开始使用：复制/粘贴</h3>
+<p>复制……复制……复制……到需要粘贴的程序中，按下热键（默认 Ctrl+`），在弹出的条目列表上，按下对应数字，或用鼠标点击所需条目，相应内容就粘贴好了。</p>
+<h2 id="h-5">五、Ditto使用指南：进阶篇（待完善）</h2>
+<p>Ditto v3.16.8.0 新增了如下功能：按下热键（默认ctrl+`）后，弹出ditto剪贴条目列表，此时不要放开ctrl键，可以：<br />
+&#8211; 继续键入`移动光标，至合适条目放开，则此条目上屏。（适用于v3.16.8.0）<br />
+&#8211; 键入数字，直接第N条上屏。（v3.16.8.0之前或许有效）</p>
+<h2 id="h-6">六、常见问题（Ditto FAQ）　　<a href="http://xbeta.info/ditto.htm#index"><span style="font-size: 12px;">[返回目录]</span></a></h2>
+<h3>问：在 cmd 或 gvim.exe 等程序中，Ditto无法粘贴？(Custom key strokes)</h3>
+<p>答：这是因为你用了免安装版，缺少了某些配置。手工修改注册表，或用重新<strong>安装</strong> Ditto 可以修复。<br />
+原理是这样的：正常情况下，在 Ditto 中双击某一条目后，Ditto 会首先把此内容放在windows粘贴板，然后，向目标程序<strong>发送模拟按键 Ctrl+V</strong>。这样大家就清楚了，因为在 cmd 或 gvim.exe 中，Ctrl+v 并不是粘贴。有鉴于此，Ditto 提供了个性化按键的配置方法（参见 Ditto-clip\Help\DittoCustomKeys.htm）。<br />
+就是在注册表的 [HKEY_CURRENT_USER\Software\Ditto] 项下，新建三组键值，分别个性化“复制”“剪切”“粘贴”功能。当然，最主要的是“粘贴”。安装版 Ditto 会默认添加对gvim.exe 和 cmd 的支持，参见下图：<br />
+<img src="http://img.xbeta.info/dittof.png" alt="[image]" /><br />
+上图表示，在 cmd 中，ditto 发送“<strong>% {Delay100}ep</strong>”，即先按下“alt+空格”（弹出菜单），延时100毫秒，再按下e（编辑）p（粘贴）。这样，就在cmd中实现了粘贴。参见下图：<br />
+<img src="http://img.xbeta.info/ditto.png" alt="[image]" /><br />
+同理，gvim.exe 中的粘贴采用了 &#8220;+gP 的按键。<br />
+需要注意的是，模拟按键时，一定要避免处于中文输入法状态。另外，还要注意上述设定对应的是 gvim 的 normal 状态，而不是插入状态。</p>
+<h3>问：粘贴图片或带格式文字时，输出的格式有错误？</h3>
+<p>答：此问题是关于剪贴板格式的，Ditto有相关配置。参见下面的两个例子。</p>
+<p>例1：“貌似在第二次粘贴带有图片的内容时会直接变成纯文本！？” “找到了解决方法：在选项里有个支持的类型，选上里面的html 和其他rich text 等等，就可以了。”<br />
+例2：“似乎还不够完美,我复制的动态gif图像通过Ditto粘贴出来变成静态的了,复制的透明背景的png粘贴出来也成了黑色背景色~不知该如何解决?” 【善用佳软：剪贴板相当于是一个动态多格式混合体，而保存和调用时，需要支持某种特定格式才可以。出于效率，默认情况下Ditto仅支持少数主要格式，所以，出现了上述情况。“选项”→“支持的类型”→“添加”相关类型即可。具体上述问题需要何种格式，不是很清楚（你也可以逐一尝试），但我添加全部格式后，至少透明背景动态gif是支持的。】“试过了,gif如果与文本混排可以通过HTML方式粘贴出来而不改变图像格式,但如果是单张gif图像就只能以CF_DIB类型粘贴为png图像。”</p>
+<h3>问：删除条目太慢？</h3>
+<p>答：最新的 Ditto v3.17.0.17 已经修复删除条目太慢的问题。</p>
+<p>（正文完）</p>
+<div id="appendix">
+<h2 id="h-appendix">附录　　<a href="http://xbeta.info/ditto.htm#index"><span style="font-size: 12px;">[返回目录]</span></a></h2>
+<h3 id="note">附录：注释</h3>
+<p><a id="_note-1" href="#_ref-1">[1]</a>：更多同类软件参见 <a href="http://xbeta.info/clipx-clcl-ditto.htm">http://xbeta.info/clipx-clcl-ditto.htm</a><br />
+<a id="note-2" href="#u-note-2">[2]</a>: 过滤框的快速搜索，严格说来，并不是搜索“剪贴板条目”本身，而是搜索此条目的“描述（Description）”。Ditto 选项中，General 下 有一条 Amount of text to save for description ，就是设定把剪贴板内容的前多少个字符当作描述。默认值是 500 。在 <a href="file:///D:/Program%20Files/Ditto-clip/Help/DittoGettingStarted.htm">官方帮助</a> 中也提到：Every Clip also has a Description that is extracted from the beginning of the Clip’s CF_TEXT Format. The Description is used to represent the Clip in Ditto’s list and is searchable using the Filter Box。明白这一点，对Ditto的应用有如下几点指导意义：　　① 搜索（称过滤更准确）并非全文。所以，某些时候认为有相应条目但搜不到，请考虑一下，是否关键字在剪贴内容的前N个字符以外。　　② 描述可以手工修改，可以与剪贴内容不同。举例来说，“唵嘛呢叭咪吽” “897932384626”“10311019491001123”“http://www.ghisler.com/”这样的剪贴内容不容易通过搜索调用，但如果把描述改为“六字大明咒”“圆周率N位”“身份证号”“tc website”，就容易搜索得多了。变通使用，也可提高安全性。</p>
+<h3 id="update">附录：文章更新历史</h3>
+<p>2015-09-21：重写很多文字，更易读；更新了新版本的特性；推荐安装版（感谢dexter）。<br />
+2011-01-13：新版弱化了命名粘贴功能，本文给出新的<a href="#update-2011-01-13">推荐做法</a>；补充新版修复删除条目速度过慢的问题。感谢sandox。<br />
+2009-09-26：增加注释 <a id="u-note-2" href="#note-2">[2]</a>。<br />
+2009-07-15：增加目录。<br />
+2009-06-29：增加 FAQ 之格式；修改“命名粘贴”；补充缺点。<br />
+2009-06-28：重写 FAQ 之 Custom key strokes 部分。<br />
+2009-06-25：增加了入门篇和FAQ部分内容。<br />
+2009-06-24：初稿，未完稿。</p>
+</div>
+-- <a href="http://xbeta.info">http://xbeta.info</a>　　<small>( 6793ee6ca67cfacc9d4333d9ae43a11b)</small>]]></content:encoded>
+			<wfw:commentRss>https://xbeta.info/ditto.htm/feed</wfw:commentRss>
+		<slash:comments>193</slash:comments>
+		</item>
+		<item>
+		<title>剪贴板增强软件综述:CLCL,ClipX,Ditto等（更新CLCL v2.0）</title>
+		<link>https://xbeta.info/clipx-clcl-ditto.htm</link>
+		<comments>https://xbeta.info/clipx-clcl-ditto.htm#comments</comments>
+		<pubDate>Mon, 07 Sep 2015 05:02:29 +0000</pubDate>
+		<dc:creator><![CDATA[善用佳软]]></dc:creator>
+				<category><![CDATA[系统工具]]></category>
+		<category><![CDATA[arsclip]]></category>
+		<category><![CDATA[clipboard]]></category>
+		<category><![CDATA[ditto]]></category>
+
+		<guid isPermaLink="false">http://192.168.5.119/2.2/?p=163</guid>
+		<description><![CDATA[剪贴板是一个伟大的创新。它让跨程序、跨文档传递数据变得前所未有的轻松，让 Ctrl+C、Ctrl+V （或Ctrl+Insert、Shift+Insert）成为最常用的快捷键。但是，windows 自身的剪贴板管理功能太弱（只能容纳一条记录），远不足以发挥剪贴板的真正功能。于是，世界各地的程序员开发了上百种增强工具，来“升级”剪贴板。
+<span class="readmore"><a href="https://xbeta.info/clipx-clcl-ditto.htm" title="剪贴板增强软件综述:CLCL,ClipX,Ditto等（更新CLCL v2.0）" target="_blank">......(共5488字)</a></span>]]></description>
+				<content:encoded><![CDATA[<p>剪贴板是一个伟大的创新。它让跨程序、跨文档传递数据变得前所未有的轻松，让 Ctrl+C、Ctrl+V （或Ctrl+Insert、Shift+Insert）成为最常用的快捷键。但是，windows 自身的剪贴板管理功能太弱（只能容纳一条记录），远不足以发挥剪贴板的真正功能。于是，世界各地的程序员开发了上百种增强工具，来“升级”剪贴板。</p>
+<p>如何从中选择最合适的一款呢？如果你愿意支付 35 usd 的注册费，并且愿意承受庞大的体积，不会因为众多功能而困惑，你可以选择最经典（但现在过于臃肿）的 ClipMate。但是，我并不推荐一般用户这样做。因为这个世界上还有很多优秀免费软件可供选择。其中最优秀的 3 款，都体积小巧，运行快速，使用方便——这就是善用佳软推荐的 <a href="http://xbeta.info/ditto.htm">Ditto</a>、<a href="http://www.nakka.com/soft/clcl/index_eng.html" target="_blank">CLCL</a>、<a href="http://bluemars.org/" target="_blank">ClipX</a>。<strong>我自己长期使用的，是 Ditto。</strong></p>
+<h2>一、概述</h2>
+<p><strong>本部分待整理</strong><br />
+各款软件的差异：<br />
+普遍性的差异：不同的剪贴板增强软件，除了体积大小、占用资源多少方面的差距<br />
+剪贴板功能方面：<br />
+强化思路方面：<br />
+数量、格式（图/文/文件）、临时vs管理，内存<br />
+共享，存储，合并，导出<br />
+强化思路：输入：历史，多个（软件，vim）。输出：转格式、合并、自动化</p>
+<p>这类软件的基本功能：</p>
+<ul>
+<li>支持多个剪贴板，数量可以自己设定。我常用9个（好处是可以按数字键调用）。</li>
+<li>不仅支持文本，也支持图片。没有其他工具时，可以兼职用作图片收集器。(注:复制图象，和复制一个图像文件是不一样的)</li>
+<li>热键操作方便。多次Ctrl+C后，到要粘贴的地方，CLCL按Alt+C再按数字或用鼠标选中适当的条目即可。ClipX的呼出热键可自定义。</li>
+<li>关机后剪贴内容不消失。</li>
+<li>支持固定内容（模板）作为剪贴板条目，比如常用的信息（地址、签名档、电话、Email等）</li>
+<li>顺序粘贴真方便。比如要填一个表格，有8个字段。用CLCL的方式是：先清空历史，把8条内容依次复制。到第一个空处，按Alt+C 8，就把第一条（因为最先复制，所以被后面的7条新内容挤到了第8位）粘贴了；再到第二个空处，仍按Alt+C 8（因为原第8位的被应用后，排到了第一位，其他顺延），第2条就上屏了。这样，实际上实现了依次粘贴的功能。</li>
+</ul>
+<h2>二、CLCL、ClipX、Ditto：三强详介</h2>
+<p>CLCL、ClipX、Ditto是三款最实用的软件。追求资源节约、易用的用户，可以选择 CLCL 和 ClipX；追求功能多，存储数据量大的用户，则可选择 Ditto。详细介绍如下。</p>
+<h3>(1) CLCL：Alt+C呼出真方便</h3>
+<p>CLCL 是一款强大、小巧、绿色、免费、开源、日本出品的免费剪贴板增强工具。</p>
+<p>官网（日文、英文）：<a href="http://www.nakka.com/soft/clcl/index_eng.html">http://www.nakka.com/soft/clcl/index_eng.html</a></p>
+<p>最新版本：v2.0，2015-09-05</p>
+<p>汉化版（旧版）：<a href="http://www.hanzify.org/index.php?Go=Show::List&amp;ID=7712">http://www.hanzify.org/index.php?Go=Show::List&amp;ID=7712</a></p>
+<p><img class="alignnone" src="http://img.xbeta.info/2015/clcl-1.gif" alt="" width="544" height="396" /></p>
+<ol>
+<li>支持丰富的剪贴板格式：纯文本、Unicode文本、RTF富文本、位图……</li>
+<li>热键 &#8220;Alt+C&#8221; 弹出剪贴列表菜单，非常方便。然后就可以用鼠标选择条目，或者按数字键选择条目。</li>
+<li><strong>自定义“模板”：</strong>
+<ol>
+<li>模板的作用，就是把常用内容保存为固定条目，可以是纯文本（比如地址、电话）、图片（比如图像文件）。</li>
+<li>模板可以新建，也可以把已经采集到剪贴板的内容，直接设定为模板</li>
+<li>模板可以按文件夹进行组织，可以设定名称（比如“我的手机号”）<br />
+<img class="alignnone" src="http://img.xbeta.info/2015/clcl-4.png" alt="" width="550" height="501" /></li>
+<li>模板支持热键调用：比如，F8，alt+F8，win+shift+u ……<br />
+<img class="alignnone" src="http://img.xbeta.info/2015/clcl-1.png" alt="" width="204" height="156" /></li>
+</ol>
+</li>
+<li>能够设置忽略的窗口，比如不想把记事本的复制内容保存到CLCL中，可如下设定：<img class="alignnone" src="http://img.xbeta.info/2015/clcl-6.png" alt="" width="446" height="487" /> <img class="alignnone" src="http://img.xbeta.info/2015/clcl-5.png" alt="" width="417" height="442" /></li>
+<li>可使用插件来扩展功能。官方提供了几款扩展，带有若干功能，但感觉比较鸡肋。下图展示了对文字添加&lt;tag&gt;标签，及变为小写的功能。<br />
+<img class="alignnone" src="http://img.xbeta.info/2015/clcl-7.png" alt="" width="357" height="330" /> <img class="alignnone" src="http://img.xbeta.info/2015/clcl-8.png" alt="" width="141" height="48" /> <img class="alignnone" src="http://img.xbeta.info/2015/clcl-9.png" alt="" width="446" height="487" /></li>
+<li>能够为每个窗口设置粘贴热键（没感觉有太大意义）</li>
+<li>能够设置格式过滤。</li>
+<li>丰富的选项：<br />
+<img class="alignnone" src="http://img.xbeta.info/2015/clcl-2.gif" alt="" width="444" height="483" /></li>
+</ol>
+<h3>(2) ClipX：占用内存更小</h3>
+<p><a href="http://www.hanzify.org/index.php?Go=Show::List&amp;ID=9724" target="_blank">汉化下载</a>｜<a href="http://blud/">原版下载</a>｜<a href="http://bluemars.org/clipx/" target="_blank">主页</a>｜<br />
+CLCL如此好，为什么还推荐ClipX？是因为</p>
+<ul>
+<li>ClipX不比CLCL差（除了在Maxthon和其他一些IE外挂中不能用）</li>
+<li>CLCL是日本产软件，一些用户会介意</li>
+<li>ClipX占用内存更少（几百K。CLCL近2M）</li>
+<li>ClipX支持Unicode——对一些用户，这一点很重要。（如下图所示。如果显示其他字符集不正确，很可能是显示所用的字体不支持Unicode，换一种应该就OK了）</li>
+<li>ClipX可以通过菜单清除历史记录，比CLCL更方便。</li>
+</ul>
+<p>下图：点击系统托盘区的 Clipx ，所显示的菜单。来自官网。<br />
+<img src="http://bluemars.org/clipx/clipx-intray.png" alt="" /><br />
+下图：在应用程序中使用 ClipX 的情况。来自官网。<br />
+<img src="http://bluemars.org/clipx/clipx-inplace.png" alt="" /><br />
+下图：ClipX 的设置界面。善用佳软+ClipX汉化版+GIMP 制作。<br />
+<img src="http://img49.imageshack.us/img49/7329/clipxrl5.gif" alt="" width="506" height="364" /></p>
+<h3>(3) 于两者间选择</h3>
+<p>这些人用ClipX：</p>
+<ol>
+<li>需Unicode的</li>
+<li>对于日系软件有抵触心理的（其实不必）</li>
+<li>喜欢一个exe，不要dll的（CLCL运行并不要dll，但设置时需要）</li>
+<li>喜欢内存占用更少的</li>
+</ol>
+<p>这些人用CLCL：</p>
+<ol>
+<li>经常向Maxthon中贴入内容的（ClipX对IE外壳的部分浏览器扩展支持有问题）</li>
+</ol>
+<p>另外，有意思的是，CLCL要插件才支持Unicode，ClipX直接支持；而CLCL直接支持固定条目（模板），但ClipX则要插件才能做到这点。<br />
+再一点，我认为 CLCL 的 Alt+C 按键很方便，但在 ClipX 中无法定义此键（呵呵，很有意思。因为在自定义界面上，按Alt+C，就响应了&amp;Cancel，即取消设置）。</p>
+<p>好软件并非没有缺点，比如：CLCL如果能直接在菜单上清除某些条目、把所有历史合并（代替文本收集器之类的小工具）就更好用了。</p>
+<h3>(4) 最推荐：开源的 Ditto</h3>
+<p><span style="color: red;">【说明】关于Ditto，请详见 <a href="http://xbeta.info/ditto.htm">http://xbeta.info/ditto.htm</a>，下文不再更新</span>：</p>
+<blockquote><p>上述两款软件均为免费，而 Ditto 则属于开源软件，即懂编程的朋友可以修改它的源代码，让它更符合自己的需求。</p>
+<p>相对于前2款，它的特点是可以存放更多剪贴板记录，并通过滚动条来翻查，或者输入部分内容进行匹配。另外，它还可以在局域网内共享剪贴板内容。</p>
+<p>&#8211; 到<a href="http://ditto-cp.sourceforge.net/">主页</a>下载，<a href="http://prdownloads.sourceforge.net/ditto-cp/Ditto_Portable_3_15_4_0.zip?download">这是便携版</a> (zip file，1+MB)<br />
+&#8211; 如果喜欢不同的视觉效果，可下载主题<br />
+&#8211; 如果需要其他语言文件（xml格式）（下载包已含简体中文），可在主页下载，存放于Language目录。为了精简，可删除多余的语言文件，只保留简体中文和English。<br />
+&#8211; 这样设置为中文。<br />
+<img src="http://img95.imageshack.us/img95/6114/ditto1ul6.png" alt="" /><br />
+&#8211; 默认情况下，字体太小，且中文躺倒显示，请修改字体（如下图），然后重启 Ditto。<br />
+<img src="http://img57.imageshack.us/img57/3158/ditto2vh3.png" alt="" /><br />
+&#8211; 但是，搜索框中的中文字体无法设定（仍保持躺倒方向），暂时忍受一下吧。<br />
+从使用来看，有3种使用方式：<br />
+&#8211; 极度频繁使用时，可以设为窗口总处于顶层<br />
+&#8211; 少数条目频繁使用时，可设定启用 ctrl+0~ctrl+9 快捷键<br />
+&#8211; 通常情况下，通过热键 Ctrl+` 调用</p></blockquote>
+<p>3款推荐软件的内存占用情况：<br />
+<img src="http://img177.imageshack.us/img177/1353/clipmk2.png" alt="" /></p>
+<h2>四、以下这些软件也不错</h2>
+<h3 id="hamsin">1. Hamsin Clipboard v3.03</h3>
+<p>免费的剪贴板增强软件<a href="http://www.iisr-cnc.com/hamsin/">Hamsin Clipboard</a> v3.03 ，除了体积非常小巧（100KB，1exe）外，最大优点是支持<strong>顺序粘贴</strong>，缺点是历史条目固定为10条。<br />
+<a href="http://img.xbeta.info/hamsin.png"><img src="http://img.xbeta.info/hamsin.png" alt="[image]" width="200" height="200" /></a></p>
+<p><span id="hamsin-use"><strong>顺序粘贴（Incremental paste）使用方法：</strong></span><br />
+尽管作者自称软件非常易用，但此功能的设计、文字说明，对用户都不友好，故做如下说明。关键点是“先激活Incremental paste，再复制” 。如果先复制，再激活，是无效的。<br />
+1、清空：考虑到只能存储10条剪贴历史，请先清空历史（右键菜单&#8211;special&#8211;clear history，默认热键win+del)<br />
+2、设定：激活 Incremental paste 选项。<br />
+3、复制：选中内容1，ctrl+c；选中内容2，ctrl+c……。<br />
+4、粘贴：到目标程序中，ctrl+v、ctrl+v……</p>
+<p>由此可知，它的顺序粘贴（Incremental paste）相当于共享软件 ClipMate 的强力粘贴（power paste）的<strong>一半</strong>功能。所谓强力粘贴，或顺序粘贴，是指先多次ctrl+c，然后只管按下ctrl+v，先后复制的内容会<strong>依次</strong>粘贴过来。所谓<strong>一半</strong>功能，是指 Hamsin Clipboard <strong>并不能对已经复制过的内容，进行顺序粘贴。而只能是先进入顺序粘贴模式，再多次复制，再多次ctrl+v，才会顺序粘贴。</strong>实际上，称为“临时顺序复制/粘贴”更准确。<br />
+从原理上，可以这样理解：Hamsin 的顺序粘贴，并不是对原有功能的增强（增强理解为乘法 <sup><a id="u-note-1" href="#note-1">[1]</a></sup>），而是增加的一个新功能（理解为加法）。进入此模式后，它会重新做一个序列记录，当你按下ctrl+v之后，自动加载下一条记录。并且，只能使用一次，如果要再使用，必须再依次ctrl+c。这与ClipMate可以对任意选中的记录，进行正/逆序的强力粘贴是有较大差距的。<br />
+但无论如何，<strong>Hamsin Clipboard 是唯一具备顺序粘贴功能的免费软件</strong>。<span style="color: red;">【善用佳软/2009-12-08补充：<a href="http://www.cybermatrix.com/clipboard_magic.html">Clipboard Magic</a> 也支持。】</span></p>
+<fieldset>
+<legend>Incremental paste：官方相关说明</legend>
+<p>　　When &#8216;Incremental paste&#8217; option is on, several clips can be copied to the clipboard one after another and pasted in the same order (Actually, in this mode each clip is placed into the history only, whereas each pasting automatically places the next clip onto the clipboard for the next pasting operation).</fieldset>
+<p>另外，它从3.0版开始写注册表，以前配置记录于ini文件。除了顺序粘贴外，还支持 Win+数字键 直接粘贴内容、合并剪贴板、常用条目。支持很多格式，但历史条目仅包含10条，加多不行，减少也不行；只能以有限长度的文字显示已记录内容（不如CLCL那样可以在图标上显示图片格式内容的缩略图、可以在鼠标移到菜单的条目上时可以用工具提示显示全部内容）等。</p>
+<h3 id="arsclip">2. ArsClip：多热键、分场景、支持表格模式（2010-07-08更新）</h3>
+<p>软件主页：<a href="http://www.joejoesoft.com/vcms/120/">http://www.joejoesoft.com/vcms/120/</a><br />
+最新版本： ArsClip v3.1.4，2010-07-06<br />
+性质：免费、开源（下载包含源代码）</p>
+<p><a href="http://xbeta.info/best_46_free_utilities.htm#hid-14">最佳免费剪贴板增强工具</a>是这样评价 ArsClip 的：在软件功能与简洁方面实现了较好的平衡。它和Clipomatic、ClipX一样小巧快速，又能记录更长的剪贴历史。它的聪明之处在于，记录全部历史， 但只显示一小部分。要显示另外一部分，需要再点一下按钮或菜单。它的历史记录也是可以搜索的。ArsClip 也支持永久条目，并且通过分组（比如论坛发文、邮件地址、签名档等）扩展了功能，在弹出菜单上分级显示。ArsClip 还提供了一键编辑内容的功能。它还有一大优点就是，ArsClip无须安装，可以运行在便携介质上，这样剪贴内容就可以永随身边。”</p>
+<p>默认使用方法：<br />
+运行ArsClip后，照旧应用 Ctrl+X/C/V，按下 Ctrl+Shift+Z 会弹出菜单。</p>
+<p>优点（*表示优于Ditto）：<br />
+永久条目支持快捷键，比如按下 ctrl+alt+x，一长串文字就可上屏。<br />
+* 有表格粘贴模式。<br />
+* 条目列表中，有来源程序的图标，便于识别。<br />
+支持图片。<br />
+支持Unicode。<br />
+* 条目操作有些快捷键：比如按住F1点击仅放发送到剪贴板。<br />
+* 可以针对不同程序，设定不同粘贴方式（如下图）。<br />
+* 永久条目组，可以针对不同程序。比如，让Email组仅在邮件程序中启用。<br />
+有搜索功能，但需要进入搜索界面，不如Ditto唤出后直接键入搜索方便；搜中文崩溃。<br />
+<img src="http://img.xbeta.info/arsclip-1.png" alt="[image]" /></p>
+<p>缺点（与Ditto相比）：<br />
+搜索不便；<br />
+无合并粘贴功能；<br />
+无命名粘贴。</p>
+<p>ArsClip更多介绍： 《<a href="http://www.techbang.com.tw/posts/1231">ArsClip：超強圖文剪貼簿</a>》 by Dr.J.</p>
+<h3>Clipomatic</h3>
+<p><a href="http://www.mlin.net/Clipomatic.shtml">http://www.mlin.net/Clipomatic.shtml</a> 很小啊很小，100KB级</p>
+<h3>clip magic</h3>
+<p>好象是freeware，小巧，安装文件 1.5MB。功能好象很强大 <a href="http://www.clipmagic.com/more.html">http://www.clipmagic.com/more.html</a> 下载 <a href="http://www.clipmagic.com/software/cmsetup.exe">http://www.clipmagic.com/software/cmsetup.exe</a></p>
+<p>其他 Kana Clip（对剪贴内容进行加工）、Clipguru、Yankee Clipper 3、Freeclip也都是不错的软件。</p>
+<h2>四、相关软件</h2>
+<p>除了纯正的剪贴板增强软件，还有一些软件也具备相关功能。比如资料管理类软件，甚至是某些编辑器，都具有剪贴板监视功能。AutoHotkey 等脚本工具，也能实现类似功能。还有一些小工具，把选中文本发送到 notepad 等。（此部分未完成）</p>
+<p>（正文完）</p>
+<h3 id="note">注释</h3>
+<p><a id="note-1" href="#u-note-1">[1]</a>: 乘法与加法是一个重大区别。乘法是融会贯通，一通百通。而加法只是简单堆积。乘法的例子：Total Commander、Vim、Google 增加一项小功能后，这个小功能可以与以前的N个基本功能结合起来，效果提升非常明显。</p>
+<h3 id="update-history">文章更新历史</h3>
+<p>2015-09-07：CLCL从Ver 1.1.2更新到 Ver 2.0.0，重写本部分。<br />
+2012-02-14：说明Hamsin Clipboard 的顺序粘贴功能使用方法。<br />
+2010-07-08：重写ArsClip的介绍。<br />
+2009-08-21：重写 Hamsin Clipboard 的顺序粘贴功能。<br />
+2009-06-25：更新小标题及多处文字，突出 Hamsin Clipboard 的<strong>顺序粘贴</strong>功能。<br />
+2008-06-23：增加Ditto部分。<br />
+2005-09-09：初稿。</p>
+-- <a href="http://xbeta.info">http://xbeta.info</a>　　<small>( 6793ee6ca67cfacc9d4333d9ae43a11b)</small>]]></content:encoded>
+			<wfw:commentRss>https://xbeta.info/clipx-clcl-ditto.htm/feed</wfw:commentRss>
+		<slash:comments>95</slash:comments>
+		</item>
+		<item>
+		<title>RightNote:让Evernote支持树状目录的经典桌面笔记软件</title>
+		<link>https://xbeta.info/rightnote.htm</link>
+		<comments>https://xbeta.info/rightnote.htm#respond</comments>
+		<pubDate>Wed, 19 Aug 2015 16:51:26 +0000</pubDate>
+		<dc:creator><![CDATA[善用佳软]]></dc:creator>
+				<category><![CDATA[1.4 信息管理]]></category>
+		<category><![CDATA[RightNote]]></category>
+		<category><![CDATA[shareware]]></category>
+
+		<guid isPermaLink="false">http://xbeta.info/?p=1700</guid>
+		<description><![CDATA[2015-8-20更新：点击查看flash演示，内容：基本界面；设置项；与Evernote集成。
+【善用佳软注】在我看来，Tranglos KeyNote 是笔记软件类的经典与鼻祖。而它的最佳继承者则是 RightNote。今天发现，RightNote 已经可与Evernote集成同步，让Evernote支持多层级结构。我非常赞赏这一特性，故志愿推广RightNote。以下内容摘自RightNote官网，感谢 Tingxun Shi、guestwind、封畅的翻译。
+<span class="readmore"><a href="https://xbeta.info/rightnote.htm" title="RightNote:让Evernote支持树状目录的经典桌面笔记软件" target="_blank">......(共2683字)</a></span>]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #ff0000;">2015-8-20更新</span>：<a href="http://t.cn/RLDi3Wh" target="_blank">点击查看flash演示</a>，内容：基本界面；设置项；与Evernote集成。</p>
+<p>【善用佳软注】在我看来，<a title="笔记软件之经典与鼻祖" href="http://www.tranglos.com/free/keynote.html">Tranglos KeyNote</a> 是笔记软件类的经典与鼻祖。而它的最佳继承者则是 <a href="http://bauerapps.com/rightnote/">RightNote</a>。今天发现，RightNote 已经可与Evernote集成同步，让Evernote支持多层级结构。我非常赞赏这一特性，故志愿推广RightNote。以下内容摘自RightNote官网，感谢 Tingxun Shi、guestwind、封畅的翻译。</p>
+<h2>RightNote：更佳组织信息，让Evernote也支持树状笔记</h2>
+<p>RightNote 能帮助你免于信息过载。<br />
+它可以把海量的零散信息集中保存，并通过全局搜索，实时找到所需信息！<br />
+使用RightNote，你就能掌控信息碎片：知道如何存储，随时找到所需。<br />
+它拥有丰富的功能。</p>
+<p>软件类型：免费版；标准版（$29.95）；专业版（$59.95）<br />
+最新版本：V3.31（2015-08-06）<br />
+下载链接：<a href="http://bauerapps.com/downloads/">http://bauerapps.com/downloads/</a><br />
+<img src="http://bauerapps.com/wp-content/uploads/2013/01/mockup-bauermain2.png" alt="RightNote:集成Evernote的经典桌面笔记软件" width="500" height="500" /></p>
+<h2>二、RightNote特性</h2>
+<p><img src="http://bauerapps.com/wp-content/uploads/2011/11/Gnome-Format-Indent-More-64.png" alt="" /><strong>支持更多层级</strong><br />
+每个 RightNote 笔记本，可包含无数个页面(page)；每个页面，可建立自己的树状笔记结构。用户在组织海量信息方面，具有极高的灵活性，和强大的功能。<br />
+<img src="http://bauerapps.com/wp-content/uploads/2011/11/Gnome-Applications-Other-64.png" alt="" /><b>处理不同类型的信息</b><br />
+RightNode的笔记可以有多种类型——文字处理、电子表格以及源代码类型。这允许你在单个笔记本中无缝囊括不同类型的信息。<br />
+<img src="http://bauerapps.com/wp-content/uploads/2013/01/Gnome-View-Refresh-64.png" alt="" /><b>Evernote同步——在云端存储笔记</b><br />
+可以把选中的笔记存储在Evernote并与之同步，这样你就可以从任何浏览器、移动设备或者操作系统上访问它们（仅限专业版）。<br />
+<img src="http://bauerapps.com/wp-content/uploads/2011/11/Gnome-Appointment-New-64.png" alt="" /><b>快速查找！</b><br />
+内置的全文搜索引擎允许你超快找到你想要的东西。没有复杂的搜索对话框——输入文字时，搜索结果即刻高亮！<br />
+<img src="http://bauerapps.com/wp-content/uploads/2011/11/Gnome-Security-Medium-64.png" alt="" /><b>保证安全</b><br />
+RightNote含有一种灵活的保护体系结构，允许你在任何笔记、树或者笔记本中，使用工业标准的128位加密安全地保护信息。<br />
+<img src="http://bauerapps.com/wp-content/uploads/2011/11/Gnome-Emblem-Web-64.png" alt="" /><b>强大的web导入</b><br />
+RightNote的高级HTML粘贴功能，可准确导入网页中的图片、样式，使得导入的内容与原始网页高度一致。<br />
+<img src="http://bauerapps.com/wp-content/uploads/2011/11/Gnome-Preferences-Desktop-Keyboard-Shortcuts-64.png" alt="" /><b>高效</b><br />
+各种键盘快捷键、预定义的热键、预定义的文字和背景颜色，以及近期/经常使用的笔记列表，可更容易、更有效地处理常见的、重复性的任务。<br />
+<img src="http://bauerapps.com/wp-content/uploads/2011/11/Add-Files-To-Archive-64.png" alt="" /><b>让数据自由</b><br />
+强力的导入和导出选项，允许你从各种数据源导入数据；也可以把数据导出成常见的文件格式，如.txt, .rtf, .rvf, .html和.xls等。<br />
+<img src="http://bauerapps.com/wp-content/uploads/2011/11/Gnome-Preferences-Desktop-Wallpaper-64.png" alt="" /><b>可定制的界面</b><br />
+RightNote含有很多应用选项，允许你根据个人喜好定制界面。<br />
+<img src="http://bauerapps.com/wp-content/uploads/2013/01/Gnome-Media-Flash-64.png" alt="" /><b>程序便携</b><br />
+你可以随身携带你的重要信息。在任何电脑上插入优盘，并在其上运行程序即可，不会影响宿主电脑的设置。<br />
+<img src="http://bauerapps.com/wp-content/uploads/2013/01/Gnome-Applications-Science-64.png" alt="" /><b>免费版也足够强大</b><br />
+免费版包含大量与商业版共有的特性，可用在个人用途，亦可用在商业用途。</p>
+<h2>三、更高效地管理信息</h2>
+<p>把所有笔记存放在<b>唯一的地方</b>。当你遇到新的信息时，可立刻想到该放在何处。</p>
+<p>可以在这里存储<b>各种类型的信息</b>。RightNote可以处理文本、html、财务数据、源代码、一般列表、待办事项列表、联系人列表等。</p>
+<p>知道在何处找到你的信息。如果你把信息放在一处，你自然知道该去哪儿找！</p>
+<p>高效的工作空间、工作流。让RightNode最小化在系统托盘图标中：需要时以全局热键呼出，不再使用时用esc将其最小化。</p>
+<h2>四、独特功能</h2>
+<p><b>文件夹树：</b>使用新的“文件夹树”功能，轻松导航，管理含有大量节点的树。<br />
+<img src="http://bauerapps.com/wp-content/uploads/2011/05/mini_rn_folder_tree.jpg" alt="" width="255" height="170" /></p>
+<p><b>自动添加标签：</b>对于一个文件夹笔记，其所有子笔记自动获得父笔记的标注。这允许你把笔记组织和添加标签同时进行。<br />
+<img src="http://bauerapps.com/wp-content/uploads/2011/05/mini_rn_tagspanel.jpg" alt="" width="255" height="170" /></p>
+<p><b>Evernote同步：</b>Evernote同步功能允许你在任意移动设备、桌面或浏览器上访问选定的笔记（通过Evernote服务）<br />
+<img src="http://bauerapps.com/wp-content/uploads/2011/05/mini_rn_evernote_note.jpg" alt="" width="255" height="170" /></p>
+<h2>五、RightNote 注册与购买</h2>
+<p>购买后，我们会给你的邮箱发一封邮件，包括一个注册码（序列号），通过这个来解锁试用版，并允许你继续使用程序。注册用户在接下来12个月内，或下一个大的版本号升级之前（可能比12个月还长！）可以免费升级。通过MYCOMMERCE进行付款，它可以提供安全的交易处理功能。</p>
+<h2>六、各版本的功能比较</h2>
+<h3>1、免费、标准、专业版的共有功能</h3>
+<p>&#8211; 支持的笔记类型<br />
+* 富文本笔记：支持基本的文本格式能力（如写字板）<br />
+* 源代码笔记：可以对大多数常见编程语言进行语法高亮<br />
+* 纯文本笔记<br />
+* 链接笔记类型：快速、容易的访问你硬盘上的相关文件<br />
+&#8211; 富文本笔记，包括一个预先定义的格式工具，以及文本高亮工具<br />
+&#8211; 即刻搜索：输入搜索内容，即可看到搜索结果<br />
+&#8211; 高亮的搜索结果：方便看到该看哪条搜索结果<br />
+&#8211; 新：文件夹笔记和文件夹树可以轻易在大的树中导航<br />
+&#8211; 新：自动添加标签：文件夹笔记和子笔记自动从文件夹标注中获取标签<br />
+&#8211; 笔记保护：使用工业标准的AES加密方法，加密选定笔记的内容<br />
+&#8211; 包含海量图标（用于树节点和标签），您也可以添加自己的图标<br />
+&#8211; 强大的标签系统，允许你通过不同方式对笔记节能型分类<br />
+&#8211; 可以给标签添加图标，这样树中的笔记可以高亮，分外突出<br />
+&#8211; 从常见格式的文件中导入笔记，可将笔记导出成常见格式的文件<br />
+&#8211; “最爱”工具条，可以快速访问常用文件<br />
+&#8211; 可以使用页面转换和浮动树工具，轻松在文件之间传输页面和笔记<br />
+&#8211; 截屏工具，可以把屏幕保存到你的笔记中<br />
+&#8211; 使用全局剪切热键，从其它应用中把文本剪切进RightNote<br />
+&#8211; 同时提供便携版（USB）和安装版<br />
+&#8211; 个人、商业均可使用</p>
+<h3>2、标准版、专业版增加的功能</h3>
+<p>&#8211; 富格式笔记类型：支持高级的文本编辑功能，包括多图像支持、高级表格支持、高级段落布局和格式调节、预定以文本和段落样式工具<br />
+&#8211; 拼写检查（对富格式笔记）<br />
+&#8211; 电子表格笔记类型：支持大多数excel函数、可以对列进行排序、填充命令、固定头部的行、合并/拆分单元格、单元格备注、单元格链接和图像<br />
+&#8211; 从MS Excel文件导入及导出<br />
+&#8211; 创建到其它笔记的链接（富格式笔记和电子表格笔记）<br />
+&#8211; 附件笔记类型 &#8211; 在一个RightNote数据库（文件）中存储文件的任何类型<br />
+&#8211; 高级剪切功能：对网页内容进行剪切可以保留格式和图像<br />
+&#8211; 新：分枝提升功能：把树的某个分枝提升，仅显示该部分，有助于注意力集中。</p>
+<h3> 3、RightNote 专业版增值功能</h3>
+<p>&#8211; 索引附件：txt, rtf, htm, html, pdf, doc, docx, csv, xls 和 xlsx 。<br />
+&#8211; 多笔记本搜索：同时搜索你的所有笔记本。<br />
+&#8211; 保存网页为网页类型的笔记。<br />
+&#8211; 并排视图：便于在不同页面（同一笔记本，或不同笔记本）间移动笔记。<br />
+&#8211; 新:Evernote 同步：全面支持所有的 Evernote 笔记元素，包括图片、checkboxes、锁定、附件。可通过任意移动设备、桌面 (Mac/Windows) 、浏览器访问同步的笔记。</p>
+-- <a href="http://xbeta.info">http://xbeta.info</a>　　<small>( 6793ee6ca67cfacc9d4333d9ae43a11b)</small>]]></content:encoded>
+			<wfw:commentRss>https://xbeta.info/rightnote.htm/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>极点五笔完整更新历史: v1.0-v7.2内测版（2012-01-16）</title>
+		<link>https://xbeta.info/freewb-history.htm</link>
+		<comments>https://xbeta.info/freewb-history.htm#comments</comments>
+		<pubDate>Mon, 17 Aug 2015 16:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[善用佳软]]></dc:creator>
+				<category><![CDATA[1.1 输入法]]></category>
+		<category><![CDATA[五笔]]></category>
+
+		<guid isPermaLink="false">http://xbeta.info/?p=539</guid>
+		<description><![CDATA[极点五笔是善用佳软使用超过10年的输入法。出于感激和对优秀软件的宣传，很希望为它做点事情。考虑到极点五笔没有官方的完整版本更新记录，特此整理如下，供极点爱好者参考。
+相关链接：官网｜@心系极点｜非官方博客｜旧版下载｜五笔学习经验｜杜志民专访-1｜专访-2
+官方介绍：极点五笔，全称为“极点中文汉字输入平台”，作者杜志民。 极点五笔输入法是一款免费的多功能五笔、拼音输入软件平台，同时完美支持一笔、二笔等各种以 a-z 为编码的“型码”、“音型码”。
+<span class="readmore"><a href="https://xbeta.info/freewb-history.htm" title="极点五笔完整更新历史: v1.0-v7.2内测版（2012-01-16）" target="_blank">......(共11518字)</a></span>]]></description>
+				<content:encoded><![CDATA[<p><img style="float: left;" src="http://img.download.pchome.net/0q/n5/logo.jpg" alt="（图：极点五笔 freewb freeime）" />极点五笔是善用佳软使用超过10年的输入法。出于感激和对优秀软件的宣传，很希望为它做点事情。考虑到极点五笔没有官方的完整版本更新记录，特此整理如下，供极点爱好者参考。<br />
+<strong>相关链接：</strong><a title="极点五笔" href="http://www.freewb.org/">官网</a>｜<a href="http://weibo.com/freewb">@心系极点</a>｜<a href="http://freeimer.com/">非官方博客</a>｜<a href="http://icecrackoo.googlepages.com/home3">旧版下载</a>｜<a title="学习五笔经验分享" href="http://xbeta.info/study-wubi.htm">五笔学习经验</a>｜<a title="专访极点五笔开发者杜志民｜《软件报》2006年9月25日 第39期" href="http://xbeta.info/freewb-dzm.htm">杜志民专访-1</a>｜<a title="CFan访谈：全心投入 输入法是我的另一个宝宝 ——访“极点五笔”输入法开发者杜志民｜《电脑爱好者》 2007年14期" href="http://www.wbfans.com/bbs/viewthread.php?tid=32919&amp;extra=&amp;page=1">专访-2</a><br />
+<strong>官方介绍：</strong>极点五笔，全称为“极点中文汉字输入平台”，作者杜志民。 极点五笔输入法是一款免费的多功能五笔、拼音输入软件平台，同时完美支持一笔、二笔等各种以 a-z 为编码的“型码”、“音型码”。<br />
+<strong>我的评价：</strong>在善用佳软看来，极点五笔是后起之秀（相对于早期的五笔而言），却<strong>已成经典</strong>；它始终免费纯净，并且促使（迫使）另外几款五笔输入法也走向免费；它的作者无暇宣传，却有一大批粉丝积极（而不偏激）地推广；它功能丰富，却从来不让人感觉多余；它<strong>自定义能力极强</strong>，却依然稳定、快速、小巧；它简洁质朴，但拥有众多粉丝制作的各种词库、皮肤。并且，杜志民老师的人品也深为广大用户尊敬。“<strong>已所不欲，勿施于人；已所欲，勿强施于人</strong>”——很认同杜志民老师的这句话。能在学习五笔后不久接触到极点，我也感到很幸运。<br />
+<strong>鸣谢：</strong>以下信息源自极点官网、五笔爱好者论坛、<a href="http://zh.wikipedia.org/wiki/%E6%9E%81%E7%82%B9%E4%BA%94%E7%AC%94">维基百科</a>，由xbeta整理。感谢dinosaurhxe、today等网友补充指正。</p>
+<p>目前正式发布的最高版本为7.15十周年纪念版。论坛上流出的最高内测版为7.2内测版（2012-01-16）。目前，杜志民先生忙于工作、家庭，继续更新极点五笔的可能性很小。</p>
+<h2>一、简明版：极点五笔版本历史</h2>
+<p>2012-01-16，极点五笔7.2内测版，<strong>这是极点五笔的最高版本，但未正式发布，是内测网友在论坛上传的</strong><br />
+2011-12-30，<strong><a href="#v10n">极点五笔7.15十周年纪念版</a>发布，这是正式发布的最后版本</strong><br />
+2010-08-09，极点五笔7.13版发布 （极点五笔官网信息似乎丢失过，恢复后停留在此版本）<br />
+2010-04-28，<a href="#v712">极点五笔7.12版</a>发布<br />
+2009-08-07，<a href="http://xbeta.info/freewb-history.htm#v70">极点五笔7.0 预览版</a><br />
+2009-??-??，<a href="http://xbeta.info/freewb-history.htm#v66">极点五笔6.6</a>正在准备中……<br />
+2009-02-09，<a href="http://xbeta.info/freewb-history.htm#v65">极点五笔6.5版</a><br />
+2008-10-31，极点五笔6.4正式版<br />
+2008-09-20，极点五笔6.3版（标准版及便携版）发布<br />
+2008-06-12，极点五笔汶川地震纪念版<br />
+2007-11-11，极点6.1正式版（Unicode版）<br />
+2006-11-07，极点五笔Unicode第二测试版；<br />
+2006-10-23，极点五笔支持中日韩三国大字符集的Unicode测试版；<br />
+2006-03-18，极点五笔5.1版；<br />
+2005-12-25，极点五笔5.0正式版；<br />
+2005-10-01，极点五笔4.5SE（简体版）发布；<br />
+2005-08-23，极点五笔4.5《电脑商情报》专版；<br />
+2004-08-26，极点五笔4.0；<br />
+2003-12-31，极点五笔3.5；<br />
+2003-12-24，极点五笔“便携”版；<br />
+2003-06-22，极点五笔3.2；<br />
+2003-03-31，极点五笔3.1；<br />
+2003-02-01，五笔拼音输入法（极点前身）3.1；<br />
+2003-01-06，五笔拼音输入法3.01；<br />
+2002-12-14，五笔拼音输入法3.0beta2；<br />
+2002-11-25，五笔拼音输入法2.5；<br />
+2002-11-19，五笔拼音输入法2.4；<br />
+2002-11-15，五笔拼音2.3；<br />
+2002-11-03，五笔拼音2.0a；<br />
+2002-10-30，五笔拼音2.0beta6；<br />
+2002-09-16，五笔拼音1.8；<br />
+2002-08月底或9月初，五笔拼音1.7试用版在输入法论坛提供下载；<br />
+2001-09-10，五笔拼音1.0测试版供内部使用、测试。</p>
+<h2>二、详尽版：极点五笔更新历史</h2>
+<h3>极点五笔7.2内测版（2012-01-16），通过论坛流出的，<strong>这是极点五笔的最高版本，但未正式发布</strong></h3>
+<p>下载链接: <a href="http://pan.baidu.com/s/1qWsXWQg" target="_blank">http://pan.baidu.com/s/1qWsXWQg</a> 密码: zuj4</p>
+<p>使用方法：将下载的升级包解压到极点安装目录，覆盖同名文件。在极点没有使用的情况下运行registry.exe进行升级即可。</p>
+<p>7.2内测版更新记录<br />
+2012年1月3日<br />
+1、修正64位系统下IE9中不能使用智能标点输入——和……问题。<br />
+2、修正删除一个逗号或句号后，接着输入逗号或句号删除前一个字符的问题。<br />
+3、修正联想提示框词组提示框不消失的问题。<br />
+2012年01月4日<br />
+1、修正标点配对中单字输入，系统提示词组后，回车换行的问题。<br />
+2012年1月9日<br />
+1、修正切换词库时不更新快捷码表问题。<br />
+2012年1月12<br />
+1、数字,数字,输入——的问题(“3，3，”输出的是“3，——”)3,3,3,3,3,3, 3 ，3,3,<br />
+2、Excel2010执行VBA后退出非法<br />
+3、状态栏自动缩展时显示多余图标的问题<br />
+4、微调候选窗的显示处理（刷新方式）<br />
+2012年1月15日<br />
+1、修正：切换到自动缩展皮肤时，皮肤处于扩展状态的问题。<br />
+2、完善：新造词后将系统词调到首位，再编辑用户词库后又跑到后面的问题。<br />
+2012年01月16日<br />
+1、恢复：查询及造词时自动判断是否为剪切板造词<br />
+2、完善：启用智能标点时，判断用户是否进行了鼠标定位操作，防止误输出</p>
+<h3 id="v10n">2011-12-30，极点五笔7.15十周年纪念版</h3>
+<p>本版主要是增强程序稳定性。<br />
+1.修正：使用极点造成应用软件异常退出的问题<br />
+2.修正：切换或编辑词库失效的问题<br />
+3.修正：在PE系统下无法注册的问题<br />
+4.修正：桌面上显示多个极点状态栏的问题<br />
+5.添加：候选窗鼠标划词查询功能<br />
+6.添加：智能标点功能</p>
+<p>附：2011年对极点五笔所做的详细更新记录 <a href="http://www.freewb.org/freeime/histroy.htm">[via]</a></p>
+<blockquote><p>2011年12月10日<br />
+修正：备份文件日期有误引起状态栏右键非法的问题<br />
+修正：自定义[元]后，数字转换不正确的问题</p>
+<p>2011年12月5日<br />
+完善：Excel及WPS 电子表格标点配对功能<br />
+修正：IE页面内无法用键盘切换全半角/中英文的问题<br />
+完善：状态栏的显示与定位</p>
+<p>2011年11月30日<br />
+1、修正：用鼠标打开极点后快捷键不能立即使用的问题<br />
+2、修正：在线调序未保存的问题<br />
+3、修正：www.转英文后不能用鼠标切回中文<br />
+4、修正：切换词库后状态栏未及时刷新<br />
+5、修正：多状态栏的问题<br />
+6、添加：日期0自定义功能[system]段零=[0]<br />
+7、完善：系统设置快捷键设置以中文键名显示</p>
+<p>2011年11月20日<br />
+1、修正：极点设为默认输入法有时切换词库失败的问题</p>
+<p>2011年11月8日<br />
+1、修正：重写词库的加载与卸载模块<br />
+2、添加：用复制内容造词快捷键：ctrl+alt+=<br />
+3、修正：精简状态栏菜单与系统设置项</p>
+<p>2011年11月3日<br />
+1、修正：极点作为默认输入法无法切换词库的问题<br />
+2、完善：状态栏的定位与显示</p>
+<p>2011年10月28日<br />
+1、修正：恢复词库与配置时，新配置未起作用的问题<br />
+2、修正：恢复极点原有配置文件管理方式<br />
+3、完善：鼠标查询提示窗<br />
+4、添加：剪切板查询快捷键：ctrl+alt+/</p>
+<p>2011年10月21日<br />
+1、二笔中参与编码的标点无法顶字上屏<br />
+2、切换皮肤时，被关闭的极点再打开时皮肤未换<br />
+3、尝试解决某些软件中复制无响应</p>
+<p>2011年10月6日<br />
+1、wps2012下候选窗越界问题<br />
+2、编码中有万能键时可输入第5码问题<br />
+3、鼠标查询结果显示<br />
+4、用户词组不受“全码出词”选项限制<br />
+5、;abc/会上屏的问题<br />
+6、词库加载的一个逻辑错</p>
+<p>2011年9月23日<br />
+1、完善：简入繁出状态下鼠标取词查询<br />
+2、修正：简入繁出快捷键失效的问题<br />
+3、修正：多个程序使用极点，其中一个关掉极点后其他程序不出中文的问题</p>
+<p>2011年9月22日<br />
+1、完善：词库切换流程<br />
+2、修正：用安装包安装时freeime.bin等文件打开错的问题<br />
+3、完善：微调状态栏菜单，添加了快捷命令帮助<br />
+4、完善：快捷命令的处理流程</p>
+<p>2011年9月14日<br />
+1、完善：状态栏的显示（通过skin.ini中[状态栏2]项来自定义此状态栏哪些按钮不再显示）<br />
+2、添加：skin.ini中添加“显示提示信息&#8221;决定是否显示状态栏鼠标提示</p>
+<p>2011年8月11日<br />
+1、修正：切换状态栏时未自动定位的问题<br />
+2、添加：快捷命令“pp.”进入专家设置模式</p>
+<p>2011年8月10日<br />
+1、完善：恢复了状态栏自动缩展功能<br />
+2、添加：快捷命令“vv.”，用于显示极点版本号<br />
+3、完善：大写状态下标点强制为半角<br />
+4、完善：完善状态栏切换功能<br />
+5、完善：微调状态栏和候选窗提示信息的显示</p>
+<p>2011年7月28日<br />
+1、完善：恢复了全角英文字母输出功能<br />
+2、完善：隐藏修改窗选项仅在当前软件中起作用的问题<br />
+3、完善：切换到没有图片皮肤，程序非法的问题<br />
+4、完善：自定义鼠标查询字体大小[system]::sztipToolC 及sztipToolS</p>
+<p>2011年7月9日<br />
+1、修正：鼠标在状态栏上乱跳的问题<br />
+2、修正：临时生僻字状态，校对模式误上屏的问题</p>
+<p>2011年7月3日<br />
+1、修正：编码n一直翻页后出错的问题<br />
+2、添加：自定义大写金额中“元”（专家设置模式中，在[system]下加一行：RMB=[圆]）<br />
+3、添加：标点配对切换键（可到图形设置模式中设置，默认为ctrl+del）</p>
+<p>2011年6月28日<br />
+1、修正：状态栏位于屏幕4角无法显示提示的问题<br />
+2、修正：某些情况下空格选项亦上屏校对项的问题</p>
+<p>2011年6月27日<br />
+1、完善：鼠标悬停提示遮挡候选窗时，鼠标移出悬停窗提示自动消失<br />
+2、修正：上版状态栏无法拖动的问题</p>
+<p>2011年6月23日<br />
+1、完善：鼠标查询汉语拼音显示不清的问题</p>
+<p>2011年6月20日<br />
+1、完善：状态栏提示信息及候选窗鼠标查询显示<br />
+2、完善：将版本号微调为7.15</p>
+<p>2011年6月15日<br />
+1、完善：美化鼠标查询结果窗<br />
+2、添加：鼠标查询拓展插件（默认查询“极点汉语词典.db”，如果要查其他字典，请到“专家设置模式”中[system]段下添加一行：TiptoolDB=字典名称）</p>
+<p>2011年6月13日<br />
+1、修正：传统候选窗不显示边框的问题<br />
+2、修正：某些软件中候选窗被遮挡的问题<br />
+3、修正：方形候选窗下鼠标查询功能在尾字上不执行的问题</p>
+<p>2011年6月3日<br />
+1、完善：状态栏自动定位时，切换状态栏模式时定位异常的问题<br />
+2、添加：候选窗顶层显示（默认打开，如若关闭到专家设置模式中添加：CandShowOnTop=0）</p>
+<p>2011年5月25日<br />
+1、完善：隐藏状态栏后再显示时跑到屏幕左上角问题<br />
+2、优化：检索速度</p>
+<p>2011年5月19日<br />
+1、完善：所有类型的候选窗均支持鼠标查询拼音与编码<br />
+2、完善：所有类型的候选窗均支持鼠标选词<br />
+3、完善：registry.exe 加入/ns参数，在PE类系统上加快执行速度</p>
+<p>2011年5月16日<br />
+1、完善：极点有时自动转到英文状态的问题<br />
+2、完善：状态栏提示信息的显隐方式<br />
+3、完善：恢复状态栏自动定位选项</p>
+<p>2011年5月6日<br />
+1、使用极点时应用软件异常退出的问题<br />
+2、完善系统设置，在设置界面上提供实时帮助信息<br />
+3、完善：PE系统下registry.exe执行失败的问题</p>
+<p>2011年4月18日<br />
+1、长时间使用极点出错<br />
+2、自定义软键盘“/”键不能输出的问题</p>
+<p>2011年4月3日<br />
+1、Ctrl+-仅能删第一候选项的问题<br />
+2、Shift作中英文切换键时，Shift+！打开软键盘的问题</p>
+<p>2011年3月28日<br />
+1、打开极点置为英文不起作用<br />
+2、shift、ctrl可不分左右设为中、英文切换键（到专家设置模式中将CN_EN项设为shift或ctrl即可）<br />
+3、自动组词出错时给出提示</p></blockquote>
+<h3 id="v712">2010-04-28：极点五笔7.12版</h3>
+<p>本版主要增强程序稳定性与兼容性，优化速度，修正已知问题，并完善使用说明与设置界面的实时帮助。建议所有极点用户更新到此版。<br />
+<span style="color: red;">（xbeta注：无论从实时帮助、帮助文档、设置向导这些用户细节，还是对云端、64位等新情况的迎对，还是标点符号自动匹配功能，都能看出极点五笔永续的进步。）</span><br />
+具体修正内容如下：<br />
+2010年4月17日<br />
+1、添加：系统设置界面添加<strong>实时帮助</strong>了</p>
+<p>2010年4月16日<br />
+1、添加：图形设置界面：标点自动配对输出选项<br />
+2、完善：有时状态栏显示&#8221;大写字母&#8221;后,再按capslock,capslock熄灭后,状态栏仍为&#8221;大写字母&#8221;</p>
+<p>2010年4月15日<br />
+1、添加：<strong>标点符号自动配对功能</strong> [system]::SmartSymbol=1。标点配对输出后，第一个回车相当于右方向键</p>
+<p>2010年4月13日<br />
+1、修正：某些系统下候选窗无法隐藏并显示于桌面左上角的问题<br />
+2、修正：组字过程中隐藏状态栏，之后候选窗不显示的问题</p>
+<p>2010年4月12日<br />
+1、修正：自定义标点后symbol.txt文件被删除的bug<br />
+2、完善：_固定输出“——”，如果定义到其他键上，输出“—”<br />
+3、添加：状态栏无法自动定位时，可选状态栏定位位置<br />
+4、完善：状态栏无故跑到左上角的问题<br />
+5、添加：skin.ini::[状态栏]添加“边距x”和“边距y”两个选项——状态栏不能自动定位时距屏幕的边距</p>
+<p>2010年4月11日<br />
+1、修正：某些系统+特定皮肤备份非法的问题</p>
+<p>2010年4月9日<br />
+1、完善：状态栏与候选窗的拖动显示<br />
+2、修正：切换皮肤后，如果原候选窗不跟随，则新候选窗首次不能正常定位<br />
+3、修正：二笔下编码;不起作用的问题<br />
+4、修正：启用背景图、不用边框时，左上角出黑线的问题<br />
+5、修正：<strong>云端</strong>中启用极点，windows中极点不可用的问题</p>
+<p>2010年4月8日<br />
+1、完善：候选窗的拖动处理及跟随<br />
+2、修正：极点设为默认输入法DeamonLite无响应问题<br />
+3、修正：某些情况下，<strong>64位与32位程序同时使用</strong>时，不能输入中文的问题</p>
+<p><span id="v70">2009-08-07：极点五笔7.0 预览版</span> <a href="http://download.pchome.net/utility/lan/wb/detail-34529.html">下载地址</a><br />
+从极点6.5发布到现在半年多了，各种原因对极点无法像之前那样投入。感谢一直以来大家对极点的关注与帮助。这个版本只是经过内测网友的测试，故无法保证其100%运行顺利。如果有什么问题欢迎留言反馈。</p>
+<p>极点五笔输入法 7.0预览版修改记录<br />
+1、添加了对win7的支持<br />
+2、添加了对X64的支持<br />
+3、修正由于词库损坏造成非法或丢单字的问题<br />
+4、可以，但不建议设为默认输入法<br />
+5、只要是候选窗上的词可以任意调频<br />
+6、每次批量加词数量理论上没有限制<br />
+7、根据登录用户自动切换设置<br />
+9、完善候选窗设置：同一皮肤中各类型候选窗选项可单独设置</p>
+<p>待完善部分：<br />
+1、X64下的反查只能查拼音与编码<br />
+2、打包到别的机器上只能使用默认设置<br />
+&#8230;&#8230;&#8230;..</p>
+<p><span id="v66">极点五笔v6.6（开发中……）</span><br />
+极点五笔v6.6正在研发中，目前已基本实现：<br />
+&#8211; 任意调频——以前只能全码且编码相同才能调<br />
+&#8211; 多用户的支持——根据登录用户自动选择配置文件<br />
+&#8211; 批量加词——不再限制容量<br />
+&#8211; 任意月、日录入——“;月.日”格式，“.”键上屏<br />
+&#8211; 编辑用户码表功能完善<br />
+&#8211; 支持x64操作系统及软件（<a href="http://freeimer.com/post/66-dev-log.html">更多……</a>）</p>
+<p><span id="v65">2009-02-09，极点五笔6.5版</span><br />
+1、修正：某些设置下输入编码非法的问题<br />
+2、完善：候选窗的定位与显示<br />
+3、添加：字根拆分提示插件（学习版）<br />
+4、添加：输入速度统计功能<br />
+5、完善：一些细节问题</p>
+<p><span id="v64">2008-10-31，极点五笔6.4正式版</span><br />
+本版为极点6.3及其SP1的完整版，同时修正了以下内容：<br />
+1、完善：五笔拼音模式下临时生僻字的检索算法<br />
+2、完善：简入繁出功能<br />
+3、完善：自动调频时，zz系列也参与调频的问题<br />
+4、添加：切换皮肤快捷键<br />
+5、添加：候选项后自动添加空格快捷键<br />
+6、完善：选中 回车键编码上屏时 时对快捷英文等键的处理<br />
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+2008-09-21 极点五笔 6.3 SP1<br />
+1、修正：启用自动造词，而索引文件freeime.dat内容有误时，输入某些单字非法的问题<br />
+2、完善：启用全屏模式隐藏输入框功能——待确认</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</p>
+<p>2008-09-20 极点五笔 6.3<br />
+1、修正已知问题，增强程序的稳定性与兼容性<br />
+2、优化检索算法，提高反应速度<br />
+3、以《现代汉语（第五版）》为标准，整理了极点汉语词典，共收单字：24,450个、词组48,253组（新旧词典不能同时使用，仅标准版内含）<br />
+4、添加了笔画辅助输入功能（标准版）<br />
+5、完善编码反查，既提示单字全码，也提示简码<br />
+6、完善拼音输入功能，实现五笔拼音混合输入且拼音对五笔盲打几乎无影响，全拼、简拼、混拼任君选择（标准版），让您真正体会：行云输入，流水感觉<br />
+7、增加网络同步接口，供有需要或有能力开发用户使用<br />
+8、修正与完善其他细节问题</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+2008-07-08 之后<br />
+小更新：设置界面改动了一点,主要的是设为默认时,word等其它地方支持剪贴板(涂黑)查询了</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+2008-07-08日 极点五笔汶川地震纪念版SP1<br />
+安装本版极点请注意：如装有旧版极点，请注销或重启系统后再安装。<br />
+本版修正了地震纪念版发布以来发现的绝大多数问题，建议所有极点用户，特别是使用极点6和VISTA的用户升级到此版。<br />
+注：<br />
+1、不建议将极点设为默认输入法，如将极点设为默认，剪切板查询、造词功能会失效；<br />
+2、非方形候选窗某些情况下定位会有问题<br />
+3、游戏兼容性未完全测试</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+2008-06-12 极点五笔汶川地震纪念版<br />
+1、自动转换旧版本词库，以后升级极点不用担心词库不兼容了：）<br />
+2、可直接编辑用户词组<br />
+3、优化算法，提高速度！<br />
+4、完善对VISTA下非管理员的用户的支持<br />
+5、完善简入繁出，并提供大五码输出功能<br />
+6、完善联想功能，不标记联想词组也能联想<br />
+7、状态栏可自动透明，增加显/隐候选窗快捷键<br />
+8、重新规划了状态栏右键菜单</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+2007-11-11，极点6.1正式版（Unicode版）</p>
+<p>增加的功能列表<br />
+1、添加快捷码表及在线编辑功能<br />
+2、重码上屏校对模式，适宜快速盲打录入后整篇校对<br />
+3、编码打开软键盘<br />
+4、shift选重码<br />
+5、连击中英文切换键（默认是右shift)打开软键盘</p>
+<p>完善的功能列表<br />
+1、简入繁出全面超 越极点5，五笔与拼音同时支持一简对繁的显示与输出<br />
+2、根据人民日报词频完善了联想功能<br />
+3、词典在非简体系统下亦可正常使用<br />
+4、安装程序支持各种非简体系统<br />
+5、在WOW等游戏下Shift键粘滞的问题<br />
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</p>
+<p>极点五笔 5.2版 982K （日期未知：2007-12-31？）<br />
+因开发极点6，此版未曾公开发行。它修正了5.1版某些bug，是最后一个ansi版本。</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+极点五笔6.0 RC版（日期未知：2006-10-23？）<br />
+说明：<br />
+1、本版暂不支持简入繁出功能；<br />
+2、本版无法直接使用旧版词库（切记，用之前极点的词库，极5或极6的都会非法！！！），请安装到全新目录；<br />
+3、本版为测试版，请勿用于关键工作场合<br />
+4、时间、精力关系，本版主要做兼容性测试，功能方面的要求正式版不会再添加了。</p>
+<p>相较宝宝出生纪念版，本版基本完成了以下功能：<br />
+1、自动词组<br />
+2、万能键<br />
+3、词组联想<br />
+4、提示系统已有词组<br />
+5、智能隐藏词组功能<br />
+6、维护词库的相关功能<br />
+7、打字音效<br />
+8、系统配置与词库的备份与恢复</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+2006-03-18，极点五笔5.1版；<br />
+注：最后一个公开发布、支持win95和Win98的版本，从极点6开始只支持Win2000及以上的版本的Windows。<br />
+1、在迷迷糊糊的帮助下完善了候选窗的跟随<br />
+2、解决了魔兽下启用词组联想会造成丢键的问题<br />
+3、优化极点的检索效能<br />
+4、彻底解决了guest用户无法使用极点的问题<br />
+5、完善了极点在使用中的安装与卸载<br />
+6、采用了wozy 4.3版为基础，集一剑、海峰和物理之大成的4精词库<br />
+7、更便利的系统设置，符号与设置向普通输入习惯靠拢<br />
+8、重新改写了皮肤架构，方便皮肤交流</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+2005-12-25，极点五笔5.0正式版；<br />
+xbeta：感谢杜老师在极点5.0中更正了极点设置后VIM会崩溃的问题。<br />
+一、本次重要更新<br />
+1、第一个自带字典功能的输入法<br />
+2、第一个插件化的输入法<br />
+3、漂亮、实用的状态栏<br />
+4、命令直通车扩展了如下功能：<br />
+①$F输出本地文本功能；<br />
+②$P输出位置功能；（相应功能说明见极点5.0帮助）<br />
+③用编码：zzka、zzkb来打开相应软键盘功能；<br />
+④最小化桌面窗口：tray $xtray<br />
+⑤打开光驱：opencd $xopencd<br />
+⑥开关扬声器：mute $xmute<br />
+⑦极点目录变量：dirr $X[极点目录]%freewb%<br />
+5、增加打字音效功能。默认关闭，高级设置中设置，关闭时不占资源；<br />
+6、更漂亮、更实用的状态栏。极点对状态栏皮肤进行了进一步的扩展，具收缩、扩展两种状态，更漂亮、更实用，输入法的各种状态与常用功能一目了然。<br />
+7、进一步优化检索算法，既减少了资源占用，并同时提高的检索速度。<br />
+8、修正了此前版本中发现的各种问题，特别是启用扬声器报警非法等关键性错误，同时也完善了音箱报警功能，用户可以自定义空码与重码所用报警声音文件。<br />
+提示：极点5.0的状态条作了重大改进，原来4.5版的状态条已经不适用了。如果覆盖安装的，建议在“输入法设置→界面设置→状态条设置”中选择新版的IPurple.ini状态条。当然，选择4.4及以前的版本的简单状态条也行。</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+2005-10-01，极点五笔4.5SE（简体版）发布；<br />
+注：极点第二个成熟、稳定版本，也是极点的第一个成熟平台版本。<br />
+本版主要修正了一些细节问题，对设置做了一定的调整，并添加了“临时GBK”功能。<br />
+1、全面调整设置界面。对设置的功能选项力求简洁与便捷，使极点的新用户能够获得更好地易上手性。将一部分设置功能转移到高级设置中，为方便高级用户，改进了码表用户码表的格式，增加查找选项。<br />
+2、“临时GBK”。默认快捷键为“]”,此功能类似于极点的临时拼音功能。在GB2312下启动临时GBK后，检索范围为GBK单字，输出GBK单字上屏后自动切换回GB2312状态。</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+发布: 极点4.5<br />
+1、可以自定义极点的绝大部分快捷键<br />
+2、通过编码调用windows的一些常用功能：如浏览指定网址、打开我的电脑、我的文件夹或打开指定文件等。</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+发布: 极点五笔4.3正式版 (5月11日更新)</p>
+<p>一、本次重要更新<br />
+本版主要修正了上个公测版的一些细节问题并根据潜龙勿用网友和Ahaman先生的建议添加了“命令直通车”功能。<br />
+1、命令直通车格式可以定义为“$X[说明]命令”，录入时仅显示“说明”部分。如码表中加入： wubi $X[五笔论坛]/bbs/，输入时候选窗显示为：[五笔论坛]<br />
+2、短文标签功能(不支持普通词组)。可以防止候选窗显示过长。如码表中加入： dwja [春晓]【春晓】$13$13$20$20$20$20$13春眠不觉晓，$13处处闻啼鸟；$13夜来风雨声，$13花落知多少。 　　输入时候选窗显示为：[春晓]</p>
+<p>二、详细更新记录</p>
+<p>5月9日 *修正：临拼时不检索单字的问题 *完善：命令直通车格式可以定义为“$X[说明]命令”，录入时仅显示“说明”部分<br />
+2005年5月5日22时36分更新： *完善：windows登录窗下禁用“命令直通车”功能 *完善：Windows接口命令仅定义在用户码表中有效 2005年5月1日更新 *完善$X功能，本版开始支持文件名和路径参数（^ 和#)。 如：①$Xcmd#d:tools 则在打开CMD窗口的同时并进入到d:tools目录中 ②$Xnotepad^c:test.txt 则用打开记事本c:test.txt文件<br />
+2005.4.30更新 *修正：命令功能支持文件路径中空格，用$20表示<br />
+2005.4.28更新 *自动词组最大长度20 *添加:支持用户词库中加入文件路径打开命令$x 和$X,x表示后面，X表示前台例如：abcd $xC:文件唐诗蜀道难.txt mydoc $Xc:document$20and$settingsxxxxMy$documents等<br />
+2003.4.25更新 *修正:部分快捷键设置没有禁止选项 2003.4.24更新 *修正:五笔拼音下拼音重码调频的问题 *修正:临拼下自动调频的问题<br />
+2003.4.23更新 *修正：词组中包括空格或回车时无法在线调频的问题 *修正：临拼可以选用Fx系列快捷键</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+发布: 极点4.2 2005-03-08<br />
+1、修正了公测版发现的一些细节问题,如：<br />
+①快捷英文下，如果录入的是快捷命令给出提示<br />
+②屏幕取词与查询的处理方式,不再执行清空剪切板的动作<br />
+③完善对状态栏显示代码段的处理<br />
+2、彻底解决win9x下无法使用系统设置的问题<br />
+3、完善输入法设置的在线帮助功能<br />
+4、添加了在线速度测试功能<br />
+5、添加了单字输出模式<br />
+6、“屏幕取词”：将屏幕上的内容复制到剪切板再按Ctrl+；<br />
+7、“屏幕查询”：将屏幕上的内容复制到剪切板再按Ctrl+?。如想复制查询结果按Ctrl+c<br />
+8、可以选择候选窗的字体及风格了<br />
+9、英文和大写字母状态下强制半角的选项等<br />
+10、词组最多可以包含512个汉字<br />
+11、完善静默安装及卸载等一些细节问题。</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+发布: 极点4 2004-08-26</p>
+<p>今天极点两岁了！在过去的700多个日日夜夜里，极点得到了无数朋友的关心、帮助与支持。正是大家的帮助，也才使极点坚持并走了下来，也才有了今天极点4的诞生，在此感谢所有参与内测的朋友们！感谢你们对极点的支持与帮助！谢谢！也特别感谢LoveEB和npwjm等二笔朋友，极点4的平台特性等许多功能是在LoveEB的帮助下完成的，谢谢你们！<br />
+极点4虽然经过了长时间的内部测试和公开测试，但囿于我们的水平和软、硬件环境，它可能还会有这样或那样的问题，我们真心的欢迎您反馈您的使用意见与建议，使极点更加符合大家所需并为大家的工作带去一丝便利，这是我们最大的心愿！ 再次感谢所有一直帮助极点到深夜的朋友们！<br />
+——杜志民 2004年8月26日22时52分</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+发布: 极点3.5正式版 2003-12-31<br />
+注：极点第一个稳定、成熟版本。<br />
+下载请至极点主页：http://freewb.y365.com 发布的比较匆忙，附一下修改记录：<br />
+解决IE下第一个窗口被关闭后其他子窗口状态栏不跟随的问题。<br />
+暂屏蔽掉汉字候选窗顶层显示功能；12月30日<br />
+修正了退出IE查找框后，背景不加载及全半角标志不显示等问题；12月30日<br />
+将“使用旧式输入接口”改名为“游戏输入接口”并放到了freewb.ini中；12月29日<br />
+修正了切换到临时拼音状态后马上按BackSpace键会删已录入内容的问题；12月28日 .<br />
+修正了输出大写金额时，如果以“.”结尾数字被缩小10倍的问题；12月28日 .<br />
+修正了98下读取系统目录出错的问题；12月27日 .<br />
+完善了极点的出错处理机制,当极点安装目录不存在或有错时不再退出宿主程序 .重新改写了一下消息处理机制；2003-12-25</p>
+<p>（完。文章最后更新于2015年8月18日）</p>
+-- <a href="http://xbeta.info">http://xbeta.info</a>　　<small>( 6793ee6ca67cfacc9d4333d9ae43a11b)</small>]]></content:encoded>
+			<wfw:commentRss>https://xbeta.info/freewb-history.htm/feed</wfw:commentRss>
+		<slash:comments>112</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.077 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-10-26 21:54:41 -->

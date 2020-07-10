@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  >
+
+<channel>
+  <title>爱范儿</title>
+  <atom:link href="http://www.ifanr.com/feed" rel="self" type="application/rss+xml" />
+  <link>http://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+  <description>报道未来，服务新生活引领者</description>
+  <language>en-US</language>
+        <lastBuildDate>Wed, 26 Oct 2016 09:23:35 +0000</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <generator>https://wordpress.org/?v=4.6.1</generator>
+      <item>
+    <index>1</index>
+    <title>Google 发布了一款办公神器，剑指微软的 Surface Hub</title>
+    <link>http://www.ifanr.com/737451?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737451?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>帅飞</dc:creator>
+    		<category><![CDATA[产品]]></category>
+		<category><![CDATA[G Suite]]></category>
+		<category><![CDATA[Googe 云服务]]></category>
+		<category><![CDATA[Jamboard]]></category>
+		<category><![CDATA[Surface Hub]]></category>
+		<category><![CDATA[企业办公市场]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737451&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_52_59.jpg</image>
+    
+    
+          <description><![CDATA[Jamboard 的出现，可以说是 Google 在企业办公市场针对微软 Surface Hub 的一次挑战。
+
+<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737451">原文链接</a> ·
+<a href="http://www.ifanr.com/737451#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="size-full wp-image-737471 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_52_59.jpg" alt="screenshot_2016_10_26_16_52_59" width="1200" height="750" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_52_59.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_52_59-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_52_59-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_52_59-1024x640.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>在微软的 Surface 系列产品线中，除了面向个人消费者的 Surface Pro 系列和 Surface Book 笔记本，还有一款专门面向企业用户的巨屏设备 <a href="https://en.wikipedia.org/wiki/Surface_Hub">Surface Hub</a>；其典型的使用场景就是会议室办公协作。</p>
+<p><img class="size-full wp-image-737454 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/en-INTL-PDP0-Surface-Hub-55in-HP6-00001-P3.jpg" alt="en-intl-pdp0-surface-hub-55in-hp6-00001-p3" width="780" height="400" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/en-INTL-PDP0-Surface-Hub-55in-HP6-00001-P3.jpg 780w, http://images.ifanr.cn/wp-content/uploads/2016/10/en-INTL-PDP0-Surface-Hub-55in-HP6-00001-P3-360x185.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/en-INTL-PDP0-Surface-Hub-55in-HP6-00001-P3-768x394.jpg 768w" sizes="(max-width: 780px) 100vw, 780px" /></p>
+<p style="text-align: center;">图自：<a href="https://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Hub/productID.319840600">microsoft</a></p>
+<p>如今，Google 也推出了一款与 Surface Hub 功能相似的产品，名为 <a href="https://blog.google/products/g-suite/jamboard-whiteboard-reimagined-collaboration-cloud/">Jamboard</a>。</p>
+<p><img class="size-full wp-image-737455 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/HERO_SMALL.width-500.jpg" alt="hero_small-width-500" width="500" height="500" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/HERO_SMALL.width-500.jpg 500w, http://images.ifanr.cn/wp-content/uploads/2016/10/HERO_SMALL.width-500-360x360.jpg 360w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p style="text-align: center;">图自：<a href="https://blog.google/products/g-suite/jamboard-whiteboard-reimagined-collaboration-cloud/">Google</a></p>
+<h3>基于云端的 Jamboard</h3>
+<p>在 Google 官方描述中，Jamboard 是一款用来协作的数码白板（digital whiteboard）,它能够让团队成员实时分享和合作完成创意；更重要的是，按照 Google 的一贯思维，Jamboard 同样也是基于云端服务的。</p>
+<p>在具体的配置上，Jamboard 搭载了一块 55 英寸的可触控 4K 分辨率屏幕，拥有高清摄像头、扬声器和 WiFi 连接功能。为了让 Jamboard 能够在更多场合下使用，Google 还为它设计了一个配有轮子的底盘，可以方便用户移动。</p>
+<p>软件方面，它所搭载的是经过特殊定制的 Android 系统。由于是基于云端，Jamboard 可以实现不同成员在不同设备之间的同步操作，而操作的结果在可以 Jamboard 上同步显示；不仅如此，它还可以实现基于网络的远程协作。</p>
+<p><img class="size-full wp-image-737457 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_39_04.jpg" alt="screenshot_2016_10_26_16_39_04" width="1367" height="708" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_39_04.jpg 1367w, http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_39_04-360x186.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_39_04-768x398.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_39_04-1024x530.jpg 1024w" sizes="(max-width: 1367px) 100vw, 1367px" /></p>
+<p style="text-align: center;">图自：<a href="https://www.youtube.com/watch?time_continue=17&amp;v=gXwV5SlKLAE">YouTube</a></p>
+<p>Jamboard 还与 Google 的 G Suite 套件实现了深度整合。G Suite 套件中集合了一系列办公专用的 app，可以更加方便地实现办公功能。举个例子，在会议中，用户可以直接将文档从 Drive 中拖动到 Jamboard 上，非常方便。</p>
+<p>另外，为了让 Jamboard 更好地运作，Google 为它专门提供了两个附件：一个可以精准操作的电子手写笔和一个电子橡皮擦。这两个附件都不需要充电，当用户使用它们在 Jamboard 上操作时，Jamboard 能够识别并给予相应的反馈。</p>
+<p><img class="size-full wp-image-737458 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_41_03.jpg" alt="screenshot_2016_10_26_16_41_03" width="1102" height="580" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_41_03.jpg 1102w, http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_41_03-360x189.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_41_03-768x404.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/Screenshot_2016_10_26_16_41_03-1024x539.jpg 1024w" sizes="(max-width: 1102px) 100vw, 1102px" /></p>
+<p style="text-align: center;">电子手写笔和电子橡皮擦</p>
+<p>不仅如此，Jamboard 还能自动识别用户用手指做出的擦拭动作。</p>
+<p>按照 Google 官方的<a href="https://blog.google/products/g-suite/jamboard-whiteboard-reimagined-collaboration-cloud/">说法</a>，Jamboard 的售价会低于 6000 美元，将会在明年开卖。作为对比，微软推出的 55 英寸版 Surface Hub 售价为 8999 美元。</p>
+<h3>G Suite 的硬件外壳</h3>
+<p>虽然 Google 已经声明 Jamboard 的售价不高于 6000 美元，但它的定位非常明显，就是面向企业级用户，而与个人消费者没有太大的关系。</p>
+<p>另外值得注意的是，在 Google 官方博客宣布将要推出 Jamboard 的，正是 Google 方面负责 G Suite 的产品经理 TJ Varghese。</p>
+<p>实际上，Jamboard 与 G Suite 之间的关系无比密切。</p>
+<p><img class="size-full wp-image-737460 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/g-suite-promo-codes-862x364.jpg" alt="g-suite-promo-codes-862x364" width="862" height="364" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/g-suite-promo-codes-862x364.jpg 862w, http://images.ifanr.cn/wp-content/uploads/2016/10/g-suite-promo-codes-862x364-360x152.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/g-suite-promo-codes-862x364-768x324.jpg 768w" sizes="(max-width: 862px) 100vw, 862px" /></p>
+<p style="text-align: center;">图自：<a href="https://slickmedia.co.uk/blog/google-suite-promotion-codes-2016/">slickmedia</a></p>
+<p>G Suite 成立于不到一个月之前。今年 9 月 30 日，Google 在官网<a href="http://www.ifanr.com/725620">宣布</a>，将在原有的企业办公应用（Google Apps for Work）的基础之上，组建一个全新的企业办公服务，并命名为 G Suite。</p>
+<p>G Suite 包含了一系列可以被应用于办公领域的服务，其中有 Gmail，Docs，Slides，Drive，Calendar，Hangouts 等。它们之所以被整合在一起，一方面是品牌方面的统一，但另一方面可以说是 Google 在向企业办公市场的一次重大迈进。</p>
+<p><img class="size-full wp-image-737462 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/G-suite-logo.jpg" alt="g-suite-logo" width="770" height="459" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/G-suite-logo.jpg 770w, http://images.ifanr.cn/wp-content/uploads/2016/10/G-suite-logo-360x215.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/G-suite-logo-768x458.jpg 768w" sizes="(max-width: 770px) 100vw, 770px" /></p>
+<p style="text-align: center;">图自：<a href="http://www.networkedindia.com/2016/10/21/g-suite-update-wants-save-time-offer-better-slack-integration/">networkedindia</a></p>
+<p>而 G Suite 的直接对手，恰恰是微软的 Office、OneDive、Skype for Work 等一系列办公应用。</p>
+<p>值得注意的是，G Suite 中不仅仅加入了 Google 原有的应用，还集合了 Google 包括自然语言处理、图像识别、智能分析在内的多项人工技能技术。</p>
+<p>不过，G Suite 虽然优秀，但它毕竟是不存在实体的服务；从功能实现的角度，它还缺乏一个适用于办公场景的硬件承载者。而 Jamboard 的出现，恰恰扮演了这个角色。</p>
+<p>因此可以说，Jamboard 是 G Suite 的硬件外壳，也可以说是 Google 迈向企业办公市场的另外一个重大决策。</p>
+<p><img class="size-full wp-image-737464 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/Jamboard-Google-796x395.jpg" alt="jamboard-google-796x395" width="796" height="395" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/Jamboard-Google-796x395.jpg 796w, http://images.ifanr.cn/wp-content/uploads/2016/10/Jamboard-Google-796x395-360x179.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/Jamboard-Google-796x395-768x381.jpg 768w" sizes="(max-width: 796px) 100vw, 796px" /></p>
+<p style="text-align: center;">图自：<a href="http://fresh-news-now.com/2016/10/25/google-launches-a-6000-whiteboard-for-g-suite/">Google</a></p>
+<p>另外，鉴于 Google 的 Chromebook 在教育市场已经有所积累，其与 Jamboard 同样也可以在教育办公领域形成犄角之势。这也可以认为是 Google 的另一个布局。</p>
+<p><img class="size-full wp-image-737465 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/chromebooks-apps-flyout.jpg" alt="chromebooks-apps-flyout" width="881" height="418" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/chromebooks-apps-flyout.jpg 881w, http://images.ifanr.cn/wp-content/uploads/2016/10/chromebooks-apps-flyout-360x171.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/chromebooks-apps-flyout-768x364.jpg 768w" sizes="(max-width: 881px) 100vw, 881px" /></p>
+<p style="text-align: center;">图自：<a href="https://www.google.com/intl/en/chrome/business/devices/features-learnmore.html">Google</a></p>
+<h3>正面对抗 Surface Hub</h3>
+<p>简单来说，Jamboard 的出现，是 Google 在企业办公市场针对微软 Surface Hub 的一次正面挑战。</p>
+<p>从目前的情况来看，Jamboard 应该是处于 Google 规划中的硬件产品；Google 在官方的介绍中，只是提到 2017 年可以买到，但是关于这项产品的配置介绍，却是非常笼统的。</p>
+<p><img class="size-full wp-image-737467 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/8f0e0ca4-97e2-4550-80b2-6c0d594acd63.jpg" alt="8f0e0ca4-97e2-4550-80b2-6c0d594acd63" width="641" height="361" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/8f0e0ca4-97e2-4550-80b2-6c0d594acd63.jpg 641w, http://images.ifanr.cn/wp-content/uploads/2016/10/8f0e0ca4-97e2-4550-80b2-6c0d594acd63-360x203.jpg 360w" sizes="(max-width: 641px) 100vw, 641px" /></p>
+<p style="text-align: center;">图自：<a href="https://www.microsoft.com/microsoft-surface-hub/en-us">Microsoft</a></p>
+<p>而相比较而言，微软的 Surface Hub 早已经在今年 3 月份<a href="http://www.leikeji.com/article/5127">发货</a>，而且在实际的办公体验上，Surface Hub 并不差。虽然价格相对高了一点，但 Surface Hub 依然不失为一个有力的竞争对手。</p>
+<p>题图来自：<a href="https://www.youtube.com/watch?v=gXwV5SlKLAE">YouTube</a></p>
+<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737451">原文链接</a> ·
+<a href="http://www.ifanr.com/737451#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737451/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>2</index>
+    <title>为了让你在国外花钱更方便，这些公司也是拼了</title>
+    <link>http://www.ifanr.com/737392?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737392?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>麦玮琪</dc:creator>
+    		<category><![CDATA[公司]]></category>
+		<category><![CDATA[出境游]]></category>
+		<category><![CDATA[携程]]></category>
+		<category><![CDATA[支付宝]]></category>
+		<category><![CDATA[旅游]]></category>
+		<category><![CDATA[移动支付]]></category>
+		<category><![CDATA[蚂蚁金服]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737392&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://images.ifanr.cn/wp-content/uploads/2016/10/Shutterstock-Masson-Luxury-Shopping.jpg</image>
+    
+    
+          <description><![CDATA[国家旅游局发布的数据显示，2016 年上半年中国公民出境旅游人数达 5903 万人次，比上年同期增长 4.3％。盯上出境游的可不只是游客，不少中国互联网公司也希望借此机遇，实现自己“梦寐以求”的国际化战略。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737392">原文链接</a> ·
+<a href="http://www.ifanr.com/737392#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="size-full wp-image-737405 aligncenter" src="http://images.ifanr.cn/wp-content/uploads/2016/10/Shutterstock-Masson-Luxury-Shopping.jpg" alt="shutterstock-masson-luxury-shopping" width="1200" height="750" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/Shutterstock-Masson-Luxury-Shopping.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/Shutterstock-Masson-Luxury-Shopping-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/Shutterstock-Masson-Luxury-Shopping-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/Shutterstock-Masson-Luxury-Shopping-1024x640.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>在刚刚过去没多久的十一假期里，我们足不出户也能在朋友圈里看遍世界。出境游成为了不少年轻人规避出游高峰，享受假期的优选。</p>
+<p>国家旅游局发布的数据<a href="http://www.cnta.gov.cn/xxfb/jdxwnew2/201608/t20160809_780282.shtml">显示</a>，2016 年上半年中国公民出境旅游人数达 5903 万人次，比上年同期增长 4.3％。中国已经成为泰国、日本、韩国、越南、俄罗斯、朝鲜、马尔代夫、英国等国的第一大入境旅游客源地。</p>
+<p>盯上出境游的可不只是游客，不少中国互联网公司也希望借此机遇，实现自己“梦寐以求”的国际化战略。</p>
+<h3>出境游：携程的下一个强劲增长点</h3>
+<p>10 月 24 日，携程宣布与美国纵横、海鸥、途风等三大旅行社企业达成战略投资与合作，全面布局北美旅游市场，携程集团高级副总裁、携程旅游 CEO 杨涛表示，走向国际化、布局出境游目的地是携程的重要战略。</p>
+<p><img class="size-full wp-image-737408 aligncenter" src="http://images.ifanr.cn/wp-content/uploads/2016/10/BA-BK098_ctrip__M_20160128163933.jpg" alt="ba-bk098_ctrip__m_20160128163933" width="1000" height="666" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/BA-BK098_ctrip__M_20160128163933.jpg 1000w, http://images.ifanr.cn/wp-content/uploads/2016/10/BA-BK098_ctrip__M_20160128163933-360x240.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/BA-BK098_ctrip__M_20160128163933-768x511.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>在线旅游平台配合目的地旅行社推出在线旅游产品，这样的模式或许会不断推动携程出境游业务总交易额（GMV）的提高。目前携程出境游业务除常规的跟团游之外，还囊括了包括接送机、国际租车、门票预订、Wi-Fi、保险等独立业务，若能够通过旅行团的形式向消费者打包出售旅游产品，对于携程的收入是一个利好消息。</p>
+<p>现阶段，出境游既是投资者非常关注的一块业务，也是携程目前增长最为快速的业务。在今年 3 月份的 2015 财年第四季度财报电话会议上，高盛集团分析师 David Jin 询问了携程出境游和境内游总交易额比例问题，携程联席总裁兼 COO 孙洁<a href="http://tech.sina.com.cn/i/2016-03-17/doc-ifxqnski7674903.shtml">表示</a>：</p>
+<blockquote><p>目前，出境游业务在公司总 GMV 中的占比仍然很小，但是出境游业务在公司总 GMV 中的占比增长速度远远快于境内游业务。我们预计，到 2020 年，出境游业务 GMV 将在公司总 GMV 中占到相当大的比重。</p></blockquote>
+<p>类似的高管发言还出现在 2016 财年第一、第二财季中，方便我们对携程出境游业务的发展趋势有所了解：</p>
+<blockquote><p>出境游对公司各个业务的营收均有贡献。具体来看，出境游对携程酒店业务的贡献有 15%－20%，对机票营收的贡献有 30%，度假业务占 60%－70%。——携程 CFO <a href="http://stock.qq.com/a/20160616/049296.htm">王肖璠</a>（2016 财年第一季度）</p>
+<p>&nbsp;</p>
+<p>我们将会通过专注于提供一站式在线旅游平台，扩展出境游业务覆盖度，提高运营效率，以强化携程的行业领导地位。——携程 CEO <a href="http://ir.ctrip.com/phoenix.zhtml?c=148903&amp;p=irol-newsArticle&amp;id=2198758">梁建章</a>（2016 财年第二季度）</p></blockquote>
+<p><img class="size-full wp-image-737410 aligncenter" src="http://images.ifanr.cn/wp-content/uploads/2016/10/online-tourism.png" alt="online-tourism" width="806" height="600" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/online-tourism.png 806w, http://images.ifanr.cn/wp-content/uploads/2016/10/online-tourism-360x268.png 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/online-tourism-768x572.png 768w" sizes="(max-width: 806px) 100vw, 806px" /></p>
+<p>根据艾瑞咨询发布的《2016 年中国在线旅游度假市场研究报告》，2015 年出境游业务占据了国内在线旅游市场 52.6% 的份额，市场规模非常可观，携程网则在此占据了 25.1% 的市场份额，高居市场首位。</p>
+<h3>移动支付：银联、蚂蚁金服形成两大重要势力</h3>
+<p>中国是目前世界上移动支付最为发达的国家，没有之一。这样的市场环境也促使中国银联、支付宝等国字号银行机构及互联网公司加快海外布局，为中国人在海外放心买买买打好支付基础。</p>
+<p>而在这场商战中，中国银联显然依靠官方地位走得更快更好。</p>
+<p>10 月 21 日，银联国际<a href="http://corporate.unionpay.com/infonewsCenter/infoCompanyNews/file_131556177.html">宣布</a>与德国两大收单机构 B+S Card Service、CardProcess 公司达成合作，总计开通当地 5 万多家商户受理银联卡，使德国商户的银联卡受理覆盖率从现在的 30% 提升到 50%。银联还透露在英国、法国、瑞士、捷克等国家有超过 100 所大学支持使用银联卡支付学费。</p>
+<p><img class="size-full wp-image-737412 aligncenter" src="http://images.ifanr.cn/wp-content/uploads/2016/10/China-middle-class.jpg" alt="china-middle-class" width="1000" height="671" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/China-middle-class.jpg 1000w, http://images.ifanr.cn/wp-content/uploads/2016/10/China-middle-class-360x242.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/China-middle-class-768x515.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p style="text-align: center;">（图片来自：<a href="http://www.businessinsider.com.au/this-chart-puts-australias-free-trade-agreement-with-japan-into-perspective-2014-7">Business Insider</a>）</p>
+<p>银联官方数据显示，截止至今年 9 月 13 日，银联卡可以在境外 1800 万家商家和 130 万台 ATM 使用。服务方面，如在境外发生卡片丢失、被盗等情况，持卡人能在 220 多个国家和地区超过 40 万个服务网点，申请最高等值 5000 美元的现金支援。</p>
+<p>除了商业上的合作，银联还在向境外输出芯片卡标准。10 月 16 日，银联<a href="http://corporate.unionpay.com/infonewsCenter/infoCompanyNews/file_131387182.html">宣布</a>与亚洲支付联盟 7 家会员机构达成芯片卡标准授权合作，这也意味着银联主推的云闪付功能未来很有可能会出现在新加坡、泰国、韩国、马来西亚、印尼等亚太国家，进一步降低中国消费者境外刷卡的门槛。</p>
+<p>不过，考虑到银联是直接由央行批准成立的金融服务机构，既是金融市场的参与者，也一定程度上影响着市场规则的制定，所以银联的境外发展路径具有唯一性，不可复制。以支付宝为代表的互联网金融公司，更多地是凭借自己在移动端上的优势及对用户需求的把握，在消费者和商户需求最旺盛的领域展开激烈竞争。</p>
+<p><img class="alignnone size-full wp-image-737427" src="http://images.ifanr.cn/wp-content/uploads/2016/10/alipaykorea.jpg" alt="alipaykorea" width="1000" height="631" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/alipaykorea.jpg 1000w, http://images.ifanr.cn/wp-content/uploads/2016/10/alipaykorea-360x227.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/alipaykorea-768x485.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p style="text-align: center;">（一家支持支付宝消费的韩国店铺，图片来自：新华社）</p>
+<p>以韩国为例，根据第一财经<a href="http://m.yicai.com/news/5133122.html">报道</a>，拉卡拉在今年 8 月末宣布与韩国友利银行达成合作推出本地结算业务。至此，得益于中国游客赴韩旅游、购物的巨大需求，中国已有支付宝、微信支付和拉卡拉三大移动支付品牌进驻韩国。早在 2015 年 5 月，韩国副总理崔炅焕就与马云会面，<a href="http://tech.sina.com.cn/i/2015-05-19/doc-icczmvup1929238.shtml">表示</a>将全力支持支付宝在韩国普及。目前，韩国不少主流免税店都已经支持使用支付宝结算。</p>
+<p>在几大互联网金融公司里，蚂蚁金服的海外布局规模或许是最庞大的。在此前有关双 11 启动仪式以及蚂蚁金服与 First Data、惠尔丰（Verifone）<a href="http://www.ifanr.com/736382">达成合作</a>的报道中，爱范儿（微信号：ifanr）曾经提到目前支付宝“全球收全球付”服务覆盖全球超过 200 个国家和地区，支持美元、英镑、欧元等 18 种货币一键结算。在 9 月份刚刚结束的二十国集团工商峰会（B20）中，马云提出并倡议的 eWTP（世界电子贸易平台）得到了极高的关注，若 eWTP 最终能成为现实，那蚂蚁金服及旗下支付宝作为阿里的金融“触手”，势必会借 eWTP 的发展，进一步推动其全球支付网络的建设。</p>
+<p><img class="size-full wp-image-737432 aligncenter" src="http://images.ifanr.cn/wp-content/uploads/2016/10/1473132317_311.jpg" alt="1473132317_311" width="1000" height="600" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/1473132317_311.jpg 1000w, http://images.ifanr.cn/wp-content/uploads/2016/10/1473132317_311-360x216.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/1473132317_311-768x461.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<h3>将中国企业推向海外的不一定是战略，也可能是消费者的欲望</h3>
+<p>国际化一直都是中国互联网公司的难题，不少在国际化稍有起色的互联网公司都还仅仅停留在东南亚地区的发展中国家。但是在对出境游市场有所研究之后，爱范儿（微信号：ifanr）却发现了国际化发展在这个领域独特的呈现方式。</p>
+<p>伴随着中国游客的脚步走出国门的，既有蚂蚁金服、微信支付、携程、中国银联这样的互联网巨头及金融机构和他们成规模的境外业务，也有小米 MIUI 境外漫游、滴滴出行海外版等偏重于给消费者提供多一点便利的特殊服务。而这些公司的业务之所以能在海外开花，无一例外不是与他们最熟悉的消费群体——中国消费者的需求保持紧密联系。</p>
+<p>不过在看似充满成就的“布局”之下，这些互联网公司也要花更多精力确保自己的海外业务的基层执行能力，否则即使将自己的 Logo 贴得满大街都是，也不一定能确保海外服务的体验能够与国内保持一致。毕竟向消费者提供服务的并不是行业大佬，而是分布在街头巷尾的便利店收银员、专车司机等典型的本土服务业劳动者。</p>
+<p>题图来自：<a href="http://www.frontiermagazine.co.uk/news/luxury-retail-drivers-differ-us-china-02-12-2014/">Frontier Magazine</a></p>
+  <div id="ifanr_profile" style="border:1px solid #ccc;font-size:14px;margin:27px auto;font-family:Arial;">
+    <div style="overflow:hidden"><a target="_blank" href="http://www.ifanr.com/author/michael" style="color:#000;text-decoration:none;"></a>
+
+      <div style="text-align:left;line-height:23px;margin-left:80px">
+        <div style="padding:10px 10px 10px 0">
+          <div style="margin:0;font-size: 14px;"><strong><a target="_blank" href="http://www.ifanr.com/author/michael" style="color:#000;text-decoration:none;">麦玮琪 (Michael)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height:20px;">关注无人机、汽车，探讨商业模式和科技产品与社会的结合。工作邮箱：michael@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align:right;border-top:1px dotted #ccc;padding:2px 10px; font-size:12px;">
+      <div>
+                    
+          
+                                  <a target="_blank" href="mailto:michael@ifanr.com" style="margin-right:14px;text-decoration:none;">邮箱</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737392">原文链接</a> ·
+<a href="http://www.ifanr.com/737392#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737392/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>3</index>
+    <title>“美国滴滴”Lyft CEO 否认公司在售，但靠“补贴大法”还可以撑多久？</title>
+    <link>http://www.ifanr.com/737357?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737357?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>刘 浩南</dc:creator>
+    		<category><![CDATA[公司]]></category>
+		<category><![CDATA[John Zimmer]]></category>
+		<category><![CDATA[Lyft]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[WSJDLive]]></category>
+		<category><![CDATA[共享专车]]></category>
+		<category><![CDATA[共享经济]]></category>
+		<category><![CDATA[柳青]]></category>
+		<category><![CDATA[滴滴出行]]></category>
+		<category><![CDATA[通用汽车]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737357&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/external-1_meitu_3.jpg</image>
+    
+    
+          <description><![CDATA[John Zimmer 不断强调 Lyft 订单数量的上升，却避而不谈盈利计划，反而让 Lyft 尴尬处境欲盖弥彰——订单越多，亏得越多。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737357">原文链接</a> ·
+<a href="http://www.ifanr.com/737357#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="size-full wp-image-737388 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/external-1_meitu_3.jpg" alt="external-1_meitu_3" width="1200" height="750" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/external-1_meitu_3.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/external-1_meitu_3-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/external-1_meitu_3-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/external-1_meitu_3-1024x640.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>昨日《华尔街日报》主办的 WSJDLive 全球科技大会上，Uber 在美国最大的竞争对手、美国第二大打车应用 Lyft 的联合创始人 John Zimmer 出席，<a href="http://www.wsj.com/articles/lyft-denies-reports-its-for-sale-says-ridership-has-doubled-1477415764">并当场否认了 Lyft 正在对外出售的传闻，并称 10 月订单量实现翻倍。</a></p>
+<h3>订单量翻倍，营利能力还是堪忧</h3>
+<p>John Zimmer 透露，自去年年底以来 Lyft 在美国的订单数量已经实现翻倍，今年 10 月已达到 1700 万份，而去年 12 月仅为约 700 万份。</p>
+<p>今年 6 月份，Lyft 聘请了投资银行 Qatalyst Partners LP 作战略顾问，而 Qatalyst Partners LP 以擅长公司买卖交易著称，因此引来部分分析师怀疑出售 Lyft 的大门已经打开，竞购方可能是资金充裕又对共享专车领域兴趣盎然的通用汽车。<br />
+<img class="size-full wp-image-737399 alignleft" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/uber-lyft-driver-earnings-by-city.png" alt="uber-lyft-driver-earnings-by-city" width="1600" height="1345" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/uber-lyft-driver-earnings-by-city.png 1600w, http://images.ifanr.cn/wp-content/uploads/2016/10/uber-lyft-driver-earnings-by-city-360x303.png 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/uber-lyft-driver-earnings-by-city-768x646.png 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/uber-lyft-driver-earnings-by-city-1024x861.png 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>这一怀疑也部分源于 Lyft 自身的状况。自 2007 年创立以来，Lyft 通过多轮融资募集到 20 多亿美元，与 Uber 在美国本土的交战还在持续，目前仍处于亏损状态。对此，齐默在大会上仍对 Lyft 的盈利时间表缄口不言。</p>
+<p>但他透露 Lyft 有在未来几年内 IPO（首次公开招股）的计划。“我们并不急于上市，IPO 才是最接近的事。”John Zimmer 说。</p>
+<p>虽然今年还有 2 个月左右才结束，但 John Zimmer 估计今年 Lyft 的订单总量会是去年的三倍。目前 Lyft 主要的业务拓展方式仍是共享专车平台的“土办法”：通过大量的现金补贴吸引新用户和专车司机。因此，Lyft 的盈利能力被这部分支出大大压缩，成为目前为止还没有实现盈利的主要原因。</p>
+<p>John Zimmer 不断强调 Lyft 订单数量的上升，却避而不谈盈利计划，反而让 Lyft 尴尬处境欲盖弥彰——订单越多，亏得越多。</p>
+<h3>在“反 Uber”这件事上，Lyft 越来越孤单</h3>
+<p>在 Lyft 努力扩大美国市场份额，老对手 Uber 则更多把精力投向全球业务。另外，反吞下 Uber 在华业务的滴滴出行也不满足于中国市场，开始思考扩张全球业务。</p>
+<p>同样是 WSJDLive 大会上，滴滴出行总裁柳青高调宣布公司将向中国以外的市场扩张，夺取全球份额。美国这块沃土当然也在滴滴考虑范围内。</p>
+<p><img class="size-full wp-image-737380 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/external.jpeg" alt="external" width="649" height="365" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/external.jpeg 649w, http://images.ifanr.cn/wp-content/uploads/2016/10/external-360x202.jpeg 360w" sizes="(max-width: 649px) 100vw, 649px" /></p>
+<p>而去年滴滴还是 Lyft 带头的“反 Uber 同盟”成员之一，成员包括新加坡共享专车平台 Grab 和印度的 Ola。这个联盟试图引导乘客在另一个国家选择联盟成员服务，借此抵抗 Uber 的全球拓展步伐。而滴滴一旦进入美国市场，自然就成为 Lyft 的直接对手。</p>
+<p>对此，John Zimmer 表示，Lyft 与滴滴出行的关系有点类似美剧《摩登家庭》 中成员相互独立的关系。他发言称，滴滴出行与 Uber 中国业务合并“很大程度上不会影响到双方的工作或是业务”。</p>
+<p><img class="size-full wp-image-737398 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/960-gm-lyft-bring-selfdriving-electric-taxis-a-year.jpg" alt="960-gm-lyft-bring-selfdriving-electric-taxis-a-year" width="960" height="540" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/960-gm-lyft-bring-selfdriving-electric-taxis-a-year.jpg 960w, http://images.ifanr.cn/wp-content/uploads/2016/10/960-gm-lyft-bring-selfdriving-electric-taxis-a-year-360x203.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/960-gm-lyft-bring-selfdriving-electric-taxis-a-year-768x432.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<p>和 Uber、滴滴相比，Lyft 目前独有的优势在于和通用汽车的良好的关系。今年年初，通用汽车向 Lyft 投资 5 亿美元，而且双方计划在未来五年内合作进军无人驾驶市场。</p>
+<p>在分工上看，Lyft 能为通用汽车提供丰富的客户资源，而通用汽车作用实力雄厚的老牌汽车制造商能为 Lyft 提供硬件和技术支持。</p>
+<p>如果这个无人驾驶计划能落地， Lyft 能将每公里的费用降至 5 美元。更低的价格意味着 Lyft 有希望逃脱目前“补贴多越亏，为了市场份额又不能不补贴”的怪圈。</p>
+<p>进入 2016 年下半年，包括 Uber 在内的共享专车平台们都在苦苦寻觅新的盈利模式。都说“补贴烧钱一时，占领市场一世”，但烧的钱什么时候才能转变为真正的盈利，除了视乎平台本身财政状况外，还要看投资人们对这一领域的信心。</p>
+<p>从 Lyft 目前的状况看来，投资人们的耐心极限已经临近了。无人驾驶开发也好，市场兼并也好，全球共享专车平台思考变现方式的进程将显著加快。</p>
+<p>题图自：<a href="http://www.wsj.com/articles/lyft-denies-reports-its-for-sale-says-ridership-has-doubled-1477415764">《华尔街日报》</a></p>
+<p>插图自：<a href="http://www.wsj.com/articles/lyft-denies-reports-its-for-sale-says-ridership-has-doubled-1477415764">《华尔街日报》</a>、<a href="http://www.bidnessetc.com/68532-gm-lyft-bring-selfdriving-electric-taxis-a-year/">Bidnessetc</a></p>
+  <div id="ifanr_profile" style="border:1px solid #ccc;font-size:14px;margin:27px auto;font-family:Arial;">
+    <div style="overflow:hidden"><a target="_blank" href="http://www.ifanr.com/author/liuhaonan" style="color:#000;text-decoration:none;"></a>
+
+      <div style="text-align:left;line-height:23px;margin-left:80px">
+        <div style="padding:10px 10px 10px 0">
+          <div style="margin:0;font-size: 14px;"><strong><a target="_blank" href="http://www.ifanr.com/author/liuhaonan" style="color:#000;text-decoration:none;">刘 浩南</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height:20px;">请指教~工作邮箱：liuhaonan@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align:right;border-top:1px dotted #ccc;padding:2px 10px; font-size:12px;">
+      <div>
+                                <a target="_blank" href="mailto:liuhaonan@ifanr.com" style="margin-right:14px;text-decoration:none;">邮箱</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737357">原文链接</a> ·
+<a href="http://www.ifanr.com/737357#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737357/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>4</index>
+    <title>逼宫亚马逊，Google Express 又放大招了</title>
+    <link>http://www.ifanr.com/737296?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737296?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>刘莎</dc:creator>
+    		<category><![CDATA[公司]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Express]]></category>
+		<category><![CDATA[物流]]></category>
+		<category><![CDATA[电商]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737296&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/techcrunch.jpg</image>
+    
+    
+          <description><![CDATA[Google Express 于 10 月 25 日宣布其速运服务将在美国增加13个州，以推动其在全国扩张的计划。为了与亚马逊在电商领域进行竞争，Google Express 从辐射范围及服务品质等多方面进行提升，力图在美国电商市场获得一席。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737296">原文链接</a> ·
+<a href="http://www.ifanr.com/737296#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="aligncenter size-full wp-image-737350" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/techcrunch.jpg" alt="Google Express van" width="1200" height="750" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/techcrunch.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/techcrunch-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/techcrunch-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/techcrunch-1024x640.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p><a href="http://www.usatoday.com/story/money/business/2016/10/25/google-express-adds-delivery-service-14-more-states/92725450/">据今日美国报道</a>，Google 宣布旗下 Google Express 服务将在美国新增 13 个州，真正做到“只要你掏钱，我哪里都可以送”。</p>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-737352" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/屏幕快照-2016-10-26-下午2.48.33.png" alt="Google Express fb capture" width="720" height="251" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/屏幕快照-2016-10-26-下午2.48.33.png 720w, http://images.ifanr.cn/wp-content/uploads/2016/10/屏幕快照-2016-10-26-下午2.48.33-360x126.png 360w" sizes="(max-width: 720px) 100vw, 720px" /></p>
+<p style="text-align: center;">（图片来自：Google Express 官方 Facebook 截图）</p>
+<p>&nbsp;</p>
+<p>从 <a href="https://www.facebook.com/GoogleExpress/">Google Express 官方 Facebook </a>帐号 10 月 25 日发布的消息可以看到，目前 Google Express 已经覆盖了美国的东西两岸。而<a href="https://techcrunch.com/2016/10/25/google-express-expands-now-reaches-90-percent-of-u-s/">据统计</a>其辐射范围将接近美国本土的 90% 区域，近 7000 万消费者将因此受益。</p>
+<h3></h3>
+<h3>不求最全，但求最远</h3>
+<p>&nbsp;</p>
+<blockquote><p>我们的宗旨是让人们能够更加便利地从他们真正喜爱的商店购物。</p></blockquote>
+<p>Google Express 总经理<a href="http://www.businessinsider.com/google-express-delivery-cuts-perishables-plans-to-expand-throughout-us-2016-9">布莱恩•艾略特 （Brian•Elliott）的发言强调</a>了 Google Express 存在的核心价值：便利以及独特。</p>
+<p>自 2013 年 3 月在美国旧金山和硅谷范围内上线以来，Google Express 的扩张脚步一直没停下来。<a href="http://www.businessinsider.com/google-express-delivery-cuts-perishables-plans-to-expand-throughout-us-2016-9">艾略特曾在九月份表示</a>，其计划在今年底将 Google Express 的在线购物速运从目前的 20 个州和区域拓展至全国范围。</p>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-737353" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/chicago-tribune.jpg" alt="Google Express delivery" width="720" height="405" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/chicago-tribune.jpg 720w, http://images.ifanr.cn/wp-content/uploads/2016/10/chicago-tribune-360x203.jpg 360w" sizes="(max-width: 720px) 100vw, 720px" /></p>
+<p style="text-align: center;">（图片来自：<a href="http://www.siliconbeat.com/2015/07/27/google-express-workers-want-to-unionize/">SiliconBeat</a>）</p>
+<p>&nbsp;</p>
+<p>为了与电商大佬亚马逊（Amazon）进行竞争，Google 这次也是下了血本了。为了加快在全国范围内的扩张，<a href="http://www.businessinsider.com/google-express-delivery-cuts-perishables-plans-to-expand-throughout-us-2016-9">Google 表示</a>将“忍痛”放弃一部分业务，如部分生鲜和食品杂货的运送，以与已占先机的亚马逊 Prime 服务一较高下。</p>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-737358" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/techcrunch-door.jpg" alt="Google Express door2door" width="720" height="481" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/techcrunch-door.jpg 720w, http://images.ifanr.cn/wp-content/uploads/2016/10/techcrunch-door-360x241.jpg 360w" sizes="(max-width: 720px) 100vw, 720px" /></p>
+<p style="text-align: center;">（图片来自：<a href="https://techcrunch.com/2016/02/17/google-launches-fresh-grocery-delivery-service-in-san-francisco-and-los-angeles/">TechCrunch</a>）</p>
+<p>&nbsp;</p>
+<p>与亚马逊提供的海量商品不同，Google Express 目前合作的 50 多个商家均是经过“精挑细选”的，“我们挑选的商家都是人们真正喜欢的，他们会有种自己不是在网购的感觉。” <a href="http://www.businessinsider.com/google-express-delivery-cuts-perishables-plans-to-expand-throughout-us-2016-9">艾略特指出</a>了 Google Express 的精品化战略。</p>
+<p>与此同时，<a href="http://www.businessinsider.com/google-express-delivery-cuts-perishables-plans-to-expand-throughout-us-2016-9">Google 还计划</a>与第三方运输机构进行合作，以降低其运营成本。</p>
+<p>&nbsp;</p>
+<h3>赶超亚马逊，道阻且长</h3>
+<p>&nbsp;</p>
+<p>从 Google Express 上线以来，一直拿来与亚马逊旗下的 Prime 进行比较。但无论是从运输效率、价格竞争还是渠道铺设来看，Google Express 要走的路还很远。</p>
+<ul>
+<li>运输效率—— Google Express 和 亚马逊 Prime 都支持最快当日送达。</li>
+</ul>
+<ul>
+<li> 价格—— 尽管现在都是付费服务，Google Express 提供两种付费方式供消费者选择：95 美元的年费会员或者 4.99 美元起的单次付费；亚马逊则比较单一，需花费 99 美元订购 Prime 的年费会员才可获得当日送达服务。</li>
+</ul>
+<ul>
+<li> 渠道——这一直以来是 Google 的短板，与亚马逊的直接供货渠道相比，Google Express 只能借助与传统经销商的合作完成货源供给。</li>
+</ul>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-737362" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/BIDNESS-ETC.jpg" alt="Google vs Amazon" width="720" height="405" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/BIDNESS-ETC.jpg 720w, http://images.ifanr.cn/wp-content/uploads/2016/10/BIDNESS-ETC-360x203.jpg 360w" sizes="(max-width: 720px) 100vw, 720px" /></p>
+<p style="text-align: center;">（图片来自：<a href="http://www.bidnessetc.com/31346-google-inc-counters-amazoncom-with-sameday-delivery-option/">Bidness Etc</a>）</p>
+<p>&nbsp;</p>
+<p>雪上加霜的是，一直引以为豪的访问流量优势也被亚马逊拿走了。</p>
+<p><a href="https://www.bloomberg.com/news/articles/2016-09-27/more-than-50-of-shoppers-turn-first-to-amazon-in-product-search">据彭博社报道</a>，几乎将近一半的美国在线购物消费者选择在亚马逊网站或者移动客户端上直接搜索购物信息，这对于以搜索引擎作为核心业务又渴望在电商领域突围的的 Google 来说无疑是一个不好的信号。</p>
+<p>可以预见的是，Google Express 这一波大招尽管炫目，但要狙击亚马逊还要多修炼。</p>
+<p>题图来自：<a href="https://techcrunch.com/2016/09/28/googles-home-delivery-service-google-express-hits-new-england/">TechCrunch</a></p>
+<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737296">原文链接</a> ·
+<a href="http://www.ifanr.com/737296#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737296/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>5</index>
+    <title>柳青说滴滴要展开国际化扩张，但这是一件不容易的事</title>
+    <link>http://www.ifanr.com/737354?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737354?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>陈 诗蔚</dc:creator>
+    		<category><![CDATA[公司]]></category>
+		<category><![CDATA[Grab]]></category>
+		<category><![CDATA[Lyft]]></category>
+		<category><![CDATA[Ola]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[滴滴出行]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737354&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/liuqing-didi.jpg</image>
+    
+    
+          <description><![CDATA[滴滴正在评估应该进军哪些新市场，既有可能与当地现有的专车公司合作，也有可能与之竞争。如果滴滴认为当地的企业实力不够强大，便有可能与之竞争。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737354">原文链接</a> ·
+<a href="http://www.ifanr.com/737354#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="size-full wp-image-737365 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/liuqing-didi.jpg" alt="liuqing-didi" width="1200" height="751" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/liuqing-didi.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/liuqing-didi-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/liuqing-didi-768x481.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/liuqing-didi-1024x641.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>据新浪科技，滴滴出行总裁柳青在 WSJDLive 2016 全球科技大会<a href="http://tech.sina.com.cn/i/2016-10-26/doc-ifxwztru7190540.shtml">表示</a>，滴滴将向中国以外的市场扩张，夺取全球份额。在此过程中，滴滴有可能与一些国家的当地专车服务展开合作。</p>
+<blockquote><p>我们希望全球化。</p></blockquote>
+<p>与 Uber 直接在全球建立业务的全球化做法不同， 一直以来，滴滴更多的是通过投资入股海外的打车出行平台的方式形成自己的全球化布局。</p>
+<p>例如说，滴滴与 Uber 中国合并后不久，就投资了东南亚地区最大出行软件 Grab。</p>
+<p>但这不是滴滴第一次投资 Grab 了，也不是它第一次投资海外打车平台。2015 年 9 月，滴滴入股美国本土打车软件 Lyft 1 亿美元，之后又投资入股印度 Ola 3000 万美元。</p>
+<p>这是滴滴在海外扩张至今采取的主要策略：<strong>曲线救国，通过投资进入其他海外市场。</strong></p>
+<p>除此之外，<strong>滴滴还通过打通产品线的做法进行扩张</strong>。</p>
+<p>今年 4 月，滴滴还在美国上线了<a href="http://www.ifanr.com/644161">“滴滴海外”</a>，用户可以用滴滴 app 呼叫到 Lyft 的汽车。值得一提的是，为方便中国用户使用，“滴滴海外”界面均为中文显示，整体叫车发单流程与国内保持一致。</p>
+<p>与 Lyft 产品互通这一做法让滴滴在形式上直接进入了美国市场。</p>
+<p>去年年底，滴滴、Lyft、Grab、Ola 四方曾宣布建立全球合作框架，这次合作除了能够为他们带来更多收益和更大的用户群体之外，全球无缝连接的服务也让他们具有和 Uber 一样的全球竞争力。</p>
+<p><img class="size-full wp-image-737384 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/didi-chuxing-uber-fire-go-jek.jpg" alt="didi-chuxing-uber-fire-go-jek" width="950" height="530" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/didi-chuxing-uber-fire-go-jek.jpg 950w, http://images.ifanr.cn/wp-content/uploads/2016/10/didi-chuxing-uber-fire-go-jek-360x201.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/didi-chuxing-uber-fire-go-jek-768x428.jpg 768w" sizes="(max-width: 950px) 100vw, 950px" /></p>
+<p style="text-align: center;"><span class="irc_ho" dir="ltr">图自：<a class="_ZR irc_hol i3724" tabindex="0" href="https://www.techinasia.com/go-jek-in-the-ride-hailing-war" target="_blank" rel="noopener" data-noload="" data-ved="0ahUKEwjJr7XG-_fPAhUShbwKHSaiC04QjB0IBg">Tech in Asia</a></span></p>
+<p>这次四方合作也被视为形成了“全球反 Uber 联盟”。但这个联盟却在滴滴与 Uber 中国合并后陷入了尴尬甚至瓦解的境地。</p>
+<p>Lyft 与 Uber 在美国市场的竞争已有很长时间，本来 Lyft 与滴滴合作，前者以为有了合作伙伴能一起对抗 Uber，但却没想到合作方转而又与竞争对手合作。Lyft 官方发言人 Alecandra LaManna 曾说：“我们将进一步评估与滴滴之间的伙伴关系。”</p>
+<p>除了 Lyft，Grab 和 Ola 也得重新审视和思考自己和滴滴的合作得到哪个层面合适。外媒在对 Ola 相关人士采访时获知，Ola 仍坚持认为滴滴出行收购 Uber 中国不会给公司业务构成影响，因为滴滴只是 Ola 的小股东，且虽然 Ola 和滴滴出行有结盟关系，但好在尚未发布合作产品。</p>
+<p>滴滴没有像 Uber 一样亲力亲为地去开拓疆土，而是通过与本土化的打车软件合作形成海外格局，<strong>但也由于复杂和不确定的合作关系，让自己的全球计划变得有些窘迫和尴尬。</strong></p>
+<p><img class="size-full wp-image-737383 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/Ridesharing_investment_datagraphic_contrast_with_PB_logo_Ggd.png" alt="ridesharing_investment_datagraphic_contrast_with_pb_logo_ggd" width="1584" height="1224" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/Ridesharing_investment_datagraphic_contrast_with_PB_logo_Ggd.png 1584w, http://images.ifanr.cn/wp-content/uploads/2016/10/Ridesharing_investment_datagraphic_contrast_with_PB_logo_Ggd-360x278.png 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/Ridesharing_investment_datagraphic_contrast_with_PB_logo_Ggd-768x593.png 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/Ridesharing_investment_datagraphic_contrast_with_PB_logo_Ggd-1024x791.png 1024w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>
+<p style="text-align: center;">图自：<a class="_ZR irc_hol i3724" tabindex="0" href="http://pitchbook.com/news/articles/a-visual-guide-to-the-twisted-web-created-by-the-uberdidi-merger" target="_blank" rel="noopener" data-noload="" data-ved="0ahUKEwjBoIOd-_fPAhUJULwKHTeBANUQjB0IBg"><span class="irc_ho" dir="ltr">PitchBook</span></a></p>
+<p>如今，滴滴柳青重新表示，滴滴正在评估应该进军哪些新市场，既有可能与当地现有的专车公司合作，也有可能与之竞争。如果滴滴认为当地的企业实力不够强大，便有可能与之竞争。</p>
+<blockquote><p>这是一场艰难的比赛，但我们乐在其中。</p></blockquote>
+<p>也就是说，滴滴可能不仅仅通过各种嫁接形式来进入海外市场，也将会采取和 Uber 相似的做法，直接进入当地市场提供打车服务。</p>
+<p>当然，Uber 在进军国际市场时引起了不少争议和冲突，这也将是滴滴全球化进程里不得不面对的问题。</p>
+<p>题图自：<a href="http://tech.sina.com.cn/i/2016-10-26/doc-ifxwztru7190540.shtml">新浪科技</a></p>
+  <div id="ifanr_profile" style="border:1px solid #ccc;font-size:14px;margin:27px auto;font-family:Arial;">
+    <div style="overflow:hidden"><a target="_blank" href="http://www.ifanr.com/author/chenshiwei" style="color:#000;text-decoration:none;"></a>
+
+      <div style="text-align:left;line-height:23px;margin-left:80px">
+        <div style="padding:10px 10px 10px 0">
+          <div style="margin:0;font-size: 14px;"><strong><a target="_blank" href="http://www.ifanr.com/author/chenshiwei" style="color:#000;text-decoration:none;">陈 诗蔚 (chenshiwei)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height:20px;">VR/AR/新兴媒介，工作邮箱：chenshiwei@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align:right;border-top:1px dotted #ccc;padding:2px 10px; font-size:12px;">
+      <div>
+                                <a target="_blank" href="mailto:chenshiwei@ifanr.com" style="margin-right:14px;text-decoration:none;">邮箱</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737354">原文链接</a> ·
+<a href="http://www.ifanr.com/737354#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737354/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>6</index>
+    <title>Uber 自动驾驶全球首秀：193 公里和 5 万罐啤酒的完美征途</title>
+    <link>http://www.ifanr.com/737231?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737231?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>吴羚</dc:creator>
+    		<category><![CDATA[新创]]></category>
+		<category><![CDATA[OTTO]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[自动驾驶卡车]]></category>
+		<category><![CDATA[自动驾驶送货]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737231&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/ottoselfdriving.jpg</image>
+    
+    
+          <description><![CDATA[10 月 20 日，Uber 旗下的自动驾驶公司 Otto 完成了第一次自动驾驶运输任务，货物是一批百威啤酒。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737231">原文链接</a> ·
+<a href="http://www.ifanr.com/737231#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-737246" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/ottoselfdriving.jpg" alt="otto 自动驾驶" width="1200" height="850" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/ottoselfdriving.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/ottoselfdriving-360x255.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/ottoselfdriving-768x544.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/ottoselfdriving-1024x725.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>今年 8 月被 Uber 以 6.8 亿美元收购的自动驾驶卡车公司 Otto ，终于在本月 20 日清晨，完成了全球首次自动驾驶卡车送货任务。</p>
+<p>司机沃尔特‧马丁将这辆 18 轮卡车从柯林斯堡的啤酒厂开上 25 号州际公路后，打开了“接管”开关，卡车进入自动驾驶模式，他随即起身离开驾驶座，来到后座系好安全带闭目养神。</p>
+<p><img class="size-full wp-image-737256 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/otto.jpg" alt="otto 自动驾驶" width="700" height="376" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/otto.jpg 700w, http://images.ifanr.cn/wp-content/uploads/2016/10/otto-360x193.jpg 360w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<p style="text-align: center;">图片来自：视频截图</p>
+<p>在无人干扰的情况下，Otto 的卡车自动行驶了 120 英里（约 193 公里）到达科罗拉多的斯普林斯，为安海斯-布希啤酒厂（Anheuser-Busch）运送了 5 万罐百威啤酒。</p>
+<p>科罗拉多州运输部的官员参与了线路规划，并监督了自动驾驶的整个流程。卡车在行驶过程中，科罗拉多的巡逻队全程跟随。交货后，啤酒厂支付了 470 美元的运费。</p>
+<h3>卡车司机要失业了？</h3>
+<p>这并不是一次普通的测试，193 公里的路程意味着 Otto 自动驾驶系统已具有实际使用价值。</p>
+<p>不同于特斯拉的 Autopilot 自动驾驶系统，Otto 的系统提供真正的“4 级”自主权，一旦进入州际公路，它便能完全接管驾驶，解放司机双手。</p>
+<p>这一原理与飞机的自动驾驶类似：飞行员操纵飞机起飞到一定高度后开启自动驾驶仪，使飞机自动按指定的姿态、航向、高度和速度飞行，而飞行员则集中精力完成其它与飞行安全相关的工作。</p>
+<p>不过司机们无需为此担心，Otto 的自动驾驶系统仅能用于高速公路，因为高速路的路况较为简单，不必避让行人、自行车或停靠在路边的车辆等。同时，它会让车辆保持安全的车距，并且只有当绝对有必要时才会变道。</p>
+<p>而在到达目的地的最后几公里，由于进入到路况复杂的市区，还是需要切换到手动驾驶模式。</p>
+<p><img class="size-full wp-image-737244 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/ottoselfdriving2.jpg" alt="otto 自动驾驶" width="700" height="369" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/ottoselfdriving2.jpg 700w, http://images.ifanr.cn/wp-content/uploads/2016/10/ottoselfdriving2-360x190.jpg 360w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<p style="text-align: center;">图片来自：<a href="http://www.theverge.com/2016/10/25/13381246/otto-self-driving-truck-budweiser-first-shipment-uber">The Verge</a></p>
+<p>Otto 也表示他们的系统并不打算跟司机们抢饭碗，其联合创始人 Lior Ron 认为，在未来，司机的角色可能更像“港口引航员”，负责引导卡车到达目的地。</p>
+<p>至少在可预见的未来，驾驶员仍然是自动驾驶中不可或缺的一员，但除了处理复杂道路情况外，他们也能做些其他事。“我觉得我得练习一下瑜伽。”马丁在采访中开玩笑说道。</p>
+<h3>卡车有望率先实现大规模自动驾驶</h3>
+<p><img class="size-full wp-image-737243 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/Untitled01381263.jpg" alt="otto 自动驾驶" width="700" height="369" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/Untitled01381263.jpg 700w, http://images.ifanr.cn/wp-content/uploads/2016/10/Untitled01381263-360x190.jpg 360w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<p style="text-align: center;">图片来自：<a href="http://www.theverge.com/2016/10/25/13381246/otto-self-driving-truck-budweiser-first-shipment-uber">The Verge</a></p>
+<p>Otto 安装在测试卡车的自动驾驶装备并不复杂，包括位于驾驶室和拖车的 3 个激光雷达检测单元、一个连接到保险杠的雷达螺栓、一个位于挡风玻璃上方的高精度摄像头。车内还有两个红色按钮用于控制自动驾驶系统开关，一个靠近方向盘，另一个在座位后面的卧铺旁。</p>
+<p>Otto 表示这些硬件适用于任何具有自动变速器的卡车，而他们的最终目标，无疑是想要实现美国 430 万卡车的自动化。</p>
+<p>至于为何选择从卡车行业切入自动驾驶市场，Otto 自有其考量。</p>
+<p>卡车运输占据了美国 70%的运费，每年运送货物达 105 亿吨。然而，卡车司机的数量却远远无法满足需求。美国卡车协会估计，当前卡车司机的缺口约为 4.8 万名，到了 2024 年，这一数字可能会扩大至 17.5 万。</p>
+<p>Otto 的自动驾驶系统虽然不能完全取代司机，但无疑能提高运输效率，缓解日益短缺的卡车司机资源缺口。</p>
+<p>更重要的是，自动驾驶技术还能进一步提高道路的安全性。</p>
+<p><img class="aligncenter wp-image-658284" src="http://images.ifanr.cn/wp-content/uploads/2016/05/benz.jpg" alt="benz" width="700" height="438" srcset="http://images.ifanr.cn/wp-content/uploads/2016/05/benz.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/05/benz-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/05/benz-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/05/benz-1024x640.jpg 1024w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<p style="text-align: center;"><a href="http://mashable.com/2016/04/05/mercedes-actros-platoon-europe/#s2onO7353Pqp">图片来自： MashableAsia</a></p>
+<p>美国交通部数据显示，美国卡车年行驶里程占所有车型里程数的 5.6%，但事故率却高达 9.5％。每年约有 400 万起卡车交通事故，造成约 4000 人死亡，而几乎每一起事故都是人为因素造成的。</p>
+<p>而在长途驾驶中，电脑往往人脑更为靠谱，因为电脑并不存在疲劳驾驶的情况。</p>
+<p>此外，有研究表明，使用自动驾驶卡车可以使排放量降低 15% ，行驶 10 万英里可以节约 5000 英镑。</p>
+<p>然而，Otto 自动驾驶硬件成本高达 3 万美元，在投入商用之前，还需要解决成本过高的问题。</p>
+<p>目前，Otto 正在致力于提升自动驾驶系统的基本体验，比如让加速和制动过程更为平滑稳定，以及提高车道控制等。他们的长期目标还包括预测其他司机的可能行为、建筑区域导航、处理突发恶劣天气等危险。</p>
+<p>题图来自：<a href="http://www.theverge.com/2016/10/25/13381246/otto-self-driving-truck-budweiser-first-shipment-uber">The Verge</a></p>
+  <div id="ifanr_profile" style="border:1px solid #ccc;font-size:14px;margin:27px auto;font-family:Arial;">
+    <div style="overflow:hidden"><a target="_blank" href="http://www.ifanr.com/author/wuling" style="color:#000;text-decoration:none;"></a>
+
+      <div style="text-align:left;line-height:23px;margin-left:80px">
+        <div style="padding:10px 10px 10px 0">
+          <div style="margin:0;font-size: 14px;"><strong><a target="_blank" href="http://www.ifanr.com/author/wuling" style="color:#000;text-decoration:none;">吴羚</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height:20px;">工作邮箱：wuling@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align:right;border-top:1px dotted #ccc;padding:2px 10px; font-size:12px;">
+      <div>
+                                <a target="_blank" href="mailto:wuling@ifanr.com" style="margin-right:14px;text-decoration:none;">邮箱</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737231">原文链接</a> ·
+<a href="http://www.ifanr.com/737231#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737231/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>7</index>
+    <title>瑞典政府：只要带相机的无人机都不能飞！</title>
+    <link>http://www.ifanr.com/737080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>文敏柔</dc:creator>
+    		<category><![CDATA[新创]]></category>
+		<category><![CDATA[偷拍]]></category>
+		<category><![CDATA[无人机]]></category>
+		<category><![CDATA[瑞典]]></category>
+		<category><![CDATA[隐私]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737080&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/maxresdefault-3-1-1024x640.jpg</image>
+    
+    
+          <description><![CDATA[瑞典法院裁定，将带摄像头的无人机列入禁用名单。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737080">原文链接</a> ·
+<a href="http://www.ifanr.com/737080#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="alignnone size-large wp-image-737240" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/maxresdefault-3-1-1024x640.jpg" alt="maxresdefault-3" width="1024" height="640" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/maxresdefault-3-1-1024x640.jpg 1024w, http://images.ifanr.cn/wp-content/uploads/2016/10/maxresdefault-3-1-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/maxresdefault-3-1-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/maxresdefault-3-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>摄像无人机 = 监控摄像头？这是瑞典最新法规给带摄像头的无人机所下的定义。</p>
+<p>自无人机出现以来，有关于 “偷拍”、“窥视” 等词就一直跟在它的后面，无论在搜索引擎还是视频网站搜索都能有大量相关信息。由于无人机可以进行远程操控，飞离机主对他人进行拍摄。对于瑞典来说，这严重违反了他们的监视法。</p>
+<p><img class="alignnone size-large wp-image-737232 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/drones-with-camera-1-1024x627.jpg" alt="drones-with-camera-1" width="1024" height="627" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/drones-with-camera-1-1024x627.jpg 1024w, http://images.ifanr.cn/wp-content/uploads/2016/10/drones-with-camera-1-360x221.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/drones-with-camera-1-768x470.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/drones-with-camera-1.jpg 1164w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: center;">图片来源：<a class="_ZR irc_hol i3724" tabindex="0" href="http://www.dronesglobe.com/guide/camera-drones/" target="_blank" rel="noopener" data-noload="" data-ved="0ahUKEwiDrIOM5vfPAhVCjLwKHdDsDMoQjB0IBg"><span class="irc_ho" dir="ltr">Drones Globe</span></a></p>
+<p>因此在近日，瑞典法院<a href="https://www.engadget.com/2016/10/23/sweden-effectively-bans-camera-drone-flights/">裁定</a>，将带摄像头的无人机列入禁用名单，除非是为了调查犯罪案件或事故，否则像是婚礼、新闻等需要使用无人机的活动都要申请许可证。</p>
+<p>虽然这一法规可以有效保护个人隐私不被泄露，但却严重打击了瑞典正在蓬勃发展的无人机市场。<a href="http://www.bbc.com/news/technology-37761872">据统计</a>，仅 2015 年瑞典就售出了 2 万多台无人机，其中有 1000 多台都用于商业目的。</p>
+<p><img class="alignnone size-full wp-image-737234 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/drone1.jpg" alt="drone1" width="640" height="426" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/drone1.jpg 640w, http://images.ifanr.cn/wp-content/uploads/2016/10/drone1-360x240.jpg 360w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p style="text-align: center;">题图来源：<a class="_ZR irc_hol i3724" tabindex="0" href="http://petapixel.com/2015/12/07/the-40000-bug-camera-drone-being-tested-by-the-us-military/" target="_blank" rel="noopener" data-noload="" data-ved="0ahUKEwjz5o_o5vfPAhXCi7wKHTyaA6wQjB0IBg"><span class="irc_ho" dir="ltr">PetaPixel</span></a></p>
+<p>瑞典本土工商业组织就带头反对，他们不仅认为该法案过于严格，而且执行起来也相当困难。哪怕摄像无人机被禁止，其他类型的无人机却没有，所以执法机构将很难判断无人机是否在飞行时进行偷拍，也很难采集偷拍的证据。</p>
+<p>也许瑞典在反对声音下可以考虑更改这一法案，毕竟 2014 年的时候他们还裁决摄像无人机合法可用。</p>
+<p>瑞典可以学习一下友邻英国的无人机法案：</p>
+<blockquote><p>小型无人机（SUA）操作员必须保持时时刻刻能看见无人机，对无人机能够完全掌控，在飞行时为其他飞行器、人群、车辆以及建筑保持一定的空间以免发生碰撞事故。</p>
+<p>配备相机的无人机不得在距离人群、车辆、建筑等 50 米内飞行，在拥挤的地段，无人机不得在距离拥挤物体 150 米以内的空间里飞行。</p></blockquote>
+<p>&nbsp;</p>
+<p>题图来源：<a class="_ZR irc_hol i3724" tabindex="0" href="https://www.youtube.com/watch?v=yHwE_q_qb7c" target="_blank" rel="noopener" data-noload="" data-ved="0ahUKEwi7hqOU5_fPAhVITLwKHRz3BLoQjB0IBg"><span class="irc_ho" dir="ltr">YouTube</span></a></p>
+<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737080">原文链接</a> ·
+<a href="http://www.ifanr.com/737080#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737080/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>8</index>
+    <title>苹果的汽车操作系统，可能是“黑莓出品”</title>
+    <link>http://www.ifanr.com/737136?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737136?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>方嘉文</dc:creator>
+    		<category><![CDATA[新创]]></category>
+		<category><![CDATA[QNX]]></category>
+		<category><![CDATA[汽车操作系统]]></category>
+		<category><![CDATA[自动驾驶]]></category>
+		<category><![CDATA[苹果]]></category>
+		<category><![CDATA[黑莓]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737136&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/123-1.jpg</image>
+    
+    
+          <description><![CDATA[苹果为自己的汽车项目 Project Titan 从黑莓挖来了一大批工程师。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737136">原文链接</a> ·
+<a href="http://www.ifanr.com/737136#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p class="p1"><img class="alignnone size-full wp-image-737146" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/123-1.jpg" alt="苹果店" width="1200" height="750" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/123-1.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/123-1-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/123-1-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/123-1-1024x640.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p class="p1"><b></b><span class="s1">据彭博（Bloomberg）<a href="https://www.bloomberg.com/news/articles/2016-10-25/apple-develops-car-operating-system-in-blackberry-country"><span class="s2">最新报道</span></a>，苹果安排了数十名软件工程师在其加拿大办公室里研发自动驾驶汽车操作系统，并且其中二十多位都是从黑莓（BlackBerry）QNX 公司挖过来的。</span></p>
+<p class="p3"><span class="s1">这些工程师现工作于苹果在渥太华市郊坎纳塔的办公室，离 QNX 办公室只有五分钟步行距离。<a href="http://ottawacitizen.com/business/local-business/tech-giant-apple-to-open-office-in-kanata"><span class="s2">坎纳塔办公室成立于今年年初</span></a>，据说是苹果为了能够更好地吸纳当地自动驾驶软件人才的举措。</span></p>
+<p><img class="size-full wp-image-737147" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/image-3-1-e1477455412517.jpg" alt="苹果车内" width="700" height="525" /></p>
+<p style="text-align: center;">图片来自 <a href="https://techcrunch.com/2016/10/25/apple-could-be-developing-its-car-os-in-canada/">TechCrunch</a></p>
+<p><span class="s1">虽然 QNX 最为广为人知是建造车内娱乐系统，但其于去年就开始研发自动驾驶车辆软件了。苹果看似特别青睐黑莓 QNX 成员，不仅挖来了工程师，早于今年 7 月，<a href="http://www.ifanr.com/692934"><span class="s2">已经聘请前黑莓 QNX 负责人 Dan Dodge 参与到苹果汽车项目 Project Titan 中</span></a>，而另一位关键人物则是 QNX 前资深工程师 Derrick Keefe。</span></p>
+<p class="p3" style="text-align: center;"><img class="alignnone size-full wp-image-737148" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/dan_dodge_qnx_full-e1477455546774.jpg" alt="dan_dodge_qnx_full" width="700" height="485" />Dan Dodge（图片来自 <a href="http://investottawa.ca/wp-content/uploads/2014/10/dan_dodge_qnx_full.jpg" rel="lightbox[737136]"><span class="s2">investottawa.ca</span></a>）</p>
+<p class="p3"><span class="s1">由于苹果不是在建造实体车，因此有传闻说他们已经开始用 VR 模拟测试自动驾驶平台了。该 VR 技术由另一 Project Titan 的小队研发而成，<a href="https://www.engadget.com/2016/01/21/apple-hires-an-expert-in-virtual-and-augmented-reality-tech/"><span class="s2">由 VR/AR 专家 Doug Bowman 带领</span></a>。</span></p>
+<p class="p3"><span class="s1">虽然在过去的一年里， Project Titan 招来了很多“大人物”，但在上个月的时候，项目组经历一次大型裁员。该项目目前应该仍处于一个不太稳定的状态，并且工程师也面临着一个强硬的最后期限 —— 要在 2017 年秋季推出可行的自动驾驶操作系统。</span></p>
+<p class="p4"><span class="s3">题图来自：<a href="http://www.autotech.cn/wp-content/uploads/2016/08/003.jpg，http://www.autotech.cn/fashion/concept/13206.html">汽车科技</a></span></p>
+<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737136">原文链接</a> ·
+<a href="http://www.ifanr.com/737136#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737136/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>9</index>
+    <title>Google 光纤撂挑子了，超高速网络想说爱你不容易</title>
+    <link>http://www.ifanr.com/737040?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737040?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>刘莎</dc:creator>
+    		<category><![CDATA[公司]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google光纤]]></category>
+		<category><![CDATA[webpass]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737040&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/venturebeat-1.jpg</image>
+    
+    
+          <description><![CDATA[10月25日，受公司营收和长期规划影响，Google 光纤宣布暂停其在美国10座“有潜力城市”的光纤拓展计划。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737040">原文链接</a> ·
+<a href="http://www.ifanr.com/737040#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="aligncenter size-full wp-image-737090" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/venturebeat-1.jpg" alt="Google Fiber official" width="1200" height="750" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/venturebeat-1.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/venturebeat-1-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/venturebeat-1-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/venturebeat-1-1024x640.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>&nbsp;</p>
+<p>曾经羡慕嫉妒恨美国人可以使用比传统光纤快近 100 倍的 Google 光纤 （Google Fiber），此前为了升级服务， Google 光纤更是刚与高速无线网络服务商 Webpass 达成合作，现如今推出这一试验性服务的 Google 却表示撑不住了。</p>
+<p>美国时间 10 月 25 日，Google 光纤宣布暂停其在十座“有潜力城市”的光纤拓展计划。</p>
+<p>Google 光纤 CEO 克里格•巴瑞特（Craig•Barratt）在<a href="http://googlefiberblog.blogspot.com/2016/10/advancing-our-amazing-bet.html">官方博客上发表文章</a>称:</p>
+<blockquote><p>我们必须坚持不只是攻城掠地，更要稳固城池——不断扩展科技、商业、政策的边界——坚持做提供超高速网络服务的行业领导者。因此我们决定重塑我们的计划去达到这样的目标。我们必须做出改变去更加关注商业和产品体系。更为重要的是，这个计划将强化我们在新科技和资源调度方法的关注度，以此带来比今天更为丰富的超高速网络资源。</p></blockquote>
+<p>Google 光纤从 2011 年 3 月开始上线，目前该服务已经拓展至美国的 13 个城市地区，而此次关停的 10 座“有潜力城市”包括：达拉斯、杰克森维尔、洛杉矶、俄克拉荷马城、凤凰城、波特兰、圣何塞以及坦帕。</p>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-737109" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/googlefiberblog-1.jpg" alt="google fiber expansion" width="1200" height="720" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/googlefiberblog-1.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/googlefiberblog-1-360x216.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/googlefiberblog-1-768x461.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/googlefiberblog-1-1024x614.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p style="text-align: center;">（图片来自：<a href="http://googlefiberblog.blogspot.com/2015/10/exploring-gigabit-speeds-for-three-new.html">Google Fiber Official Blog</a>）</p>
+<p><a href="https://www.engadget.com/2016/10/25/google-to-pause-its-fiber-rollout/">据 engadget 消息</a>，此次关停并不会影响之前已铺设及确定上线 Google 光纤的城市，而此前处于公司“扩张版图”内的城市包括芝加哥、达拉斯、波特兰、坦帕以及圣迭戈，其继续 Google 光纤服务的前景不容乐观。</p>
+<p>尽管<a href="http://googlefiberblog.blogspot.com/2016/10/advancing-our-amazing-bet.html">巴瑞特指出</a> Google 光纤的服务订阅数以及营收在不断增长，但基于高额的光纤网络运营费用和未达标的订阅人数之间的矛盾，Google 可能会考虑暂缓其在物理光纤缆线方面的铺设。</p>
+<p><img class="aligncenter size-full wp-image-737095" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/tech-news-today.jpg" alt="Google fiber and webpass" width="1200" height="720" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/tech-news-today.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/tech-news-today-360x216.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/tech-news-today-768x461.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/tech-news-today-1024x614.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p style="text-align: center;">（图片来自：<a href="http://www.technewstoday.com/30236-google-fiber-to-acquire-high-speed-internet-provider-webpass/">Tech News Today</a>）</p>
+<p>此外<a href="https://www.engadget.com/2016/10/25/google-to-pause-its-fiber-rollout/">有消息称</a>，Google 光纤将同时裁减这些城市的员工，受影响人数近百分之九。</p>
+<p>巴瑞特同样<a href="http://googlefiberblog.blogspot.com/2016/10/advancing-our-amazing-bet.html">在博客文章中表达</a>了自己离开 Google 光纤 CEO 职位的意愿，称其将继续担任顾问。</p>
+<p>题图来自：<a href="http://venturebeat.com/2016/06/14/google-fibers-next-city-could-be-dallas/">VentureBeat</a></p>
+<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737040">原文链接</a> ·
+<a href="http://www.ifanr.com/737040#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737040/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>10</index>
+    <title>为了运送 88 包棉花，这两家银行用上了区块链和物联网</title>
+    <link>http://www.ifanr.com/736607?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/736607?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>李 赓</dc:creator>
+    		<category><![CDATA[新创]]></category>
+		<category><![CDATA[Skuchain]]></category>
+		<category><![CDATA[区块链]]></category>
+		<category><![CDATA[物联网]]></category>
+		<category><![CDATA[银行]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=736607&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://images.ifanr.cn/wp-content/uploads/2016/10/cotton1.jpg</image>
+    
+    
+          <description><![CDATA[前天，澳洲联邦银行（CBA）、富国银行（Wells Fargo）就利用区块链、物联网进行了一次银行间贸易事物的试验，目的只有一个：验证区块链技术和物联网技术的实用性。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/736607">原文链接</a> ·
+<a href="http://www.ifanr.com/736607#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-737125" src="http://images.ifanr.cn/wp-content/uploads/2016/10/cotton1.jpg" alt="cotton1" width="1200" height="850" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/cotton1.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton1-360x255.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton1-768x544.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton1-1024x725.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>比特币的“激情不再”，让人们愈发不再通过各大“投机者斗兽场”去尝试暴富。这也让人们对于区块链愈发正视和乐于尝试。</p>
+<p><img class="alignnone size-full wp-image-737126" src="http://images.ifanr.cn/wp-content/uploads/2016/10/cotton2.jpg" alt="cotton2" width="1340" height="760" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/cotton2.jpg 1340w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton2-360x204.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton2-768x436.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton2-1024x581.jpg 1024w" sizes="(max-width: 1340px) 100vw, 1340px" /></p>
+<p style="text-align: center;">图片来自 <a href="http://www.businessinsider.com.au/the-commonwealth-bank-is-closing-three-sydney-sites-and-moving-10000-staff-to-redfern-2015-11">BusinessInsider</a></p>
+<p>前天，澳洲联邦银行（CBA）、富国银行（Wells Fargo）就利用区块链、物联网进行了一次银行间贸易事物的试验，目的只有一个：验证区块链技术和物联网技术的实用性。</p>
+<p>此次交易的双方实际上同属博瑞棉花（Brighann Cotton），只不过分别为美国部和澳大利亚部，交易的内容是将一批 88 包的棉花从美国的德克萨斯州运到中国的青岛。</p>
+<p><img class="alignnone size-full wp-image-737128" src="http://images.ifanr.cn/wp-content/uploads/2016/10/cotton3.jpg" alt="cotton3" width="1213" height="895" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/cotton3.jpg 1213w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton3-360x266.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton3-768x567.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton3-1024x756.jpg 1024w" sizes="(max-width: 1213px) 100vw, 1213px" /></p>
+<p style="text-align: center;">图片来自 <a href="https://www.skuchain.com/">Skuchain</a></p>
+<p>而他们使用的区块链技术是美国区块链公司 <a href="https://www.skuchain.com/">Skuchain</a> 的 Brackets 系统，而在 Skuchain 上也有这套系统主要优势的简短介绍：</p>
+<ul>
+<li>它能够促进金融家对常见的交易物如采购订单、发票、库存和付款约定进行贷款，同时允许贷款成为抵押资产，放款操作将会直接由真实世界中的事件触发。</li>
+<li>它提供了一个实时可信的交易状态查看能力，这也大幅度的提升了交易中所有参与者的信息透明度，并且帮助他们建立更加强的相互信任，从而建立稳定的供应链生态。</li>
+<li>它增强了市场中抵押资产的流动性，同时也大幅提升了常见的“贸易融资”工具，比如保理，融资 PO，供应商库存管理等。这同时也提供了进行更深层次金融的机会。</li>
+</ul>
+<p>在这次交易中，这些特点也有所体现。原来交易中的大量的纸质信用证通过存储在私有分布式账本上的一个数字智能合约来执行。这份智能合约由计算机代码编写，一旦达到合约条件，交易就会自动执行。</p>
+<p><img class="alignnone size-full wp-image-737129" src="http://images.ifanr.cn/wp-content/uploads/2016/10/cotton4.jpg" alt="cotton4" width="1200" height="850" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/cotton4.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton4-360x255.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton4-768x544.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/cotton4-1024x725.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p style="text-align: center;">图片来自 <a href="https://en.wikipedia.org/wiki/GPS_satellite_blocks">Wikipedia</a></p>
+<p>而合约条件自然就是棉花到达目的地，博瑞棉花使用了一个 GPS 设备来追踪运输中货物的地理定位。一旦他们到达最终目的地青岛，智能合约就会自动放出资金。</p>
+<p>澳洲联邦银行的现金流和交易服务处执行总经理 Michael Eidel 表示：</p>
+<blockquote><p>我们想要证明区块链、智能合约与物联网可以实现结合。从客户的角度看，三项技术的结合可以实实在在地带来令人兴奋、简单便捷和直接的用户体验。</p></blockquote>
+<p>通过这三项技术，原来需花费数日的人工处理程序如今可以在几分钟内完成，这就降低了成本，提高了效率。除此之外信息的透明度也有所上升，因为所有数据都在同一个私有分布式账本之上，并且数据还不可篡改，发生业务欺诈的可能心也大大减少。Eidel 还表示：</p>
+<blockquote><p>我们追求的并不是建立一个完全灵活的模型，而是开始真正使用一些非常重要的新技术，把各种技术结合起来并带来一个可行的良好用户体验。</p></blockquote>
+<p>下一步，他们打算拓展物联网部分——尝试将他们运用在保险行业中，提高对投保货物的监控。Eidel表示：</p>
+<blockquote><p>可以进行一个试验，添加一些传感器来测试湿度和温度是否超出范围。然后对这些条件进行编码的智能合约就会发出通知，告知保险公司货物可能已经损坏。</p></blockquote>
+<p>用这种方法，在出现一些失误情况时会变得十分有用，因为这些设备可以准确展示什么时候发生了事故，事故当时的货物所有权归谁所有。</p>
+<p>从技术的角度来看，这一次尝试想要推广开来还将面对各种各样的困难，但是很明显，各种各样的测试必然会成为区块链接下来发展的一个重要阶段。尤其是对于很多只利用部分特性的应用场景，能否真得对现有模式形成冲击，也只有试过才知道。</p>
+<p>题图来自 <a href="http://myrugshop.com/cotton/">Myrugshop</a></p>
+  <div id="ifanr_profile" style="border:1px solid #ccc;font-size:14px;margin:27px auto;font-family:Arial;">
+    <div style="overflow:hidden"><a target="_blank" href="http://www.ifanr.com/author/ligeng" style="color:#000;text-decoration:none;"></a>
+
+      <div style="text-align:left;line-height:23px;margin-left:80px">
+        <div style="padding:10px 10px 10px 0">
+          <div style="margin:0;font-size: 14px;"><strong><a target="_blank" href="http://www.ifanr.com/author/ligeng" style="color:#000;text-decoration:none;">李 赓</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height:20px;">鲜衣怒马少年。</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align:right;border-top:1px dotted #ccc;padding:2px 10px; font-size:12px;">
+      <div>
+                                <a target="_blank" href="mailto:ligeng@ifanr.com" style="margin-right:14px;text-decoration:none;">邮箱</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/736607">原文链接</a> ·
+<a href="http://www.ifanr.com/736607#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/736607/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>11</index>
+    <title>刚拿到 5000 万美元的 Hyperloop One，打算再融资 2.5 亿美元</title>
+    <link>http://www.ifanr.com/737087?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737087?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>吴羚</dc:creator>
+    		<category><![CDATA[新创]]></category>
+		<category><![CDATA[Hyperloop one]]></category>
+		<category><![CDATA[Pishevar]]></category>
+		<category><![CDATA[融资]]></category>
+		<category><![CDATA[超级高铁]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737087&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/Hyperloop-One-.jpg</image>
+    
+    
+          <description><![CDATA[Hyperloop One 刚于本月中旬宣布获得 5000 万美元融资，却在短短两周内证实了准备启动新一轮融资的消息。这一次，他们打算筹集的资金高达 2.5 亿美元。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737087">原文链接</a> ·
+<a href="http://www.ifanr.com/737087#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-737100" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/Hyperloop-One-.jpg" alt="Hyperloop One " width="1200" height="850" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/Hyperloop-One-.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/Hyperloop-One--360x255.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/Hyperloop-One--768x544.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/Hyperloop-One--1024x725.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>尽管 Hyperloop One 刚在本月中旬拿到了 5000 万美元融资，但他们将在明年初启动新一轮融资，这一次的目标是 2.5 亿美元。</p>
+<p>《福布斯》最先爆出这一消息，他们声称获得了该公司的一份融资文件，并透露 Hyperloop One 目前的项目经费预算已经超出了提出这一概念的马斯克当初的估计。这份文件的真实性已经得到了其 CEO 罗博·洛依德(Rob Lloyd) 的证实。</p>
+<p><img class="size-full wp-image-737101 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/Hyperloop-One-2.jpg" alt="Hyperloop One " width="700" height="397" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/Hyperloop-One-2.jpg 700w, http://images.ifanr.cn/wp-content/uploads/2016/10/Hyperloop-One-2-360x204.jpg 360w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<p style="text-align: center;">图片来自：<a href="http://www.forbes.com/sites/alexkonrad/2016/10/25/hyperloop-one-seeks-new-cash-amid-high-costs/#7c3494667854">Forbes</a></p>
+<p>Hyperloop One 自成立以来，筹集的资金已达 1.6 亿美元。Hyperloop One 计划在 2020 年建成货物运输系统以及 2021 年完成乘客输送系统，但《福布斯》获得的文件显示，这两个项目的成本与预期有很大出入。</p>
+<p>马斯克在 2013 年提交的白皮书中，预计从洛杉矶到湾区的 Hyperloop 线路成本只需要 60 亿美元，即每英里不超过 1150 万，远低于高铁。</p>
+<p>然而，Hyperloop One 在 7 月和 10 月提交给潜在投资者和地产开发商的报告却显示，许多项目的成本比“钢铁侠”预估的要高得多，比如一条长为 107 英里的环湾区隧道或隧道+高架轨道组合，花费就将达到 90 亿至 130 亿美元，即每英里成本为 8400 万至 1.21 亿美元。</p>
+<p><img class="wp-image-737099 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/hyperloop-5.gif" alt="Hyperloop One " width="700" height="394" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/hyperloop-5.gif 560w, http://images.ifanr.cn/wp-content/uploads/2016/10/hyperloop-5-360x203.gif 360w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<p style="text-align: center;">图片来自：<a href="http://time.com/4325946/hyperloop-one-test/">Time</a></p>
+<p>此外，在上一轮融资中，Hyperloop One 透露他们打算在迪拜的杰贝阿里港建设超级高铁运输系统，这条从迪拜到阿布扎比的线路长达 93 英里，预计成本为 48 亿美元。</p>
+<p>也就是说，在 Hyperloop One 第一期总计长达 520 英里的超级高铁项目中，成本预算达到了 640 亿美元。</p>
+<p>尽管 Hyperloop One 一直强调一旦项目上马，利润将相当可观，单个项目至少也有 35% 的利润率，到 2030 年可能会更高。但 Hyperloop One 至今仍只是一个原型产品，公司在自身发展和证明概念的可行性上耗资巨大。</p>
+<p>这也是为什么在短短两年内，虽然手握 1.6 亿美元投资，Hyperloop One 却仍在继续寻求融资的原因。</p>
+<p>融资文件表明， Hyperloop One 已经开始在以每年 5% 的收益与 15%的 C 轮最终股价折让，向投资者提供额外的可换股票据。一些风投专家认为这可能表明该公司正在进行大量现金积累，用于 Pishevar（创始人）所说的“资本密集型业务”。</p>
+<p>对于 Hyperloop One 画的大饼，很多人始终持怀疑态度，而 Hyperloop One 一直也是麻烦不断，比如与其联合创始人布罗根·班布罗根（BroganBamBrogan）之间的官司及内讧等。但外界依然认为，Hyperloop One 是最有可能实现“超级高铁”这一设想的公司。</p>
+<p>题图来自：<a href="https://techcrunch.com/2016/10/25/hyperloop-one-looking-to-raise-at-least-250m-more-as-super-speed-is-costly/?ncid=rss">Tech Crunch</a></p>
+  <div id="ifanr_profile" style="border:1px solid #ccc;font-size:14px;margin:27px auto;font-family:Arial;">
+    <div style="overflow:hidden"><a target="_blank" href="http://www.ifanr.com/author/wuling" style="color:#000;text-decoration:none;"></a>
+
+      <div style="text-align:left;line-height:23px;margin-left:80px">
+        <div style="padding:10px 10px 10px 0">
+          <div style="margin:0;font-size: 14px;"><strong><a target="_blank" href="http://www.ifanr.com/author/wuling" style="color:#000;text-decoration:none;">吴羚</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height:20px;">工作邮箱：wuling@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align:right;border-top:1px dotted #ccc;padding:2px 10px; font-size:12px;">
+      <div>
+                                <a target="_blank" href="mailto:wuling@ifanr.com" style="margin-right:14px;text-decoration:none;">邮箱</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737087">原文链接</a> ·
+<a href="http://www.ifanr.com/737087#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737087/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>12</index>
+    <title>词错率降低至 5.9%，微软今日发布用于语音识别技术的“认知工具包”</title>
+    <link>http://www.ifanr.com/737013?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737013?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>陈 诗蔚</dc:creator>
+    		<category><![CDATA[新创]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[人工智能]]></category>
+		<category><![CDATA[微软]]></category>
+		<category><![CDATA[机器学习]]></category>
+		<category><![CDATA[语音识别]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737013&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/speech-recognition-20161019-1_meitu_1.jpg</image>
+    
+    
+          <description><![CDATA[CNTK 进行了更新，新增一个被称为“认知工具包”的测试版。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737013">原文链接</a> ·
+<a href="http://www.ifanr.com/737013#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="size-full wp-image-737047 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/speech-recognition-20161019-1_meitu_1.jpg" alt="speech-recognition-20161019-1_meitu_1" width="1200" height="750" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/speech-recognition-20161019-1_meitu_1.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/speech-recognition-20161019-1_meitu_1-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/speech-recognition-20161019-1_meitu_1-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/speech-recognition-20161019-1_meitu_1-1024x640.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>一个月前，微软的对话语音识别技术在产业标准 Switchboard 语音识别基准测试中实现了词错率（word error rate, 简称 WER）低至 6.3% 的突破 ，创造当时该领域内错误率最低纪录。</p>
+<p>近期，微软进一步将词错率降低至<a href="http://www.msra.cn/zh-cn/news/blogs/2016/10/speech-recognition-20161019.aspx"> 5.9%</a>，首次达成与专业速记员持平而优于绝大多数人的表现。</p>
+<p>微软的语音识别技术可以一次又一次刷新纪录，在很大程度上要归功于 CNTK (Computational Network Toolkit) 这个开源工具。</p>
+<p>该系统最初是为了研究语音应用而建立，后来拓展发展成为微软本地化深度学习系统。CNTK 工具包已于一年前在 GitHub 上开源，目前包括微软人工智能个人助理小娜和 HoloLens 的语音识别都是基于 CNTK 实现的。CNTK 跟其他开源软件最大的区别是它能做大规模、分布式的机器学习，同时保证强大的性能。</p>
+<p><strong>今天，该工具包进行了<a href="http://arstechnica.com/information-technology/2016/10/microsoft-releases-open-source-toolkit-used-to-build-human-level-speech-recognition/">更新</a>，新增一个被称为“认知工具包”的测试版。</strong></p>
+<p>针对语音识别的研究可以追溯到上个世纪七十年代 DARPA（Defense Advanced Research Projects Agency，美国国防部先进研究项目局，主要致力于美国国防高新技术的研究、开发和应用）资助的一个相关项目。此后几十年，越来越多研究机构和大型公司陆续加入其中。</p>
+<p>“这次突破是过去二十多年语音识别技术不断积累的结果，”微软主管语言及对话研究组的研究员 Geoffrey Zweig 称。</p>
+<p><img class="size-full wp-image-737044 alignnone" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/speech-recognition-20161019-2.jpg" alt="speech-recognition-20161019-2" width="640" height="356" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/speech-recognition-20161019-2.jpg 640w, http://images.ifanr.cn/wp-content/uploads/2016/10/speech-recognition-20161019-2-360x200.jpg 360w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p>现在微软达到的 5.9% 的词错率是什么概念？</p>
+<p>在行业标准 Switchboard 语音识别任务测试中，人类对照组（由专业速记员组成）将对话语音转录成文字，目前有记录的最低词错率就是 5.9%，这就意味着微软的语音识别系统的语音识别能力已经高于世界上绝大多数人而与人类专业高手持平，创造了一项新的世界纪录。</p>
+<p>此次语音识别的里程碑式突破将对消费者和商业产品产生深远影响，因为语音识别技术能够显著增强人们的日常计算体验。这些产品包括像 XBOX 的娱乐设备、像微软小娜（Cortana）的生产力工具以及能实现实时语音到文本转录的个人人工智能助手。</p>
+<p>微软团队的词错率虽然实现了与人类专业速记员持平的 5.9%，但这并不代表计算机就能完美识别出每一个单词。如果哪天计算机能完美识别“蓝瘦”、“香菇”，那语音识别技术又将达到一个新的高度。</p>
+  <div id="ifanr_profile" style="border:1px solid #ccc;font-size:14px;margin:27px auto;font-family:Arial;">
+    <div style="overflow:hidden"><a target="_blank" href="http://www.ifanr.com/author/chenshiwei" style="color:#000;text-decoration:none;"></a>
+
+      <div style="text-align:left;line-height:23px;margin-left:80px">
+        <div style="padding:10px 10px 10px 0">
+          <div style="margin:0;font-size: 14px;"><strong><a target="_blank" href="http://www.ifanr.com/author/chenshiwei" style="color:#000;text-decoration:none;">陈 诗蔚 (chenshiwei)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height:20px;">VR/AR/新兴媒介，工作邮箱：chenshiwei@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align:right;border-top:1px dotted #ccc;padding:2px 10px; font-size:12px;">
+      <div>
+                                <a target="_blank" href="mailto:chenshiwei@ifanr.com" style="margin-right:14px;text-decoration:none;">邮箱</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737013">原文链接</a> ·
+<a href="http://www.ifanr.com/737013#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737013/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>13</index>
+    <title>美国《消费者报告》汽车可靠性排名出炉，特斯拉沦为垫底之一</title>
+    <link>http://www.ifanr.com/736513?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/736513?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>文敏柔</dc:creator>
+    		<category><![CDATA[汽车]]></category>
+		<category><![CDATA[Model X]]></category>
+		<category><![CDATA[别克]]></category>
+		<category><![CDATA[可靠性]]></category>
+		<category><![CDATA[本田]]></category>
+		<category><![CDATA[消费者报告]]></category>
+		<category><![CDATA[特斯拉]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=736513&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/teslax-gallery6-1024x640.jpg</image>
+    
+    
+          <description><![CDATA[看了标题的你，可能以为给特斯拉背锅的会是他们的自动驾驶系统，然而 Model X 车型的硬件隐患更多。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/736513">原文链接</a> ·
+<a href="http://www.ifanr.com/736513#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="alignnone size-large wp-image-737034" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/teslax-gallery6-1024x640.jpg" alt="teslax-gallery6" width="1024" height="640" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/teslax-gallery6-1024x640.jpg 1024w, http://images.ifanr.cn/wp-content/uploads/2016/10/teslax-gallery6-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/teslax-gallery6-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/teslax-gallery6.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>以权威性著称的《消费者报告》（Consumer Reports，CR）最新发布了《2017 年车辆品牌可靠性调查报告》。</p>
+<p>这份调查报告采用给读者发放问卷的形式，调查读者自己驾驶的车辆在过去 12 个月内出现的故障和质量问题，并且派专人在指定道路对车辆进行试驾，再加上安全性数据。综合统计调查结果后，依据车型可靠性分数来预测出品牌平均分数。</p>
+<p>今年，CR 共<a href="http://www.consumerreports.org/car-reliability/car-reliability-survey-2016/">收集了</a>超过 50 万辆车的数据，涵盖了从 2000 年到 2016 年的 300 多个车型，还有 2017 年初的几个车型，以下是品牌排名：</p>
+<h3><img class="alignnone size-large wp-image-736638 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/rank1111-567x1024.jpg" alt="rank1111" width="567" height="1024" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/rank1111-567x1024.jpg 567w, http://images.ifanr.cn/wp-content/uploads/2016/10/rank1111-360x650.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/rank1111.jpg 750w" sizes="(max-width: 567px) 100vw, 567px" /></h3>
+<h3>表现依旧优异</h3>
+<p>在 CR 的分析报告中，使用了 “不足为奇” 这一词来形容排在榜单一、二位的雷克萨斯和丰田。它们以一贯优异的表现继续留在了榜首，CR 还称赞其造车模式已相当稳定。</p>
+<p>同时，在<a href="http://www.consumerreports.org/car-reliability/10-most-reliable-cars/">十大可靠车型报告</a>中，丰田普锐斯、4Runner 车型和雷克萨斯 CT 200h、GX、GS 车型均有上榜，两家就已经占比一半。</p>
+<p><img class="alignnone size-large wp-image-737049 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/2016-Toyota-Prius-Four-Touring-side-1024x683.jpg" alt="2016-toyota-prius-four-touring-side" width="1024" height="683" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/2016-Toyota-Prius-Four-Touring-side-1024x683.jpg 1024w, http://images.ifanr.cn/wp-content/uploads/2016/10/2016-Toyota-Prius-Four-Touring-side-360x240.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/2016-Toyota-Prius-Four-Touring-side-768x513.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: center;">图片来源：<a class="_ZR irc_hol i3724" tabindex="0" href="http://www.motortrend.com/cars/toyota/prius/2016/2016-toyota-prius-four-touring-first-test-review/" target="_blank" rel="noopener" data-noload="" data-ved="0ahUKEwixnLmxuvfPAhXKKZQKHQBUAMAQjB0IBg"><span class="irc_ho" dir="ltr">Motor Trend</span></a></p>
+<p>紧随其后的别克由于其核心产品线成熟，车辆的大多数问题也已经解决，同时别克推出的几款新车也相当亮眼，可能对未来的品牌表现产生影响。今年别克生产线还进行了调整，将 SUV 的产量下调，轿车占比更多。</p>
+<h3>都是 Model X 惹的祸</h3>
+<p>排在末尾的几家品牌中，第一次上榜的特斯拉特别显眼。这是由于在去年年底发布的 2016 年最佳车型中，CR 给予了特斯拉 Model S 的两款车型超过 100 分的超高评分。这在当时相当轰动，因为这是 CR 所给予过的最高评分。</p>
+<p>对于 Model S 《消费者报告》给予的评价是：</p>
+<blockquote><p>Model S P85D 具有里程碑式的意义。</p></blockquote>
+<p>虽然 Model S 表现优异，却也难以补上 Model X 的大窟窿。</p>
+<p>看了标题的你，可能以为给特斯拉背锅的会是他们的自动驾驶系统，然而 Model X 车型的硬件隐患更多。从灵敏传感器误判到漏雨，再到鹰翼门故障，系统升级后又再次故障…… 这一系列的问题让车主不胜其烦。</p>
+<p>（爱范儿（微信号：ifanr）曾经报道过<a href="http://www.ifanr.com/713422">《用 8 万美元的 Tesla Model X“鹰翼门” 切黄瓜？这并不是玩笑》</a>）</p>
+<p><img class="alignnone size-large wp-image-737045 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/maxresdefault-17-1024x576.jpg" alt="maxresdefault" width="1024" height="576" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/maxresdefault-17-1024x576.jpg 1024w, http://images.ifanr.cn/wp-content/uploads/2016/10/maxresdefault-17-360x203.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/maxresdefault-17-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: center;">图片来源：<a class="_ZR irc_hol i3724" tabindex="0" href="https://www.youtube.com/watch?v=KbO6-C2Yajg" target="_blank" rel="noopener" data-noload="" data-ved="0ahUKEwjfzPabuvfPAhUEmpQKHYmiA8EQjB0IBg"><span class="irc_ho" dir="ltr">YouTube</span></a></p>
+<p>因此 Model X 也被 CR 列入了今年<a href="http://www.consumerreports.org/car-reliability/10-least-reliable-cars/">排名最低的 10 款车型</a>之一。</p>
+<h3> 有起有落</h3>
+<p>与 2016 年的汽车品牌可靠度排名相比，英菲尼迪完成了一次逆袭。从 24 名到第 8 名，足足上升了 16 个名次，除了看好他们发布的几款新车，CR 也把 Q70 车型列入了十大可靠性车辆，从而拉动了品牌平均分，CR 评价到：</p>
+<blockquote><p>Q70 操作相当敏捷，转向和行驶稳定，后排宽敞的 L 型座椅十分舒适，并且和同类车辆比价格更为优惠。</p></blockquote>
+<p><img class="alignnone size-large wp-image-737054 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/2016-Honda-Civic-Touring-front-three-quarters-03-1024x683.jpg" alt="2016-honda-civic-touring-front-three-quarters-03" width="1024" height="683" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/2016-Honda-Civic-Touring-front-three-quarters-03-1024x683.jpg 1024w, http://images.ifanr.cn/wp-content/uploads/2016/10/2016-Honda-Civic-Touring-front-three-quarters-03-360x240.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/2016-Honda-Civic-Touring-front-three-quarters-03-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: center;">图片来源：<a class="_ZR irc_hol i3724" tabindex="0" href="http://www.motortrend.com/cars/honda/civic/2016/2016-honda-civic-touring-15t-sedan-review/" target="_blank" rel="noopener" data-noload="" data-ved="0ahUKEwiTwbXwuvfPAhXIq5QKHXBcDjYQjB0IBg"><span class="irc_ho" dir="ltr">Motor Trend</span></a></p>
+<p>反观跌幅中最为意外的，是一向 “稳重” 的本田，这次它跌出了最可靠品牌的名单，在这方面可谓是第二个“特斯拉”。本田思域的问题接连不断，断轴隐患、引擎故障、电子系统故障…… 停售、召回一系列风波使这个可靠的日系品牌丧失了一大批忠实顾客。</p>
+<h3>电子化系统</h3>
+<p>关于品牌榜单，CR 调查了十几个车辆可能存在不足的方面，包括嘈杂的制动器、糟糕的内饰、主要保险杠的损坏，还有保修期外变速器维修或四轮驱动系统的故障……</p>
+<p><img class="alignnone size-large wp-image-737060 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/maxresdefault-2-1-1024x576.jpg" alt="maxresdefault-2" width="1024" height="576" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/maxresdefault-2-1-1024x576.jpg 1024w, http://images.ifanr.cn/wp-content/uploads/2016/10/maxresdefault-2-1-360x203.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/maxresdefault-2-1-768x432.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/maxresdefault-2-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: center;">图片来源：<a class="_ZR irc_hol i3724" tabindex="0" href="https://www.youtube.com/watch?v=Fne8UKWzfl8" target="_blank" rel="noopener" data-noload="" data-ved="0ahUKEwi0xeWju_fPAhUBLJQKHSPHDNQQjB0IBg"><span class="irc_ho" dir="ltr">YouTube</span></a></p>
+<p>大部分品牌的下跌，都是因为自己某一款车型出现了非常严重的问题。并且由于近年来，汽车厂商大量加入复杂的电子化操作系统，而系统故障导致的差评也存在很多。</p>
+<p>鉴于这是一份纵观行业的榜单，而如果消费者需要依据榜单选购车辆，那么车型可靠性榜单可能会更加有参考性。</p>
+<p><img class="alignnone size-full wp-image-737021 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/rrrs.png" alt="rrrs" width="567" height="461" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/rrrs.png 567w, http://images.ifanr.cn/wp-content/uploads/2016/10/rrrs-360x293.png 360w" sizes="(max-width: 567px) 100vw, 567px" /></p>
+<p>&nbsp;</p>
+<p>题图来源：<a class="_ZR irc_hol i3724" tabindex="0" href="https://www.wired.com/2015/09/tesla-model-x-suv-reveal-specs-price/" target="_blank" rel="noopener" data-noload="" data-ved="0ahUKEwiZ6prfuPfPAhXKl5QKHVPHCQkQjB0IBg"><span class="irc_ho" dir="ltr">Wired</span></a></p>
+<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/736513">原文链接</a> ·
+<a href="http://www.ifanr.com/736513#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/736513/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>14</index>
+    <title>几乎确认：新款 MacBook Pro 将搭配 OLED 触控按键和 Touch ID</title>
+    <link>http://www.ifanr.com/737015?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/737015?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>帅飞</dc:creator>
+    		<category><![CDATA[产品]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[OLED 屏幕]]></category>
+		<category><![CDATA[Touch ID 模块]]></category>
+		<category><![CDATA[苹果新品发布会]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=737015&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/MacBook-10.jpg</image>
+    
+    
+          <description><![CDATA[这一次，人们不仅需要一款新产品，还需要一个新设计。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737015">原文链接</a> ·
+<a href="http://www.ifanr.com/737015#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="size-full wp-image-737039 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/MacBook-10.jpg" alt="macbook-10" width="1200" height="750" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/MacBook-10.jpg 1200w, http://images.ifanr.cn/wp-content/uploads/2016/10/MacBook-10-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/MacBook-10-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/MacBook-10-1024x640.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>当地时间 10 月 27 日苹果新品发布会的看点，已经没有悬念地落在了新款 MacBook Pro 的身上；而且这一次，人们不仅需要一款新产品，还需要一个新设计。</p>
+<p><img class="size-full wp-image-737037 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/WechatIMG5-2-1.jpeg" alt="wechatimg5-2" width="1690" height="1604" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/WechatIMG5-2-1.jpeg 1690w, http://images.ifanr.cn/wp-content/uploads/2016/10/WechatIMG5-2-1-360x342.jpeg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/WechatIMG5-2-1-768x729.jpeg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/WechatIMG5-2-1-1024x972.jpeg 1024w" sizes="(max-width: 1690px) 100vw, 1690px" /></p>
+<p>据外媒 MacRumors <a href="http://www.macrumors.com/2016/10/25/images-of-new-macbook-pro-leaked/">报道</a>，在最新发布的 macOS Sierra 10.12.1 版本中，有一张关于在 MacBook 电脑上使用 Apple Pay 的图片。而在这种图片中，一款标有 MacBook Pro 的产品赫然出现，而且它的键盘上方拥有一个黑色长条，这个长条取代了现有的一排按键。</p>
+<p><img class="size-full wp-image-737017 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/macbook_pro_touch_id.mr_.jpg" alt="macbook_pro_touch_id-mr_" width="800" height="564" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/macbook_pro_touch_id.mr_.jpg 800w, http://images.ifanr.cn/wp-content/uploads/2016/10/macbook_pro_touch_id.mr_-360x254.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/macbook_pro_touch_id.mr_-768x541.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>图片显示，这台 MacBook Pro 正在请求用户确认是否使用 Apple Pay；长条上同时显示了一些内容，这些内容是在提示用户将手指按在长条最右侧的一个模块来使用 Apple Pay。</p>
+<p>从这些细节来看，几乎可以确认，这个长条就是一个能够显示不同内容的 OLED 可触控屏幕，而长条右侧则配置了一个可以进行指纹识别的 Touch ID 模块。</p>
+<p>根据此前的<a href="http://www.macrumors.com/2016/10/20/trademark-filing-macbook-oled/">消息</a>，这块 OLED 屏幕将可能被命名为“Magic Toolbar”。</p>
+<p>另外还有一张细节图，可以隐约看到在 OLED 屏幕的右侧，有一个相对独立的模块；二者从视觉上几乎是一体的，但细看依然能分辨出来。</p>
+<p><img class="size-full wp-image-737019 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/macbook_pro_magic_mr-1.jpg" alt="macbook_pro_magic_mr" width="800" height="392" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/macbook_pro_magic_mr-1.jpg 800w, http://images.ifanr.cn/wp-content/uploads/2016/10/macbook_pro_magic_mr-1-360x176.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/macbook_pro_magic_mr-1-768x376.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;">注意细看 OLED 长条右侧</p>
+<p>关于上述内容的真实性，还可以从此前新款 MacBook Pro 的<a href="http://www.ifanr.com/663760">泄露图</a>中得到佐证。</p>
+<p>今年五六月份，一组关于新款 MacBook Pro 外壳的泄露图曝光。其中一张泄露图显示，在键盘上方的确取消了一排实体功能键，留出了给 OLED 屏的空间；此空间右侧有一个小的相对独立模块，可以用来放置 Touch ID 模块。</p>
+<p><img class="size-full wp-image-737024 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/retinamacbookbody.jpg" alt="retinamacbookbody" width="480" height="343" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/retinamacbookbody.jpg 480w, http://images.ifanr.cn/wp-content/uploads/2016/10/retinamacbookbody-360x257.jpg 360w" sizes="(max-width: 480px) 100vw, 480px" /></p>
+<p>这张泄露图所展示的信息，与我们目前所看到的新款 MacBook Pro 设计完全相符合。</p>
+<p>另外，从这组泄露图中也能看到关于新款 MacBook Pro 在外观上的其他设计。比如说，机身两侧将会有 4 个 USB Type-C 接口和一个 3.5 毫米耳机接口；而 SD 卡槽、HDMI 接口和 MagSafe 接口将会被取消。</p>
+<p><img class="size-full wp-image-737026 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/retinamacbooksides-1280x470.jpg" alt="retinamacbooksides-1280x470" width="1280" height="470" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/retinamacbooksides-1280x470.jpg 1280w, http://images.ifanr.cn/wp-content/uploads/2016/10/retinamacbooksides-1280x470-360x132.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/retinamacbooksides-1280x470-768x282.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/retinamacbooksides-1280x470-1024x376.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>关于新款 MacBook Pro 的相关配置预测，可以参见爱范儿（微信 ID：ifanr）此前的<a href="http://www.ifanr.com/723281">文章</a>。不过正如文章所言：</p>
+<blockquote><p>这次新的 MacBook Pro 真的不需要期待，你所需要做的只有存钱和买。</p></blockquote>
+<p>另外，爱范儿（微信 ID:ifanr）目前也已经受邀参加此次苹果新品发布会，届时我们将第一时间带来新款 MacBook Pro 的相关信息，敬请关注。</p>
+<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/737015">原文链接</a> ·
+<a href="http://www.ifanr.com/737015#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/737015/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+    <item>
+    <index>15</index>
+    <title>对话网约车：外地司机的愤怒，京籍司机的尴尬</title>
+    <link>http://www.ifanr.com/736986?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+    <comments>http://www.ifanr.com/736986?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=#comments</comments>
+    <pubDate>Wed, 26 Oct 2016 09:23:35 +0000</pubDate>
+    <dc:creator>博望志</dc:creator>
+    		<category><![CDATA[人物]]></category>
+		<category><![CDATA[户籍]]></category>
+		<category><![CDATA[排量]]></category>
+		<category><![CDATA[滴滴]]></category>
+		<category><![CDATA[牌照]]></category>
+		<category><![CDATA[网约车司机]]></category>
+
+    <guid isPermaLink="false">http://www.ifanr.com/?p=736986&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+
+          <image>http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/didi-dache-app-1024x640.jpg</image>
+    
+    
+          <description><![CDATA[车是北京的牌，人是外地的户口，回到原籍也被限呢？<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/736986">原文链接</a> ·
+<a href="http://www.ifanr.com/736986#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></description>
+    
+          <content:encoded><![CDATA[<p><img class="size-large wp-image-736996" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/didi-dache-app-1024x640.jpg" alt="A smart phone showing a customer using Didi Dache, the mobile platform taxi-calling application developed by Chinese mobile application company Beijing Xiaoju Keji Co., Ltd., in a taxi in Beijing. JUN15 === Photo by Simon Song ===" width="1024" height="640" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/didi-dache-app-1024x640.jpg 1024w, http://images.ifanr.cn/wp-content/uploads/2016/10/didi-dache-app-360x225.jpg 360w, http://images.ifanr.cn/wp-content/uploads/2016/10/didi-dache-app-768x480.jpg 768w, http://images.ifanr.cn/wp-content/uploads/2016/10/didi-dache-app.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: right;">整理 | 崔神</p>
+<p>与我一同坐在直播间里的，是三位西服笔挺、皮鞋锃亮的网约车师傅，他们都是模范专车司机。这与我们上次在街上抓的形色各异的网约车司机看上去很不一样。</p>
+<p>之前我在问领英要这些师傅介绍的时候，对方扔过来的是网上对他们的新闻报道。所以真聊起来，感觉他们显然对采访这事儿并不陌生。他们的观点表述没有那么凌厉，却有另一种独特。</p>
+<p>三位网约车师傅：</p>
+<ul>
+<li>边师傅 户籍燕郊 京牌车 做网约车 1 年多</li>
+<li>王师傅 户籍河南 公司车 做网约车 1 年多</li>
+<li>张师傅 户籍北京 京牌车 做网约车 1 年半</li>
+</ul>
+<p><img class="alignnone size-full wp-image-736993 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/sfd.jpg" alt="sfd" width="640" height="480" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/sfd.jpg 640w, http://images.ifanr.cn/wp-content/uploads/2016/10/sfd-360x270.jpg 360w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<h3>壹</h3>
+<p><strong>博望志：</strong>新政关于网约车的排量和轴距要求，会带来哪些影响？</p>
+<p><strong>张师傅：</strong>排量的 T 是个关键问题，我感觉现在德系车一般带 T 的多一些，你像日系车就不带 T，它就是 1.8，这就非常尴尬。</p>
+<p>滴滴专车现在主要路上跑的，有几项大车，天籁、本田雅阁、帕萨特、凯美瑞，那毫无疑问帕萨特是大众的车，一般都是 1.8T 以上的。</p>
+<p>那凯美瑞、本田雅阁包括天籁，它没有带 T 的，要么就 2.0，要么就 1.8。但是一般我们拉活儿的人都会买 1.8 的，终归要省油，成本减少了。一旦出台 1.8T，那可以想象一下……</p>
+<p>所以我不太赞成这个 1.8T。因为轴距我认为差不多都能达到，因为专车属于 B 级车，它都会这样设计，就是这个 T 我觉得比较敏感一点。</p>
+<p><strong>边师傅：</strong>我觉得排量这个出来以后，限制了很多快车，快车这部分消费群体很大，他们觉得我只想把它作为代步工具，我就是从 A 点到 B 点，你把我带到那就行了，我就是这个要求。</p>
+<p>但是我不想花太多钱，因为我工资没那么高，只想作为代步工具，他这样直接就把这么大一部分的消费群体给砍掉了。有这个 T 以后肯定都要 B 级车以上，这对普通老百姓来说是不公平的。</p>
+<p>对于赚钱多的人没影响，我就打专车嘛，本身我也想舒适一些，对于我挣钱少的人，我就没办法了。所以对这个群体是有影响的。</p>
+<p>这对老百姓来说是不利的，还有就是本身也不环保。排量越大肯定污染越多嘛，那还用说啊。那就违背了国家提倡的这个绿色出行，那你要那么大的排量，肯定污染就会多。</p>
+<p><strong>博望志：</strong>现在买新车也是 1.6 以下的购置税低？</p>
+<p><strong>边师傅：</strong>对呀，这就是为了绿色出行，所以才有补贴的。那前面说补贴鼓励大家买小排量的，这样减少环境污染，结果后边出这个政策，这个（1.8T 以下小排量）不能干（网约车）。这本身就跟大的政策、大方向相违背了。</p>
+<p><strong>王师傅：</strong>我觉得新政一出来，大部分车就不能干网约车了，专车有一部分，快车就更别提了。你想国内自主品牌的国产车，可能有一半以上都做不了网约车了。</p>
+<p>把咱们民族产业就给打压下去了。我前两天查了一下资料，奥迪 A3 和宝马 3 系都够不了这个标准，更何况国产车了，更做不了了，轴距达不到。</p>
+<p>排量国家倡导新能源和环保，都出 1.4 和 1.6 的。我觉得其实只要是合乎国家标准出厂的车辆，应该都能在路上运行。一个是干净整洁，服务质量跟得上，符合大众的出行就可以了。对国家发展经济，拉动内需，都有利嘛。</p>
+<p><strong>张师傅：</strong>我也有个观点，专车跟快车肯定有区别之分，专车就是要高端，因为价位是不一样的，所以要求车的档次也是不一样的。</p>
+<p>应该是两个政策，细分化，快车有快车的政策，有不同需求的人，坐不一样的车。一刀切车就少了，大家的出行费用就增加了。就会出现车挑人了，不是人挑车了。我肯定选哪个活儿大挑哪个，就跟以前出租车一样了。</p>
+<p><img class="alignnone size-full wp-image-736994 aligncenter" src="http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2016/10/we.jpg" alt="we" width="640" height="853" srcset="http://images.ifanr.cn/wp-content/uploads/2016/10/we.jpg 640w, http://images.ifanr.cn/wp-content/uploads/2016/10/we-360x480.jpg 360w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<h3>贰</h3>
+<p><strong>博望志：</strong>关于户籍的问题，大家有什么想说的？</p>
+<p><strong>王师傅：</strong>我认为是歧视外地人，我首先就受到影响了，我就不能工作了。我认为我已经融入这个城市了，已经有感情了，对这个城市也做出了很多贡献。</p>
+<p>保险啊，纳税啊该做的都做了，就是缺了一纸户口。我在北京也 10 多年了，我自认我比北京有的司机也不差。</p>
+<p><strong>张师傅：</strong>我对京籍还是挺赞同的，主要是北京实在是太拥堵了。如果把外地车都砍掉，我觉得北京也会缓解压力。再加上如果自私地说的话，我们的收入更有保障了。</p>
+<p>关于京牌我觉得这个可以推给滴滴公司，它自己应该有一些车辆。滴滴应该有些自营的车辆，滴滴可以招聘司机，司机打工有个合理的工资定价，这也是解决问题的办法。</p>
+<p><strong>边师傅：</strong>京牌对于我来说我是赞成的，因为本身你就是在北京的路面上跑，如果不是京牌的话，他所有的档案全在外地，北京的交管部门什么都没有，存在安全隐患问题。所以京牌还是应该限的，要不然北京本身就很拥堵了。</p>
+<p>我听说确实有一些村里的几个小伙子，家里有车，一想北京活儿多，拉滴滴能挣钱。从外地基本都是张家口或者河北周边的，说周一一大早开着车来北京了，然后天天拉，也不租房，困了累了就睡车里，睡几个小时起来再接着跑，到周六的时候开回去。</p>
+<p>回家休息两天，周一又回来了。这肯定是增加了北京路面的交通拥堵，肯定是疲劳驾驶，这么干肯定存在危险，他不光是对自己安全不负责任，对别人，对乘客和别的车带来危险。</p>
+<p>户籍的话限制有点苛刻了，像我就是外地户籍司机，我就是燕郊的，我依然会在北京生活，依然在北京工作，人还是在北京。因为我的家整个都在北京，顶多我换一个行业，难道我就不在北京了么？减少北京的人口了么？</p>
+<p>互联网 + 的时代，是共享经济的时代，是为了把像我这样的，我自己的车本身自己闲着也是闲着。</p>
+<p>其实我就是不拉网约车，我的车依然是在北京路上跑，就是把这些闲置的车给利用起来，改善大家的出行。所以如果把这块限制起来的话，对改善整个北京的出行是不利的。</p>
+<p>据我了解很多公司的老板和上班族，他们现在已经习惯于用网约车了。因为用网约车很方便，不用我自己开车。</p>
+<p>他们可以在车上完成很多办公，在去公司的路上接电话，安排工作上的事儿。他自己不开车了，也减少了路上的车辆，从这点上，是可以缓解北京交通压力的。</p>
+<p>我遇到过坐我车的乘客跟我说，突然觉得我们家的车没用了，上班打滴滴挺好，又方便还省钱。自己不用开车，因为到公司楼下，像国贸地区，又堵车停车又贵。</p>
+<p>我原来在国贸招商局大厦，停车第一小时 10 块，第二小时起每小时 15，一天停车费 100 多。有这钱完全够打车的了。互联网 + 是很好的方式，把大家的车利用起来，其实也减少了很多人开车了。</p>
+<p>这个政策如果限制得很严，路上的网约车一定会少，他们打不着车的情况下，肯定又开始开自己的车了，这样对北京的发展是不利的。</p>
+<h3>叁</h3>
+<p><strong>博望志：</strong>如果政策落地，下一步有什么打算？</p>
+<p><strong>王师傅：</strong>如果政策落地的话，第一我在（滴滴）公司肯定是干不了了。但我个人有车，我是京牌的车呀，你说我在北京干不了，我是回老家干？</p>
+<p>回老家干我是京牌车，如果老家也限制外地车的话。因为北京出台的政策，外地是效仿的，包括限购啊、摇号啊各地不是都效仿么。</p>
+<p>我要开着北京的车回去也不能干对吧？这样的话我就处于尴尬的状态了。车是北京的牌，人是外地的户口，回到原籍也被限呢？</p>
+<p>更多访谈内容：<a href="https://iso.chitu.com/gathering/?gid=732c255628f85484778be8f6edb59949&amp;share_person_id=43607aee83c5df598fd34afd1260ae70&amp;channel=20161025zhirenhuaxiang_haibaoqud_wechat&amp;_fr=20161025zhirenhuaxiang">语音</a></p>
+<p>&nbsp;</p>
+<p>题图来源：<a class="_ZR irc_hol i3724" tabindex="0" href="https://www.google.com.hk/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiOp9_wq_fPAhWCmpQKHflVC9kQjB0IBg&amp;url=http%3A%2F%2Fwww.scmp.com%2Ftech%2Fapps-gaming%2Farticle%2F1844341%2Fdidi-kuaidi-chinas-top-taxi-hailing-app-launches-personal-chauffeur&amp;psig=AFQjCNHSU44kjHp8iRLSq3U-WV9GYM56Kw&amp;ust=1477532529579261" target="_blank" rel="noopener" data-noload="" data-ved="0ahUKEwiOp9_wq_fPAhWCmpQKHflVC9kQjB0IBg" data-href="http://www.scmp.com/tech/apps-gaming/article/1844341/didi-kuaidi-chinas-top-taxi-hailing-app-launches-personal-chauffeur"><span class="irc_ho" dir="ltr">South China Morning Post</span></a></p>
+<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><p>
+<a href="http://www.ifanr.com">爱范儿</a> |
+<a href="http://www.ifanr.com/736986">原文链接</a> ·
+<a href="http://www.ifanr.com/736986#comments">查看评论</a> ·
+<a href="http://www.weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br>
+<div style="text-align:center;border-top:1px dotted #ccc">
+</div> ]]></content:encoded>
+    
+    <wfw:commentRss>http://www.ifanr.com/736986/feed</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <source>爱范儿</source>
+  </item>
+  </channel>
+</rss>
+
+<!-- t:1.34238, h:'Wed Oct 26 09:25:33 2016 UTC', H:'ip-172-31-12-38' --><!--
+Whitelist mode: 
+Remote address: 127.0.0.2
+Request REQUEST_URI: /feed
+Rebuilt REQUEST_URI: /feed
+Rebuilt QUERY_STRING: 
+
+Cacheable: 1
+Cache key: 86727e41f26d494097f302b90192f7378a074ac0
+Cache namespace: da39a3ee5e6b4b0d3255bfef95601890afd80709
+Cache hit: 1
+Cache hits: 3
+Cache mtime: 1477473933.7609
+Cache age: 125.52078199387
+
+Memory usage: 2.75 MiB
+Peak memory usage: 3 MiB
+-->

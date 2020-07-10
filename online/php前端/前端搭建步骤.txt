@@ -1,0 +1,9 @@
+前端搭建步骤:
+
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install apache2
+$ sudo apt-get install php7 libapache2-mod-php7.0
+
+把php_TCP文件夹移动到/var/www/html/路径之下
+在浏览器中输入http://localhost(Linux的ip)/php_TCP/index.html

@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>极客范 - GeekFan.net</title>
+	<atom:link href="http://www.geekfan.net/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.geekfan.net</link>
+	<description></description>
+	<lastBuildDate>Tue, 11 Aug 2015 10:37:52 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>亮瞎眼的特斯拉线圈</title>
+		<link>http://www.geekfan.net/13985/</link>
+		<comments>http://www.geekfan.net/13985/#comments</comments>
+		<pubDate>Tue, 11 Aug 2015 10:36:25 +0000</pubDate>
+		<dc:creator>崔伟健</dc:creator>
+				<category><![CDATA[创意]]></category>
+		<category><![CDATA[特斯拉，DIY]]></category>
+
+		<guid isPermaLink="false">http://www.geekfan.net/?p=13985</guid>
+		<description><![CDATA[<p>尼古拉·特斯拉是一百多年前的一位发明家，他发明了交流电、无线电，制造过小型的地震，搞过巨型的人造闪电。总之他的传奇故事很多，据说是被奸商爱迪生打压以至于默默无闻，著名的电动汽车特斯拉就是为了纪念这个疯狂的科学家。</p><p><a href="http://www.geekfan.net/13985/">亮瞎眼的特斯拉线圈</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu99qyt2j30go0b4mxp.jpg" /><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu98nfyaj30go0ciq3h.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euyu97s3l3j30go0ciq3h.jpg" /></p>
+<p>之前发过一篇用于产生电弧的马克思发生器， 那个玩意儿跟特斯拉线圈相比，就是小巫见大巫了。<br />
+尼古拉·特斯拉是一百多年前的一位发明家，他发明了交流电、无线电，制造过小型的地震，搞过巨型的人造闪电。总之他的传奇故事很多，据说是被奸商爱迪生打压以至于默默无闻，著名的电动汽车特斯拉就是为了纪念这个疯狂的科学家。</p>
+<p>有传闻说特斯拉玩的闪电，可见范围达到几百英里，不知道真假。我等凡夫俗子，顶多利用特斯拉原理来产生个小型闪电就好了。</p>
+<p>&nbsp;</p>
+<p><strong>Step 1： 准备和注意事项</strong></p>
+<p>我们的目标是做一个1000w的中型特斯拉线圈，放电距离超过120cm，特斯拉线圈的放电距离和功率成正比。<br />
+主要材料及大概成本：<br />
+1：高压变压器 1000W 输入220V 输出 10KV<br />
+2：大量无极电容 如用0.047uf 1000v~(1600v-)的cbb电容需要准备100只左右，有大容量的高压电容请自己换算<br />
+3：直径13厘米长1米的聚氯乙烯管(壁厚0.6-1厘米)，pvc管材也将就，厚0.8厘米的绝缘板材(不能是木头!最好塑料)大约2.5平米，厚0.5厘米的绝缘板材(非木!)大约1.5平米，这些都可在家庭装饰城(就是那些买涂料，板材，工具等的那种大市场里)买到<br />
+4：导线，多芯铜导线，1000v50A大约6米;10kv1A导线3米<br />
+5：耐压漆包线 内径0.5mm 900米长<br />
+6：直径0.8厘米的铜管(壁厚1mm以上)长8米，直径3厘米厚&gt;1mm长1米的铜管可在汽车配件或五金等地买到<br />
+7：电手钻，螺丝刀，手锯，钳子等工具，普通螺丝，塑料螺丝，环氧树脂胶，钢尺等<br />
+8：用于燃气热水器的排气管(金属制作，可弯曲，直径在10厘米以上)制作后期计算得到长度.<br />
+<strong>Step 2： 电路原理图</strong></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu845h2kj30bz0803yj.jpg" /></p>
+<p>等等，你特么是在逗我吗？我们是在做一个极其高大上的“雷公电母”设备，它的原理图怎么可能这么简单。</p>
+<p>所以感慨一下科学的伟大吧，小小一张图就可以让你拥有神一般的力量……</p>
+<p>&nbsp;</p>
+<h4><strong>Step 3： 装配示意图</strong></h4>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euyu9ap85yj30cy0rmt9i.jpg" /></p>
+<div>
+<div>当然，从原理图到真正的装备，还有很多路要走，这个就是装配的示意图。</div>
+<div></div>
+</div>
+<div></div>
+<h4><strong>Step 4： 一些相关的计算公式</strong></h4>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euyu8xc10hj306q08raa0.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu93yo4lj30630a4dfu.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu8ipb8wj30cj07nt8p.jpg" /></p>
+<p>1. 电弧长度： 电弧长度 L(单位：英寸); 变压器功率 P (单位 瓦特); L=1.7*sqrt(P)<br />
+2. 电容阵容量： 变压器输出电压(交流)E(单位 伏特); 变压器输出电流 I(单位 毫安); 电容器阵列最大容量C(单位 微法) ; 交流频率F(单位赫兹) C=(10^6)/(6.2832*(E/I)*F) [电容的大小涉及到与变压器功率的一个匹配问题，当电容过大时在交流上升到顶点时(即sqrt (2)*V时，电容电压过低无法击穿打火器的空气隙则打火器无法启动就无法工作，整个系统也就无从启动 ]
+<p>3. 电容阵的计算就是电容的简单串，并联，初中就学过，在此就不提了.例如当变压器功率为1000瓦时，输出电压为10000伏(交流)，那么电容匹配为0.0318uf，手头有电容规格为：0.047uf 1000~，1600-，再取保险一点到 耐压 1500v~则需要电容阵列安排如下：15个电容串联成一个基本链(BC);再10个这样的基本链并联而成(J)，共需要电容150个，若每支电容分压降为630v~(这样可以大幅度延长电容寿命)，则： 24–BC，16–J，共需384支电容.</p>
+<p>4. 其他： 震荡频率：F = 1/(2*Pi*sqrt(L*C))</p>
+<h4><strong>Step 5： 制作主线圈</strong></h4>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euyu8nzwhgj307r05zweg.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euyu8oxiosj306u05d747.jpg" /></p>
+<div>
+<div>在特斯拉线圈的设计中主线圈采用铜管绕制成蚊香状。铜管是用于汽车，供热，中央空调中的那种管壁较厚的承压铜管。直径8毫米大约绕制9-10匝，大约需要9米，最好选用光滑无锈无伤的。</div>
+<div></div>
+</div>
+<div></div>
+<h4><strong>Step 6： 主线圈支架</strong></h4>
+<p>&nbsp;</p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euyu8pujhoj305v047q2u.jpg" /></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euyu8rhgxvj3072049q2v.jpg" /></p>
+<div>
+<div>这样盘成的主线圈可以适用于6英寸到8英寸的次极线圈(盘铜管很费时间，也满费劲，但是不要图快，要尽可能盘的圆滑.)，还需要5毫米厚的软塑料板(非脆性塑料)做主线圈支架，将其按等距离打眼(要打成9毫米的眼，要不穿不进去) 底座选用普通中密度板就可以了，这个底座还有用，将来底下要放其它东西.也尽可能加工好，接下来把铜管和塑料支架穿起来。</div>
+<div></div>
+</div>
+<div></div>
+<h4><strong>Step 7： 内圈接头</strong></h4>
+<p>&nbsp;</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euyu8sit0hj308604yweg.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euyu8tyetsj308004st8l.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euyu8vfldqj30de06raa9.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euyu8wpzyuj30az09x74d.jpg" /></p>
+<p>内圈接头部分，将中密度底版在相应地方开孔引出一个接头。</p>
+<p>再找一截铜管做为接地保险，注意，不能让它闭合！</p>
+<h4><strong>Step 8： 电容阵列</strong></h4>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euyu84sw5zj30bs06uwem.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euyu85ulh0j30dy09dwf7.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euyu86uoapj30bv073t8v.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euyu89y2r2j309o07dq32.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu8b7z9vj309903tt8o.jpg" /></p>
+<p>在特斯拉线圈中，有一堆好的电容非常重要，因为所有电弧的能量都是由电容直接提供的。由于高压电容价格昂贵，所以现在普遍的做法是通过对普通无极性电容进行串联和并联来达到所需的耐压和容量。<br />
+需要准备的材料：<br />
+1.无极性电容，(聚乙烯，聚丙烯，CBB电容 等)一般常见高压电容规格主要有：1600v-0.047uf、1600v-0.068uf两种<br />
+2.电阻10兆欧(1000000ohm)<br />
+3.有机玻璃板<br />
+4.塑料螺丝</p>
+<p>首先计算所需要的电容个数和排列方式，根据以前提到的变压器匹配计算得到电容量为0.0318uf/10kv，手头电容规格为1600v- 0.047uf， (此处注意：电容的耐压标示都是直流 ，而且电容器交流耐压与电容材质等多种因素有关，不能简单认为只要将直流耐压值除以1.414 就得到交流耐压值)，从寿命和安全性角度出发，建议将每电容分压值定为450v~ 则得到整个电容阵构成为：22串一链，共14链并联，一共308支电容电阻，电阻的用途是为了当停止使用时对电容中的残留电荷进行放电，使用方法就是每支电容都要并联一支10兆的电阻(1/4~1/2W )</p>
+<p>安全提示：若没有放电电阻，则电容阵中储备的能量将可能存在很久而对人身造成伤害!</p>
+<p>图中显示了一个电容链，它是蛇行排布的。注意!电容之间不要紧密接触!要留有一定空隙，层与层之间要用4mm厚的有机玻璃隔离，每层包含两个链，固定使用塑料螺丝(尼龙螺丝)， 每层都有各自的接口使之成为独立可使用的单元。</p>
+<p><strong>Step 9： 次极线圈的制作</strong></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu8ydpuuj306v07v74b.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu8zdzmxj305g05wwed.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euyu908krqj308706jglo.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu913e0tj305r04ajra.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu9259pzj306s05xa9x.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euyu9356k2j307b05mjra.jpg" /></p>
+<div>
+<div>特斯拉线圈中的次极线圈是整个特斯拉线圈中制作最耗时耗神的部分。需要如下材料：<br />
+1. 高质量漆包线，一定要买好的，尤其是目前我国的漆包线质量普遍低下，线的直径0.51mm ~ 0.57mm。<br />
+2. 聚氯乙烯管材，直径15厘米，最少2米，厚度自己感觉结实就好，一般能买到的大约在4-8mm厚。<br />
+3. 用木头制作一个绕线架（有绕线设备的土豪请无视）。用两个圆片穿在圆筒两边，再在圆片中间打眼，穿入中心轴，架到线架子里面就可以绕线了。一圈一圈的绕，大约绕900~1000匝就适合本系统了，整个绕线过程大约7-8小时。<br />
+中间休息时一定要把已绕好的部分固定好，免得前功尽弃。绕线时要注意不要使线打结，不要用两根线接起来使用。市面上够长度的漆包线不大好找，大约在500m，但是整卷的线似乎比较贵。有兴趣的朋友可以一起买一大卷分着用。</div>
+<div></div>
+</div>
+<div></div>
+<h4><strong>Step 10： 打火器</strong></h4>
+<p>&nbsp;</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euyu8jj579j30d008kglx.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euyu8k6apuj30ai07a74a.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu8lhb04j30co08ljrl.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euyu8n5i5yj308z094dfv.jpg" /></p>
+<div>
+<div>制作打火需要以下材料：<br />
+1.200mm直径pvc管材，长400mm<br />
+2.90mm长，直径20mm铜管若干<br />
+3.双头螺丝 若干(是铜管数目）两倍&nbsp;</p>
+<p>打火器其实相当于一个开关器，未打火时能量由变压器传递到电容阵，当电容阵充电完毕时两极电压达到击穿打火中的缝隙的电压时，打火器打火，此时电容阵与主线圈形成回路，完成L/C振荡进而将能量传递到次极线圈。制作步骤：<br />
+1.先将铜管打眼。<br />
+2.再在pvc管上打眼后，将铜管固定在pvc管内部 (每个铜管与铜管之间的缝隙大约控制在1mm)<br />
+3.组装好</p>
+<p>为了根据需要调整放电缝隙，每相邻螺栓代表1mm的放电缝隙(螺栓即为接线柱)这样安装只要变换接线柱就可以很方便的根据你的设计电压进行调整了。<br />
+注意：打火器工作时将会产生很大的热量，而且往往集中在很小的面积上，所以散热设备必须很强大!一般采用小型立式风机（就那种吹婚礼拱门的），一般都在几百瓦，风量足。<br />
+只要注意在进风口加上简单的空气过滤装置防止大灰尘就可以了。<br />
+如果不加风机散热的话，特斯拉线圈工作几十秒后就可能导致打火器高温变形，加入风机后，一般可以把整个特斯拉线圈的工作时间延长至十几分钟。<br />
+另外，要经常在使用后对打火进行清理，去掉电渣和灰尘。</p>
+</div>
+</div>
+<div></div>
+<div></div>
+<h4><strong>Step 11： 放电终端</strong></h4>
+<p>&nbsp;</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euyu8c9d47j306r053747.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euyu8dnzoyj308c06ft8o.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euyu8epc4tj308w081q2y.jpg" /></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euyu8fpnfnj3084060q2y.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euyu8gw8foj305d04da9y.jpg" /></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euyu8hk0wqj30a707fq31.jpg" /></p>
+<p>在这部分的制作比较简单和随意，我这里介绍一种比较成熟和简易的制作方法，也就是最常见的圈型放电终端。<br />
+主要材料：<br />
+1. 4寸直径的燃气热水器通风管，(就是那种全金属的可弯管，家里有燃气热水器的一看便知)<br />
+2. 7寸直径的平底金属盘(用来做派的)，其他类似金属物也可，关键1.平底 2.金属<br />
+3. 包裹金币巧克力的那种较厚的铝箔</p>
+<p>首先将平底金属盘底对底用螺丝固定，接着将铝管盘成圈状，使其正好能卡在平底金属盘制作的骨架上，铝管的接口口处用铝箔封口，接线点定位在平底金属盘骨架中心，组装好成品。<br />
+至此特斯拉线圈的所有重要部分已经完成。</p>
+<p>&nbsp;</p>
+<p><strong>Step 12： 一些补充说明</strong></p>
+<p>&nbsp;</p>
+<p>关于特斯拉线圈的制作其实还有不少需要注意的事情，其中：<br />
+1：次极线圈的骨架既那个聚乙烯圆桶的饶线部分是有要求的，一般来说，饶线直径和饶线部分桶长比例在1：4左右<br />
+2：主线圈的底版可以用一些稍微便宜的材料制作，因为对它的要求不高，当然最好所有的塑料板材都能用雅克力板制作，这样有结实又漂亮<br />
+3：打火器的制作其实有很多方法，关键要注意的是a.放电部件要导热快 b.放电部件厚度要足够 c由于打火器更换频率最高，所以设计要以容易更换，价格便宜为主<br />
+4：关于高压电容，前些天见到微波炉内部有一种高压电容规格为 2100AC 1uF 且内部集成放电电阻的电容，看来如果使用这种电容也是一个不错的方案<br />
+5：关于主变压器，一般难以购买，可以去当地电子市场询问是否可以定做，如果没有，可以购买霓虹灯电源，规格为 15000V AC 50HZ 60mA 样子象个箱子，在国外特斯拉线圈爱好者中使用比较多，还有就是采购日本二手110VACin –6300vACout 变压器两个串联使用<br />
+<strong>Step 13： 亮瞎双眼的时候到了</strong></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euyu95eqfrj30go0d5gme.jpg" /></p>
+<p>世界各地有大量的特斯拉线圈爱好者，搞出很多炫酷的作品。</p>
+<p>有的朋友可能又要说“然并卵”了，事实上，很多科技的突破，都是从一些莫名其妙的的发明演化而来。在自然界中，闪电拥有巨大的能量，据说地球每秒钟平均有45次闪电，如果能够抓住这些能量用来发电，那你就发财啦……</p>
+<p>视频：</p>
+<p><object width="560" height="450" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" align="middle"><param name="src" value="http://static.video.qq.com/TPout.swf?vid=n0014px3pii" /><param name="allowfullscreen" value="true" /><param name="quality" value="high" /><param name="allowscriptaccess" value="always" /><embed width="560" height="450" type="application/x-shockwave-flash" src="http://static.video.qq.com/TPout.swf?vid=n0014px3pii" allowfullscreen="true" quality="high" allowscriptaccess="always" align="middle" /></object></p>
+<p>&nbsp;</p>
+<p><a href="http://www.geekfan.net/13985/">亮瞎眼的特斯拉线圈</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></content:encoded>
+			<wfw:commentRss>http://www.geekfan.net/13985/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DIY修炼：舵机知识扫盲</title>
+		<link>http://www.geekfan.net/13978/</link>
+		<comments>http://www.geekfan.net/13978/#comments</comments>
+		<pubDate>Mon, 10 Aug 2015 06:24:29 +0000</pubDate>
+		<dc:creator>崔伟健</dc:creator>
+				<category><![CDATA[创意]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[舵机]]></category>
+
+		<guid isPermaLink="false">http://www.geekfan.net/?p=13978</guid>
+		<description><![CDATA[<p>我猜你肯定在机器人和电动玩具中见到过这个小东西，至少也听到过它转起来时那与众不同的“吱吱吱”的叫声。对，它就是遥控舵机，常用在机器人技术、电影效果制作和木偶控制当中。用不着太复杂的改动，舵机就可摇身一变成为一个高性能的、数字控制的、并且可调速的齿轮电机。在这篇文章中，我会介绍舵机使用的的一些基础知识以及怎样制作一个连续运转舵机。
+</p><p><a href="http://www.geekfan.net/13978/">DIY修炼：舵机知识扫盲</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euxhgs14lcj30gg0ccq41.jpg" /></p>
+<p>DIYer: Tod E. Kurt<br />
+GEEK指数: ★★★☆☆</p>
+<p><strong>1 简介</strong></p>
+<p>舵机控制的机器人</p>
+<p>● 我猜你肯定在机器人和电动玩具中见到过这个小东西，至少也听到过它转起来时那与众不同的“吱吱吱”的叫声。对，它就是遥控舵机，常用在机器人技术、电影效果制作和木偶控制当中，不过让人大跌眼镜的是，它竟是为控制玩具汽车和飞机才设计的。<br />
+● 舵机的旋转不像普通电机那样只是古板的转圈圈，它可以根据你的指令旋转到0至180度之间的任意角度然后精准的停下来。如果你想让某个东西按你的想法运动，舵机可是个不错的选择，它控制方便、最易实现，而且种类繁多，总能有一款适合你呦。<br />
+● 用不着太复杂的改动，舵机就可摇身一变成为一个高性能的、数字控制的、并且可调速的齿轮电机。在这篇文章中，我会介绍舵机使用的的一些基础知识以及怎样制作一个连续运转舵机。</p>
+<p>&nbsp;</p>
+<div>
+<div><strong>2 舵机的结构和原理</strong></div>
+<div></div>
+<div>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euxhh0b265j30cc0ggab3.jpg" /></p>
+<p>A.标准舵机图解</p>
+<p>● 遥控舵机（或简称舵机）是个糅合了多项技术的科技结晶体，它由直流电机、减速齿轮组、传感器和控制电路组成，是一套自动控制装置，神马叫自动控制呢？所谓自动控制就是用一个闭环反馈控制回路不断校正输出的偏差，使系统的输出保持恒定。我们在生活中常见的恒温加热系统就是自动控制装置的一个范例，其利用温度传感器检测温度，将温度作为反馈量，利用加热元件提输出，当温度低于设定值时，加热器启动，温度达到设定值时，加热器关闭，这样不就使温度始终保持恒定了吗。</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euxhgiupewj30gg0ep75a.jpg" /></p>
+<p>B.闭环反馈控制</p>
+<p>● 对于舵机而言呢，位置检测器是它的输入传感器，舵机转动的位置一变，位置检测器的电阻值就会跟着变。通过控制电路读取该电阻值的大小，就能根据阻值适当调整电机的速度和方向，使电机向指定角度旋转。图A显示的是一个标准舵机的部件分解图。图B显示的是舵机闭环反馈控制的工作过程。</p>
+<p><strong>3   选择舵机</strong></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euxhgxy2ccj308c069t90.jpg" /></p>
+<p>C.大扭力/微型/标准舵机</p>
+<p>● 舵机的形状和大小多到让人眼花缭乱，但大致可以如图C所示分类。最右边身材不错的是常见的标准舵机，中间两个小不点是体积最小的微型舵机，左边的魁梧的那个是体积最大的大扭力舵机。它们都是同样的三线控制，因此你可以根据需求换个大个的或小个的。<br />
+● 除了大小和重量，舵机还有两个主要的性能指标：扭力和转速，这两个指标由齿轮组和电机所决定。扭力，通俗讲就是舵机有多大的劲儿。在5V的电压下，标准舵机的扭力是5.5千克/厘米（75盎司/英寸），转速很容易理解，就是指从一个位置转到另一个位置要多长时间。在5V电压下，舵机标准转度是0.2秒移动60度。总之，和我们人一样，舵机的个子越大，转的就越慢但也越有劲儿。<br />
+● 赶快想好你要做的东西，让我们开始动手吧。确定做什么之后，选择哪种大小的舵机（标准型、微型、绞盘型）就是小case了，你可以绅士般的从中选个最便宜的。在这个项目中，我选的就是微型系列的HexTronik公司生产的HXT500型舵机，额定数值是扭力0.8千克，转速0.10秒，只花不到4美元就搞定了。</p>
+<p><strong>4 舵机的支架和连接装置</strong></p>
+<p>&nbsp;</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euxhgc9q3dj308c068aa9.jpg" /></p>
+<p>D.多种舵盘</p>
+<p>● 想在你的项目中用上舵机，就要满足两个条件：一是需要个能把舵机固定到基座上的支架，二是得有个能将驱动轴和物体连在一起的连接装置。支架一般舵机上就有，而且带有拧螺丝用的安装孔。如果你仅仅是测试的话，用点儿热熔胶或者双面泡沫胶带就能轻松的固定住舵机。<br />
+● 怎样连接驱动轴呢，你会发现舵机都附带了一些有孔的小东西，这就是舵盘，它可以套在驱动轴，臂上打上了些小孔。你只要用连接棒或者线把物体连到孔上，就可以将舵机的旋转运动变成物体的直线运动了，当然了，选用不同的舵盘或固定孔就能产生不同的运动啦。<br />
+● 图示的是几种不同的舵盘。前面4个白色的是舵机附带的舵盘，右边四个是用激光切割机切割塑料得到的DIY舵盘。最右边的2个是舵盘和支架的组合，如果你想实现两个舵机的组合运动，把这个舵盘的支架固定到另一个舵机的支架上就OK了。</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euxhgpgzhtj30gg0c7wfj.jpg" /></p>
+<p>E.普通舵盘设计</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euxhh1p8ysj30gg0b1q41.jpg" /></p>
+<p>F.其他舵盘</p>
+<p>● 制作普通舵盘对于童鞋们来说是比较容易的，先用矢量作图软件画一个多边形，这个多边形的半径和顶点数都要和舵机驱动轴匹配，这样它就能连接到驱动轴上了，其他种类的也是这样画出来的。</p>
+<p><strong>5   如何控制舵机</strong></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euxhgd6h2ej308c02wt8p.jpg" /></p>
+<p>G.3线接口</p>
+<p>● 像图所示那样，舵机有一个三线的接口。黑色（或棕色）的线是接地线，红线接+5V电压，黄线（或是白色或橙色）接控制信号端。</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euxhgmfqkvj308c0313z8.jpg" /></p>
+<p>H.控制信号</p>
+<p>● 控制信号（如图H）是一种脉宽调制（PWM）信号，凡是微控制器能轻松的产生这种信号。在此文中，我用的是常用的Arduino开发环境下的微控制器。<br />
+● 脉冲的高电平持续1到2毫秒（ms），也就是1000到2000微秒(µs)。在1000µs时，舵机左满舵。在2000µs时，右满舵。不过你可以通过调整脉宽来实现更大或者更小范围内的运动。<br />
+● 控制脉冲的低电平持续20毫秒。每经过20毫秒（50次每秒），就要再次跳变为高电平，否则舵机就可能罢工，难以保持稳定。不过你要是想让它一瘸一拐的跳舞，倒可以采取这种方法。</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euxhgn6q7zj30fy09p0t2.jpg" /></p>
+<p>这是一个完整的Arduino设计程序，在这个程序下，舵机始终在正中间位置，控制起来很容易</p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euxhgu8hkaj30gg0ccq3y.jpg" /></p>
+<p>I.舵机连接Arduino实验板</p>
+<p>● 红色和黑色的线分别接到Arduino开发板的5V电源脚和接地脚上。控制线接到Arduino开发板的数字输入/输出脚9脚上。<br />
+● 用Arduino控制舵机也有不太给力的地方，就是Arduino程序把绝大部分时间都浪费在等待延迟命令上，不过童鞋们暂时不要失望，Arduino中内置有舵机函数，你可以用它内置的计数器来同时控制两个舵机（分别在9脚和10脚），是不是又豁然开朗了，这样我们不就能把节省下的编程代码干别的事情了吗。</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euxhgl2tbej30fy09cjrn.jpg" /></p>
+<p>这是一个调用了舵机函数的程序<br />
+<strong>6 舵机应用：云台网络摄像头</strong></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euxhgk4xcjj306808c74l.jpg" /></p>
+<p>J.舵机控制的云台网络摄像头</p>
+<p>● 看了这么多内容了，是不是有点迫不及待练练手的冲动，那就先来个简单的，材料就是下面这些，两个舵机、一个Arduino板、一个用来装摄像头的可转动基座。先用热胶把第一个舵机的舵盘固定到摄像头的底部，然后把第二个舵机固定到基座上，同时把它的舵盘固定到第一个舵机的一侧，最后把舵盘套到各自舵机上，哇塞，一个云台网络摄像头就这样诞生了。<br />
+● 图中是一个纯手工打造的云台网络摄像机，它用的是OpenWrt Linux系统的华硕wi-fi路由器。<br />
+● 网络摄像头和Arduino控制板都是用USB集线器连接到路由器上的。</p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euxhghfljyj30g10gat9r.jpg" /></p>
+<p>通过Arduino的USB口同时控制两个舵机的程序</p>
+<p>● 大致的流程是这样滴，当串口上有两个字节到来时，程序开始工作，赋给第一个字节0-180的值，让它调节摇摆舵机（调左右），同样赋给第二个字节0-180的值，让它调节倾斜舵机（调上下）。</p>
+<p><strong>7 如何DIY连续旋转的舵机</strong></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euxhgog2ppj308c068ab3.jpg" /></p>
+<p>K.舵机的内部“解剖”结构</p>
+<p>● 任何舵机都能变成一个双向、可调速的降速齿轮电机。通常情况下，需要驱动芯片和其他一些零件才能控制电机的转速和方向，这些部件舵机中都会附带，所以要想得到一个用到机器人上的数控连续旋转舵机，最简单也最便宜的的方法就是自己动手改造一个，哈哈，考验动手能力的时候又来了。</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euxhgz7mygj308c069q3c.jpg" /></p>
+<p>L.拿掉金属挡板</p>
+<p>● 需要改动的是部分的电路模块和机械模块，电路模块中，我们要找两个阻值相同的电阻来充当电位计，机械模块中，则要去掉防止电机过速的挡板。</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euxhgw3t74j308c069mxt.jpg" /></p>
+<p>M.卸下塑料挡板</p>
+<p>● 下面我们就开始吧，首先，卸开舵机外壳，HTX500舵机的外壳由3个塑料部分扣在一起。你可以用个小一字改锥或是类似的片状工具把他撬开，然后从轴上取下齿轮组,(记得标记好各个小齿轮的位置哦)，再从下面小心的取出舵机的电路板。<br />
+● 舵机上有两个机械制动挡板，用尖嘴钳卸下驱动轴基座上的金属挡板（图L），用斜嘴钳卸下外壳顶部的塑料挡板（图M）。</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euxhgqn9s2j308c069jrp.jpg" /></p>
+<p>N.焊上电阻</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euxhh3b9wxj308c0680t4.jpg" /></p>
+<p>O.缠上胶带</p>
+<p>● 用两个阻值相加约5 kΩ的电阻来替代5 kΩ的电位计，实际制作中，选一对2.2kΩ的电阻就能满足要求了。把电位计上的3根线焊下来，像图N那样焊到电阻上。再把这个重新组装成的家伙用绝缘胶带或是绝缘管缠好（图O），最后再和电路板一起重新塞进舵机外壳中，扣好外壳，一个改造好的舵机就呈现在我们面前了。<br />
+● 手工制作阶段到此就结束了，但是现在还能高兴的太早，因为只有找到基准点才能算是大功告成。在理想条件下，如果两个电阻完全相同，舵机就能精确的停到90度的位置上。不过呢，理想和现实总是会差那么一点点，因此舵机就没像理想中那样么精确。为了使舵机控制更精确，我们要找到一个基准点，方法是把上面编的程序灌进电路中，通过实验来看舵机究竟停在哪个角度，这个角度每个舵机都不相同，所以得出结果后要记录下来。<br />
+● 我们业余爱好者常用的舵机一般是用电位计来检测驱动轴转动到的角度，而用在工业机器人、电脑数控机床等大型系统中的舵机一般则要用旋转编码器来确定位置。光学旋转编码器的原理是这样的，把一个带有窄缝的圆盘固定在转轴上，然后用一个LED灯和一个光敏元件来记录光通过窄缝照到光敏器件上的次数来计算当前旋转到的位置。其实生活中这种技术也很常见，我们每天都要用的光电鼠标就是用的这个原理制作成的。<br />
+注：如果你不想撬开你心爱的舵机，Parallax公司（BASIC Stamp微处理器的制造商）有一款即用型，标准尺寸的连续转动舵机可供你使用。</p>
+<p><strong>8 连续旋转舵机的应用：5分钟的绘图机器人</strong></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euxhgbeof4j308c069q37.jpg" /></p>
+<p>P.安装好的绘图机器人*<br />
+● 想做个会画画的的机器人吗，那就去找两个连续旋转舵机来吧，我们这就开始。图O这个绘图机器人中包含了舵机两个， 9V电池，面包板， Arduino电路板，三福记号笔各一个，外加一对塑料轮子。<br />
+● 它的电路和云台摄像头一样，我们直接拿来用，而且它的部件都可以用热胶粘到一起。关于轮子的选择，更是简单，只要是直径在1到3英寸的圆东西都能用，比如塑料瓶盖之类的。为了减小摩擦，增大牵引力，我们在车轮上缠上塑料胶带。<br />
+● 这样组装阶段就完成了。接下来就是程序了，它的程序用一个包含基准点的变量来制动舵机，这个基准点我们上面已经通过实验测出（你的基准点可能不同）。程序的控制流程为，先让一个舵机朝一个方向运动一段时间，然后换成另一个舵机转动，这样就能得到一个螺线形的图画了。<br />
+● 代码在此：<br />
+#include<br />
+Servo servoL;<br />
+Servo servoR;<br />
+int servoLZero = 83; // experimentally found to stop L motor<br />
+int servoRZero = 91; // experimentally found to stop R motor<br />
+boolean turnleft = false;<br />
+void setup() {<br />
+servoL.attach(9);<br />
+servoR.attach(10);<br />
+servoL.write(servoLZero); // start out not moving<br />
+servoR.write(servoRZero); // start out not moving<br />
+}<br />
+void loop() {<br />
+turnleft = !turnleft;<br />
+if( turnleft ) {<br />
+servoL.write( servoLZero &#8211; 10 );<br />
+servoR.write( servoRZero );<br />
+delay(1000);<br />
+} else {<br />
+servoL.write( servoLZero );<br />
+servoR.write( servoRZero + 10 );<br />
+delay(4000); // turn more one way than the other<br />
+}<br />
+}</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euxhgt4bqyj30gg0cbjsg.jpg" /></p>
+<p>Q.运动中的绘图机器人</p>
+<p>● 注意：永久记号笔画的痕迹不好清除，童鞋们千万小心哈，最好让绘图机器人在硬纸板或其他不透水的纸的画画，或者索性换成支水溶性的记号笔。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<div></div>
+<div></div>
+</div>
+<p><a href="http://www.geekfan.net/13978/">DIY修炼：舵机知识扫盲</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></content:encoded>
+			<wfw:commentRss>http://www.geekfan.net/13978/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>【神级DIY】自制无线控制“甲壳虫”机器人</title>
+		<link>http://www.geekfan.net/13971/</link>
+		<comments>http://www.geekfan.net/13971/#comments</comments>
+		<pubDate>Sun, 09 Aug 2015 03:25:47 +0000</pubDate>
+		<dc:creator>崔伟健</dc:creator>
+				<category><![CDATA[创意]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[机器人]]></category>
+
+		<guid isPermaLink="false">http://www.geekfan.net/?p=13971</guid>
+		<description><![CDATA[<p>拥有一个自己会跑会跳的机器人是许多人小时候的一个梦想，如今这个梦想你可以实现了！此次电子元件技术网带来大师级别的DIY，自己动手就能做的机器人，做一个送给家里的小朋友绝对自信心爆棚啊！</p><p><a href="http://www.geekfan.net/13971/">【神级DIY】自制无线控制“甲壳虫”机器人</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></description>
+				<content:encoded><![CDATA[<p>【导读】拥有一个自己会跑会跳的机器人是许多人小时候的一个梦想，如今这个梦想你可以实现了！此次电子元件技术网带来大师级别的<span style="font-family: Arial;">DIY</span><span style="font-family: 宋体;">，自己动手就能做的机器人，做一个送给家里的小朋友绝对自信心爆棚啊！</span></p>
+<p>话不多说，直接上图。</p>
+<p><strong>Solidworks <span style="font-family: 宋体;">出图纸和模拟图</span></strong></p>
+<p>机器人身体</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euw6ishfngj30dw0ev3yn.jpg" /></p>
+<p>机器人头部</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euw6it6a08j30dw0a3q2x.jpg" /></p>
+<p>机器人漂亮的大腿</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euw6itytaaj30dw0anwel.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euw6iuoqjrj30dw09j74i.jpg" /></p>
+<p>&nbsp;</p>
+<p><strong>甲壳虫机器人3D模拟图</strong></p>
+<p>camworks <span style="font-family: 宋体;">出刀路</span></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euw6ivrulpj30dw0d9dg6.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euw6iwldptj30dw09g3yx.jpg" /></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euw6ixkln7j30dw09qwex.jpg" /></p>
+<p>甲壳虫<span style="font-family: Arial;">”</span><span style="font-family: 宋体;">机器人</span><span style="font-family: Arial;">3D </span><span style="font-family: 宋体;">模拟图 </span></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euw6iyg2n4j30dw0c7wep.jpg" /></p>
+<p>&nbsp;</p>
+<p><strong>加工及组装</strong></p>
+<p>在自己<span style="font-family: Arial;">DIY</span><span style="font-family: 宋体;">的数控铣床上进行加工，用的</span><span style="font-family: Arial;">6061 </span><span style="font-family: 宋体;">的进口铝板， </span><span style="font-family: Arial;">3mm</span><span style="font-family: 宋体;">厚度 </span></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euw6izdqfgj30b40dwmxs.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euw6j0474wj30b405r3ym.jpg" /></p>
+<p>购买的经典型号舵机<span style="font-family: Arial;">MG995</span><span style="font-family: 宋体;">，开始组装。 </span></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euw6j0wfspj30b407f74k.jpg" /></p>
+<p>“<span style="font-family: 宋体;">甲壳虫</span><span style="font-family: Arial;">”</span><span style="font-family: 宋体;">机器人造型很漂亮吧！ </span></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euw6j1njclj30b407ft8y.jpg" /></p>
+<p>舵机板和布线已经完成</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euw6j2r9o1j30dw09oaau.jpg" /></p>
+<p>&nbsp;</p>
+<p><strong>机器人安装完成</strong></p>
+<p>功率强劲的<span style="font-family: Arial;">8000mah</span><span style="font-family: 宋体;">动力电池</span></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euw6j3ka98j30dw0biaaa.jpg" /></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euw6j3ka98j30dw0biaaa.jpg" /></p>
+<p>机器人安好后摆个POSE</p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euw6j4fs9dj30dw06wq3b.jpg" /></p>
+<p>复位后的状态</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euw6j5ehv6j30dw08hgm6.jpg" /></p>
+<p>机器人站起来了</p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euw6j6ctn5j30dw0a6js3.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euw6j8aljgj30dw09mmxq.jpg" /></p>
+<p>机器人PS手柄和遥控装置</p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euw6j7c8d6j30cg0gowfj.jpg" /></p>
+<p><a href="http://www.geekfan.net/13971/">【神级DIY】自制无线控制“甲壳虫”机器人</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></content:encoded>
+			<wfw:commentRss>http://www.geekfan.net/13971/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DIY：制作曲面感光元件的针孔相机</title>
+		<link>http://www.geekfan.net/13956/</link>
+		<comments>http://www.geekfan.net/13956/#comments</comments>
+		<pubDate>Fri, 07 Aug 2015 06:59:15 +0000</pubDate>
+		<dc:creator>崔伟健</dc:creator>
+				<category><![CDATA[创意]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[摄影]]></category>
+
+		<guid isPermaLink="false">http://www.geekfan.net/?p=13956</guid>
+		<description><![CDATA[<p>我们曾介绍不少自制针孔相机，而通常都是使用已经提供好的纸模来制作。而来自加拿大的摄影师 Matt Bechberger，则分享了一个非常完整的针孔相机制作指引，包括了数学上及物理学上的讲解，相机通过弯曲胶卷曝光的办法，令胶卷可以均匀曝光，极大地消除了画面的暗角！很好玩哦~。如果你也想自制一台如此认真的针孔相机，可以来参考参考！</p><p><a href="http://www.geekfan.net/13956/">DIY：制作曲面感光元件的针孔相机</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></description>
+				<content:encoded><![CDATA[<p>我们曾介绍不少自制针孔相机，而通常都是使用已经提供好的纸模来制作。而来自加拿大的摄影师 Matt Bechberger，则分享了一个非常完整的针孔相机制作指引，包括了数学上及物理学上的讲解，相机通过弯曲胶卷曝光的办法，令胶卷可以均匀曝光，极大地消除了画面的暗角！很好玩哦~。如果你也想自制一台如此认真的针孔相机，可以来参考参考！</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euu1lrf4mvj30jg0eljvk.jpg" /></p>
+<div>
+<h2><strong>基础概念</strong></h2>
+</div>
+<div>针孔相机其实是最原始的相机，光线在物体身上反射出来，然后透过相机上的小孔，聚焦于相机内的底片上，而任何可以遮挡着针孔的东西都可成为快门，手动控制曝光时间。就是这么简单。</div>
+<div><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euu1lsfhwwj30dg08p74l.jpg" /></div>
+<div></div>
+<div>
+<div>
+<h2><strong>数学计算</strong></h2>
+</div>
+<div>制作方面，首先你要制造出一个好的针孔，在互联网上都可以买得到，又或你能够自制一个。建议材料是一般的铝罐皮，越薄越好。然后使用小锤及针，轻轻地戳一个洞，在戳的时候最后在底先垫一块橡皮擦，以防止变形。完成后再用砂纸把铝片磨平，并且用显微镜或平板素描器之类 (如果有)，去检视针孔的圆度及质素。如果你选用一些硬质金属，则可能要特地使用电钻之类了。</div>
+<div></div>
+<div>然后你要找出针孔的直径，知道后就可以计算出所需焦距﹐也就是针孔与底片之间的距离。</div>
+<div></div>
+<div>算式如下︰焦距 = (针孔直径 / 0.03679)^2</div>
+<div></div>
+<div>例如 针孔0.3mm<br />
+焦距 = (0.3mm / 0.03679)^2 = 66.49mm</div>
+<div></div>
+<div>接下来要计算的就是「视角」(viewing angle)，即是光线进入的最大角度，这取决于针孔的直径与物料的厚度。</div>
+<div><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euu1lta5cej30e80a474c.jpg" /></div>
+<div><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euu1lu6vo7j30e806ajrg.jpg" /></div>
+<div><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euu1lvaya8j30e80c4gm0.jpg" /></div>
+<div>
+<div>这个需要动用直角三角形的公式，要用上计数机。d 就是针孔直径，而 t 就是物料厚度，简化版公式如下︰</div>
+<div></div>
+<div>视角 = tan^-1( (d/2)/(t/2) ) x 2</div>
+<div></div>
+<div>例如︰<br />
+视角 = tan^-1( (0.3/2)/(0.0762/2) ) x 2 = 75.74 x 2 = 151.5 度</div>
+<div></div>
+<div>视角的重要性，在于让你判断光线能否恰当覆盖到底片，如果覆盖不足的话，就会出现黑角及黑边。例如上图般，底片的对角线不应长于成像圈的直径。而成像圈的直径算式如下︰</div>
+<div>成像圈直径 (mm) = 2 x 焦距 x tan ((视角)/2)</div>
+<div></div>
+<div>例如︰<br />
+成像圈直径 (mm) = 2 x 66.49 x tan (151.5/2) = 523.61 mm</div>
+<div></div>
+<div>在这个例子里，成像圈非常大，所以配合弧面底片的话，就可以在 120 底片上拍出 17cm x 6cm 的超广角影像。</div>
+<div><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euu1lw4mb7j30e807g74g.jpg" /></div>
+<div><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euu1lx75hsj30e80abwey.jpg" /></div>
+<div></div>
+<div>
+<div>
+<h2><strong>相机制作</strong></h2>
+</div>
+<div>完成了数学计算后，就到物理上的实践。弧面底片的就可以让整块底片都与针孔保持相等距离，从而得到均匀曝光。<br />
+相机材料方面没太大限制，最重要是能够阻止光线进入。</div>
+<div></div>
+<div>卷动底片方面，则要使用如下图的扁状金属条 + 结他旋钮的东西，两边各一个，以松开底片及收紧底片之用。</div>
+<div><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euu1m2fl7vj30ku0axq4k.jpg" /></div>
+<div><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euu1m0djl2j30ku0i80uc.jpg" /></div>
+<div><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euu1ly8f2ej30e80ao0ti.jpg" /></div>
+<div>快门方面，丰俭由人，你可以像作者一样，自制一个以弹簧及快门线控制的快门。</div>
+<div></div>
+<div>在相机背后需要钻一个小孔，以确定底片的使用量，最好在相机内部涂上黑漆，以消除任何杂散光。&nbsp;</p>
+</div>
+<div><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euu1m4dv4dj30e80aot98.jpg" /></div>
+<div></div>
+<div><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euu1m3fwjwj30e80aot98.jpg" /></div>
+<div><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euu1m5owucj30e80aogmx.jpg" /></div>
+<div><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euu1m6p7imj30e80ao0tj.jpg" /></div>
+<div>
+<p>&nbsp;</p>
+<p><strong>曝光计算</strong></p>
+</div>
+<div>
+<div>接下来要计算的是光圈值，这个会影响你所需要的曝光时间。</div>
+<div></div>
+<div>算式如下︰<em id="__mceDel">光圈值 = 焦距 / 针孔直径</em></div>
+<div></div>
+<div>例如︰<br />
+光圈值 = 焦距 / 针孔直径　= 66.49mm / 0.3mm　= 221</div>
+<div></div>
+<div>这个世界恐怕没有甚么相机或测光表有 f/221，所以我们要做下一步计算。<br />
+根据「标准全级光圈值尺度」，每一级光圈值之间，光线量是减半，亦即是光圈的面积也是每级减半。数字如下︰1.4，2，2.8，5.6，8，11，16，22，32，44，64，88，128，176，256，352。但是超过 f/22 的测光表是不存在的，因此我们可以透过计算自行找出倍数。</div>
+<div></div>
+<div>不过放心，一般的针孔摄影不是精准的科学，所以也不需要精确的数学。在这情况下 f/221 大概接近 f/256，就当作 f/256 可以了。相比起 f/16 即是有 8 级的差异，也就是说 f/16 的光量是 f/256 的 2^8 倍，也就是 256 倍。</div>
+<div></div>
+<div>因此你可以透过测光表之类，以相同的 ISO 值但用 f/16 作测量，得快门值后再乘以 256 倍，就是所需的曝光时间了。例如我们测出要曝光 1 秒，那么在此针孔相机上则要曝光 256 秒。</div>
+<div></div>
+<div></div>
+<div><strong>倒易律失效 (Reciprocity Failure)</strong></div>
+<div></div>
+<div></div>
+<div>直至现时为止，所有东西都很直接很数学，但是在摄影上来说，还有一样东西称为「倒易律」。简单说就是在同一感光物料上，曝光时间与曝光量是成正比例上升的，曝光时间两倍，则曝光量也有两倍。但在实际拍摄上，当曝光时间超过一定秒数，就会出现「倒易律失效」，两者不再成正比例，如果想得到正确曝光，则需要额外曝光时间。</div>
+<div>
+<div></div>
+<div>下图就是额外曝光简表，很有用，留着它︰</div>
+<div><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euu1m7x1jkj30e80a8dgj.jpg" /></div>
+<div>
+<div>就用 256 秒曝光为例，因为倒易律失效，所以要用上 4 倍曝光时间，即是 1024 秒，由 4 分钟增至 17 分钟，差异当然很大，而且要在曝光环境良好稳定的情况下才是这样。不过放心，其实就算少几分钟也不会很差的，摄影师就曾试过仅用了应有曝光时间的 1/8 来拍摄，结果也不错。</div>
+<div></div>
+<div>最后提一提，由于针孔摄影往往需要很长曝光时间，所以使用脚架，或放置在稳定的平台上拍摄是很重要的。</div>
+<div>
+<p>&nbsp;</p>
+<div>
+<p><strong>检验相机成果</strong></p>
+<div>接下来让我们看看曲面感光拍出来的效果吧~。</div>
+<div></div>
+<div><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euu1m9fj4uj30n206yta4.jpg" /></div>
+<div></div>
+<div><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euu1mau67qj30n20793zh.jpg" /></div>
+<div></div>
+<div><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euu1mc3tynj30n206qdgs.jpg" /></div>
+</div>
+</div>
+</div>
+</div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+<p><a href="http://www.geekfan.net/13956/">DIY：制作曲面感光元件的针孔相机</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></content:encoded>
+			<wfw:commentRss>http://www.geekfan.net/13956/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DIY：拆了收录机，做个机器人</title>
+		<link>http://www.geekfan.net/13945/</link>
+		<comments>http://www.geekfan.net/13945/#comments</comments>
+		<pubDate>Thu, 06 Aug 2015 06:11:51 +0000</pubDate>
+		<dc:creator>崔伟健</dc:creator>
+				<category><![CDATA[创意]]></category>
+		<category><![CDATA[未分类]]></category>
+		<category><![CDATA[DIY]]></category>
+
+		<guid isPermaLink="false">http://www.geekfan.net/?p=13945</guid>
+		<description><![CDATA[<p>我是那种会留下所有损坏的电子设备的人，因为我有可能会在某天用到这些东西。我有一张坏了的CD，一个磁带盒和一个别人送我的收音机，它会随机地保持关机状态。事实证明，这不过是因为收音机的某个焊点坏了。把收音机拆开后我才意识到，由于我们已经有了手机，这些年我们已经很少用到它了。如果我再把它组装回来，也不过是放在架子上落灰。</p><p><a href="http://www.geekfan.net/13945/">DIY：拆了收录机，做个机器人</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1eusto5xhnhj30cx0h8ac0.jpg" /></p>
+<p>我(原作者)是那种会留下所有损坏的电子设备的人，因为我有可能会在某天用到这些东西。我有一张坏了的CD，一个磁带盒和一个别人送我的收音机，它会随机地保持关机状态。事实证明，这不过是因为收音机的某个焊点坏了。把收音机拆开后我才意识到，由于我们已经有了手机，这些年我们已经很少用到它了。如果我再把它组装回来，也不过是放在架子上落灰。</p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eusto06f50j30go0cidh2.jpg" /></p>
+<p>我决定把它身上多余的东西拆掉，用剩下的关键部位组装出一种功能不变但外表新颖的东西。这样起码还能将它作为架子上的装饰品。如果你也喜欢利用废品做机器人，那么你可能会喜欢这样的尝试。这个机器人能够播放CD、磁带，能听收音机，还能通过音频输入线与你的手机相连。</p>
+<p><strong>第一步：工具准备</strong></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eusto46ki9j30go0ciq4f.jpg" /></p>
+<p>要说出具体需要的工具还真有点困难，以下是必备工具。<br />
+1、达美电磨<br />
+2、电钻<br />
+3、机械螺丝<br />
+4、刀具<br />
+5、锉刀<br />
+6、中心冲头<br />
+7、热熔枪<br />
+8、钳子<br />
+9、螺丝刀<br />
+10、卡尺<br />
+11、一台3D打印机在定制支架时非常有用，如果你没有的话，你可以用聚氯乙烯这种材料，使用时将其热熔即可。</p>
+<p><strong>拆解</strong></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eusto2lnc4j30go0cidhg.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1eustodwtbmj30go0ci407.jpg" /></p>
+<p>要想得到拼接机器人，你必须先将东西都拆开。你可以看到图中的受害者：一台美国无线电公司产的立体声音响。拆开后，我惊讶地发现里面非常空。我把这些东西拆开后，将它们都拼接到了一起，幸运的是这些东西都还能正常工作。这是一个看上去很好玩的立体声音响。当然，这些还不够，如果要做好机器人，我还需要找一些能当支架的废品。</p>
+<p><strong>重新组合</strong></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1eustnyobrdj30go0ci0v4.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eusto8f8lnj30go0ci0u7.jpg" /></p>
+<p>要做一个能站立的机器人，必不可少的一部分是它的双脚。我将一张硬盘劈成了两半给它做脚，用大型激光打印机的一些零件给它做了双腿。我发现最难的地方在于，如何将两个不相干的东西结合到一起。我需要一种能支撑这些零件重量的东西，我可不希望我将它拿起来的时候它就散架了。</p>
+<p>我的解决办法是将零件对齐，给它们钻孔并用螺丝将其连接起来。对于一些没法钻孔并用螺丝连接的地方，我会先测量尺寸，并用3D打印机定制一些支架。</p>
+<p><strong>接着干</strong></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1eusto79lmrj30go0ciabn.jpg" /></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1eusto9zrjfj30go0cftad.jpg" /></p>
+<p>另外一个挑战在于如何连接这些扬声器。我想将它们变成机器人的肩膀，但不知道该怎么讲它们连接起来。在切开塑料的时候，我发现收音机外壳上的网很适合做肩膀。由于它们会阻碍其它零件，因此我用3D打印机定制了一些支架，让它们能够上下翻折。</p>
+<p><strong>快好了</strong></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eustofdrpdj30go0cimyk.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eustob76rnj30go0bwdh5.jpg" /></p>
+<p>到目前为止，头是最有挑战性的一部分。我希望机器人的外表在具有复古风格的同时，还能让人在看到它的第一眼就知道它的功能与声音有关。我发现一盒旧磁带的大小与电脑散热片的大小差不多。散热片也可以用来做机器人的头，因为它大部分地方是空的，能够轻易地在里面接线从而给它焊电灯泡。酷酷的机器人怎么可以不亮呢？另外，感谢我的女朋友在此过程中伸出援手。</p>
+<p><strong>一些收尾工作</strong></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eusto1e257j30go0ci75g.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1eustociclpj30gi0d7tab.jpg" /></p>
+<p>搜寻过废物箱之后，我找到一个废弃的相机电路和一圈花线，并将它们装饰到机器人的头上，给它增加复古感。卷线很容易，只要将它绕在螺栓或者螺丝起子上就行。</p>
+<p>整个过程用时比我想象的要长。总共用了50个多小时，不过整个过程很有趣。我还会对这个机器人做一些改进，比如给它身上加一些灯和可移动零件，并给这些灯加上控制开关。我还想知道如何能将机器人的嘴变得能够显示音量大小，并让它根据所播放的声音眨眼。如果你知道，请跟我联系或者在评论中告知我。能变废为宝是一件很棒的事，我会做更多这类大小的机器人。</p>
+<p><a href="http://www.geekfan.net/13945/">DIY：拆了收录机，做个机器人</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></content:encoded>
+			<wfw:commentRss>http://www.geekfan.net/13945/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>极客DIY：轻松使用树莓派控制灯</title>
+		<link>http://www.geekfan.net/13941/</link>
+		<comments>http://www.geekfan.net/13941/#comments</comments>
+		<pubDate>Thu, 06 Aug 2015 05:16:08 +0000</pubDate>
+		<dc:creator>崔伟健</dc:creator>
+				<category><![CDATA[创意]]></category>
+		<category><![CDATA[树莓派]]></category>
+		<category><![CDATA[DIY]]></category>
+
+		<guid isPermaLink="false">http://www.geekfan.net/?p=13941</guid>
+		<description><![CDATA[<p>最近笔者正在研究微控制器和基于物联网的设备安全。因此，我开始考虑建立一个小型家庭系统化系统，虽然目前还没完成，但我想先在文章中分享一下我如何使用树莓派2及一些其他电子元件来控制房间的灯光。当然，我在这里不会介绍树莓派的初始设置，因为你可以在网上发现各种各样的教程。</p><p><a href="http://www.geekfan.net/13941/">极客DIY：轻松使用树莓派控制灯</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1eust4u6e86j30fa0a6mzj.jpg" /></p>
+<p><span style="color: #3366ff;">最近笔者正在研究微控制器和基于物联网的设备安全。因此，我开始考虑建立一个小型家庭系统化系统，虽然目前还没完成，但我想先在文章中分享一下我如何使用树莓派2及一些其他电子元件来控制房间的灯光。当然，我在这里不会介绍树莓派的初始设置，因为你可以在网上发现各种各样的教程。</span></p>
+<p><span style="color: #3366ff;"><strong>注意事项</strong></span></p>
+<p>在我们继续实验之前，我想有必要提醒一下关于实验中“电流”的危险性。一旦出现任何状况，最糟糕的情况就是死掉或者烧了你的房子。所以，请不要试图完成任何文中提到但是你不理解事情，或者你可以在制作的时候寻求一些有经验的电工的帮助。</p>
+<p>好啦，让我们开始DIY吧！</p>
+<p><span style="color: #3366ff;"><strong>实验准备</strong></span></p>
+<p><strong>硬件需求</strong></p>
+<p>1、树莓派2（或者任何5V输出功率的型号，均可）</p>
+<p>2、USB无线软件狗</p>
+<p>3、8路继电器</p>
+<p>4、一些Female-Female跳线（40 PCS FEMALE TO FEMALE JUMPER WIRES）</p>
+<p>5、灯头电线</p>
+<p>（以上硬件，某宝均有销售）</p>
+<p><strong>其他要求</strong></p>
+<p>1、了解基本Python语言或者其他任何语言（我会用到Python）</p>
+<p>2、对Linux系统有基本了解</p>
+<p>3、专心致志</p>
+<p><strong>流程要求</strong></p>
+<p>首先，用ssh链接到树莓派上，并安装“apache”和“php5”：</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eust4n4n9cj30fe016q2u.jpg" /></p>
+<p>你会需要安装python的GPIO库来控制树莓派的GPIO插脚：</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eust4o41m4j30fe00uglh.jpg" /></p>
+<p><span style="color: #3366ff;"><strong>了解元件</strong></span></p>
+<p>现在，在我们继续制作之前，你需要了解一下我们将使用到的电子元件。</p>
+<p><strong>1、继电器</strong></p>
+<p>继电器是一种使用非常低的电压输入控制高压电的电气设备。由一个线圈缠绕的金属杆和两个小型金属节点构成的闭合电路。其中一个节点是固定的，其他的都是可移动的。无论何时，当电流通过线圈的时候，它会产生一个磁场，吸引可移动节点向静态节点运动，形成电路。通过给线圈供应小额电压，我们就能完成高压电路的轮回。同时，静态节点并非在物理上与线圈有联系，因此一旦有地方出错，微控制器驱动的线圈也很少出现故障。</p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eust4lyugdj30em05wmz1.jpg" /></p>
+<p>试验中，我使用一个8路继电器，可以同时控制8个设备。你可以选择自己的继电器或者继电板，但是请确保你在继电器的额定电压之内处理，以避免任何事故的发生。</p>
+<p><strong>2、跳线</strong></p>
+<p>跳线就是我们链接树莓派GPIO插脚与继电器的简单连接电线。</p>
+<p><strong>3、树莓派2</strong></p>
+<p>我们使用树莓派2作为一个微控制器来操纵继电器。它有40个GPIO（通用输入/输出）插脚。你可以看到下面这些插脚的布局，我们将使用这些接口为继电器加电和控制开关。</p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eust56b66nj30fs0biq4u.jpg" /></p>
+<p><span style="color: #3366ff;"><strong>连接电路</strong></span></p>
+<p>电路非常简单。我们将连接GPIO插脚到继电板上。首先连接继电器板上的“GND”与树莓派上的任意“GND”。然后链接继电器的“IND1”到GPIO PIN 17，我们会把GPIO PIN 17作为一个控制第一继电器的输出。最后，将继电器的“VCC”连接到树莓派的“5V”GPIO插脚。让我们简单直接设置一下：</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eust4otrypj30fe01wwei.jpg" /></p>
+<p>现在我们到了最为棘手的部分，我们要将继电器连接到接通主电路供电的灯头上。但是，我想先给你介绍一个如何通过直流屏电源开启及关闭灯光的简单操作。</p>
+<p>我们通常连接两根电线到灯泡上，来提供电流供给。其中一根电线是“中性”电线，另一根则是实际带着电流的“负极”电线，同样的这里也有一个控制整个电路的开关。因此，当开关（闭合）连接到流经灯泡的电流和负极电线时，电路便完整了。灯泡从而亮了起来。当开关（断开），破坏了电路和灯泡的电流，因此灯泡不亮。这里有一个小的电路图来解释具体情况：</p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eust4uwe9cj30a107y0sv.jpg" /></p>
+<p>当我们在试验中，我们需要“负极电线”通过我们的继电器来打破电路，从而使用继电器开关的控制流经的电流。因此，当继电器打开，在闭合电路中灯泡也应该亮起来，反之亦然。请参考一下完整的电路：</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eust54juh6j313g0fegum.jpg" /></p>
+<p><span style="color: #3366ff;"><strong>控制脚本</strong></span></p>
+<p>现在，终于到了软件的部分。我编写了一个简单的python脚本来控制继电器开关，使用了GPIO PIN 17和一个PHP代码可以在任何移动终端上面来运行python脚本。你可以从我的Github（和CSS）上找到这段代码。</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eust4qvl0mj30fe06gab5.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eust4se1zfj30fe0ayq55.jpg" /></p>
+<p>注意：你将会需要添加“www-data”用户到sudoers文件。</p>
+<p>注意+：PHP代码只是为了测试，我们不建议在公共环境中运行。</p>
+<p>不久我将完成这个设置，希望回来更新一个新的帖子。请在那时之前，自己动手试一下这个控制灯，但是一定要注意安全。</p>
+<p><span style="color: #3366ff;">视频展示：demo1 :</span></p>
+<p><object width="560" height="450" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" align="middle"><param name="src" value="http://static.video.qq.com/TPout.swf?vid=n01603kvz07" /><param name="allowfullscreen" value="true" /><param name="quality" value="high" /><param name="allowscriptaccess" value="always" /><embed width="560" height="450" type="application/x-shockwave-flash" src="http://static.video.qq.com/TPout.swf?vid=n01603kvz07" allowfullscreen="true" quality="high" allowscriptaccess="always" align="middle" /></object></p>
+<p><span style="color: #3366ff;">demo2:</span></p>
+<p><object width="560" height="450" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" align="middle"><param name="src" value="http://static.video.qq.com/TPout.swf?vid=t0160iibhsn" /><param name="allowfullscreen" value="true" /><param name="quality" value="high" /><param name="allowscriptaccess" value="always" /><embed width="560" height="450" type="application/x-shockwave-flash" src="http://static.video.qq.com/TPout.swf?vid=t0160iibhsn" allowfullscreen="true" quality="high" allowscriptaccess="always" align="middle" /></object></p>
+<p>&nbsp;</p>
+<p><span style="color: #3366ff;"><strong>参考</strong></span></p>
+<p>· GPIO Diagram: <a href="http://data.designspark.info/uploads/images/53bc258dc6c0425cb44870b50ab30621" target="_blank">http://data.designspark.info/uploads/images/53bc258dc6c0425cb44870b50ab30621</a></p>
+<p>·<a href="https://www.youtube.com/watch?v=Z2B67hybdAA" target="_blank">https://www.youtube.com/watch?v=Z2B67hybdAA</a></p>
+<p>·<a href="https://elementztechblog.wordpress.com/2014/09/09/controlling-relay-boards-using-raspberrypi/" target="_blank">https://elementztechblog.wordpress.com/2014/09/09/controlling-relay-boards-using-raspberrypi/</a></p>
+<p>·<a href="https://www.raspberrypi.org/forums/viewtopic.php?t=36225" target="_blank">https://www.raspberrypi.org/forums/viewtopic.php?t=36225</a></p>
+<p>·<a href="https://github.com/TheGreenToaster/web-pins/" target="_blank">https://github.com/TheGreenToaster/web-pins/</a></p>
+<p><a href="http://www.geekfan.net/13941/">极客DIY：轻松使用树莓派控制灯</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></content:encoded>
+			<wfw:commentRss>http://www.geekfan.net/13941/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>自主机器人：你的私人WALL·E</title>
+		<link>http://www.geekfan.net/13924/</link>
+		<comments>http://www.geekfan.net/13924/#comments</comments>
+		<pubDate>Wed, 05 Aug 2015 09:01:54 +0000</pubDate>
+		<dc:creator>崔伟健</dc:creator>
+				<category><![CDATA[创意]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[机器人]]></category>
+
+		<guid isPermaLink="false">http://www.geekfan.net/?p=13924</guid>
+		<description><![CDATA[<p>Makey是我编程实现的一个自主机器人（自主者，非遥控也），能够识别并规避障碍。她拥有全封闭的底盘并使用差速转向（原文为“tank steering”，坦克的驾驶方式），这种转向方式使用两台分开控制的电动机分别驱动两个主动轮（一机一轮），通过对Arduino的编程，Makey可是实现诸如寻路的功能，仅需要少量硬件上的修改，Makey即可参加机器人界热门的Mini-Sumo（迷你相扑）比赛。</p><p><a href="http://www.geekfan.net/13924/">自主机器人：你的私人WALL·E</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></description>
+				<content:encoded><![CDATA[<table frame="void" rules="none">
+<tbody valign="top">
+<tr>
+<th>DIYer:</th>
+<td>Kris Magri</td>
+</tr>
+<tr>
+<th>制作时间:</th>
+<td>2-3周</td>
+</tr>
+<tr>
+<th>制作难度:</th>
+<td>★★★★☆</td>
+</tr>
+<tr>
+<th>GEEK指数:</th>
+<td>★★★★★</td>
+</tr>
+</tbody>
+</table>
+<p>看最终效果视频</p>
+<object width="560" height="450"><param name="movie" value="http://www.tudou.com/v/SbyH1vA3ysY"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="never"></param><param name="allownetworking" value="internal"></param><param name="flashvars" value="" /><embed src="http://www.tudou.com/v/SbyH1vA3ysY" type="application/x-shockwave-flash" allowscriptaccess="never" allownetworking="internal" allowfullscreen="true" width="560" height="450" flashvars=""></embed></object>
+<p>Makey是我编程实现的一个自主机器人（自主者，非遥控也），能够识别并规避障碍。她拥有全封闭的底盘并使用差速转向（原文为“tank steering”，坦克的驾驶方式），这种转向方式使用两台分开控制的电动机分别驱动两个主动轮（一机一轮）</p>
+<p>控制信号来自其自身携带的Arduino微型控制器（在国内用单片机如PIC、AVR，或者Arm处理器都可以很好地替代），另外有一个舵机用于Makey头部的转动。Makey的头部装有一个超声波探头，她会持续的左右摇头，以得到不同方向上的距离信息，并进行存储和处理</p>
+<p>通过对Arduino的编程，Makey可是实现诸如寻路的功能，仅需要少量硬件上的修改，Makey即可参加机器人界热门的Mini-Sumo（迷你相扑）比赛.</p>
+<p>&nbsp;</p>
+<p><strong> 1 工具和材料</strong></p>
+<p>● （使用的工具与零部件列表这里没翻，毕竟相当一部分东西买原版都不太现实也没有必要&#8211;国内的家伙事儿差不多的也能土法上马，有兴趣的童鞋请参考原文）</p>
+<p>● 想得到关于这个项目的图示、图纸、代码，请移步 <a href="http://makezine.com/19/makey" target="_blank">资料下载</a></p>
+<p><strong>2   制作机身</strong></p>
+<div>
+<p>● 机身由两片铝合金薄板制成，涉及的加工方法有切割、钻孔和折弯。你可以一次一片的加工，或者两片一起做以减少占用加工设备的机时。成品见2.5<br />
+● 猛击 资料下载 下载图纸并全尺寸打印。剪下底板（base）切割图，用双面胶将切割图均匀平整的贴在铝合金薄板上<br />
+● 注意：切割金属时务必佩戴防护眼镜</p>
+<p><strong>2.1 切割</strong></p>
+<p>&nbsp;</p>
+</div>
+<div><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1eurt9g547gj30gg0ccdgn.jpg" /></div>
+<div>
+<p>● 用带锯机把铝合金片切成图纸的形状，切割的边缘一定要在线外<br />
+● 提示：切割内角时，先切出一个大概的弧形曲线，然后从两个方向直线进刀以得到直角</p>
+<p><strong>2.2 打孔</strong></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt9qc5iej30gg0ccaau.jpg" /></p>
+<p>● 用冲子和小锤子在图上有十字线的17处冲出定位孔，为下一步的钻孔做准备。另外要在图上长方形的孔的四个角上冲透</p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eurt8ymazzj30gg0cc753.jpg" /></p>
+<p>● 按照图上标十字线处的尺寸钻孔，要首先取下贴上去的图纸（不过别扔了），用钻头对准前面留下的冲痕开钻可以使钻孔更精确<br />
+● 把金属牢固的夹在废木头板上或者随便什么垫子上，这样可以得到更平滑的孔而不会导致薄金属板在钻孔处扭曲变形<br />
+● 为了掏成方形孔而钻圆形孔时，你可能需要调整钻孔的直径以使圆孔边缘与长方形的边相切</p>
+<p><strong>2.3 挖槽</strong></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1eurt94uhyyj30gg0ccjs3.jpg" /></p>
+<div>
+<div>● 用冲剪完成对长方形孔的加工，如果你愿意的话可以把前面揭下来的图再贴回去，以便容易知道长方形的边界在哪。最后把边缘磨平</div>
+<div></div>
+<div></div>
+</div>
+<div>
+<div> <img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt914whmj30gg0ccdgl.jpg" /></div>
+<div>
+<div>
+<div>● 用手工打磨工具去掉金属边缘的毛刺。给小孔磨边的方法为：把大钻头的尖端插进小孔，然后手工转几下</div>
+<div></div>
+</div>
+<blockquote><p>冲剪是长成这样滴：</p></blockquote>
+<blockquote><p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt8xginyj30f208k75d.jpg" /></p>
+<p>&nbsp;</p></blockquote>
+<blockquote><p>2.1-2.3都是跟合金板过不去的活儿，原作者的办法基本是土法上马，与美帝的高科技风格严重不符。柚子在大学折腾机器人那会儿去交大观摩，他们有加工中心，只要把CAD图画出来发过去，那边用等离子切割机就给“打印”出来了，钻啊、掏异形啊这种活儿根本不存在。更神奇的是切完的边不用磨，基本不扎手。另外我们用土法掏方形孔的时候是先钻大孔，把带锯拆开一头套进去然后慢慢锯，得到的孔要多丑有多丑，然后还得上铁砧拿小锤砸平</p></blockquote>
+<p><strong>2.4   弯板</strong></p>
+</div>
+<div></div>
+<div><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eurt8w6jogj30gg0ccgme.jpg" /></div>
+<div></div>
+<div></div>
+<div>
+<div>
+<div>● 把底板的折弯图用双面胶贴到铝板的另一面，对准圆洞方洞的位置，别贴歪了</div>
+<div></div>
+<div>● 把铝片贴折弯图的一面向上塞进弯板机里，在所有标示折弯的部位折90度</div>
+<div></div>
+</div>
+<div>
+<div></div>
+<div> <img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt8ztu8rj30gg0ccwf7.jpg" /></div>
+<div></div>
+<div></div>
+<div>
+<div>● 每个长边上的两个突出部要先折，然后再折机身的边。（顺序反了就塞不进去了）</div>
+<div></div>
+<div>● 折弯后要缓慢释放，测量，确认每一处折弯都要是直角</div>
+<div></div>
+<div></div>
+<div><strong>2.5   制作顶板</strong></div>
+<div></div>
+<div></div>
+<div><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt98j1x1j30gg0cb3z8.jpg" /></div>
+<div>
+<p>● 重复2.1-2.4步骤，加工顶板（top），然后你就搞定了每个机器人都会喜欢的底盘</p>
+<p><strong>3 运动系统</strong></p>
+<p><strong>3.1 安装电机</strong></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1eurt9wp67hj30gg0cct9i.jpg" /></p>
+<p>&nbsp;</p>
+<div>● 用4-40 x 1螺丝穿过小孔，将驱动电机定位在底板上，电机的传动轴应该穿过大孔</div>
+<div></div>
+<div>● 使用螺母和垫片在电机的一端上紧，因为可以施展的空间尺寸很小，可能需要尖嘴钳子（夹住螺母）才能上紧</div>
+<div></div>
+<div></div>
+<div><strong>3.2   制作轮毂</strong></div>
+<div></div>
+<div></div>
+<div><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1eurt9610smj30gg0cc750.jpg" /></div>
+<div>
+<div>
+<p>● 用2英寸（外径，合50.8mm）的空心钻头（见过装空调的师傅在墙上钻大洞用的那种钻吧，很类似）在废木头板上钻出轮子（钻透木板之后木板上有个圆洞，钻头中间的洞里会剩下个圆片，这个圆片就是轮子），我用了18号板（貌似是一种规格），最终得到的轮子有3/4英寸（19.05mm）厚，直径1.8英寸（45.72mm）。钻轮子的时候要牢固的固定木板，并且缓慢进刀，防止卡住钻头<br />
+● 给2个木头轮子分别对心定位一个轮心（图中白色塑料的小轮子），并用小螺丝标记两个孔的位置，在此位置上用1英寸（原文如此，合25.4mm，不过疑为有误，从图上看孔绝对没那么大）的钻头钻透<br />
+● 给木头轮子喷漆，我喜欢红色光面防锈漆，这种东西非常薄，颜色很亮，覆盖性好并且容易清洁。注意，不要在安装孔里喷太多</p>
+<p>&nbsp;</p>
+</div>
+<div><strong>3.3   制作轮胎</strong></div>
+<div></div>
+<div></div>
+<div><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt9sy591j30gg0ccwf8.jpg" /></div>
+<div></div>
+<div>● 用43号钻头在轮心上钻两个相对的孔，然后用4-40丝锥在每个孔里攻出螺纹</div>
+<div></div>
+<div><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt9l2wbjj30gg0ccq3q.jpg" /></div>
+<div></div>
+<div>● 用两个4-40 x 1螺丝从木轮外侧把轮子和轮心固定在一起，不要太紧</div>
+<div></div>
+<div><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eurt9b3k02j30gg0cct9i.jpg" /></div>
+<div>
+<div></div>
+<div>● 给每个轮子装轮胎，轮胎外径比较大的一面朝外。最后把轮子装在驱动电机的传动轴上</div>
+<div>3.1-3.3就是折腾那俩轮子，原作者极其不厚道，没说怎么对心，这个很重要，谁也不希望做完的机器人跑起来一跳一跳的。您还别问我咋对心，我也没经验，新手还是找现成的轮子对付一套比较安全。另外3.2-3.3中原作者留下一个逻辑错误，看出来的童鞋请举手</div>
+<div></div>
+<div></div>
+<div><strong>3.4   安装万向轮</strong></div>
+<div></div>
+<div></div>
+</div>
+<div><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eurt8v81v9j30gg0cct9h.jpg" /></div>
+<div>
+<div>
+<div></div>
+<div>● 使用螺丝、螺母以及垫片将万向滚珠安装在底板底部</div>
+<div></div>
+</div>
+<div>
+<p><strong>4 电控系统</strong></p>
+<p><strong>4.1 安装电源</strong></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1eurt9juwbpj30gg0ccgmc.jpg" /></p>
+<div>● 按照第一步打印出来的隔板图样，从一块硬塑料上切出隔板（隔板是用来装线路板的，用塑料是为了绝缘），按说明打孔，尝试着塞进机器人的外壳并使之架在驱动电机之上，作必要的修整，令其充分贴合匹配</div>
+<div>● 用两个4-40 x 2螺丝将Arduino控制线路板与硬塑料隔板固定在一起，螺丝应从隔板下方穿入，并在线路板上方拧螺母。线路板上的USB接口需要和机器人面板上预先留好的开口充分对齐</div>
+<div></div>
+<div><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt93r3jqj30gg0ccmxz.jpg" /></div>
+<div></div>
+<div>● 将电池夹具铆接在机器人外壳的左侧面板上，预制的铆钉头朝外，这样的话丑的一头就朝里啦</div>
+<div>关于铆接，这里指的不是造泰坦尼克的那种把烧红了的钢制铆钉插进去挤兑一下的工艺，而是一种将铝合金预制铆钉的开放端在常温下挤压成型从而将两个或更多构件固定在一起的方法，最常见到的是各地马路边的刮大风能掉下来砸死人的铁皮广告牌子，它们就是用这种工艺把镀锌薄钢板固定在L字钢框架支撑结构上滴</div>
+<div></div>
+<div></div>
+<div><strong>4.2   控制板</strong></div>
+<div></div>
+<div></div>
+<div>
+<div>
+<div>● 按照制造商的教程，把原型板（ProtoShield）焊好教程在 <a href="http://www.atomicsalad.com/archive/2007/03/11/tutorial_sparkfun_protoshield_assembly_use.php" target="_blank">这里</a></div>
+<div>● 用带锯机把板子上的BlueSMiRF接头切下来，这个接头是用来连接蓝牙模块的，我们的机器人用不到那东西。是不是锯得很爽？</div>
+<div>● 把面包板接在原型板上，原型板插在Arduino上，如果用的是Diecimila（Arduino主板的一个版本），那么将电源跳线设置在EXT位上</div>
+</div>
+<div></div>
+<blockquote><p>焊接原型板绝对不是个轻松的活儿，没基础的童鞋搞不定也不用纠结。面包板（breadboard）是这么个东西，其意义在于省了烧电烙铁的麻烦，不过问题是有时候元件捅进去会接触不良&#8230;</p>
+<p>&nbsp;</p></blockquote>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt9u6u6tj30gg0hh0ti.jpg" /></p>
+<p>&nbsp;</p>
+</div>
+<div>
+<p><strong>5 给WALL·E安上一双明亮的眼睛</strong></p>
+<p><strong>5.1 WALL·E的脖子</strong></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt9ikd2wj30gg0ccaaw.jpg" /></p>
+<p>● 咱这个项目用的是HS-55型舵机及与之配套的较短的一字舵角，用5&#8221;钻头对舵角最靠外的两个孔进行扩孔</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt9dgelvj305k03ra9y.jpg" /></p>
+<p><em>Du-Bro Mini E/Z 连接头, #DUB845</em></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1eurt99upp9j305k03pglk.jpg" /></p>
+<p><em>微副翼系统 Du-Bro Micro Aileron System, #DUB850</em></p>
+<div>● 将两个Du-Bro Mini E/Z连接头从正面穿过摇臂两端的孔，并在反面用黑色橡胶的部件固定</div>
+<div>● 将控制杆（图中所示的细铁丝样东西）穿过Du-Bro Mini E/Z连接头，并用连接头附带的螺丝拧紧</div>
+<div></div>
+<div></div>
+<div><strong>5.2   WALL·E之眼</strong></div>
+<div></div>
+<div></div>
+<div><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1eurt9hakhhj30gg0cc0ti.jpg" /></div>
+<div></div>
+<div>
+<div>● 有挑战性的工作来咯！咱们需要把舵机和超声波探头接在一起。把从舵机上伸出来的控制杆分别穿过位于传感器电路板对角的定位孔（这个定位孔来自Du-Bro Mini E/Z连接头，连接头又插在板子上的螺丝眼里，然后另一端用那个黑橡胶部件固定）并向外折成90度角</div>
+<div>● 控制杆应该从舵角开始竖直向上，并且给超声波探头留下足够插信号线的空间，传感器正面（有收发端，也就是像俩小眼睛的那一面）朝前，控制杆上还应该套上绝缘套（就是那个塑料管）以防止短路，绝缘套在Du-Bro套件里可以找到。确认安装无误后，将控制杆与传感器上的连接头拧紧。</div>
+<div>Du-Bro是美国的一家生产模型配件的公司，很遗憾我没找到这些产品的国内版本。欢迎在国内见过这些配件的同学提供信息</div>
+<div></div>
+<div></div>
+<div><strong>5.3   给WALL·E安上一双明亮的眼睛</strong></div>
+<div></div>
+<div></div>
+<div><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eurt97bna5j30gg0ccaat.jpg" /></div>
+<div></div>
+<div>
+<div>● 将舵机和超声波探头出来的线穿过机器人外壳顶部预先留下的长方形开孔</div>
+<div>● 舵机也要插进那个顶部开孔，调整好位置后两边用螺丝与螺母将舵机与外壳固定好，剪去多余的控制杆(还是那个细铁丝)</div>
+<div>● 把舵机摇臂与舵机上到一起，用小螺丝刀调整一下保证Makey的眼睛（传感器）朝前</div>
+<div></div>
+<div>
+<p><strong>6 连接并测试驱动电机</strong></p>
+<p><strong>6.1 电机预处理</strong></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1eurt9mapivj30gg0ccjs6.jpg" /></p>
+<div>
+<div>● 咱的地摊货电机上的连接头部件是很脆弱滴，所以连接部分一定要用心</div>
+<div>● 从外壳里拆出电机和Arduino线路板</div>
+<div>● 切2红2黑各12英寸（304.8mm，12寸炮是305mm的，比如筑波级的2*2主炮）电线，每条线的两端1英寸（25.4mm）剥去绝缘皮。先别焊接，用一个红黑线对在电机的末端（有电源接点的那一端）缠几圈，以防止拉断，然后让线对从电机顶端通过，用双面泡沫胶带将其固定在电机上。注意不要覆盖电机上的任何孔洞，同时要为电机的固定留足空间</div>
+<div></div>
+</div>
+<div>
+<div> <img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1eurt92ajn8j30gg0ccaau.jpg" /></div>
+<div></div>
+<div>
+<div>
+<div>● 将电容的两个引脚分别穿过电机接线头上的小孔，焊接（这里应该是把引脚穿过去的部分和同一根引脚的根部焊在一起，这样的话引脚和电机接线头就充分连通了。注意，千万别把俩引脚焊在一起！）这需要使用尖嘴钳的巧妙掰弯手法。然后把给电机供电的电线头与电容引脚，注意，不是电机接线头，焊在一起，焊牢稳一些。再然后剪掉多余的电容引脚。把电容和缠在电机末端的电线一起用黑胶布（也就是绝缘胶带）紧密的缠在电机上，并且用更多的泡沫胶带把这个鼓鼓囊囊的位置包起来（还是为了固定）</div>
+<div>● 把漏在外面的电机供电线拧成双绞线，这样可以减低电路中的噪声（一个供电的低压直流线路里有点噪声怕什么？原作者的想法好奇怪）。给电机标出左和右</div>
+</div>
+<div>
+<div>
+<p>在电机上并联了一个电容，这样做有两个好处。</p>
+<p>其一，在稳定的直流电路里，电容是开路，不会影响电机工作，但是给电机通电的那一瞬间，电容因为要充电，可以分担一部分电流，所以电容作为一个保护器件可以保护电机。</p>
+<p>其二也是更重要的，这种直流电机的接线头是一个铜合金片，从电机的塑料外壳里伸出来（通常被和塑料铸在一起），鬼知道奸商们用了什么材料，反正这个东西非常脆，尖嘴钳上去经常能掰断，然后这个电机就没啥抢救的价值鸟，另外这个铜片不怎么粘焊锡，焊接不易。但是电容的引脚一般都是类似铝、锡一样的柔韧金属，想怎么扳都能成形，焊起来也容易得多，所以作者把电气连接的活儿都转到这个引脚上来做。</p>
+<p>【连电机的小经验】铜接线片作连接之前最好用细砂纸小心的蹭几下，去掉氧化物。电容线脚穿过去之后轻轻拉紧，在穿孔附近用尖嘴钳用力捏一下，使线脚与铜片充分接触。另外电线最好挑独轴的，也就是绝缘皮里面只有一根金属的，那种绝缘皮里有一束极细铜丝的线焊起来会有想死的冲动</p>
+<p><strong>6.2   电机测试</strong></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1eurt9eu0vbj30gg0ccaaw.jpg" /></p>
+<div>● 将短实心跳线分别焊接到电机供电线和电池接头线上，这些跳线可以让你把它们（电机和电池）插到面包板上，焊接之后用热缩胶带作焊点的绝缘（用绝缘胶布缠是一样的，除了丑一点和大一点）。将电机供电线穿过塑料隔板（4.1提到的那个）上的大窟窿（因为面包板和电机分别在隔板上下两侧）</div>
+<div>● 按图示把电机驱动器插进面包板中间的一行孔里，使之和电机以及一个电池连通（注意，在面包板上，每一行的孔之间是连通的）。使用短跳线并保证这些线紧贴面包板，傻大黑粗的大电线是不配塞进机器人里的</div>
+<div>● 从 <a href="http://arduino.cc/" target="_blank">Arduino官网</a> 下载Arduino的软件并且安装之，再从 <a href="http://makezine.com/19/makey" target="_blank">资料下载</a> 处得到这个项目的5个测试程序。通过USB接口把你的Arduino和电脑连起来，如果你用的是Diecimila版本的话，把它的电源跳线接换到USB档上。</div>
+<div>● 为了测试电机，运行名为01_Test_Motor_Rotation的程序，此时左边的电机应该先往前转再往后转，然后是右边的，先往前再往后。如果不是这样，检查一下你的接线。接下来运行02_Test_Motor_Speed，此时电机应该以低速启动，然后加速，最后反方向转，如果不是这样的话检查线脚D11和D3</div>
+<div></div>
+<div></div>
+<div>
+<p><strong>7 连接并测试舵机和传感器</strong></p>
+<p><strong>7.1 连接舵机</strong></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1eurt8tfug4j30gg0ccgmc.jpg" /></p>
+<p>● 将电机和Arduino再装回机器人里面，找两个3针的单排直角插针（通常是将一个20针的单排插针折断得到）插在面包板上，把舵机线接在上面，具体接线规则为：黑线-GND（地线，电池负极），红线-+5V（电池正极），黄线-Arduino跳线D10<br />
+● 再来一个3针右转接头，这个是接超声波探头的，接线规则为黑线-GND（地线，电池负极），红线-+5V（电池正极），黄线-Arduino跳线D9</p>
+<p><strong>7.2 测试舵机和超声波探头</strong></p>
+<p>● 运行舵机对中程序03_Test_Servo_Center，松开舵机摇臂的螺丝并微调，舵机臂与超声传感器尽量指向正前，因为舵机轴齿轮的问题，这一步可能无法完全对中，没关系，我们稍后再调整<br />
+● 运行程序04_Test_Servo_Sweep，这个程序可以让超声波探头慢慢的摇头<br />
+● 再来测试超声波探头，运行05_Test_Sensor_Distance，点击Arduino软件的数据流监视器图标，你应该能看到不断跳出来的测距读数，而且如果你在传感器之前挥舞你的手，测距读数应该有变化。如果你得到的读数始终是0或者255厘米或者别的什么错误的读数，检查你的接线是否有误，并且千万确定你的传感器没接反 ：P</p>
+<p><strong>7.3 安装开关</strong></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1eurt9rkq6xj30gg0cct9g.jpg" /></p>
+<p>● 终于可以接电源开关鸟！把Arduino最后一次拆出来，为了装开关，需要把还没用到的电池引线的红线焊在开关的一端并且把另一跟红线焊在开关的另一端。同样别忘了把电池的黑色引线和另一个根黑线焊在一起<br />
+● 把线从机器人侧面的方形孔穿好，开关需要打在“1”的档位上，把开关塞进方孔里固定好，这个调整可能会用到钳子<br />
+● 把从开关出来的红色线脚接到原型板的RAW线脚上（这个线脚还连着Arduino的Vin线脚），把从电池出来的黑色线接到原型板的GND线脚上，如果你用的是Diecimila版本的话，把它的电源跳线调回到EXT档上</p>
+<p><strong>8 系统测试</strong></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1eurt9vekpmj30gg0cct9i.jpg" /></p>
+<div>● 现在所有的电子设备工作都正常鸟，小心的把所有东西塞回机器人里，啥也别落下。装好电池，把机器人放好，别摔了。用来传程序的USB接口应该能从侧面的孔里露出来</div>
+<div>● 重新载入并运行01_Test_Motor_Rotation，注意，所谓前是指机器人的USB接口和传感器指向的方向，如果你的机器人反着跑，检查在线脚AOut1, AOut2, BOut1, BOut2, AIn1, AIn2, BIn1, 和 BIn2处的接线，可能也会需要反转驱动电机的连接</div>
+<div></div>
+<div> <img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1eurt9p2qbkj30gg0cc3z9.jpg" /></div>
+<div></div>
+<div>
+<p>● 重新运行其他的测试程序，确认接线正常，测试完成后把舵机和传感器的线塞进外壳里，扣上顶盖，拧上4个螺丝固定，收工！</p>
+<p>&nbsp;</p>
+<p><strong>9 给你的WALL·E注入灵魂</strong></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1eurt9c9mvuj30gg0ccwf9.jpg" /></p>
+<p>● 有时候你的硬件做好了你就没啥事可干了，不过你的程序是写不完滴。这也是你展示创造力的好时机<br />
+● 在代码中你需要使用digitalWrite和analogWrite这俩函数来控制驱动电机，通过传递值给电机驱动器的各3个线脚。其中一个可以接收介于0到255之间的值，用于控制传给电机的电流大小，这个是用来控制速度的。另外2个线脚则使用布尔型变量，用于决定每个电机两端的电位高低，这个可以决定电机的方向（当然电机两端只能一端是高电位）<br />
+● 你可以编写类似void Forward()这样的函数实现简单的动作，比如后退（两个电机同时反转），Spin_Left（原地左转，右轮正转左轮反转），Arc_Left（画弧左转，右轮正转左轮不动）之类的。Arduino的编程环境使你的代码实验和加载都很方便<br />
+● 另外一个好玩的事情是规避障碍，只要运行这样一个循环：往前走，读取测距信息，如果障碍物太近则采取躲避动作比如后退并转弯，返回循环体头部</p>
+<p><strong>10 关于Mini-Sumo（迷你相扑）比赛</strong></p>
+<p>● 在 Mini-Sumo 比赛中，两个自主机器人会被放置在一个用白色漆成的圆形场地中<br />
+● 只要换上窄一些的轮子，比如GM家卖的 这种 ，Makey就可以满足大赛要求的尺寸和重量上限：底面10厘米见方、500克。你极有可能需要另外的朝下的传感器用来观察那个白色的环（场地边界），不过Arduino有足够的能力处理其他多出来的信号</p>
+<p><strong>11 DIYer签到处</strong></p>
+<p>虽然这个项目很困难，不过也不是完全不能做。如果哪位蛋疼的同学把它做出来了&#8230;应该会很愿意在这里秀出来让大家围观吧&#8230;</p>
+<p>&nbsp;</p>
+<p><strong>制作视频：</strong></p>
+<p><object width="560" height="450" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" align="middle"><param name="src" value="http://static.video.qq.com/TPout.swf?vid=o0161b6lxjw" /><param name="allowfullscreen" value="true" /><param name="quality" value="high" /><param name="allowscriptaccess" value="always" /><embed width="560" height="450" type="application/x-shockwave-flash" src="http://static.video.qq.com/TPout.swf?vid=o0161b6lxjw" allowfullscreen="true" quality="high" allowscriptaccess="always" align="middle" /></object></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><a href="http://www.geekfan.net/13924/">自主机器人：你的私人WALL·E</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></content:encoded>
+			<wfw:commentRss>http://www.geekfan.net/13924/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>牛人自制加特林水枪，让你度过丧心病狂的夏天</title>
+		<link>http://www.geekfan.net/13900/</link>
+		<comments>http://www.geekfan.net/13900/#comments</comments>
+		<pubDate>Tue, 04 Aug 2015 09:08:52 +0000</pubDate>
+		<dc:creator>崔伟健</dc:creator>
+				<category><![CDATA[创意]]></category>
+		<category><![CDATA[枪]]></category>
+		<category><![CDATA[激光切割]]></category>
+		<category><![CDATA[玩具]]></category>
+
+		<guid isPermaLink="false">http://www.geekfan.net/?p=13900</guid>
+		<description><![CDATA[<p>夏季的疯狂离不开水枪，我们要做一支史无前例的、帅到没边的加特林水枪，废话略，开始吧。</p><p><a href="http://www.geekfan.net/13900/">牛人自制加特林水枪，让你度过丧心病狂的夏天</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euqnqiudtfj30sg0fgjtj.jpg" /></p>
+<p>（该项目来源于instractables，<a href="http://www.instructables.com/id/Sugrus-Rainbow-Gatling-Water-Pistol/step5/Design-a-custom-sugru-grip/" target="_blank">原文链接在这里</a>，作者：projectsugru。该项目各步骤主要展示Sugru凝胶（或者是某特种粘土，本文统一译为Sugru凝胶）的应用，对加特林水枪的制作过程没有记录，但文后给出了各零件的图纸，相信DIY达人还是能搞定的。）</p>
+<p>夏季的疯狂离不开水枪，我们要做一支史无前例的、帅到没边的加特林水枪，废话略，开始吧。</p>
+<p>&nbsp;</p>
+<div>
+<h4><strong>Step 1： 制作活塞</strong></h4>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euqonsgmbej30gw0e0gp0.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euqoo053cij30gr0h4gqd.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euqoo23mz9j30gu02xjs2.jpg" /></p>
+<p>本步骤器件清单</p>
+<p>PVC管一段，特种粘接剂（两种颜色，名为Sugru，以下称Sugru凝胶），锯子、夹具、锤子、雕刻工具和一杯肥皂水。</p>
+<p>步骤：</p>
+<p>1、用夹具夹住PVC管，锯下需要的长度（我用了2.5cm长）；</p>
+<p>2、将肥皂水涂在工作台面上（防止Sugru凝胶粘在台面上）；</p>
+<p>3、打开两小包同色Sugru凝胶并混合，把Sugru凝胶填充进刚切下的管子里，要完全塞满；</p>
+<p>4、放置24小时让Sugru凝胶固化；</p>
+<p>5、Sugru凝胶凝固后，将这段管子纵向置于夹具中，把PVC管切开小口（注意不要切到里面的Sugru凝胶）；</p>
+<p>6、用锤子敲击这段管子，直到把外面的PVC管敲破，得到一段圆柱形Sugru凝胶；</p>
+<p>7、用雕刻工具加工圆柱凝胶两端，去掉部分材料，这有助于让活塞更湿软；</p>
+<p>8、在这小段Sugru凝胶圆柱中部，沿周向雕刻环形凹槽；</p>
+<p>9、打开第3包Sugru凝胶，滚成细长条并填充在上一步做成的凹槽上，注意让环状填充物的周长略大于Sugru凝胶圆柱，并放置24小时；</p>
+<p>10、固化后，就得到一段活塞了，可以把它浸入肥皂水中。</p>
+<p>&nbsp;</p>
+<h4><strong>Step 2： 做Sugru凝胶注射器</strong></h4>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euqoo7nsxbj30gr0du77j.jpg" /></p>
+<p>&nbsp;</p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euqoobq8vxj30go0ccmz3.jpg" /></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euqooff27tj30gu09576a.jpg" /></p>
+<p><a>本步骤器件清单</a></p>
+<p>Sugru凝胶一小包、壁纸刀、可弯曲的塑料管/软管、金属杆（或适合把Sugru凝胶推入管子的东西）、X2金属连接件、螺丝刀。</p>
+<p>步骤：</p>
+<p>1、用壁纸刀切下一段塑料管子（我们切了4cm长）；</p>
+<p>2、打开一小包Sugru凝胶，用手指捏成条状（享受这种感觉吧）；</p>
+<p>3、继续将Sugru凝胶滚成细长条；</p>
+<p>4、用金属杆把Sugru凝胶推入塑料管子，从管子的两端推Sugru凝胶，确保Sugru凝胶塞满管子正中，两端留出1cm的空管子，静置24小时；</p>
+<p>5、固化后，在Sugru凝胶中心钻通孔，孔径按你的需要确定即可；</p>
+<p>6、在这段塑料管子外套上金属连接件。</p>
+<p>Ok，Sugru凝胶注射装置就搞定了。</p>
+<p>&nbsp;</p>
+<h4><strong>Step 3： Sugru凝胶绝缘开关</strong></h4>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euqookcdhdj30gw0dw772.jpg" /></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euqoooexwwj30gp0cbwgg.jpg" /></p>
+<p>本步骤器件清单</p>
+<p>Sugru凝胶一小包，漆包线，电烙铁和焊丝。</p>
+<p>步骤：</p>
+<p>1、用蓝色交联剂将用到的漆包线固定在恰当位置。</p>
+<p>2、预热电烙铁，把两条线焊在合适的位置，确保焊点牢固。</p>
+<p>3、取少许Sugru凝胶涂在焊点上，抹平，塑形。</p>
+<p>4、放置24小时固化。</p>
+<p>&nbsp;</p>
+<h4><strong>Step 4： 用Sugru凝胶连接和密封几段管子</strong></h4>
+<p>&nbsp;</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euqoospjphj30gv0cwjtp.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euqoowq89mj30gr0cdjtl.jpg" /></p>
+<div>
+<p>本步骤器件清单</p>
+<p>Sugru凝胶一小包，各种需要的管子（粗管、细管、渐缩管）。</p>
+<p>步骤</p>
+<p>1、摊开并排好所需零件。</p>
+<p>2、用渐缩管连接管子。</p>
+<p>3、将Sugru凝胶涂于连接处，注意Sugru凝胶必须完全覆盖连接点并超出连接部分，这样才能提供足够的结构支撑。</p>
+<p>4、抹平Sugru凝胶并放置24小时固化。</p>
+<p>&nbsp;</p>
+<h4><strong>Step 5： 定制Sugru凝胶手柄</strong></h4>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euqop2yqzoj30gp0h2gpa.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euqop5mjtbj30go08yjse.jpg" /></p>
+<div>
+<p>本步骤器件清单</p>
+<p>Sugru凝胶4-5小包，手柄。</p>
+<p>步骤</p>
+<p>1、打开一小包Sugru凝胶，润湿，让它软化。</p>
+<p>2、从手柄底部开始涂抹Sugru凝胶（不够再开一包）。</p>
+<p>3、继续一点一点地覆盖手柄，确保Sugru凝胶连成一片，完全覆盖了手柄表面。</p>
+<p>4、手柄全部覆盖后，可以考虑用嵌入另一种材料的方法给手柄加纹理，我使用了背包带，你也来点创意吧，比如有人用海绵、牙刷，甚至橘子。</p>
+<p>5、在Sugru凝胶固化前（从开包到开始固化，有30分钟时间），还可以用力抓握手柄，这样可以印出个性化的抓握痕迹。</p>
+<p>&nbsp;</p>
+<h4><strong>Step 6： 用Sugru凝胶做护边</strong></h4>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euqopcxunsj30gu0h2wj1.jpg" /></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euqopgovshj30gq08zjt8.jpg" /></p>
+<div>
+<div>
+<p>本步骤器件清单</p>
+<p>Sugru凝胶1小包（实际只需要半包就可以保护每根管子）。</p>
+<p>步骤</p>
+<p>1、打开一小包Sugru凝胶，润湿。</p>
+<p>2、取一半，并滚成两个等大的小球。</p>
+<p>3、在金属碟尖锐处敷上Sugru凝胶。</p>
+<p>4、塑形、平滑Sugru凝胶，确保管子连接正常，放置6小时固化。</p>
+<p>5、检查管子和槽孔的配合，注意，如果Sugru凝胶使用过多，可以用壁纸刀在固化前切一点下来，如果Sugru凝胶用得太少，因为Sugru凝胶的粘连性很好，所以只要再加一层就好。</p>
+</div>
+</div>
+<div></div>
+<h4><strong>Step 7： 用Sugru凝胶固定松动部件</strong></h4>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euqopllbcoj30gs0dw41e.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euqopq2mqkj30gn0c776n.jpg" /></p>
+<h4><strong>Step 8： 激光切割件的Dxf和Pdf文件</strong></h4>
+<div>
+<div>
+<p>这把水枪制作周期长（超过60小时的团队工作量，还有许多无法入眠的夜晚），我们没有记录下全部过程。</p>
+<p>实际制作这个大杀器是件令人兴奋的事情，Dxf文件给出了该项目中各组件的激光切割模型，请在这里下载，Pdf文件仅供快速预览，可以在这里下载。</p>
+<p>文件的比例是1：1，铝合金零件厚4mm，不锈钢零件厚3mm。</p>
+<p>相信这些文件能给你更高的起点。</p>
+</div>
+<div></div>
+<h4>附件：</h4>
+<div>
+<p><a href="http://7xic5x.com2.z0.glb.qiniucdn.com/Ft4ZSjfr1NjVfxOjLQzzMQm98SrZ.DXF?download/3mm%20stainless%20steel%20V2.DXF" target="_blank">3mm stainless steel V2.DXF</a></p>
+<p><a href="http://7xic5x.com2.z0.glb.qiniucdn.com/FgVaGiea0fyQt9MfgkhajEG0EXrf.PDF?download/3mm%20stainless%20steel%20V2.PDF" target="_blank">3mm stainless steel V2.PDF</a></p>
+<p><a href="http://7xic5x.com2.z0.glb.qiniucdn.com/FhYNCjbpy4XmfVwLB9lQqU2uTYpK.dxf?download/4mm%20aluminiumV2.dxf" target="_blank">4mm aluminiumV2.dxf</a></p>
+<p><a href="http://7xic5x.com2.z0.glb.qiniucdn.com/FqsTW0kmf3wXjqB8biFRJ9-gUExq.PDF?download/4mm%20aluminiumV2.PDF" target="_blank">4mm aluminiumV2.PDF</a></p>
+<p><a href="http://7xic5x.com2.z0.glb.qiniucdn.com/Fl9Otda5asBekzRpFQX8d02BTl_e.PDF?download/V2.ISO.PDF" target="_blank">V2.ISO.PDF</a></p>
+<p><a href="http://7xic5x.com2.z0.glb.qiniucdn.com/Fn_o0W945Cqk8q5mPtTlAzwUGIfJ.PDF?download/V2PARTS.PDF" target="_blank">V2PARTS.PDF</a></p>
+<p>&nbsp;</p>
+<p>视频   <object width="420" height="363"><param name="movie" value="http://www.tudou.com/v/wXJy7zusJ-k"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="never"></param><param name="allownetworking" value="internal"></param><param name="flashvars" value="" /><embed src="http://www.tudou.com/v/wXJy7zusJ-k" type="application/x-shockwave-flash" allowscriptaccess="never" allownetworking="internal" allowfullscreen="true" width="420" height="363" flashvars=""></embed></object>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><a href="http://www.geekfan.net/13900/">牛人自制加特林水枪，让你度过丧心病狂的夏天</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></content:encoded>
+			<wfw:commentRss>http://www.geekfan.net/13900/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>自制拉风电动滑板，回头率太高有点不习惯</title>
+		<link>http://www.geekfan.net/13876/</link>
+		<comments>http://www.geekfan.net/13876/#comments</comments>
+		<pubDate>Tue, 04 Aug 2015 07:47:59 +0000</pubDate>
+		<dc:creator>崔伟健</dc:creator>
+				<category><![CDATA[创意]]></category>
+		<category><![CDATA[两轮滑板]]></category>
+		<category><![CDATA[活力板]]></category>
+		<category><![CDATA[电动板]]></category>
+
+		<guid isPermaLink="false">http://www.geekfan.net/?p=13876</guid>
+		<description><![CDATA[<p>创意是参照了@动力老男孩的一篇文章，最初的想法是DIY一个可穿戴的动力轮，像鞋子一样穿在脚上，不用的时候可以自动折叠收在小腿和膝盖处，用的时候可以伸张成轮子电力驱动快速前进，有点像哪吒的风火轮。后来发现水平极其有限，买了很多零件设备却做不出个所以然。有天在网上看到动力老男孩的视频是把活力板改装成动力滑板，觉得我所有的材料都有了，就是差一块活力板了，于是速上某宝买了一块。</p><p><a href="http://www.geekfan.net/13876/">自制拉风电动滑板，回头率太高有点不习惯</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></description>
+				<content:encoded><![CDATA[<p>创意是参照了@动力老男孩的一篇文章，最初的想法是DIY一个可穿戴的动力轮，像鞋子一样穿在脚上，不用的时候可以自动折叠收在小腿和膝盖处，用的时候可以伸张成轮子电力驱动快速前进，有点像哪吒的风火轮，主要是受《变形金刚》和《钢铁侠》两部电影毒害太深。后来发现水平极其有限，买了很多零件设备却做不出个所以然，东西都搁置在一边大半年。有天在网上看到动力老男孩的视频是把活力板改装成动力滑板，觉得我所有的材料都有了，就是差一块活力板了，于是速上某宝买了一块。然后就是水到渠成了。</p>
+<p>废话不多说，下面上图，有的细节就省掉了</p>
+<p>铝合金活力板，6寸皮带轮，皮带，120W有刷电机，控制器，安装支架，万向轮4寸</p>
+<p>电池，遥控车手柄，铝盒。这些材料都是网上淘的，如下图：</p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euqlyyf0i7j30fm0bq0tf.jpg" /></p>
+<p>1，活力板直接卸掉原来的轮座。</p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euqlyzby3bj30ez0b8jru.jpg" /></p>
+<p>2，前轮用4寸的万向轮代替，万向轮的安装孔距（75*45）与活力板（65*35）的不一致，需要自己重新开孔对位，有点麻烦，不过也就是几分钟的事情，开孔搞定。</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euqlz1q625j30b607gt9l.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euqlz2lhstj30bx08ygls.jpg" /></p>
+<p>3，后轮找不到合适的支架，直接买了铝合金自己开孔加工的，这个花了两三天时间，因为要同时考虑电机、后轮、皮带和齿轮的重合，肯定要在一条线上面了，不然跑着跑着皮带跑偏掉链子了。电机架是用50*50的角铝做的，后轮支架用的是40*80*40的槽铝与铝排用螺丝铆合，图纸如下。图纸设计好后加工就容易了，手钻定好位，直接开孔就好，把握好力度不要打偏了就行。</p>
+<p>电机架</p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euqlz4nkgqj30f707gwfc.jpg" /></p>
+<p>后轮结构</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euqlz5bb0kj305s05ygli.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euqlz5xbo2j304n05ydfn.jpg" /></p>
+<p>4，duang，后轮和电机的安装就搞定了</p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euqlzcina5j30h20ck77t.jpg" /></p>
+<p>机械结构主要工程完工，下面搞控制器。</p>
+<p>5，控制器、电池和保护板都是网上买的，根据要求设计尺寸，然后点焊成2并7串，钴酸锂电池29.4V，刚刚配24V的电机，加上均衡充保护板，与控制器一起安装在铝盒里面，然后外接了航空接头和充电口。具体步骤省略，九芯航空接头是为了方便控制手柄接入，引出控制器的速度控制，开关，电量显示，刹车一共9条线，有三条是GND可以共用，其实七芯就可以了。</p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euqm5dh38aj307a05h0sl.jpg" /></p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euqm5e5dbsj307c05ja9z.jpg" /></p>
+<p><img alt="" src="http://ww3.sinaimg.cn/mw690/0064cTs2jw1euqm5gp3p4j30ec05hwfg.jpg" /></p>
+<p>6，为了降低成本，没有使用无线控制，本人对无线控制接收也是一无所知，所以使用传统的有线手柄。控制手柄纯手工打造了，将玩具枪里面的扳机改造了一下，在扳机上加上两颗钕铁硼磁石，在两颗磁铁活动范围中心位置固定霍尔元件。原理跟电动车手把是一样的，转把里有一个感应磁力线大小的线性霍尔元件，手柄里还有两块磁铁，扳机转动磁铁也跟着转动，霍尔感应到磁力信号 就给控制器发出信号，从而控制电机转速。刹车也是改动了扳机，扳机往前推的时候触碰到一个非自锁开关，就能刹车，松开后开关会复位。另外在玩具枪上加上一个拨动开关控制总电源。电量显示还没想好怎么接，先预留着。</p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euqm5hiridj309m077wej.jpg" /></p>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw690/0064cTs2jw1euqm5i9wusj305d075jrb.jpg" /></p>
+<p><img alt="" src="http://ww2.sinaimg.cn/mw690/0064cTs2jw1euqm5mxqh5j30f70am0ux.jpg" /></p>
+<p>7，续航里程8~12km，最大速度18km/h，总重6kg，比网上销售的400RMB左右的铅酸滑板车行程要远，毕竟是锂电池的，动力比起铅酸也有力一些，另外楼主75kg，里程跟使用者体重也有关系吧。总成本在400元左右，忽略某些零件的邮费成本，因为某些零件比邮费还便宜，有兴趣的朋友自己DIY一台吧。</p>
+<p><img alt="" src="http://ww1.sinaimg.cn/mw690/0064cTs2jw1euqm6y9ww4g308e08fqv7.gif" /></p>
+<p>开出去还是挺拉风的，回头率高了有点不习惯。不过要说明的是由于前轮的直径只有100mm,所以如果路不是很平整的话最好不使用，一个是会颠簸的厉害，另外如果前轮被阻了因为重心比较高很容易摔跤的。玩过滑板的都知道，所以最好在柏油路或者在水泥路面上使用，另外要求路上车少人少最好。</p>
+<p>元件清单</p>
+<div>
+<table>
+<tbody>
+<tr>
+<td>序号</td>
+<td>物料名称</td>
+<td>规格</td>
+<td>数量</td>
+</tr>
+<tr>
+<td>1</td>
+<td>面板</td>
+<td>21*85</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>后轮</td>
+<td>138*24皮带轮</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>槽铝</td>
+<td>40*80*4*80</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>铝板</td>
+<td>100*40*4</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>轴承</td>
+<td>8*100mm</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>后轮皮带调节器</td>
+<td>通用</td>
+<td>1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>后轮槽铝螺丝</td>
+<td>M6*8内六角</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8</td>
+<td>后轮架螺丝</td>
+<td>M5*10内六角</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>后轮架铆合螺母</td>
+<td>M5</td>
+<td>8</td>
+</tr>
+<tr>
+<td>10</td>
+<td>前轮</td>
+<td>4寸PU轮</td>
+<td>1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>前轮架</td>
+<td>75*45,130mm</td>
+<td>1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>前轮螺丝</td>
+<td>M6*30内六角</td>
+<td>4</td>
+</tr>
+<tr>
+<td>13</td>
+<td>垫圈</td>
+<td>M6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>14</td>
+<td>前轮减震弹簧</td>
+<td>D20*20</td>
+<td>4</td>
+</tr>
+<tr>
+<td>15</td>
+<td>皮带</td>
+<td>15*420</td>
+<td>1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>电机</td>
+<td>100W 24V 5A</td>
+<td>1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>电机齿轮</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>18</td>
+<td>电机螺丝</td>
+<td>M5</td>
+<td>2</td>
+</tr>
+<tr>
+<td>19</td>
+<td>电机架锁紧螺丝</td>
+<td>M6*8内六角</td>
+<td>4</td>
+</tr>
+<tr>
+<td>20</td>
+<td>电机架（角铝）</td>
+<td>50*50*3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21</td>
+<td>铝壳</td>
+<td>106*100*60</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22</td>
+<td>铝壳螺丝</td>
+<td>自带</td>
+<td>8</td>
+</tr>
+<tr>
+<td>23</td>
+<td>铝壳固定螺丝</td>
+<td>M6*8内六角</td>
+<td>4</td>
+</tr>
+<tr>
+<td>24</td>
+<td>控制器</td>
+<td>100W</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25</td>
+<td>电池</td>
+<td>钴酸锂18650</td>
+<td>14</td>
+</tr>
+<tr>
+<td>26</td>
+<td>保护板</td>
+<td>2并7串</td>
+<td>1</td>
+</tr>
+<tr>
+<td>27</td>
+<td>热缩管</td>
+<td></td>
+<td>若干</td>
+</tr>
+<tr>
+<td>28</td>
+<td>插簧</td>
+<td>6mm</td>
+<td>2</td>
+</tr>
+<tr>
+<td>29</td>
+<td>接线端子1</td>
+<td>VH3.96-3P 手把</td>
+<td>1</td>
+</tr>
+<tr>
+<td>30</td>
+<td>接线端子2</td>
+<td>VH3.96-2P 刹车</td>
+<td>1</td>
+</tr>
+<tr>
+<td>31</td>
+<td>接线端子3</td>
+<td>VH3.96-2P 开关</td>
+<td>1</td>
+</tr>
+<tr>
+<td>32</td>
+<td>接线端子4</td>
+<td>VH3.96-2P 充电口</td>
+<td>1</td>
+</tr>
+<tr>
+<td>33</td>
+<td>电子线</td>
+<td></td>
+<td>若干</td>
+</tr>
+<tr>
+<td>34</td>
+<td>充电接口</td>
+<td>DC-2.5-2.1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>35</td>
+<td>充电器</td>
+<td>24V 1.8A</td>
+<td>1</td>
+</tr>
+<tr>
+<td>37</td>
+<td>九芯航空插头</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>38</td>
+<td>九芯航空线</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>39</td>
+<td>遥控车手柄</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>41</td>
+<td>电压显示</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>42</td>
+<td>开关</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>43</td>
+<td>触动开关（刹车）</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>44</td>
+<td>胶水</td>
+<td></td>
+<td>若干</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>视频：<object width="480" height="400"><param name="movie" value="http://player.youku.com/player.php/sid/XMTI3MTU1MzIwNA/v.swf"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="never"></param><param name="allownetworking" value="internal"></param><param name="flashvars" value="isShowRelatedVideo=false&showAd=0&show_pre=1&show_next=1&isAutoPlay=false&isDebug=false&UserID=&winType=interior&playMovie=true&MMControl=false&MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,2001,3001,3002,3003,3004,3005,3007,3008,9999" /><embed src="http://player.youku.com/player.php/sid/XMTI3MTU1MzIwNA/v.swf" type="application/x-shockwave-flash" allowscriptaccess="never" allownetworking="internal" allowfullscreen="true" width="480" height="400" flashvars="isShowRelatedVideo=false&showAd=0&show_pre=1&show_next=1&isAutoPlay=false&isDebug=false&UserID=&winType=interior&playMovie=true&MMControl=false&MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,2001,3001,3002,3003,3004,3005,3007,3008,9999"></embed></object>
+<p><a href="http://www.geekfan.net/13876/">自制拉风电动滑板，回头率太高有点不习惯</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></content:encoded>
+			<wfw:commentRss>http://www.geekfan.net/13876/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>人人都能玩航拍 手把手教你装4轴</title>
+		<link>http://www.geekfan.net/13847/</link>
+		<comments>http://www.geekfan.net/13847/#comments</comments>
+		<pubDate>Tue, 21 Apr 2015 02:49:50 +0000</pubDate>
+		<dc:creator>吴思俊</dc:creator>
+				<category><![CDATA[硬件]]></category>
+		<category><![CDATA[4轴飞行器]]></category>
+		<category><![CDATA[航拍]]></category>
+
+		<guid isPermaLink="false">http://www.geekfan.net/?p=13847</guid>
+		<description><![CDATA[<p>4轴飞行器的基本配件由机架、电池、电机、电调、飞控、螺旋桨、遥控器、拍摄相机（gopro、摄像头、微单等）组成，原理为遥控器发射遥控型号，遥控接 收器收到信号传输给飞控（飞行控制器，等同于电脑的主板），飞控将遥控信号转化传输给电调，电调调节不同电机的供电电流以控制螺旋桨的旋转速度从而完成前 后左右，高低上下的飞行动作，而电池负责供电，机架将所有的零件攥在一起,这样飞行器就能带拍摄机器完成在空中的各种拍摄需求。</p><p><a href="http://www.geekfan.net/13847/">人人都能玩航拍 手把手教你装4轴</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></description>
+				<content:encoded><![CDATA[<p><img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercymy4tcuj20rs0iijz0.jpg" /></p>
+<p>身处浩瀚的影像横流，作为一名影像编辑当然看惯了人体大妞、风光美景、人文纪实，面对雷同的构图和取景显然新潮的拍摄手法和技巧更能吸引我的眼球，而当某日看到乔岩老师剪辑的航拍作品，让我深深沦陷，从此欲罢不能。废话不多说，看视频才是要紧事。</p>
+<object width="480" height="400"><param name="movie" value="http://player.youku.com/player.php/sid/XNjExMjc1NjEy/v.swf"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="never"></param><param name="allownetworking" value="internal"></param><param name="flashvars" value="isShowRelatedVideo=false&showAd=0&show_pre=1&show_next=1&isAutoPlay=false&isDebug=false&UserID=&winType=interior&playMovie=true&MMControl=false&MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,2001,3001,3002,3003,3004,3005,3007,3008,9999" /><embed src="http://player.youku.com/player.php/sid/XNjExMjc1NjEy/v.swf" type="application/x-shockwave-flash" allowscriptaccess="never" allownetworking="internal" allowfullscreen="true" width="480" height="400" flashvars="isShowRelatedVideo=false&showAd=0&show_pre=1&show_next=1&isAutoPlay=false&isDebug=false&UserID=&winType=interior&playMovie=true&MMControl=false&MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,2001,3001,3002,3003,3004,3005,3007,3008,9999"></embed></object>
+<p>视频来源：《旅游卫视》乔岩 我相信当看到这段视频你也会如我一样震撼，震撼于这段电影感十足的短片拍摄器材仅仅是一个多轴飞行器的。当然如果你看到此处觉得航拍是你想涉及和感兴趣的 领域那么尽情的往下看，如果并非兴趣所在请绕道，毕竟接下来的故事需要一定的学习能力、理解能力和动手能力。 既然多轴飞行器能拍出这么专业的视频，土豪们会毫不在乎的说那买一个不就完了，其实并非如此，6轴飞行器的成品机造价动辄数万元到数十万元不等，而操控也 是个技术活，玩航模的都知道不摔个几次，不坏个几台机器（炸机）想要操控自如谈何容易，所以你还会轻易的任数万元人民币在天上飘来飘去吗？</p>
+<p>经过数日的研究购买了零件图并变成了整机图</p>
+<p><img id="bigImg" alt="" src="http://ww2.sinaimg.cn/mw690/6855e771gw1ercyon7e6bj20sg0sgn0p.jpg" /></p>
+<p>经过数日的研究最终飞机可以飞了，而它的造价仅仅2000余元.</p>
+<p>当然土豪有土豪的玩法，屌丝有屌丝的办法。作为苦逼的互联网编辑，靠工资买个近10万元的6轴飞行器我已经无力吐槽，献血卖肾也并不是明智之举，本来就 亏不是。既然不能一步到位，那我只能脚踏实地从几千元的组装4轴开始，搭载运动摄像机Gopro的拍摄效果虽说不比专业6轴细致震撼，却也能满足一般所 需。(任何四轴及航拍方面的问题可通过新浪微博 @子心昭然 进行交流） <strong> 四轴组装基本原理和零件选购</strong> 1、4轴飞行器原理和组成： 虽然看似神通广大的高科技产品，其实原理非常非常简单，而所需的零件在某宝上完全可以买到，只需要把他们有序的组装起来，并保障起正常运转。玩转航拍并不再是一个遥不可及的梦想，只要动手就变的容易实现.</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyo3bs4bj20rs0j7ane.jpg" /></p>
+<p>我购买的组装四轴用的配件</p>
+<p>4轴飞行器的基本配件由机架、电池、电机、电调、飞控、螺旋桨、遥控器、拍摄相机 （gopro、摄像头、微单等）组成，原理为遥控器发射遥控型号，遥控接 收器收到信号传输给飞控（飞行控制器，等同于电脑的主板），飞控将遥控信号转化传输给电调，电调调节不同电机的供电电流以控制螺旋桨的旋转速度从而完成前 后左右，高低上下的飞行动作，而电池负责供电，机架将所有的零件攥在一起,这样飞行器就能带拍摄机器完成在空中的各种拍摄需求。</p>
+<p>2、如何选购机架：</p>
+<p>搞清楚所需配件和基本原理，接下来的事情就变得目标明确且容易执行。第一步在某宝上购买好配件，原则上只要你够NB，所有需要的东西你都可以通过原始材料 做出来，我就目睹过很多牛人自己做机架、绕电机、烧录飞控板等等.考虑到时间成本和性价比，购买基础零件才是我最为理想的选择。</p>
+<p><img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercyn4z62aj20rs0igq9i.jpg" /></p>
+<p>DJI F450机架，200元购入</p>
+<p><img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercyn6yrc4j20rs0imdni.jpg" /></p>
+<p>机架2根红色2根白色方便区分机头</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyna2orsj20rs0j6486.jpg" /></p>
+<p>集成PCB电路板</p>
+<p>至于4轴的机架说白了就是类似于宽高相等的十字架，理论上讲只要4个螺旋桨不打架就可以了，但考虑到螺旋桨之间因为旋转产生的乱流互相影响，建议还是不要 太近，否则影响效率。大疆F450是4轴常用机架，某宝上正品价格大概是200左右，山寨机架根据质量几十元到上百不等，好多模友说山寨太软、易摔坏，最 终我选择了DJI正品.</p>
+<p>3、如何选购电机：</p>
+<p>如果玩过遥控飞机、遥控汽车的人对于电机并不陌生，有无刷电机和有刷电机之分。电动航模飞机一般采用无刷电机做动力，无刷电机相对有刷电机寿命更长、性能更稳定。</p>
+<p><img id="bigImg" alt="" src="http://ww1.sinaimg.cn/mw690/6855e771gw1ercyni8bc2j20rs0j3jzj.jpg" /></p>
+<p>朗宇无刷电机4个，单价109元</p>
+<p>无刷电机型号标称没有一个统一标准，目前比较通用的一种是内径标识法，即标识电机外转子内 径，从一定程度上能够表明电机的线圈直径和匝数。经常看人说什么 2212电机，2018电机等等，其实就是电机的尺寸，不管什么牌子的电机，具体都要对应4位这类数字，其中前面2位是电机转子的直径，后面2位是电机转 子的高度。简单来说，前面2位越大、电机越肥，后面2位越大、电机越高。 又高又大的电机，功率就更大，适合做大四轴，通常2212电机是最常见的配置。国产电机品牌新西达、朗宇等是性价比较高的电机品牌，新手用足够了。</p>
+<p><img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercynkssidj20rs0k9ak0.jpg" /></p>
+<p>朗宇2216 880KV电机</p>
+<p>一般电机会标识KV值，如“新西达2212 1400KV”，KV值是电机输入电压每提高1v,电机空载转速提高的量。1400KV即说明电机空载情况下，加1V电压，转速为每分钟1400转，2V 电压每分钟2800转，依此类推。同型号电机（比如都是2212）低KV值比高KV值的提供的扭力大，类似于汽车1档的速度虽然慢，但是爬坡更容易。但是 低KV值需要配大桨，很多机型都不适合，会造成严重的反扭现象。 4轴2212 980KV、2212 1400KV是常用配置，最终我买了4个朗宇2216 880KV的电机。</p>
+<p>4、如何选购电调：</p>
+<p>电调全称电子调速器，针对电机不同，可分为有刷电子调速器和无刷电子调速器。它根据控制信号 调节电动机的转速。简单来讲它的功能是将电池的直流电转化为三 项交流电，并按照接收机的指令调整供给电机的电压，实现电机转速可控。因为电机的电流很大，通常每个电机正常工作时，平均有3A左右的电流，如果没有电调 的存在，飞控板根本无法承受这样大的电流（另外也没驱动无刷电机的功能）。同时电调在四轴当中还充当了电压变化器的作用，将11.1v的电压变为低电压为 飞控板和遥控器供电。</p>
+<p><img id="bigImg" alt="" src="http://ww2.sinaimg.cn/mw690/6855e771gw1ercyncjjvqj20rs0iwaix.jpg" /></p>
+<p>天行者电调4个，单价58元</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercynf10gfj20rs0j0k20.jpg" /></p>
+<p>天行者40A电调</p>
+<p>电调都会标上多少A，如20a，40a 这个数字就是电调能够提供的电流。大电流的电调可以兼容用在小电流的地方，小电流电调不能超标使用。常见新西达2212加1045浆最大电机电流有可能达 到了5a，为了保险起见，建议这样配置用20a 或 40a电调。常见的有好盈、中特威、新西达等品牌，我选购的是好盈40a.</p>
+<p>5、如何选购电池和充电器：</p>
+<p>由于同样的电池容量锂电最轻，起飞效率最高，所以电池一般使用锂聚合物电池，锂聚合物电池单 片电压为3.7V，两片或三片串联得到的电压即为上面说到的 7.4V或者11.1V。mah表示电池容量，如1000mah电池，即如果以1000ma放电，可持续放电1小时。如果以500mh放电，可以持续放电 2小时。</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercynn2lq3j20rs0j4gsa.jpg" /></p>
+<p>花牌聚合物动力电池，235元购入</p>
+<p><img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercynp869zj20rs0j5ait.jpg" /></p>
+<p>花牌5100mAh 25C</p>
+<p>在实际选购过程中电池后面有2S、3S、5C等字样，S代表锂电池的节数，锂电池1节标准电 压为3.7v，那么3S电池，就是代表有3个3.7v电池在里 面，电压为11.1v。C代表电池放电能力，这是普通锂电池和动力锂电池最重要区别，动力锂电池需要很大电流放电，这个放电能力就是C来表示。如 1000mah电池标准为5c，那么用5x1000mah，得出电池可以以5000mh的电流强度放电。这很重要，如果用低C的电池，大电流放电，电池会 迅速损坏，甚至自燃。与上面的C一样，多少C快充即快速充电的能力，如1000mah电池，2C快充，就代表可以用2000ma的电流来充电。千万不要图 快冒然用大电流，超过规定参数充电，电池很容易损坏。</p>
+<p><img id="bigImg" alt="" src="http://ww2.sinaimg.cn/mw690/6855e771gw1ercyny1mfyj20rs0ijgut.jpg" /></p>
+<p>科达B6平衡充，188元购入</p>
+<p>至于怎么配电池这与选择的电机、螺旋桨，想要的飞行时间相关。容量越大，c越高，s越多，电池越重；基本原理是用大桨，因为整体搭配下来功率高，自身升力大，为了保证可玩时间，可选高容量，高c，3s以上电池。常用的四轴电池为20C、3S电池。</p>
+<p><img id="bigImg" alt="" src="http://ww2.sinaimg.cn/mw690/6855e771gw1ercyo0h3qdj20rs0itdqe.jpg" /></p>
+<p>飞科达B6平衡充</p>
+<p>有了电池，充电器自然必不可少，一般选用平衡充。如3s电池，内部是3个锂电池，因为制造工 艺原因，没办法保证每个电池完全一致，充电放电特性都有差异， 电池串联的情况下，就容易造成某些放电过度或充电过度，充电不饱满等，所以解决办法是分别对内部单节电池充电，而平衡充则很好的解决了这个问题。</p>
+<p>6、电机与电调、电池间的匹配关系：</p>
+<p>首先,你要选择适合你飞机的电机，再选择一个能满足你电机峰值功率的电调，最后选择一个能满 足电调峰值功率的电池即可!如电机达最大效率时,电流为 30A，那么你选择的电调起码要30A ,但是一般出去安全考虑,电调要选择大一点的! 如:35A -40A 。电池是根据你的飞机具体来确定用哪种规格，选好规格,那么就可以选择容量倍率了。</p>
+<p>7、飞行控制板的选择：</p>
+<p>飞行控制板简称飞控，如果没有飞控板，四轴飞行器就会因为安装、外界干扰、零件之间的不一致 型等原因形成飞行力量不平衡，后果就是左右、上下的胡乱翻滚， 根本无法飞行，飞控的作用就是通过飞控板上的陀螺仪，对四轴飞行状态进行快速调整，如发现右边力量大，向左倾斜，那么就减弱右边电流输出，电机变慢，升力 变小，达到平衡的状态。</p>
+<p><img id="bigImg" alt="" src="http://ww2.sinaimg.cn/mw690/6855e771gw1ercynvs36ej20rs0j9470.jpg" /></p>
+<p>STM32 MWC10四轴自稳飞控,188元购入</p>
+<p>购买飞控的时候老板会问你买X模式还是+模式，简单来说X模式要难飞一点，但动作更灵活。+模式要好飞一点，动作灵活差一点，如果飞控板安装错误，会剧烈的晃动，根本无法飞。常见的有KK、FF、玉兔、MMC等品牌，我购买的是MWC10 四轴飞控.</p>
+<p>8、如何选购螺旋桨：</p>
+<p>同电机类似，桨也有如1045,7040等4位数字，前面2位代表桨的直径，也就是从桨的一 头到另一头的长度，单位是英寸。后面两位数是指几何螺距，螺距 原指螺纹上相邻两牙对应点之间的轴向距离，可以理解为螺丝转动一圈，前进的距离。而螺旋桨的螺距，是螺旋桨在固体介质内无摩擦旋转一周所前进的距离。简单 来说可以理解为螺旋桨桨叶的“倾斜度”，螺距标称越大，倾斜度越大。桨长度和螺距越大，所需要的电机或发动机级别就越大，桨的长度越大，某种程度上能够保 证飞机俯仰稳定性越高，螺距越大，飞行速度越快。</p>
+<p><img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercynrdvgyj20rs0ian4t.jpg" /></p>
+<p>APC 1147 螺旋桨，单价12.5元</p>
+<p><img id="bigImg" alt="" src="http://ww1.sinaimg.cn/mw690/6855e771gw1ercynti27pj20rs0ijn50.jpg" /></p>
+<p>正反桨各一对</p>
+<p>四轴飞行为了抵消螺旋桨的自旋，相隔的桨旋转方向是不一样的，所以需要正反桨。正反桨的风都向下吹。顺时针旋转的叫正浆、逆时针旋转的是反浆。安装的时候，一定记得无论正反桨，有字的一面是向上的。</p>
+<p>9、电机与螺旋桨的搭配：</p>
+<p>这是非常复杂的问题，建议常见的配置，但原理这里可以阐述一下。螺旋桨越大，升力就越大，但 对应需要更大的力量来驱动；螺旋桨转速越高，升力越大；电机的 kv越小，转动力量就越大；综上所述，大螺旋桨就需要用低kv电机，小螺旋桨就需要高kv电机（因为需要用转速来弥补升力不足），如果高kv带大桨，力量 不够，那么就很困难，实际还是低速运转，电机和电调很容易烧掉。如果低kv带小桨，完全没有问题，但升力不够，可能造成无法起飞。常用1000kv电机， 配10寸左右的桨。</p>
+<p>10、如何选购遥控器：</p>
+<p>遥控器从几百到数千不等，常见品牌有国产天地飞，日本futaba等，根据所需通道和预算购 买即可。通道就是遥控器控制的动作路数，比如遥控器只能控制四 轴上下飞，那么就是1个通道。但四轴在控制过程中需要控制的动作路数有：上下、左右、前后、旋转，所以最低得4通道遥控器。</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyoo8r5vj20sg0k6tdb.jpg" /></p>
+<p>天地飞7通道 WFT07 2.4G遥控器，493元购入</p>
+<p><img id="bigImg" alt="" src="http://ww2.sinaimg.cn/mw690/6855e771gw1ercyopamv6j20sg0k0dk8.jpg" /></p>
+<p>可以看出我买的是美国手，左边是油门</p>
+<p><img id="bigImg" alt="" src="http://ww2.sinaimg.cn/mw690/6855e771gw1ercyow2n16j20el09yq43.jpg" /></p>
+<p>天7遥控器接收器</p>
+<p>遥控器有日本手和美国手之分，油门的位置在右边是日本手、在左边是美国手，所谓遥控器油门， 在四轴飞行器当中控制供电电流大小，电流大，电动机转得快，飞 得高、力量大，反之同理。判断遥控器的油门很简单，遥控器2个摇杆当中，上下板动后不自动回到中间的那个就是油门摇杆。</p>
+<p><strong>开始组装4轴飞行器</strong></p>
+<p>当 你下定决心做这件事的时候其实最困难的部分已经解决了，明白了四轴组装的基本原理，其实发现并没有我们想象的复杂。在某宝上购买到所需配件接下来的工作就 是大胆心细的去组装了，当然还需要一些基本的工具及小附件，如螺丝刀、热熔枪、双面胶、硅胶线、热缩管、魔术扎带等，备好这些就可以开始组装了。</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyn33dwoj20rs0ijwp7.jpg" /></p>
+<p>某宝上购买所需的配件和工具</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyo3bs4bj20rs0j7ane.jpg" /></p>
+<p>把配件大概分类整理了一下</p>
+<p><img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercyo6ab2yj20rs0jd13f.jpg" /></p>
+<p>先把4个电机和机架杆装好，这个没有什么难度，唯一需要注意的是红色的轴是为了飞机在空中更容易辨别机头的方向，易于操控，注意不要和白色交叉固定在集成板。</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyo8rol5j20rs0iqak7.jpg" /></p>
+<p>装好电机的效果，注意先不要装螺旋桨。</p>
+<p><img id="bigImg" alt="" src="http://ww1.sinaimg.cn/mw690/6855e771gw1ercyodlfcxj20rs0iwtjh.jpg" /></p>
+<p>复合PCB电路板，其作用是供电调、电源的连线可以更加方便、快捷、安全，将4个电调和电源输入线用电烙铁焊在板子上。放心大胆的操作，我在焊接这个板子之前无任何焊接经验，本次焊接效果非常好。</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyob3smvj20rs0intiq.jpg" /></p>
+<p>电烙铁套装，不会操作的可以百度一下相关的视频教程，一看就会。</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyog4nphj20rs0iwdql.jpg" /></p>
+<p>焊接的时候正负极千万不能弄错，红色的线连接正极，黑色的线连接负极，线路板上有正负极标识，正极焊接红线，负极焊接黑线。电源输入线是我用T插头和硅胶 线自己做的，结果往PCB板上焊接的时候正负极搞错了，以至于我连接电池造成短路，电线瞬间发烫变软，还好及时察觉，重新焊接了路线。大家对于正负极的焊 接一定要非常仔细，千万不要搞错。<img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercyoisf5uj20rs0j5wqd.jpg" /></p>
+<p>焊接了电调之后，可以把机架和线路板固定在一起了，注意较大的板子是底部</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyojqztqj20rs0je43u.jpg" /></p>
+<p>用附带的螺丝固定好底部的板子之后，接下来可以利用双面胶把飞控板粘在上面</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyom80bmj20rs0j948t.jpg" /></p>
+<p>用双面胶把飞控板粘在线路板上之后尽量多挤压几次，保障粘贴结实，这里需要主要的是电路输入的一头（即飞控板上箭头的指向的一方）朝着飞机机头的方向。</p>
+<p><img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercyor8v3gj20rs0j2wlx.jpg" /></p>
+<p>固定好之后就需要将电调、遥控接收器的线路连接到飞控板上，注意线路有正负极以及信号线之分，连接的时候需要一一对应，至于具体接法按照下图来接就行。</p>
+<p><img id="bigImg" alt="" src="http://ww2.sinaimg.cn/mw690/6855e771gw1ercymms46nj20sg0lq43k.jpg" /></p>
+<p>飞控板的线路连接规则按照上面这幅图（点击图片可看大图）来就行</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyotcx0rj20rs0jbtf0.jpg" /></p>
+<p>遥控接收器的线路连接也是参照上图</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercyou8ti6j20rs0j7n1n.jpg" /></p>
+<p>连接好飞控板和遥控接收器的线路之后，就可以将机架上面的板子和机架用螺丝固定好</p>
+<p><img id="bigImg" alt="" src="http://ww1.sinaimg.cn/mw690/6855e771gw1ercyov6d2ej20rs0ijgq4.jpg" /></p>
+<p>最后一步是安装螺旋桨，这一步需要注意的是螺旋桨是一正一反、一正一反的相邻安装，保证螺旋 桨有字的部分朝上，即螺旋桨旋转的时候气流向下，这样飞机才能 起飞。电机的转动方向还是前面飞控连接的线路图所示，相对的电机转向一致、相邻的电机转向相反，机头朝向的两个电机都是向内旋转，机尾朝向的两个电机都是 是向外旋转。至于电机和电调的线路接法，随意连接，调整其中的任意两根的线路连接保证电机的转向如上所说即可。完成之后把电池用魔术粘带绑定在飞机机架上 即可，电池输出连接线路输入。至此、一个能飞的四轴飞行器基本上完成，为了保证4个电机旋转速度一致，需要设置油门行程等，这个在电调说明书有详细说明， 非常简单，照说明操作即可。</p>
+<p><strong>制作一个减震起落架</strong></p>
+<p>四轴新手在操控的时候难免会缺乏经验，加之由于组装机器本身优劣问题并不能保证飞行和降落会非常平稳，为了减少对四轴飞行器的损伤制作一个简易的起落架非常必要。下图是我后来购买的所需材料，碳纤管、起落架、海绵减震套筒等。</p>
+<p><img id="bigImg" alt="" src="http://ww3.sinaimg.cn/mw690/6855e771gw1ercymq7rl4j20rs0isqe5.jpg" /></p>
+<p>起落架所需材料</p>
+<p><img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercymsrbyhj20rs0icjyp.jpg" /></p>
+<p>组装好的起落架</p>
+<p><img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercymy4tcuj20rs0iijz0.jpg" /></p>
+<p>用尼龙拉带将起落架和四轴飞行器固定在一起</p>
+<p><img id="bigImg" alt="" src="http://ww4.sinaimg.cn/mw690/6855e771gw1ercyn0dtzsj20rs0j9n6g.jpg" /></p>
+<p>一架四轴飞行器组装完成，接上电源就可以飞了</p>
+<p><img id="bigImg" alt="" src="http://ww2.sinaimg.cn/mw690/6855e771gw1ercyon7e6bj20sg0sgn0p.jpg" /></p>
+<p>上天了，飞行效果很好 从查找资料，研究原理，购买配件到组装成机，我大概花费了半个月下班的时间，配件全部购于某 宝，成本大概在3000元以内，后来我又拿DJI精灵2做对 比，自己组装的四轴无论速度和力量明显优于精灵2，但是由于飞控和整机配件兼容性的问题，在定点悬停、失控返航方面远远不抵精灵2.希望此文能给诸多喜欢 航模、喜欢的航拍的人一个很好的思路，其实多轴飞行器最核心的还是控制算法的问题，即飞控板的调节控制能力。无论是之前网络热传的飞行器送快递也好，还是 央视报道的农民用飞行器喷洒农药也罢，相信我，四轴飞行器将会越来越多的被我们以各种方式运用到生活当中，当然航拍也会越来越便捷，越来越大众化。 最后给大家分享一个非常NB的视频，来自国外牛人的TED分享。</p>
+<object width="480" height="400"><param name="movie" value="http://player.youku.com/player.php/sid/XNTc1NzgxMzky/v.swf"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="never"></param><param name="allownetworking" value="internal"></param><param name="flashvars" value="isShowRelatedVideo=false&showAd=0&show_pre=1&show_next=1&isAutoPlay=false&isDebug=false&UserID=&winType=interior&playMovie=true&MMControl=false&MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,2001,3001,3002,3003,3004,3005,3007,3008,9999" /><embed src="http://player.youku.com/player.php/sid/XNTc1NzgxMzky/v.swf" type="application/x-shockwave-flash" allowscriptaccess="never" allownetworking="internal" allowfullscreen="true" width="480" height="400" flashvars="isShowRelatedVideo=false&showAd=0&show_pre=1&show_next=1&isAutoPlay=false&isDebug=false&UserID=&winType=interior&playMovie=true&MMControl=false&MMout=false&RecordCode=1001,1002,1003,1004,1005,1006,2001,3001,3002,3003,3004,3005,3007,3008,9999"></embed></object>
+<p><a href="http://www.geekfan.net/13847/">人人都能玩航拍 手把手教你装4轴</a>，首发于<a href="http://www.geekfan.net">极客范 - GeekFan.net</a>。</p>]]></content:encoded>
+			<wfw:commentRss>http://www.geekfan.net/13847/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- WP Super Cache is installed but broken. The constant WPCACHEHOME must be set in the file wp-config.php and point at the WP Super Cache plugin directory. -->

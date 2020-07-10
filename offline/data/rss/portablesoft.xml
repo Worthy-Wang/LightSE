@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>精品绿色便携软件</title>
+	<atom:link href="http://www.portablesoft.org/feed/?cat=-1716" rel="self" type="application/rss+xml" />
+	<link>http://www.portablesoft.org</link>
+	<description>追求绿色便携理念，打造清爽干净系统！</description>
+	<lastBuildDate>Thu, 11 Aug 2016 13:43:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>EmEditor 16.1.3 简体中文便携版 - 强大文本编辑器</title>
+		<link>http://www.portablesoft.org/emeditor-pro/</link>
+		<comments>http://www.portablesoft.org/emeditor-pro/#comments</comments>
+		<pubDate>Thu, 11 Aug 2016 13:40:06 +0000</pubDate>
+		<dc:creator><![CDATA[黯然过客]]></dc:creator>
+				<category><![CDATA[办公软件]]></category>
+		<category><![CDATA[emeditor]]></category>
+		<category><![CDATA[emeditor中文版]]></category>
+		<category><![CDATA[emeditor汉化版]]></category>
+		<category><![CDATA[emeditor绿色版]]></category>
+		<category><![CDATA[便携软件]]></category>
+		<category><![CDATA[文本编辑]]></category>
+		<category><![CDATA[文本编辑器]]></category>
+		<category><![CDATA[编辑]]></category>
+		<category><![CDATA[记事本替代]]></category>
+
+		<guid isPermaLink="false">http://www.portablesoft.org/?p=427&#038;v=16.1.3%20%2832-bit%29&#038;from=rss</guid>
+		<description><![CDATA[EmEditor Professional 以运行轻巧、敏捷而又功能强大、丰富著称，作为简单好用的文本编辑器，EmEditor 支持多种配置，可自定义颜色、字体、工具栏、快捷键、行距等，支持文本列块选择、无限撤消/重做等，是替代记事本的最佳编辑器。 我最近一直在用 EmEditor，其便携性很适合影子系统，标签窗口也是极方便操作，2016/8/11 更新版本为 EmEditor 16.1.3 官方简体中文便携版，分别为 EmEditor 32 位和 64 位版。EmEditor 现已经添加了官方简体中文和繁体中文支持，无需额外汉化。 使用说明：解压后直接运行主程序 EmEditor.exe 即可，所有配置都保存在 ini 文件中，纯绿色便携，完全兼容 Windows 7/8 及 Portableapps.com 的便携平台，如果无法显示简体中文，可能需要重新配置。 记事本替代方面，曾经介绍过的 EditPlus 或 AptEdit 也都是不错的，不过我还是用着 EmEditor 最舒适了，还有 Notepad2 也是必须的。关于如何将 EmEditor 转变为便携软件，请看这里，或直接在 EmEditor.exe 目录下建立一个 eeUseIni.ini 文件，EmEditor 就会使用 ini 文件保存所有配置，达到绿色便携化运行。 EmEditor Professional is a fast, lightweight text editor designed to balance [&#8230;]<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/editplus/" rel="bookmark" title="功能强大的文本编辑器：EditPlus汉化绿色便携版">功能强大的文本编辑器：EditPlus汉化绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/aptedit/" rel="bookmark" title="AptEdit绿色版：功能丰富的文本/HEX/HTML/程序编辑器">AptEdit绿色版：功能丰富的文本/HEX/HTML/程序编辑器 </a></li>
+<li><a href="http://www.portablesoft.org/notepad2-replacement/" rel="bookmark" title="通过映像劫持实现Notepad2替换记事本">通过映像劫持实现Notepad2替换记事本 </a></li>
+<li><a href="http://www.portablesoft.org/notepad2-mod-portable/" rel="bookmark" title="Notepad2-mod 4.2.25.980 - 轻量级文本编辑器、代替记事本的最佳选择">Notepad2-mod 4.2.25.980 - 轻量级文本编辑器、代替记事本的最佳选择 </a></li>
+<li><a href="http://www.portablesoft.org/emeditor-portable/" rel="bookmark" title="简单设置，将EmEditor转变为纯绿色便携版">简单设置，将EmEditor转变为纯绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/hex-editor-ii/" rel="bookmark" title="二进制编辑器：Hex Editor II绿色免安装版">二进制编辑器：Hex Editor II绿色免安装版 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>EmEditor Professional</strong> 以运行轻巧、敏捷而又功能强大、丰富著称，作为简单好用的文本编辑器，<a href="http://www.portablesoft.org/emeditor-pro/">EmEditor</a> 支持多种配置，可自定义颜色、字体、工具栏、快捷键、行距等，支持文本列块选择、无限撤消/重做等，是<strong>替代记事本</strong>的最佳编辑器。</p>
+<p>我最近一直在用 EmEditor，其便携性很适合影子系统，<strong>标签窗口</strong>也是极方便操作，2016/8/11 更新版本为 EmEditor 16.1.3 官方简体中文便携版，分别为 EmEditor 32 位和 64 位版。EmEditor 现已经添加了官方简体中文和繁体中文支持，无需额外汉化。<span id="more-427"></span></p>
+<p>使用说明：解压后直接运行主程序 EmEditor.exe 即可，所有配置都保存在 ini 文件中，纯绿色便携，完全兼容 Windows 7/8 及 Portableapps.com 的便携平台，如果无法显示简体中文，可能需要重新配置。</p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2013/06/EmEditor-Logo.png" alt="EmEditor" title="EmEditor" /></p>
+<p>记事本替代方面，曾经介绍过的 <a href="http://www.portablesoft.org/editplus/">EditPlus</a> 或 <a href="http://www.portablesoft.org/aptedit/">AptEdit</a> 也都是不错的，不过我还是用着 EmEditor 最舒适了，还有 <a href="http://www.portablesoft.org/notepad2-replacement/">Notepad2</a> 也是必须的。关于如何将 EmEditor 转变为便携软件，请看<a href="http://www.portablesoft.org/emeditor-portable/">这里</a>，或直接在 EmEditor.exe 目录下建立一个 <b>eeUseIni.ini</b> 文件，EmEditor 就会使用 ini 文件保存所有配置，达到绿色便携化运行。</p>
+<p>EmEditor Professional is a fast, lightweight text editor designed to balance speed of operation with robust features.</p>
+<p>New features in version 10 include a Compare function, which allows users to run a side by side comparison of two documents with Synchronized Scrolling, a Spell Check engine, Numbering, ASCII and Binary side by side viewing, and much more. EmEditor now fully supports Zen Coding.</p>
+<p><a href="http://hi.baidu.com/enjoymusic/album/item/466321870d73d814c65cc397.html" target="_blank"><img src="http://www.portablesoft.org/wp-content/uploads/2010/10/EmEditor-Professional.png" alt="EmEditor Professional简体中文便携版 " title="点击查看原图" border="0" /></a></p>
+<p>EmEditor 16.1.3 <a href="https://zh-cn.emeditor.com/blog/" target="_blank">更新日志</a>：</p>
+<ol><li>修复了比较 CSV 文档或排序一个 CSV 文档时，EmEditor 会故障的 bug。</li><li>修复了在 CSV 单元格模式下的增量搜索 bug。</li><li>修复了其他 bug。</li><li>EmEditor 会在显示另存为对话框之前自动保存未命名文档。</li><li>如果在 CSV 单元格模式下，选取了多个单元格，当执行选择CSV列命令时，EmEditor 会选取多个列。</li><li>修复了双击多个空格或 Tab 无法选择那些空格或 Tab 的 bug。</li><li>修复了 IME 上内存泄漏的 bug。</li></ol>
+<h4 id="download">EmEditor 相关文件下载</h4>
+<p>官方网站：<a href="http://zh-cn.emeditor.com/" target="_blank">zh-cn.emeditor.com</a><br />
+解压密码：www.portablesoft.org<br />
+压缩包MD5：<a href="https://www.virustotal.com/en/search/?query=F4D1A7E2430325056620A6FD9F8004FF" title="压缩包多引擎病毒扫描报告" target="_blank">F4D1A7E2430325056620A6FD9F8004FF</a></p>
+<div class="quote">开始下载 <strong>EmEditor Portable 16.1.3 简体中文便携版 (32-bit, 32位版)</strong><br />
+EmEditor_x86_16.1.3_PortableSoft.7z (2.41 MB)<br />
+@精品绿色便携软件 &#124; <a class="down" title="EmEditor 16.1.3 (32-bit) 下载地址" href="http://www.portablesoft.org/down/427/">EmEditor 16.1.3 (32-bit) 下载页面</a> &#124; <a href="http://www.portablesoft.org/emeditor-legacy-versions/">更多版本下载</a></p>
+<p>开始下载 EmEditor Portable 16.1.3 简体中文便携版 (64-bit, 64位版)<br />
+EmEditor_16.1.3_PortableSoft.7z (4.68 MB)<br />
+@精品绿色便携软件 &#124; <a title="下载 EmEditor Portable 16.1.3" href="/down/4064/">EmEditor 16.1.3 (64-bit) 下载页面</a></p>
+<p><b>特别说明：EmEditor 便携版没有集成任何注册码或其他注册信息，为「全功能试用版」，默认有 30 天的全功能试用期。试用期结束后，请考虑购买官方正版授权。如果还想继续试用的话，请给我发邮件至 admin@portablesoft.org 询问解决方案。</b>
+</div>
+<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/editplus/" rel="bookmark" title="功能强大的文本编辑器：EditPlus汉化绿色便携版">功能强大的文本编辑器：EditPlus汉化绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/aptedit/" rel="bookmark" title="AptEdit绿色版：功能丰富的文本/HEX/HTML/程序编辑器">AptEdit绿色版：功能丰富的文本/HEX/HTML/程序编辑器 </a></li>
+<li><a href="http://www.portablesoft.org/notepad2-replacement/" rel="bookmark" title="通过映像劫持实现Notepad2替换记事本">通过映像劫持实现Notepad2替换记事本 </a></li>
+<li><a href="http://www.portablesoft.org/notepad2-mod-portable/" rel="bookmark" title="Notepad2-mod 4.2.25.980 - 轻量级文本编辑器、代替记事本的最佳选择">Notepad2-mod 4.2.25.980 - 轻量级文本编辑器、代替记事本的最佳选择 </a></li>
+<li><a href="http://www.portablesoft.org/emeditor-portable/" rel="bookmark" title="简单设置，将EmEditor转变为纯绿色便携版">简单设置，将EmEditor转变为纯绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/hex-editor-ii/" rel="bookmark" title="二进制编辑器：Hex Editor II绿色免安装版">二进制编辑器：Hex Editor II绿色免安装版 </a></li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.portablesoft.org/emeditor-pro/feed/</wfw:commentRss>
+		<slash:comments>362</slash:comments>
+		</item>
+		<item>
+		<title>强大图片素描化工具 - FotoSketcher 3.20 绿色免安装版</title>
+		<link>http://www.portablesoft.org/fotosketcher/</link>
+		<comments>http://www.portablesoft.org/fotosketcher/#comments</comments>
+		<pubDate>Thu, 11 Aug 2016 13:16:22 +0000</pubDate>
+		<dc:creator><![CDATA[黯然过客]]></dc:creator>
+				<category><![CDATA[图形图像]]></category>
+		<category><![CDATA[fotosketcher]]></category>
+		<category><![CDATA[fotosketcher免费版]]></category>
+		<category><![CDATA[fotosketcher绿色版]]></category>
+		<category><![CDATA[图片处理]]></category>
+		<category><![CDATA[图片素描]]></category>
+		<category><![CDATA[图片素描效果]]></category>
+		<category><![CDATA[照片素描化]]></category>
+		<category><![CDATA[素描处理软件]]></category>
+		<category><![CDATA[素描生成软件]]></category>
+
+		<guid isPermaLink="false">http://www.portablesoft.org/?p=375&#038;v=3.20&#038;from=rss</guid>
+		<description><![CDATA[FotoSketcher 是一款很简便且强大的图片素描化工具，处理速度很快，可以帮助你创建类似真实素描的艺术作品。 FotoSketcher 现在有二十多种自动素描方式，如铅笔素描效果、水墨效果、油漆效果、像素化、彩色圆圈、卡通、活力照片、老式照片等等。制作素描图时，FotoSketcher 可以实时预览，具体试一下就知道是什么效果的。 FotoSketcher 新版增加了很多功能，打开一张图片后会自动弹出绘制参数对话框 (Drawing parameters)，每种方式也都可以调整很多参数，如颜色强度、明亮度、纹理设置等，还可以添加文本，支持中文输入，也支持批量处理。 很不错的软件、软件本身即为单文件版、纯绿色，有什么不满意的就按下 F10 打开绘制参数对话框重新设置就行。2016/8/11 更新版本为 FotoSketcher 3.20，在中文系统中默认显示简体中文界面。 FotoSketcher 3.20 更新说明： FotoSketcher is a 100% free program which can help you convert your digital photos into art, automatically. If you want to turn a portrait, the photograph of your house or a beautiful landscape into a painting, a [&#8230;]<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/morpheus-photo-morpher/" rel="bookmark" title="Morpheus Photo Morpher绿色版：图像渐变工具">Morpheus Photo Morpher绿色版：图像渐变工具 </a></li>
+<li><a href="http://www.portablesoft.org/wondershare-photo-collage-studio/" rel="bookmark" title="Photo Collage Studio绿色便携版：数码照片拼贴工具">Photo Collage Studio绿色便携版：数码照片拼贴工具 </a></li>
+<li><a href="http://www.portablesoft.org/faststone-photo-resizer/" rel="bookmark" title="图片尺寸调整工具：FastStone Photo Resizer便携版">图片尺寸调整工具：FastStone Photo Resizer便携版 </a></li>
+<li><a href="http://www.portablesoft.org/inpaint/" rel="bookmark" title="图片去水印工具 - Inpaint 6.2 中文绿色便携版">图片去水印工具 - Inpaint 6.2 中文绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/lightzone/" rel="bookmark" title="真正的数码暗房：LightZone绿色版">真正的数码暗房：LightZone绿色版 </a></li>
+<li><a href="http://www.portablesoft.org/zoner-photo-studio/" rel="bookmark" title="专业数码照片处理软件：Zoner Photo Studio中文绿色版">专业数码照片处理软件：Zoner Photo Studio中文绿色版 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>FotoSketcher</strong> 是一款很简便且强大的图片素描化工具，处理速度很快，可以帮助你创建类似真实素描的艺术作品。</p>
+<p>FotoSketcher 现在有二十多种自动素描方式，如铅笔素描效果、水墨效果、油漆效果、像素化、彩色圆圈、卡通、活力照片、老式照片等等。制作素描图时，FotoSketcher 可以实时预览，具体试一下就知道是什么效果的。</p>
+<p><a href="http://www.portablesoft.org/fotosketcher/">FotoSketcher</a> 新版增加了很多功能，打开一张图片后会自动弹出绘制参数对话框 (Drawing parameters)，每种方式也都可以调整很多参数，如颜色强度、明亮度、纹理设置等，还可以添加文本，支持中文输入，也支持批量处理。<span id="more-375"></span></p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2012/11/FotoSketcher.png" alt="FotoSketcher" title="FotoSketcher" border="0" /></p>
+<p>很不错的软件、软件本身即为<strong>单文件版</strong>、纯绿色，有什么不满意的就按下 F10 打开绘制参数对话框重新设置就行。2016/8/11 更新版本为 FotoSketcher 3.20，在中文系统中默认显示简体中文界面。</p>
+<p>FotoSketcher 3.20 更新说明：</p>
+<ol><li>Better Windows 10 support</li><li>Improved memory management (Pencil Sketch 1 and Linear Halftoning)</li><li>a new popup window previewing each effect</li><li>Various bug corrections</li></ol>
+<p><a href="http://xiangce.baidu.com/picture/detail/4c630f31fd5fcaf795247ae68bcf21198d30bf38" target="_blank"><img src="http://www.portablesoft.org/wp-content/uploads/2011/02/FotoSketcher-Portable.jpg" alt="FotoSketcher" title="点击查看原图" border="0" /></a></p>
+<p>FotoSketcher is a 100% free program which can help you convert your digital photos into art, automatically. If you want to turn a portrait, the photograph of your house or a beautiful landscape into a painting, a sketch or a drawing then look no further, FotoSketcher will do the job in just a few seconds.</p>
+<h4>FotoSketcher Portable 相关文件下载</h4>
+<p>官方网站：<a href="http://www.fotosketcher.com/" target="_blank">www.fotosketcher.com</a><br />
+解压密码：www.portablesoft.org<br />
+压缩包MD5：<a href="https://www.virustotal.com/en/search/?query=DC2E3E6B60DCDBAF928C544ECAD84B7A" title="压缩包多引擎病毒扫描报告" target="_blank">DC2E3E6B60DCDBAF928C544ECAD84B7A</a></p>
+<div class="quote">开始下载 <strong>FotoSketcher Portable 3.20 简体中文绿色便携版</strong><br />
+FotoSketcher_3.20_PortableSoft.7z (8.07 MB)<br />
+@精品绿色便携软件 &#124; <a class="down" title="FotoSketcher 3.20 下载地址" href="http://www.portablesoft.org/down/375/">FotoSketcher 3.20 下载页面</a> &#124; <a href="http://www.portablesoft.org/fotosketcher-legacy-versions/">更多版本下载</a></p>
+<p>开始下载 FotoSketcher Portable 3.00 简体中文绿色便携版<br />
+FotoSketcher_3.00_PortableSoft.7z (5.36 MB)<br />
+@精品绿色便携软件 &#124; <a title="下载 FotoSketcher Portable 3.00" href="/down/4062/">FotoSketcher 3.00 下载页面</a></div>
+<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/morpheus-photo-morpher/" rel="bookmark" title="Morpheus Photo Morpher绿色版：图像渐变工具">Morpheus Photo Morpher绿色版：图像渐变工具 </a></li>
+<li><a href="http://www.portablesoft.org/wondershare-photo-collage-studio/" rel="bookmark" title="Photo Collage Studio绿色便携版：数码照片拼贴工具">Photo Collage Studio绿色便携版：数码照片拼贴工具 </a></li>
+<li><a href="http://www.portablesoft.org/faststone-photo-resizer/" rel="bookmark" title="图片尺寸调整工具：FastStone Photo Resizer便携版">图片尺寸调整工具：FastStone Photo Resizer便携版 </a></li>
+<li><a href="http://www.portablesoft.org/inpaint/" rel="bookmark" title="图片去水印工具 - Inpaint 6.2 中文绿色便携版">图片去水印工具 - Inpaint 6.2 中文绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/lightzone/" rel="bookmark" title="真正的数码暗房：LightZone绿色版">真正的数码暗房：LightZone绿色版 </a></li>
+<li><a href="http://www.portablesoft.org/zoner-photo-studio/" rel="bookmark" title="专业数码照片处理软件：Zoner Photo Studio中文绿色版">专业数码照片处理软件：Zoner Photo Studio中文绿色版 </a></li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.portablesoft.org/fotosketcher/feed/</wfw:commentRss>
+		<slash:comments>43</slash:comments>
+		</item>
+		<item>
+		<title>Win64AST 1.10 Beta6 - 支持64位Windows的ARK、内核级的高级系统工具</title>
+		<link>http://www.portablesoft.org/win64ast/</link>
+		<comments>http://www.portablesoft.org/win64ast/#comments</comments>
+		<pubDate>Thu, 11 Aug 2016 13:07:30 +0000</pubDate>
+		<dc:creator><![CDATA[黯然过客]]></dc:creator>
+				<category><![CDATA[安全相关]]></category>
+		<category><![CDATA[系统工具]]></category>
+		<category><![CDATA[Anti Rootkit]]></category>
+		<category><![CDATA[ark工具]]></category>
+		<category><![CDATA[PatchGuard]]></category>
+		<category><![CDATA[rootkit]]></category>
+		<category><![CDATA[SnipeSword]]></category>
+		<category><![CDATA[Win64 Advanced System Tool]]></category>
+		<category><![CDATA[Win64AST]]></category>
+		<category><![CDATA[反黑工具]]></category>
+		<category><![CDATA[安全辅助]]></category>
+		<category><![CDATA[强制删除工具]]></category>
+		<category><![CDATA[强制删除文件]]></category>
+		<category><![CDATA[强制删除文件夹]]></category>
+		<category><![CDATA[强制删除软件]]></category>
+		<category><![CDATA[强制结束进程]]></category>
+		<category><![CDATA[手工杀毒]]></category>
+		<category><![CDATA[注册表]]></category>
+		<category><![CDATA[狙剑]]></category>
+		<category><![CDATA[系统修复]]></category>
+		<category><![CDATA[系统检测]]></category>
+		<category><![CDATA[系统维护]]></category>
+		<category><![CDATA[系统辅助]]></category>
+		<category><![CDATA[进程管理]]></category>
+		<category><![CDATA[高级系统工具]]></category>
+
+		<guid isPermaLink="false">http://www.portablesoft.org/?p=2755&#038;v=1.10%20Beta6&#038;from=rss</guid>
+		<description><![CDATA[Rootkit 通常是指加载到操作系统内核中的恶意软件，因为其代码运行在特权模式之下，极具危险性。有 Rootkit，就需要 Anti Rootkit，用到的就是 ARK 工具。 针对32位的 Windows XP 或 Windows 7 系统，已经有很多成熟的工具了，比如冰刃、早期的冰刃 (IceSword)、Wsyscheck、到后来的狙剑 (SnipeSword)、XueTr，还有最近很给力的 PowerTool 等，但是64位操作系统下的 ARK 工具发展相对缓慢，目前本站介绍过 IThurricane 发布的 PowerTool 64位版。 而 Tesla.Angela 开发的 Win64AST 是另一款、也可能是全球第一个专用于64位系统的内核级的高级系统工具，由于使用了特殊的内核技术，WIN64AST 能够从底层控制系统，有很大的操作权限，是一个强大的 Anti Rootkit 工具，能够查看并管理64位 Windows 系统的各种内核信息，可用于手工杀毒、辅助调试、内核研究等。 Win64AST 全称 Win64 Advanced System Tool，支持 Windows 7 x64、Windows 8 x64 和 Windows 2008 R2，目前实现的功能有： 进程/内存/线程/模块/句柄/窗口管理 内核模块查看 网络连接查看和禁止 查看/恢复SSDT和Shadow SSDT [&#8230;]<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/powertool/" rel="bookmark" title="PowerTool 64位版 v1.6 - 内核级的手动杀毒、进程管理工具">PowerTool 64位版 v1.6 - 内核级的手动杀毒、进程管理工具 </a></li>
+<li><a href="http://www.portablesoft.org/pc-hunter/" rel="bookmark" title="PC Hunter 1.35 - XueTr 升级版、强大的系统信息查看与手工杀毒辅助软件">PC Hunter 1.35 - XueTr 升级版、强大的系统信息查看与手工杀毒辅助软件 </a></li>
+<li><a href="http://www.portablesoft.org/lockhunter/" rel="bookmark" title="LockHunter绿色免费版 - 解除文件锁定">LockHunter绿色免费版 - 解除文件锁定 </a></li>
+<li><a href="http://www.portablesoft.org/hijack-hunter/" rel="bookmark" title="辅助杀毒小工具 - Hijack Hunter 1.8.4.1中文绿色版">辅助杀毒小工具 - Hijack Hunter 1.8.4.1中文绿色版 </a></li>
+<li><a href="http://www.portablesoft.org/xuetr/" rel="bookmark" title="XueTr绿色便携版：强大的手工杀毒辅助工具">XueTr绿色便携版：强大的手工杀毒辅助工具 </a></li>
+<li><a href="http://www.portablesoft.org/nirlauncher-portable/" rel="bookmark" title="NirLauncher 1.18.23 - 便携式 NirSoft 软件合集">NirLauncher 1.18.23 - 便携式 NirSoft 软件合集 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p>Rootkit 通常是指加载到操作系统内核中的恶意软件，因为其代码运行在特权模式之下，极具危险性。有 Rootkit，就需要 Anti Rootkit，用到的就是 <strong>ARK 工具</strong>。</p>
+<p>针对32位的 Windows XP 或 Windows 7 系统，已经有很多成熟的工具了，比如冰刃、早期的冰刃 (IceSword)、Wsyscheck、到后来的狙剑 (SnipeSword)、<a href="http://www.portablesoft.org/xuetr/">XueTr</a>，还有最近很给力的 <a href="http://www.portablesoft.org/powertool/">PowerTool</a> 等，但是64位操作系统下的 ARK 工具发展相对缓慢，目前本站介绍过 IThurricane 发布的 <strong>PowerTool 64位版</strong>。<span id="more-2755"></span></p>
+<p>而 <a href="http://m5home.blog.163.com/blog/static/2091221812012760245552/" target="_blank">Tesla.Angela</a> 开发的 <strong>Win64AST</strong> 是另一款、也可能是<b>全球第一个专用于64位系统的内核级的高级系统工具</b>，由于使用了特殊的内核技术，WIN64AST 能够从底层控制系统，有很大的操作权限，是一个强大的 <strong>Anti Rootkit 工具</strong>，能够查看并管理64位 Windows 系统的各种内核信息，可用于手工杀毒、辅助调试、内核研究等。</p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2013/08/Win64AST-Logo.jpg" alt="Win64AST" title="Win64AST" /></p>
+<p><a href="http://www.portablesoft.org/win64ast/">Win64AST</a> 全称 Win64 Advanced System Tool，支持 Windows 7 x64、Windows 8 x64 和 Windows 2008 R2，目前实现的功能有：</p>
+<ol>
+<li>进程/内存/线程/模块/句柄/窗口管理</li>
+<li>内核模块查看</li>
+<li>网络连接查看和禁止</li>
+<li>查看/恢复SSDT和Shadow SSDT</li>
+<li>扫描/恢复RING3和RING0的内联钩子</li>
+<li>查看并删除消息钩子</li>
+<li>查看/恢复重要驱动程序分发函数</li>
+<li>查看/恢复内核对象例程钩子</li>
+<li>枚举各种通告和回调</li>
+<li>枚举I/O定时器</li>
+<li>枚举DPC定时器</li>
+<li>枚举MiniFilter/失效MiniFilter的回调函数</li>
+<li>枚举/摘除过滤驱动</li>
+<li>查看/备份/恢复/自动修复主引导记录(MBR)</li>
+<li>进程行为监视(创建进程/创建线程/加载驱动/修改注册表/改动文件系统/连接网络/修改时间)</li>
+<li>内核内存编辑</li>
+<li>在驱动里枚举文件、强制新建/解锁/删除/破坏文件</li>
+<li>在驱动里枚举注册表、强制删除/新建/重命名注册表键(KEY)和注册表值(VALUE)</li>
+<li>禁止创建进程/禁止创建文件/禁止创建注册表键(KEY)和注册表值(VALUE)/禁止加载驱动/禁止联网/禁止读写磁盘敏感区域</li>
+<li>校验文件签名</li>
+<li>枚举/恢复中断描述符表钩子</li>
+<li>枚举全局描述符表</li>
+<li>显示特殊寄存器的值</li>
+<li>检测进程的IAT钩子和EAT钩子</li>
+<li>查看/备份/恢复/自动修复卷引导记录(VBR)</li>
+<li>网络防火墙</li>
+<li>枚举/删除SPI、BHO、IE右键菜单、WFP CALLOUT、NDIS FILTER</li>
+<li>DLL/驱动加载器</li>
+<li>枚举/删除自启动项、枚举/编辑文件关联</li>
+<li>枚举/恢复内核回调表</li>
+<li>PE文件查看器</li>
+<li>证书拉黑工具</li>
+</ol>
+<p>使用说明：<b>2016/8/11 更新版本为 Win64AST 1.10 Beta6  测试版</b>，下载后直接运行 Win64AST.exe 即可，注意 Win64AST 在 Windows 7 上需要安装 <a href="http://www.microsoft.com/downloads/zh-cn/details.aspx?FamilyID=0a391abd-25c1-4fc0-919f-b21f31ab88b7" target="_blank">.NET Framework 4</a> 方可运行，而 Windows 8 则不用安装 .NET Framework 4。</p>
+<p>Tesla.Angela 说明了 WIN64AST 与 PowerTool x64 的不同之处：</p>
+<p>
+<div class="intro">PowerTool 的作者 ithurricane 大牛把 PowerTool 定位为「<strong>手动杀毒工具</strong>」，主要用于<a href="http://www.portablesoft.org/tags/%E6%89%8B%E5%B7%A5%E6%9D%80%E6%AF%92/">手动杀毒</a>；而我把 <a href="http://www.portablesoft.org/win64ast/">Win64AST</a> 定位为「<strong>高级系统工具</strong>」，里面有部分 ARK 功能，也有部分 RK 的功能（比如：隐藏进程、保护进程和强制修改进程内存，将来可能还会添加更多的功能），可用于辅助研究 Win64 内核，也可以干一些“邪恶”的事情，比如辅助游戏多开等，推荐两者一起使用。</div>
+</p>
+<p><a href="/wp-content/uploads/2012/08/Win64AST-Portable.png" target="_blank"><img src="http://www.portablesoft.org/wp-content/uploads/2012/08/Win64AST-Portable.png" width="600" height="367" alt="Win64AST" title="点击查看原图" border="0" /></a></p>
+<p>Win64AST 1.10 Beta 6 更新日志：</p>
+<ol><li>支持WIN10-10586</li><li>新增汇编器</li><li>新增枚举NDIS FILTER</li><li>新增枚举/删除用户名</li><li>新增枚举/删除输入法</li><li>新增转储内核内存（保存一片内核内存为文件）</li><li>新增转储进程内存（输出进程里所有有效的内存块为文件）</li><li>新增枚举/恢复HHIVE对象挂钩（隶属于OBJECT HOOK）</li><li>新增“失效但不摘除定时器”功能</li><li>新增扫描任意模块的代码段修改</li><li>新增扫描任意模块的EAT/IAT修改</li><li>增强了枚举网络连接（枚举前处理掉可能存在的HOOK）</li><li>修复了几个枚举不全/数据错误/功能无效/导致蓝屏的bug</li><li>UI微调（比如列表刷新后在底部状态栏显示有多少项、默认横纵比为1:0.618）</li></ol>
+<h4 id="download">Win64AST 相关文件下载</h4>
+<p>官方网站：<a href="http://m5home.blog.163.com/" target="_blank">win64ast.m5home.com</a><br />
+解压密码：www.portablesoft.org<br />
+压缩包MD5：<a href="https://www.virustotal.com/en/search/?query=586DFE4D06A0A1914486869231DD8FB5" title="压缩包多引擎病毒扫描报告" target="_blank">586DFE4D06A0A1914486869231DD8FB5</a></p>
+<div class="quote">开始下载 <strong>Win64AST 1.10 Beta 6 简体中文绿色免费版</strong> (测试版)<br />
+Win64AST_1.10Beta6_PortableSoft.7z (2.85 MB)<br />
+@精品绿色便携软件 &#124; <a class="down" title="Win64AST 1.10 Beta6 下载地址" href="http://www.portablesoft.org/down/2755/">Win64AST 1.10 Beta6 下载页面</a> &#124; <a href="http://www.portablesoft.org/win64ast-legacy-versions/">更多版本下载</a></p>
+<p><b>特别提醒</b>：Win64AST 极易被杀毒软件报毒，建议您关闭杀毒软件再使用本软件，如果发现运行不正常，请仔细看说明文件寻找解决方案。</div>
+<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/powertool/" rel="bookmark" title="PowerTool 64位版 v1.6 - 内核级的手动杀毒、进程管理工具">PowerTool 64位版 v1.6 - 内核级的手动杀毒、进程管理工具 </a></li>
+<li><a href="http://www.portablesoft.org/pc-hunter/" rel="bookmark" title="PC Hunter 1.35 - XueTr 升级版、强大的系统信息查看与手工杀毒辅助软件">PC Hunter 1.35 - XueTr 升级版、强大的系统信息查看与手工杀毒辅助软件 </a></li>
+<li><a href="http://www.portablesoft.org/lockhunter/" rel="bookmark" title="LockHunter绿色免费版 - 解除文件锁定">LockHunter绿色免费版 - 解除文件锁定 </a></li>
+<li><a href="http://www.portablesoft.org/hijack-hunter/" rel="bookmark" title="辅助杀毒小工具 - Hijack Hunter 1.8.4.1中文绿色版">辅助杀毒小工具 - Hijack Hunter 1.8.4.1中文绿色版 </a></li>
+<li><a href="http://www.portablesoft.org/xuetr/" rel="bookmark" title="XueTr绿色便携版：强大的手工杀毒辅助工具">XueTr绿色便携版：强大的手工杀毒辅助工具 </a></li>
+<li><a href="http://www.portablesoft.org/nirlauncher-portable/" rel="bookmark" title="NirLauncher 1.18.23 - 便携式 NirSoft 软件合集">NirLauncher 1.18.23 - 便携式 NirSoft 软件合集 </a></li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.portablesoft.org/win64ast/feed/</wfw:commentRss>
+		<slash:comments>62</slash:comments>
+		</item>
+		<item>
+		<title>Snipaste 1.6 绿色便携版 - 简单但强大的截图+贴图工具</title>
+		<link>http://www.portablesoft.org/snipaste/</link>
+		<comments>http://www.portablesoft.org/snipaste/#respond</comments>
+		<pubDate>Thu, 11 Aug 2016 08:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[黯然过客]]></dc:creator>
+				<category><![CDATA[图形图像]]></category>
+		<category><![CDATA[截图]]></category>
+		<category><![CDATA[截图工具]]></category>
+		<category><![CDATA[截图软件]]></category>
+		<category><![CDATA[贴图]]></category>
+		<category><![CDATA[贴图工具]]></category>
+
+		<guid isPermaLink="false">http://www.portablesoft.org/?p=4039&#038;v=1.6&#038;from=rss</guid>
+		<description><![CDATA[在 V2EX 闲逛时发现了一个很有意思的截图软件：Snipaste，作者 levie 用了三年的业余时间开发了这一个很特别的截图 + 标注 + 贴图工具。我下载看了下，Snipaste 的截图功能已经很丰富了，基本常见的截图模式和操作都支持，使用的是类似 QQ 截图界面，但比 QQ 截图做的更好用，功能更强大些。 Snipaste 支持将剪贴板中的内容转为图片显示，包括剪贴板中的图像、纯文本、HTML 文本、颜色信息、图像文件等等，另外还可以高效地自动选取按钮、文字等界面元素。 Snipaste 目前还没有滚动截图，如果需要截滚动窗口，可以试试 FastStone Capture 或者 PicPick。但作者 levie 说 Snipaste 更重要的功能是贴图，所谓贴图就是将截取的任意数量图片贴到屏幕上显示，类似于桌面便签，可以当作临时笔记、临时记录之用，活用它，将能够大大提高你的生产力。每个贴图窗口都提供了很多功能操作，比如添加阴影、缩放、保存到文件等。 作者 levie 对 Snipaste 软件的介绍： Snipaste 是一个简单但强大的截图工具，也可以让你将截图贴回到屏幕上！ 下载并打开 Snipaste，按下 F1 来开始截图， 选择“复制到剪贴板”，再按 F2，截图就在桌面置顶显示了。就这么简单！ 你还可以将剪贴板里的文字或者颜色信息转化为图片窗口。 你可以缩放、旋转这些贴图窗口，或者把它们变成半透明，甚至让鼠标能穿透它们！ 如果你是程序员、设计师，或者你大部分工作时间都是花在电脑上, 我相信你能体会到 Snipaste 给你带来的效率提升。 另外这里有很多 GIF 动图展示和作者的开发历程：https://www.v2ex.com/t/295433 Snipaste v1.6 2016.08.10 更新日志： Snipaste 相关文件下载 [&#8230;]<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/gadwin-printscreen/" rel="bookmark" title="免费屏幕截图软件：Gadwin PrintScreen中文版">免费屏幕截图软件：Gadwin PrintScreen中文版 </a></li>
+<li><a href="http://www.portablesoft.org/faststone-capture/" rel="bookmark" title="FastStone Capture 8.4 汉化绿色便携版 - 极品屏幕截图工具">FastStone Capture 8.4 汉化绿色便携版 - 极品屏幕截图工具 </a></li>
+<li><a href="http://www.portablesoft.org/tnt-screen-capture/" rel="bookmark" title="屏幕捕捉软件：TNT Screen Capture绿色便携版">屏幕捕捉软件：TNT Screen Capture绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/picpick-portable/" rel="bookmark" title="免费全能截图软件 - PicPick 4.1.5 绿色便携版">免费全能截图软件 - PicPick 4.1.5 绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/evernote-skitch/" rel="bookmark" title="印象笔记·圈点 Evernote Skitch 2.3.0.10 - 优雅的图片标注工具">印象笔记·圈点 Evernote Skitch 2.3.0.10 - 优雅的图片标注工具 </a></li>
+<li><a href="http://www.portablesoft.org/techsmith-snagit-studio/" rel="bookmark" title="TechSmith SnagIt Studio汉化绿色版：优秀的全能截图工具">TechSmith SnagIt Studio汉化绿色版：优秀的全能截图工具 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p>在 V2EX 闲逛时发现了一个很有意思的截图软件：<strong>Snipaste</strong>，作者 <a href="https://www.v2ex.com/member/levie" target="_blank">levie</a> 用了三年的业余时间开发了这一个很特别的<strong>截图 + 标注 + 贴图工具</strong>。我下载看了下，<a href="http://www.portablesoft.org/snipaste/">Snipaste</a> 的截图功能已经很丰富了，基本常见的截图模式和操作都支持，使用的是类似 QQ 截图界面，但比 QQ 截图做的更好用，功能更强大些。</p>
+<p>Snipaste 支持将剪贴板中的内容转为图片显示，包括剪贴板中的图像、纯文本、HTML 文本、颜色信息、图像文件等等，另外还可以高效地自动选取按钮、文字等界面元素。<span id="more-4039"></span></p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2016/07/Snipaste-Capture.jpg" alt="Snipaste 截图" title="Snipaste 截图" /></p>
+<p>Snipaste 目前还没有滚动截图，如果需要截滚动窗口，可以试试 <a href="http://www.portablesoft.org/faststone-capture/">FastStone Capture</a> 或者 <a href="http://www.portablesoft.org/picpick-portable/">PicPick</a>。但作者 levie 说 Snipaste 更重要的功能是<strong>贴图</strong>，所谓贴图就是将截取的任意数量图片贴到屏幕上显示，类似于桌面便签，可以当作临时笔记、临时记录之用，活用它，将能够大大提高你的生产力。每个贴图窗口都提供了很多功能操作，比如添加阴影、缩放、保存到文件等。</p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2016/07/Snipaste-Paste.jpg" alt="Snipaste 贴图" title="Snipaste 贴图" /></p>
+<p>作者 levie 对 <a href="http://www.portablesoft.org/snipaste/">Snipaste</a> 软件的介绍：</p>
+<blockquote><p>Snipaste 是一个简单但强大的截图工具，也可以让你将截图贴回到屏幕上！ 下载并打开 Snipaste，按下 F1 来开始截图， 选择“复制到剪贴板”，再按 F2，截图就在桌面置顶显示了。就这么简单！</p>
+<p>你还可以将剪贴板里的文字或者颜色信息转化为图片窗口。 你可以缩放、旋转这些贴图窗口，或者把它们变成半透明，甚至让鼠标能穿透它们！ 如果你是程序员、设计师，或者你大部分工作时间都是花在电脑上, 我相信你能体会到 Snipaste 给你带来的效率提升。</p></blockquote>
+<p>另外这里有很多 GIF 动图展示和作者的开发历程：<a href="https://www.v2ex.com/t/295433" target="_blank">https://www.v2ex.com/t/295433</a></p>
+<p>Snipaste v1.6 2016.08.10 更新日志：</p>
+<ol><li>修复：自动探测窗口范围功能，对 Windows 标准样式窗口，识别范围大了一圈</li><li>修复：自动探测窗口范围功能，对 QQ 窗口，识别范围大了一圈</li><li>修复：从 Chrome 复制的带特定格式的 HTML 文本，贴出来的图片可能出错</li><li>修复：屏幕 150% DPI 时，颜色按钮的大小不对</li><li>修复：放大镜在贴图窗口上移动时有明显延迟</li><li>改进：更新了部分图标（感谢 像素君）</li><li>新增：（选项）取 Hex 颜色值时不复制 #</li><li>新增：镂空箭头样式</li></ol>
+<h4 id="download">Snipaste 相关文件下载</h4>
+<p>官方网站：<a href="http://zh.snipaste.com/" target="_blank">zh.snipaste.com</a><br />
+解压密码：www.portablesoft.org<br />
+压缩包MD5：<a href="https://www.virustotal.com/en/search/?query=83C092753F086085E5605C55ECF90C45" title="压缩包多引擎病毒扫描报告" target="_blank">83C092753F086085E5605C55ECF90C45</a></p>
+<p>使用说明：下载解压后直接运行 Snipaste.exe 即可，配置会保存到当前目录中的 config.ini 文件中，完全绿色便携。如果无法运行，则需要下载安装 <a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=48145" target="_blank">VC 运行库</a>。</p>
+<div class="quote">开始下载 <strong>Snipaste 1.6 绿色便携版</strong> (32位版+64位版+XP版)<br />
+Snipaste_1.6_PortableSoft.7z (10.33 MB)<br />
+@精品绿色便携软件 &#124; <a class="down" title="Snipaste 1.6 下载地址" href="http://www.portablesoft.org/down/4039/">Snipaste 1.6 软件下载页面</a> &#124; <a target="_blank" title="Snipaste 用户手册" href="https://snipaste.gitbooks.io/snipaste/content/zh/">Snipaste 用户手册</a></p>
+<p>开始下载 Snipaste 1.5 绿色便携版  (32位版+64位版+XP版)<br />
+Snipaste_1.5_PortableSoft.7z (10.11 MB)<br />
+@精品绿色便携软件 &#124; <a title="下载 Snipaste 1.5 绿色版" href="/down/4060/">Snipaste 1.5 下载页面</a></div>
+<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/gadwin-printscreen/" rel="bookmark" title="免费屏幕截图软件：Gadwin PrintScreen中文版">免费屏幕截图软件：Gadwin PrintScreen中文版 </a></li>
+<li><a href="http://www.portablesoft.org/faststone-capture/" rel="bookmark" title="FastStone Capture 8.4 汉化绿色便携版 - 极品屏幕截图工具">FastStone Capture 8.4 汉化绿色便携版 - 极品屏幕截图工具 </a></li>
+<li><a href="http://www.portablesoft.org/tnt-screen-capture/" rel="bookmark" title="屏幕捕捉软件：TNT Screen Capture绿色便携版">屏幕捕捉软件：TNT Screen Capture绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/picpick-portable/" rel="bookmark" title="免费全能截图软件 - PicPick 4.1.5 绿色便携版">免费全能截图软件 - PicPick 4.1.5 绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/evernote-skitch/" rel="bookmark" title="印象笔记·圈点 Evernote Skitch 2.3.0.10 - 优雅的图片标注工具">印象笔记·圈点 Evernote Skitch 2.3.0.10 - 优雅的图片标注工具 </a></li>
+<li><a href="http://www.portablesoft.org/techsmith-snagit-studio/" rel="bookmark" title="TechSmith SnagIt Studio汉化绿色版：优秀的全能截图工具">TechSmith SnagIt Studio汉化绿色版：优秀的全能截图工具 </a></li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.portablesoft.org/snipaste/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Notepad2-mod 4.2.25.980 - 轻量级文本编辑器、代替记事本的最佳选择</title>
+		<link>http://www.portablesoft.org/notepad2-mod-portable/</link>
+		<comments>http://www.portablesoft.org/notepad2-mod-portable/#comments</comments>
+		<pubDate>Tue, 09 Aug 2016 14:53:41 +0000</pubDate>
+		<dc:creator><![CDATA[黯然过客]]></dc:creator>
+				<category><![CDATA[办公软件]]></category>
+		<category><![CDATA[notepad2]]></category>
+		<category><![CDATA[notepad2-mod]]></category>
+		<category><![CDATA[notepad2中文]]></category>
+		<category><![CDATA[notepad2汉化]]></category>
+		<category><![CDATA[notepad替代软件]]></category>
+		<category><![CDATA[文本处理]]></category>
+		<category><![CDATA[文本编辑]]></category>
+		<category><![CDATA[文本编辑器]]></category>
+		<category><![CDATA[记事本替代]]></category>
+
+		<guid isPermaLink="false">http://www.portablesoft.org/?p=2377&#038;v=4.2.25.980&#038;from=rss</guid>
+		<description><![CDATA[Notepad2 是一个相当优秀的轻量级文本编辑器。Notepad2 是基于 Scintilla 开发，体积小巧、运行快速，与系统默认记事本具备相同资源消耗，但提供了大量实用功能，如代码高亮、编码转换、行号显示、多步 Ctrl+Z、增强的查找替换等等，是代替系统默认 Notepad 的极致选择。 Notepad2 是一款开源软件，XhmikosR 又在 Notepad2 基础上二次开发了更加实用强大的 Notepad2-mod，额外提供代码折叠、书签、自动完成、支持更多代码格式高亮等功能，更加地好用了。 由于 Notepad2-mod 支持 NSIS 脚本高亮，也是我目前使用的记事本替代工具，并通过映像劫持方式完美实现了 Notepad2-mod 替换系统记事本，如果 Notepad2-mod 能标签化打开多个文件就完美了。 使用说明：基于 semidio 汉化的 Notepad2-mod 简体中文版制作便携版，2016/8/9 更新版本 Notepad2-mod 4.2.25.980，有需要的可以下载试用，Notepad2_EN.exe 为英文原版，必要时重命名为 Notepad2.exe 后使用。 如果要替换记事本，则运行 !)替换记事本.bat 即可，会将 Notepad2-mod 无缝替换系统默认的记事本，!)还原记事本.bat 则恢复系统默认的记事本关联。由于是通过映像劫持替换的记事本，所以必须以管理员权限运行、并且关闭所有安全类软件，否则可能无法设置！ Notepad2 和 Notepad2-mod 的特色功能： 代码折叠和代码高亮：HTML、XML、PHP、ASP (JS、VBS)、CSS、JavaScript、VBScript、C/C++、C#、Resource Script、Makefiles、Java、Visual Basic、Pascal、Assembly、SQL、Perl、Python、Configuration Files、Apache Config Files、PowerShell、Batch Files、Diff Files、AutoHotkey、AutoIt3、AviSynth、Bash、CMake、Inno Setup、LaTeX、Lua、NSIS、Ruby、Tcl scripts [&#8230;]<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/notepad2-replacement/" rel="bookmark" title="通过映像劫持实现Notepad2替换记事本">通过映像劫持实现Notepad2替换记事本 </a></li>
+<li><a href="http://www.portablesoft.org/editplus/" rel="bookmark" title="功能强大的文本编辑器：EditPlus汉化绿色便携版">功能强大的文本编辑器：EditPlus汉化绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/aptedit/" rel="bookmark" title="AptEdit绿色版：功能丰富的文本/HEX/HTML/程序编辑器">AptEdit绿色版：功能丰富的文本/HEX/HTML/程序编辑器 </a></li>
+<li><a href="http://www.portablesoft.org/gidot-typesetter/" rel="bookmark" title="排版助手(Gidot Typesetter)绿色便携版">排版助手(Gidot Typesetter)绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/hex-editor-ii/" rel="bookmark" title="二进制编辑器：Hex Editor II绿色免安装版">二进制编辑器：Hex Editor II绿色免安装版 </a></li>
+<li><a href="http://www.portablesoft.org/emeditor-pro/" rel="bookmark" title="EmEditor 16.1.3 简体中文便携版 - 强大文本编辑器">EmEditor 16.1.3 简体中文便携版 - 强大文本编辑器 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Notepad2</strong> 是一个相当优秀的轻量级文本编辑器。Notepad2 是基于 Scintilla 开发，体积小巧、运行快速，与系统默认记事本具备相同资源消耗，但提供了大量实用功能，如代码高亮、编码转换、行号显示、多步 Ctrl+Z、增强的查找替换等等，是代替系统默认 Notepad 的极致选择。</p>
+<p><a href="http://www.flos-freeware.ch/notepad2.html" target="_blank">Notepad2</a> 是一款开源软件，XhmikosR 又在 Notepad2 基础上二次开发了更加实用强大的 <strong>Notepad2-mod</strong>，额外提供代码折叠、书签、自动完成、支持更多代码格式高亮等功能，更加地好用了。</p>
+<p>由于 <a href="http://www.portablesoft.org/notepad2-mod-portable/">Notepad2-mod</a> 支持 NSIS 脚本高亮，也是我目前使用的记事本替代工具，并通过映像劫持方式完美实现了 <a href="http://www.portablesoft.org/notepad2-replacement/">Notepad2-mod 替换系统记事本</a>，如果 Notepad2-mod 能标签化打开多个文件就完美了。<span id="more-2377"></span></p>
+<p>使用说明：基于 semidio 汉化的 <a href="http://bbs.kafan.cn/thread-1207150-1-1.html" target="_blank">Notepad2-mod 简体中文版</a>制作便携版，2016/8/9 更新版本 Notepad2-mod 4.2.25.980，有需要的可以下载试用，Notepad2_EN.exe 为英文原版，必要时重命名为 Notepad2.exe 后使用。</p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2013/07/Notepad2-mod-Logo.png" alt="Notepad2-mod" title="Notepad2-mod" /></p>
+<p>如果要替换记事本，则运行 !)替换记事本.bat 即可，会将 Notepad2-mod 无缝替换系统默认的记事本，!)还原记事本.bat 则恢复系统默认的记事本关联。由于是通过映像劫持替换的记事本，所以必须以管理员权限运行、并且关闭所有安全类软件，否则可能无法设置！</p>
+<p>Notepad2 和 Notepad2-mod 的特色功能：</p>
+<ul>
+<li>代码折叠和代码高亮：HTML、XML、PHP、ASP (JS、VBS)、CSS、JavaScript、VBScript、C/C++、C#、Resource Script、Makefiles、Java、Visual Basic、Pascal、Assembly、SQL、Perl、Python、Configuration Files、Apache Config Files、PowerShell、Batch Files、Diff  Files、AutoHotkey、AutoIt3、AviSynth、Bash、CMake、Inno Setup、LaTeX、Lua、NSIS、Ruby、Tcl scripts</li>
+<li>拖曳式文本编辑功能</li>
+<li>基础的正则表达式查找与替换</li>
+<li>便捷的快捷键</li>
+<li>矩形选择文本（Alt+鼠标左键）</li>
+<li>括号配对、自动缩进、长行标记、文本缩放功能</li>
+<li>支持多种编码，包括 Unicode、UTF-8、Unix、Mac 文本</li>
+<li>支持添加书签</li>
+<li>自动完成</li>
+<li>增强的NFO字符画文件</li>
+<li>标记打开的文件中所有相同的文本</li>
+</ul>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2012/04/Notepad2-mod-Portable.png" alt="Notepad2-mod" title="Notepad2-mod" border="0" /></p>
+<p>Notepad2 is a light-weight, free and open source Notepad-like text editor with syntax highlighting for a few commonly used languages. Notepad2-mod is a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting.</p>
+<h4>Notepad2-mod 相关文件下载</h4>
+<p>官方网站：<a href="http://xhmikosr.github.io/notepad2-mod/" target="_blank">xhmikosr.github.io</a><br />
+解压密码：www.portablesoft.org<br />
+压缩包MD5：<a href="https://www.virustotal.com/en/search/?query=649C0895FBBBC03E2B456A7DDF939E04" title="压缩包多引擎病毒扫描报告" target="_blank">649C0895FBBBC03E2B456A7DDF939E04</a></p>
+<div class="quote">开始下载 <strong>Notepad2-mod 4.2.25.980 汉化绿色便携版 (32位版+64位版)</strong><br />
+Notepad2-mod_4.2.25.980_PortableSoft.7z (1.04 MB)<br />
+@精品绿色便携软件 &#124; <a class="down" title="Notepad2-mod 4.2.25.980 下载地址" href="http://www.portablesoft.org/down/2377/">Notepad2-mod 4.2.25.980 下载页面</a> &#124; <a href="http://www.portablesoft.org/notepad2-mod-legacy-versions/">更多版本下载</a></p>
+<p>开始下载 Notepad2-mod 4.2.25.954 汉化绿色便携版 (32位版+64位版)<br />
+Notepad2-mod_4.2.25.954_PortableSoft.7z (906 KB)<br />
+@精品绿色便携软件 &#124; <a title="下载 Notepad2-mod 4.2.25.954" href="/down/4058/">Notepad2-mod 4.2.25.954 下载页面</a></p>
+<p>开始下载 <strong>Notepad2 / Notepad2-Mod zhfi 修改版 (简体中文)</strong><br />
+Notepad2-zhfi.7z (1.75 MB)<br />
+@精品绿色便携软件 &#124; <a title="下载 Notepad2-Mod zhfi" href="/down/3420/">进入软件下载页面</a> &#124; <a target="_blank" href="http://hi.baidu.com/zhfi1022/item/c7e5ef42014167acde2a9ff0">详细介绍</a></div>
+<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/notepad2-replacement/" rel="bookmark" title="通过映像劫持实现Notepad2替换记事本">通过映像劫持实现Notepad2替换记事本 </a></li>
+<li><a href="http://www.portablesoft.org/editplus/" rel="bookmark" title="功能强大的文本编辑器：EditPlus汉化绿色便携版">功能强大的文本编辑器：EditPlus汉化绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/aptedit/" rel="bookmark" title="AptEdit绿色版：功能丰富的文本/HEX/HTML/程序编辑器">AptEdit绿色版：功能丰富的文本/HEX/HTML/程序编辑器 </a></li>
+<li><a href="http://www.portablesoft.org/gidot-typesetter/" rel="bookmark" title="排版助手(Gidot Typesetter)绿色便携版">排版助手(Gidot Typesetter)绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/hex-editor-ii/" rel="bookmark" title="二进制编辑器：Hex Editor II绿色免安装版">二进制编辑器：Hex Editor II绿色免安装版 </a></li>
+<li><a href="http://www.portablesoft.org/emeditor-pro/" rel="bookmark" title="EmEditor 16.1.3 简体中文便携版 - 强大文本编辑器">EmEditor 16.1.3 简体中文便携版 - 强大文本编辑器 </a></li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.portablesoft.org/notepad2-mod-portable/feed/</wfw:commentRss>
+		<slash:comments>107</slash:comments>
+		</item>
+		<item>
+		<title>谷歌浏览器 (Google Chrome) 52.0.2743.116 绿色免安装版+便携版</title>
+		<link>http://www.portablesoft.org/google-chrome/</link>
+		<comments>http://www.portablesoft.org/google-chrome/#comments</comments>
+		<pubDate>Mon, 08 Aug 2016 14:10:14 +0000</pubDate>
+		<dc:creator><![CDATA[黯然过客]]></dc:creator>
+				<category><![CDATA[网络工具]]></category>
+		<category><![CDATA[Blink]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[chrome 绿色]]></category>
+		<category><![CDATA[ChromePlus]]></category>
+		<category><![CDATA[chrome免安装]]></category>
+		<category><![CDATA[chrome绿色版]]></category>
+		<category><![CDATA[Chromium]]></category>
+		<category><![CDATA[Chromium便携版]]></category>
+		<category><![CDATA[Chromium绿色版]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Chrome Portable]]></category>
+		<category><![CDATA[google_chrome]]></category>
+		<category><![CDATA[SunChrome]]></category>
+		<category><![CDATA[WebKit]]></category>
+		<category><![CDATA[便携]]></category>
+		<category><![CDATA[浏览器]]></category>
+		<category><![CDATA[谷歌浏览器]]></category>
+
+		<guid isPermaLink="false">http://www.portablesoft.org/?p=339&#038;v=52.0.2743.116%20%2832-bit%29&#038;from=rss</guid>
+		<description><![CDATA[Google Chrome 是由 Google 开发的一款设计简单、运行高效、支持扩展的浏览器，它基于高速 WebKit/Blink 内核和高性能 JavaScript V8 引擎，在支持多标签浏览的基础上，提供顺畅的浏览体验，并且每个标签都在独立的沙箱内运行，安全性大大提高。 Chrome 便携版说明： 2016/8/8 基于 Google Chrome Stable 52.0.2743.116 制作便携版，直接运行 ChromePortable.exe，然后会生成快捷方式 ChromePortable.lnk，推荐使用此快捷方式启动程序；若之前使用过这里的 Chrome 便携版，则可以将最新的文件解压后覆盖到对应目录，会保留所有的配置，但请注意检查 PortableProfile 是否为空，防止配置文件被覆盖。 注意 Chrome 28 开始使用 Blink 作为浏览器内核，Blink 是开源引擎 WebKit 中 WebCore 元件的一个分支。 Chrome 绿色版说明： 若将 Google Chrome 作为绿色免安装版使用，则可以直接执行主程序 App\Google Chrome\chrome.exe，以默认配置运行 Google Chrome，配置保存在 C:&#92;Documents and Settings&#92;用户名&#92;Local Settings&#92;Application Data&#92;Google&#92;Chrome&#92;User Data 这样的目录下，备份和恢复配置的话请运行 !)保存配置.bat 或 [&#8230;]<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/opera-next/" rel="bookmark" title="Opera Next 17.0.1241.28 便携版 - Opera Chromium 内核浏览器">Opera Next 17.0.1241.28 便携版 - Opera Chromium 内核浏览器 </a></li>
+<li><a href="http://www.portablesoft.org/theworld-portable/" rel="bookmark" title="世界之窗浏览器 6.2.0.128 绿色便携版 - 精简优化版 Chrome 浏览器">世界之窗浏览器 6.2.0.128 绿色便携版 - 精简优化版 Chrome 浏览器 </a></li>
+<li><a href="http://www.portablesoft.org/coolnovo-chromeplus/" rel="bookmark" title="枫树浏览器 CoolNovo 2.0.9.20 绿色便携版 - 最好的 Chrome 浏览器">枫树浏览器 CoolNovo 2.0.9.20 绿色便携版 - 最好的 Chrome 浏览器 </a></li>
+<li><a href="http://www.portablesoft.org/360chrome-portable/" rel="bookmark" title="360极速浏览器 7.5.3.300 绿色便携版 - 高效、稳定的双核浏览器">360极速浏览器 7.5.3.300 绿色便携版 - 高效、稳定的双核浏览器 </a></li>
+<li><a href="http://www.portablesoft.org/liebao-portable/" rel="bookmark" title="猎豹浏览器 4.3 Build 5821 绿色便携版 - 智能双核安全浏览器">猎豹浏览器 4.3 Build 5821 绿色便携版 - 智能双核安全浏览器 </a></li>
+<li><a href="http://www.portablesoft.org/weibo-content-filter/" rel="bookmark" title="眼不见心不烦 1.1.6.1 - 新浪微博非官方功能增强脚本，屏蔽版面模块与任意关键词">眼不见心不烦 1.1.6.1 - 新浪微博非官方功能增强脚本，屏蔽版面模块与任意关键词 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Google Chrome</strong> 是由 Google 开发的一款设计简单、运行高效、支持扩展的浏览器，它基于<strong>高速 WebKit/Blink 内核和高性能 JavaScript V8 引擎</strong>，在支持多标签浏览的基础上，提供顺畅的浏览体验，并且每个标签都在独立的沙箱内运行，安全性大大提高。</p>
+<p>Chrome 便携版说明：</p>
+<p><b>2016/8/8 基于 Google Chrome Stable 52.0.2743.116 制作便携版</b>，直接运行 ChromePortable.exe，然后会生成快捷方式 ChromePortable.lnk，推荐使用此快捷方式启动程序；若之前使用过这里的 Chrome 便携版，则可以将最新的文件解压后覆盖到对应目录，会保留所有的配置，但请注意检查 PortableProfile 是否为空，防止配置文件被覆盖。</p>
+<p>注意 Chrome 28 开始使用 Blink 作为浏览器内核，Blink 是开源引擎 WebKit 中 WebCore 元件的一个分支。<span id="more-339"></span></p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2009/12/Google-Chrome-Thumbnail.jpg" alt="Google Chrome" title="Google Chrome" /></p>
+<p>Chrome 绿色版说明：</p>
+<p>若将 <a href="http://www.portablesoft.org/google-chrome/">Google Chrome</a> 作为<strong>绿色免安装版</strong>使用，则可以直接执行主程序 App\Google Chrome\chrome.exe，以默认配置运行 Google Chrome，配置保存在 C:&#92;Documents and Settings&#92;用户名&#92;Local Settings&#92;Application Data&#92;<b>Google&#92;Chrome&#92;User Data</b> 这样的目录下，备份和恢复配置的话请运行 <b>!)保存配置.bat</b> 或 !)恢复配置.bat，会保存到当前目录的 Profile 文件夹内。</p>
+<p>ChromePortable.exe 作为 Chrome Loader 为 Chrome.exe 添加启动参数，并保存到 ChromePortable.ini 中，后供 ChromePortable.exe 读取调用，所以请保持 ChromePortable.exe 和 ChromePortable.ini 的完整性。</p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2010/09/Google_Chrome.png" alt="Google Chrome Portable" title="Google Chrome Portable" border="0" /></p>
+<p>下面是 Google Chrome Portable 的使用须知：</p>
+<ul>
+<li>便携版配置文件固定保存到 App\Google Chrome\PortableProfile 文件夹中；</li>
+<li>如果要将 Chrome 便携版<strong>锁定到任务栏</strong>，请将快捷方式 ChromePortable.lnk 拖拽到任务栏即可；</li>
+<li>移动软件目录或对 ChromePortable.ini 有任何修改的话，必须重新运行 ChromePortable.exe 以生成新的快捷方式；</li>
+<li><span style="color: #FF0000;">特别提醒：升级便携版时，请务必注意备份好本机 ChromePortable.ini 文件中的设置，以免自定义参数丢失；</span></li>
+<li><b>本便携版支持设置为默认浏览器</b> (有限支持、非完美支持)，方法是到 ChromePortable.ini 中设置 defaultbroswer=1，再次启动 ChromePortable.exe 就可以了，Vista/Windows 7/8 系统必须以「管理员权限」运行；</li>
+<li>如不喜欢本站便携版，可以试用下 <a title="Google Chrome Portable" target="_blank" href="http://portableapps.com/apps/internet/google_chrome_portable">Google Chrome Portable</a> by Portableapps.com。</li>
+</ul>
+<p><b>ChromePortable.ini</b> 参数说明：</p>
+<ul>
+<li>可自定义配置/数据目录：到 ChromePortable.ini 文件中设置 <strong>--user-data-dir</strong> 的值；</li>
+<li>可自定义缓存目录和缓存大小：到 ChromePortable.ini 文件中设置 --disk-cache-dir 和 --disk-cache-size 的值；</li>
+<li>默认添加 --enable-easy-off-store-extension-install 参数，方便安装 Chrome Web Store 之外的第三方扩展应用及脚本程序；</li>
+<li>可添加自定义启动参数：修改 custom-switches 的值，可添加除了 --user-data-dir、--disk-cache-dir、--disk-cache-size 之外的任意参数。</li>
+</ul>
+<p><a href="http://xiangce.baidu.com/picture/detail/4c630f31fd5fcaf7ba2955008bcf21198c30bf55" target="_blank"><img src="http://www.portablesoft.org/wp-content/bo/attachment/200912/1260191109_14356e5a.jpg" alt="谷歌浏览器" title="点击查看原图" border="0" /></a></p>
+<p>Google Chrome is a web browser developed by Google that uses the WebKit layout engine and application framework and combines a minimal design with sophisticated technology to make the web faster, safer, and easier.</p>
+<p>Google Chrome 52.0.2743.116 <a href="http://googlechromereleases.blogspot.com/" target="_blank">更新日志</a>：</p>
+<ol><li>This update includes 10 security fixes.</li></ol>
+<h4>Google Chrome 相关文件下载</h4>
+<p>官方网站：<a href="http://www.google.com/chrome?hl=zh-cn" target="_blank">www.google.com</a><br />
+解压密码：www.portablesoft.org<br />
+压缩包MD5：<a href="https://www.virustotal.com/en/search/?query=021D44F888B2352ADCC28B967E562F37" title="压缩包多引擎病毒扫描报告" target="_blank">021D44F888B2352ADCC28B967E562F37</a></p>
+<div class="quote">开始下载 <strong>Google Chrome 52.0.2743.116 绿色免安装版+便携版 (32位版)</strong><br />
+GoogleChrome_x86_52.0.2743.116_PortableSoft.7z (40.34 MB)<br />
+@精品绿色便携软件 &#124; <a class="down" title="Google Chrome Portable 52.0.2743.116 (32-bit) 下载地址" href="http://www.portablesoft.org/down/339/">Google Chrome Portable 52.0.2743.116 (32-bit) 下载页面</a> &#124; <a href="http://www.portablesoft.org/google-chrome-legacy-versions/">更多版本下载</a></p>
+<p>开始下载 <strong>Google Chrome 52.0.2743.116 绿色免安装版+便携版 (64位版)</strong><br />
+GoogleChrome_52.0.2743.116_PortableSoft.7z (46.92 MB)<br />
+@精品绿色便携软件 &#124; <a title="下载 Google Chrome 52.0.2743.116 (64-bit)" href="/down/4057/">Google Chrome 52.0.2743.116 (64-bit) 下载页面</a></p>
+<p>特别推荐：</p>
+<p><a href="http://www.portablesoft.org/coolnovo-chromeplus/">枫树浏览器便携版</a> &#124; <a href="http://www.portablesoft.org/360chrome-portable/">360极速浏览器便携版</a> &#124; <a href="http://www.portablesoft.org/liebao-portable/">猎豹安全浏览器便携版</a> &#124; <a href="http://www.portablesoft.org/theworld-portable/">世界之窗浏览器 6 便携版</a></div>
+<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/opera-next/" rel="bookmark" title="Opera Next 17.0.1241.28 便携版 - Opera Chromium 内核浏览器">Opera Next 17.0.1241.28 便携版 - Opera Chromium 内核浏览器 </a></li>
+<li><a href="http://www.portablesoft.org/theworld-portable/" rel="bookmark" title="世界之窗浏览器 6.2.0.128 绿色便携版 - 精简优化版 Chrome 浏览器">世界之窗浏览器 6.2.0.128 绿色便携版 - 精简优化版 Chrome 浏览器 </a></li>
+<li><a href="http://www.portablesoft.org/coolnovo-chromeplus/" rel="bookmark" title="枫树浏览器 CoolNovo 2.0.9.20 绿色便携版 - 最好的 Chrome 浏览器">枫树浏览器 CoolNovo 2.0.9.20 绿色便携版 - 最好的 Chrome 浏览器 </a></li>
+<li><a href="http://www.portablesoft.org/360chrome-portable/" rel="bookmark" title="360极速浏览器 7.5.3.300 绿色便携版 - 高效、稳定的双核浏览器">360极速浏览器 7.5.3.300 绿色便携版 - 高效、稳定的双核浏览器 </a></li>
+<li><a href="http://www.portablesoft.org/liebao-portable/" rel="bookmark" title="猎豹浏览器 4.3 Build 5821 绿色便携版 - 智能双核安全浏览器">猎豹浏览器 4.3 Build 5821 绿色便携版 - 智能双核安全浏览器 </a></li>
+<li><a href="http://www.portablesoft.org/weibo-content-filter/" rel="bookmark" title="眼不见心不烦 1.1.6.1 - 新浪微博非官方功能增强脚本，屏蔽版面模块与任意关键词">眼不见心不烦 1.1.6.1 - 新浪微博非官方功能增强脚本，屏蔽版面模块与任意关键词 </a></li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.portablesoft.org/google-chrome/feed/</wfw:commentRss>
+		<slash:comments>386</slash:comments>
+		</item>
+		<item>
+		<title>Everything 1.4.0.713 Beta 便携版 - 最快最好用的文件搜索工具，新增64位版</title>
+		<link>http://www.portablesoft.org/everything-portable/</link>
+		<comments>http://www.portablesoft.org/everything-portable/#comments</comments>
+		<pubDate>Thu, 04 Aug 2016 15:45:55 +0000</pubDate>
+		<dc:creator><![CDATA[黯然过客]]></dc:creator>
+				<category><![CDATA[办公软件]]></category>
+		<category><![CDATA[系统工具]]></category>
+		<category><![CDATA[everything]]></category>
+		<category><![CDATA[Everything Portable]]></category>
+		<category><![CDATA[Everything中文版]]></category>
+		<category><![CDATA[Everything绿色版]]></category>
+		<category><![CDATA[Everything软件]]></category>
+		<category><![CDATA[搜索]]></category>
+		<category><![CDATA[文件搜索]]></category>
+		<category><![CDATA[文件搜索器]]></category>
+		<category><![CDATA[文件搜索工具]]></category>
+
+		<guid isPermaLink="false">http://www.portablesoft.org/?p=3313&#038;v=1.4.0.713&#038;from=rss</guid>
+		<description><![CDATA[Everything 大家应该比较熟悉了，这是目前速度最快的文件名搜索工具，可以极速搜索、瞬间定位文件，在输入搜索词时即时显示匹配结果，是每一个用户都需要安装的效率工具。 神器 Everything 最具优势的就是其超快的搜索速度，使用起来也极其简单，键入搜索词，所有匹配的文件或文件夹都会实时显示，再配合快捷键打开 Everything 搜索窗口，搜索文件就变成一件极其轻松、高效的事情了。 当然 Everything 也提供了高级搜索用法，如搜索操作符、通配符、正则表达式等等，灵活使用的话，就能实现各种检索需求，具体可以从帮助菜单中学习这些技巧，更多高级用法还可以参见「善用佳软」的专题文章「Everything: 速度最快的文件名搜索工具」。 使用说明：2016/8/4 更新版本为 Everything 1.4.0.713 Beta 测试版，解压后直接运行 Everything.exe 即可 (需要管理员权限)，第一次会有一个索引数据初始化过程，但它通过读取 NTFS USN 日志建立索引，所以索引速度也极快。 Everything 从 1.3.3.653 Beta 开始添加了 64 位版，这样在 64 位系统下就更加高效稳定了，要使用 64 位版，将 Everything_x64.exe 重命名为 Everything.exe 即可。 打开程序后，需要到菜单 Tools->Options->General->Language 中选择「简体中文」，切换为中文界面。由于工作原理的限制，Everything 目前只支持 NTFS 文件系统，如果需要快速搜索 FAT32 文件系统，则可以尝试 Quick Search 或淘奇桌面，而全文搜索的话，FileLocator 是目前最好的免索引全文搜索工具。 Everything 1.4.0.713 Beta 更新日志： Everything [&#8230;]<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/quick-search/" rel="bookmark" title="Quick Search 1.1.0.189汉化绿色版：快速文件名搜索工具">Quick Search 1.1.0.189汉化绿色版：快速文件名搜索工具 </a></li>
+<li><a href="http://www.portablesoft.org/filelocator-pro-portable/" rel="bookmark" title="最好的免索引全文搜索工具 - FileLocator Pro 7.2.2038 中文绿色便携版">最好的免索引全文搜索工具 - FileLocator Pro 7.2.2038 中文绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/istart/" rel="bookmark" title="淘奇桌面：极速文件搜索工具">淘奇桌面：极速文件搜索工具 </a></li>
+<li><a href="http://www.portablesoft.org/open-freely-portable/" rel="bookmark" title="免费全能文件查看器：Open Freely绿色便携版">免费全能文件查看器：Open Freely绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/windows-search-indexing-service/" rel="bookmark" title="[谣言粉碎机] 索引服务，Windows 7 性能杀手？">[谣言粉碎机] 索引服务，Windows 7 性能杀手？ </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Everything</strong> 大家应该比较熟悉了，这是目前速度最快的<strong>文件名搜索工具</strong>，可以极速搜索、瞬间定位文件，在输入搜索词时即时显示匹配结果，是每一个用户都需要安装的效率工具。</p>
+<p>神器 <a href="http://www.portablesoft.org/everything-portable/">Everything</a> 最具优势的就是其<strong>超快的搜索速度</strong>，使用起来也极其简单，键入搜索词，所有匹配的文件或文件夹都会实时显示，再配合快捷键打开 Everything 搜索窗口，搜索文件就变成一件极其轻松、高效的事情了。<span id="more-3313"></span></p>
+<p>当然 Everything 也提供了高级搜索用法，如搜索操作符、通配符、正则表达式等等，灵活使用的话，就能实现各种检索需求，具体可以从帮助菜单中学习这些技巧，更多高级用法还可以参见「善用佳软」的专题文章「<a href="http://xbeta.info/everything-search-tool.htm" target="_blank">Everything: 速度最快的文件名搜索工具</a>」。</p>
+<p><a href="http://www.portablesoft.org/wp-content/uploads/2013/06/Everything-Portable.png" title="点击查看原图" target="_blank"><img src="http://www.portablesoft.org/wp-content/uploads/2013/06/Everything-Portable.png" width="600" height="456" alt="Everything Portable" /></a></p>
+<p>使用说明：<b>2016/8/4 更新版本为 Everything 1.4.0.713 Beta 测试版</b>，解压后直接运行 Everything.exe 即可 (需要管理员权限)，第一次会有一个索引数据初始化过程，但它通过读取 NTFS USN 日志建立索引，所以索引速度也极快。</p>
+<p>Everything 从 1.3.3.653 Beta 开始添加了 64 位版，这样在 64 位系统下就更加高效稳定了，要使用 64 位版，将 Everything_x64.exe 重命名为 Everything.exe 即可。</p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2013/06/Everything-Logo.jpg" alt="Everything Portable" title="Everything Portable" /></p>
+<p>打开程序后，需要到菜单 Tools->Options->General->Language 中选择「简体中文」，切换为中文界面。由于工作原理的限制，<a href="http://www.portablesoft.org/everything-portable/">Everything</a> 目前只支持 NTFS 文件系统，如果需要快速搜索 FAT32 文件系统，则可以尝试 <a href="http://www.portablesoft.org/quick-search/">Quick Search</a> 或<a href="http://www.portablesoft.org/istart/">淘奇桌面</a>，而全文搜索的话，<a href="http://www.portablesoft.org/filelocator-pro-portable/">FileLocator</a> 是目前最好的免索引全文搜索工具。</p>
+<p>Everything 1.4.0.713 Beta <a target="_blank" href="http://www.voidtools.com/Changes.txt" target="_blank">更新日志</a>：</p>
+<ol><li>Fixed an issue with indexing deleted attributes in ReFS volumes</li><li>Fixed an issue with indexing very large ReFS volumes</li><li>Fixed an issue with indexing subst volumes</li><li>Fixed an issue with inline renaming and focus wrapping</li><li>Added option to remember search in bookmarks</li><li>Added option to remember view in bookmarks</li><li>Improved unicode normalization</li><li>Improved open path command</li><li>Improved tooltips</li></ol>
+<p>Everything search engine Locate files and folders by name instantly: Small installation file, Clean and simple user interface, Quick file indexing, Quick searching, Minimal resource usage, Share files with others easily, Real-time updating。</p>
+<h4 id="download">Everything 相关文件下载</h4>
+<p>官方网站：<a href="http://www.voidtools.com/" target="_blank">www.voidtools.com</a><br />
+解压密码：www.portablesoft.org<br />
+压缩包MD5：<a href="https://www.virustotal.com/en/search/?query=02872AD8D814C07E6F7EF17003448A8C" title="压缩包多引擎病毒扫描报告" target="_blank">02872AD8D814C07E6F7EF17003448A8C</a></p>
+<div class="quote">开始下载 <strong>Everything 1.4.0.713 Beta 中文绿色便携版 (32位版+64位版、测试版)</strong><br />
+Everything_1.4.0.713_PortableSoft.7z (1.20 MB)<br />
+@精品绿色便携软件 &#124; <a class="down" title="Everything 1.4.0.713 下载地址" href="http://www.portablesoft.org/down/3313/">Everything 1.4.0.713 下载页面</a> &#124; <a href="http://www.portablesoft.org/everything-legacy-versions/">更多版本下载</a></p>
+<p>开始下载 Everything 1.3.4.686 Stable 中文绿色便携版 (32位版+64位版、正式版)<br />
+Everything_1.3.4.686_PortableSoft.7z (995 KB)<br />
+@精品绿色便携软件 &#124; <a title="Everything 1.3.4.686 下载地址" href="/down/3985/">Everything 1.3.4.686 下载页面</a></p>
+<p>开始下载 Everything 1.2.1.371 Stable 中文绿色便携版 (32位版、正式版)<br />
+Everything_1.2.1.371_PortableSoft.rar (390 KB)<br />
+@精品绿色便携软件 &#124; <a title="下载 Everything 1.2.1.371" href="/down/3315/">Everything 1.2.1.371 下载页面</a></div>
+<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/quick-search/" rel="bookmark" title="Quick Search 1.1.0.189汉化绿色版：快速文件名搜索工具">Quick Search 1.1.0.189汉化绿色版：快速文件名搜索工具 </a></li>
+<li><a href="http://www.portablesoft.org/filelocator-pro-portable/" rel="bookmark" title="最好的免索引全文搜索工具 - FileLocator Pro 7.2.2038 中文绿色便携版">最好的免索引全文搜索工具 - FileLocator Pro 7.2.2038 中文绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/istart/" rel="bookmark" title="淘奇桌面：极速文件搜索工具">淘奇桌面：极速文件搜索工具 </a></li>
+<li><a href="http://www.portablesoft.org/open-freely-portable/" rel="bookmark" title="免费全能文件查看器：Open Freely绿色便携版">免费全能文件查看器：Open Freely绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/windows-search-indexing-service/" rel="bookmark" title="[谣言粉碎机] 索引服务，Windows 7 性能杀手？">[谣言粉碎机] 索引服务，Windows 7 性能杀手？ </a></li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.portablesoft.org/everything-portable/feed/</wfw:commentRss>
+		<slash:comments>45</slash:comments>
+		</item>
+		<item>
+		<title>MKVToolNix 9.3.1 - MKV无损剪辑、分割、封装、合并工具</title>
+		<link>http://www.portablesoft.org/mkvtoolnix/</link>
+		<comments>http://www.portablesoft.org/mkvtoolnix/#comments</comments>
+		<pubDate>Thu, 04 Aug 2016 15:32:45 +0000</pubDate>
+		<dc:creator><![CDATA[黯然过客]]></dc:creator>
+				<category><![CDATA[媒体工具]]></category>
+		<category><![CDATA[Matroska]]></category>
+		<category><![CDATA[MKV]]></category>
+		<category><![CDATA[mkv 合并]]></category>
+		<category><![CDATA[mkvextract GUI]]></category>
+		<category><![CDATA[MKVExtractGUI]]></category>
+		<category><![CDATA[mkvmerge GUI]]></category>
+		<category><![CDATA[mkvtoolnix]]></category>
+		<category><![CDATA[MKV分割]]></category>
+		<category><![CDATA[mkv分割器]]></category>
+		<category><![CDATA[mkv分离器]]></category>
+		<category><![CDATA[mkv切割]]></category>
+		<category><![CDATA[MKV剪辑]]></category>
+		<category><![CDATA[MKV合并器]]></category>
+		<category><![CDATA[mkv封装软件]]></category>
+		<category><![CDATA[mkv提取工具]]></category>
+		<category><![CDATA[mkv无损分割]]></category>
+		<category><![CDATA[mkv无损切割]]></category>
+		<category><![CDATA[MKV编辑器]]></category>
+		<category><![CDATA[mkv视频分割]]></category>
+		<category><![CDATA[视频分割]]></category>
+		<category><![CDATA[视频剪切]]></category>
+		<category><![CDATA[视频剪辑器]]></category>
+		<category><![CDATA[视频剪辑软件]]></category>
+		<category><![CDATA[视频无损剪辑]]></category>
+		<category><![CDATA[视频编辑软件]]></category>
+		<category><![CDATA[视频音频合并]]></category>
+
+		<guid isPermaLink="false">http://www.portablesoft.org/?p=2581&#038;v=9.3.1%20%2832-bit%29&#038;from=rss</guid>
+		<description><![CDATA[MKV 是一种优秀的多媒体容器格式，它可把多种不同编码的视频及16条或以上不同格式的音频和语言不同的字幕封装到一个 MKV 文件中，而 MKVToolNix 是一款免费开源的 MKV 编辑器和工具集，能够合成、编辑 Matroska MKV 文件。 MKVToolNix 包含了以下几个 MKV 专用处理工具： mkvmerge：将多媒体文件封装、合并、混流为 MKV 文件； mkvinfo：输出 MKV 文件组件和编码信息； mkvextract：从 MKV 文件中提取视频、音频和字幕轨道； mkvpropedit：直接修改现有 MKV 文件的属性而无需重混流； mmg：mkvmerge GUI，并包含了章节编辑器和头部编辑器。 使用说明：2016/8/4 更新版本为 MKVToolNix 9.3.1，现在 MKVToolNix 有64位版本了，绿色便携版直接运行主程序 mkvtoolnix-gui.exe 即可，配置保存到 mkvtoolnix.ini 文件中，默认简体中文界面，软件不能放在中文目录，否则只能显示英文界面。 Matroska MKV 制作与合并 MKVToolNix 中的 Mkvmerge GUI 允许你导入多个视频、音频、字幕轨道，混流合并一个新的 MKV 文件，并可以设置导出视频的宽高比、显示比例、帧频等等。 Matroska MKV 分离与提取 MKVToolNix 中的 MKVExtractGUI [&#8230;]<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/solveigmm-avi-trimmer/" rel="bookmark" title="免费 AVI/MKV 编辑器 - SolveigMM AVI Trimmer 2.1.1307.29 中文绿色便携版">免费 AVI/MKV 编辑器 - SolveigMM AVI Trimmer 2.1.1307.29 中文绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/idoo-video-editor/" rel="bookmark" title="idoo Video Editor 3.0.0 便携版 - 强大的多功能视频编辑器">idoo Video Editor 3.0.0 便携版 - 强大的多功能视频编辑器 </a></li>
+<li><a href="http://www.portablesoft.org/solveigmm-video-splitter/" rel="bookmark" title="方便视频分割/合并工具 - SolveigMM Video Splitter 3.6.1309.3 绿色便携版">方便视频分割/合并工具 - SolveigMM Video Splitter 3.6.1309.3 绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/avs-video-remaker/" rel="bookmark" title="支持超多格式的视频剪辑软件 - AVS Video ReMaker 4.1.3.149汉化绿色版">支持超多格式的视频剪辑软件 - AVS Video ReMaker 4.1.3.149汉化绿色版 </a></li>
+<li><a href="http://www.portablesoft.org/boilsoft-video-splitter/" rel="bookmark" title="强大视频分割软件 - Boilsoft Video Splitter 7.02.2绿色便携版">强大视频分割软件 - Boilsoft Video Splitter 7.02.2绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/xilisoft-video-editor-portable/" rel="bookmark" title="视频合并、分割、剪切工具 - Xilisoft Video Editor 2.2.0.1023绿色便携版">视频合并、分割、剪切工具 - Xilisoft Video Editor 2.2.0.1023绿色便携版 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p>MKV 是一种优秀的多媒体容器格式，它可把多种不同编码的视频及16条或以上不同格式的音频和语言不同的字幕封装到一个 MKV 文件中，而 <strong>MKVToolNix</strong> 是一款免费开源的 MKV 编辑器和工具集，能够合成、编辑  Matroska MKV 文件。</p>
+<p><a href="http://www.portablesoft.org/mkvtoolnix/">MKVToolNix</a> 包含了以下几个 MKV 专用处理工具：</p>
+<ul>
+<li>mkvmerge：将多媒体文件封装、合并、混流为 MKV 文件；</li>
+<li>mkvinfo：输出 MKV 文件组件和编码信息；</li>
+<li>mkvextract：从 MKV 文件中提取视频、音频和字幕轨道；</li>
+<li>mkvpropedit：直接修改现有 MKV 文件的属性而无需重混流；</li>
+<li>mmg：mkvmerge GUI，并包含了章节编辑器和头部编辑器。</li>
+</ul>
+<p><span id="more-2581"></span></p>
+<p>使用说明：<b>2016/8/4 更新版本为 MKVToolNix 9.3.1</b>，现在 MKVToolNix  有64位版本了，绿色便携版直接运行主程序 <b>mkvtoolnix-gui.exe</b> 即可，配置保存到 mkvtoolnix.ini 文件中，默认简体中文界面，<b>软件不能放在中文目录</b>，否则只能显示英文界面。</p>
+<h4><strong>Matroska MKV 制作与合并</strong></h4>
+<p><a href="http://xiangce.baidu.com/picture/detail/3b570e37c0c373ba77442d27bdfd5b2d4403393a" target="_blank"><img src="http://www.portablesoft.org/wp-content/uploads/2012/06/MKVToolNix-mkvmerge-GUI.png" alt="MKVToolNix" title="点击查看大图" border="0" /></a></p>
+<p>MKVToolNix 中的 <strong>Mkvmerge GUI</strong> 允许你导入多个视频、音频、字幕轨道，混流合并一个新的 MKV 文件，并可以设置导出视频的宽高比、显示比例、帧频等等。</p>
+<h4><strong>Matroska MKV 分离与提取</strong></h4>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2012/06/MKVExtractGUI.png" alt="MKVExtractGUI" title="MKVExtractGUI" border="0" /></p>
+<p>MKVToolNix 中的 <strong>MKVExtractGUI</strong> 则可以从现有的 MKV 文件中提取其中的一个或多个视频、音频或者字幕信息，是专业的 MKV 分离工具。</p>
+<h4><strong>Matroska MKV 剪辑与分割</strong></h4>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2012/06/mkvmerge-GUI.png" alt="mkvmerge GUI" title="mkvmerge GUI" border="0" /></p>
+<p>MKVToolNix 是专用的 MKV 剪辑工具，提供了4种 MKV 切割模式，包括按尺寸、按时长、按特定时间码和按分段，都是<strong>无损剪辑、分割 MKV 过程</strong>，能够同步切割视频、音频和字幕轨道。比之前介绍的所有支持 MKV 分割的工具都要好用，包括 <a href="http://www.portablesoft.org/boilsoft-video-splitter/">Boilsoft Video Splitter</a>、<a href="http://www.portablesoft.org/solveigmm-avi-trimmer/">SolveigMM AVI Trimmer</a> 等。</p>
+<p>MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows. </p>
+<p>MKVToolNix 9.3.1 <a href="http://www.bunkus.org/videotools/mkvtoolnix/doc/ChangeLog" target="_blank">更新日志</a>：</p>
+<ol><li>Fix invalid probe range percentage</li></ol>
+<h4 id="download">MKVToolNix 相关文件下载</h4>
+<p>官方网站：<a href="http://www.bunkus.org/videotools/mkvtoolnix/" target="_blank">www.bunkus.org</a><br />
+解压密码：www.portablesoft.org<br />
+压缩包MD5：<a href="https://www.virustotal.com/en/search/?query=1C36ADAC2A1480B12762B57BF9BD322A" title="压缩包多引擎病毒扫描报告" target="_blank">1C36ADAC2A1480B12762B57BF9BD322A</a></p>
+<div class="quote">开始下载 <strong>MKVToolNix 9.3.1 (Mkvmerge GUI+MKVExtractGUI) 中文绿色便携版</strong> (32-bit, 32位版)<br />
+MKVToolnix_x86_9.3.1_PortableSoft.7z (11.02 MB)<br />
+@精品绿色便携软件 &#124; <a class="down" title="MKVToolNix 9.3.1 (32-bit) 下载地址" href="http://www.portablesoft.org/down/2581/">MKVToolNix 9.3.1 (32-bit) 下载页面</a> &#124; <a href="http://www.portablesoft.org/mkvtoolnix-legacy-versions/">更多版本下载</a></p>
+<p>开始下载 MKVToolNix 9.3.1 (Mkvmerge GUI+MKVExtractGUI) 中文绿色便携版 (64-bit, 64位版)<br />
+MKVToolnix_9.3.1_PortableSoft.7z (11.37 MB)<br />
+@精品绿色便携软件 &#124; <a title="下载 MKVToolNix 9.3.1 (64-bit)" href="/down/4053/">MKVToolNix 9.3.1 (64-bit) 下载页面</a></div>
+<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/solveigmm-avi-trimmer/" rel="bookmark" title="免费 AVI/MKV 编辑器 - SolveigMM AVI Trimmer 2.1.1307.29 中文绿色便携版">免费 AVI/MKV 编辑器 - SolveigMM AVI Trimmer 2.1.1307.29 中文绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/idoo-video-editor/" rel="bookmark" title="idoo Video Editor 3.0.0 便携版 - 强大的多功能视频编辑器">idoo Video Editor 3.0.0 便携版 - 强大的多功能视频编辑器 </a></li>
+<li><a href="http://www.portablesoft.org/solveigmm-video-splitter/" rel="bookmark" title="方便视频分割/合并工具 - SolveigMM Video Splitter 3.6.1309.3 绿色便携版">方便视频分割/合并工具 - SolveigMM Video Splitter 3.6.1309.3 绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/avs-video-remaker/" rel="bookmark" title="支持超多格式的视频剪辑软件 - AVS Video ReMaker 4.1.3.149汉化绿色版">支持超多格式的视频剪辑软件 - AVS Video ReMaker 4.1.3.149汉化绿色版 </a></li>
+<li><a href="http://www.portablesoft.org/boilsoft-video-splitter/" rel="bookmark" title="强大视频分割软件 - Boilsoft Video Splitter 7.02.2绿色便携版">强大视频分割软件 - Boilsoft Video Splitter 7.02.2绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/xilisoft-video-editor-portable/" rel="bookmark" title="视频合并、分割、剪切工具 - Xilisoft Video Editor 2.2.0.1023绿色便携版">视频合并、分割、剪切工具 - Xilisoft Video Editor 2.2.0.1023绿色便携版 </a></li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.portablesoft.org/mkvtoolnix/feed/</wfw:commentRss>
+		<slash:comments>142</slash:comments>
+		</item>
+		<item>
+		<title>快速产品原型设计软件 - Axure RP Pro 8.0.0.3303 汉化绿色版 (正式版)</title>
+		<link>http://www.portablesoft.org/axure-rp-pro/</link>
+		<comments>http://www.portablesoft.org/axure-rp-pro/#comments</comments>
+		<pubDate>Mon, 01 Aug 2016 13:08:22 +0000</pubDate>
+		<dc:creator><![CDATA[黯然过客]]></dc:creator>
+				<category><![CDATA[办公软件]]></category>
+		<category><![CDATA[图形图像]]></category>
+		<category><![CDATA[Axure]]></category>
+		<category><![CDATA[Axure RP]]></category>
+		<category><![CDATA[Axure RP Pro]]></category>
+		<category><![CDATA[Axure RP汉化版]]></category>
+		<category><![CDATA[Prototype]]></category>
+		<category><![CDATA[Prototype Design]]></category>
+		<category><![CDATA[wireframe]]></category>
+		<category><![CDATA[交互原型设计]]></category>
+		<category><![CDATA[产品原型设计]]></category>
+		<category><![CDATA[产品经理工具]]></category>
+		<category><![CDATA[产品设计工具]]></category>
+		<category><![CDATA[流程图]]></category>
+		<category><![CDATA[流程图绘制]]></category>
+		<category><![CDATA[示意图]]></category>
+		<category><![CDATA[线框图]]></category>
+		<category><![CDATA[绘图工具]]></category>
+		<category><![CDATA[网站架构图]]></category>
+
+		<guid isPermaLink="false">http://www.portablesoft.org/?p=1099&#038;v=8.0.0.3303&#038;from=rss</guid>
+		<description><![CDATA[Axure RP Pro 是一个产品经理必备的交互原型设计工具，能够高效率制作产品原型，快速绘制线框图、流程图、网站架构图、示意图、HTML 模版等。 Axure RP Pro 是专为 Rapid Prototype Design 而生，它可以辅助产品经理快速设计完整的产品原型，并结合批注、说明以及流程图、框架图等元素将产品完整地表述给各方面设计人员，如 UI、UE 等等，并在讨论中不断完善。 作为办公自动化辅助工具，Axure 更适合 Web Prototype 制作，Axure 8 在 Axure 7、Axure 6 基础上做了比较多的改进，旨在提高原型设计效率，包括重新组织界面功能、自适应视图、新增多个形状、样式、事件、动画效果支持等，具体可见这里的介绍。 使用说明：2016/4/15，Axure 8 由 Beta 升级为正式版。Axure 8 新增了钢笔工具、页面快照和更多动画效果支持等。2016/8/1 基于 Axure RP 8.0.0.3303 Stable 制作 Axure 8.0.0.3303 汉化绿色版。 使用前的准备：使用 Axure RP Pro 之前必须先安装 .NET Framework 4.0 组件； 安装说明：以管理员权限运行 !-AxureRP8Poratble.exe 完成初始化安装，以后直接执行主程序 AxureRP8.exe [&#8230;]<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/pacestar-lanflow/" rel="bookmark" title="Pacestar LanFlow绿色免安装版：网络拓扑图绘制工具">Pacestar LanFlow绿色免安装版：网络拓扑图绘制工具 </a></li>
+<li><a href="http://www.portablesoft.org/edraw-mind-map/" rel="bookmark" title="Edraw Mind Map中文绿色免费版[增强版]：专业多功能绘图软件">Edraw Mind Map中文绿色免费版[增强版]：专业多功能绘图软件 </a></li>
+<li><a href="http://www.portablesoft.org/edraw-max/" rel="bookmark" title="亿图图示专家 - Edraw Max 6.8中文绿色版">亿图图示专家 - Edraw Max 6.8中文绿色版 </a></li>
+<li><a href="http://www.portablesoft.org/adobe-fireworks-cs6/" rel="bookmark" title="Adobe Fireworks CS6 12.0.0.236 简体中文精简绿色版">Adobe Fireworks CS6 12.0.0.236 简体中文精简绿色版 </a></li>
+<li><a href="http://www.portablesoft.org/processon/" rel="bookmark" title="ProcessOn - 优秀的在线流程图绘制工具，实时协作绘图与共享">ProcessOn - 优秀的在线流程图绘制工具，实时协作绘图与共享 </a></li>
+<li><a href="http://www.portablesoft.org/adobe-fireworks-cs4/" rel="bookmark" title="Adobe Fireworks CS4英文/简体中文/繁体中文绿色特别版">Adobe Fireworks CS4英文/简体中文/繁体中文绿色特别版 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Axure RP Pro</strong> 是一个产品经理必备的<strong>交互原型设计工具</strong>，能够高效率制作产品原型，快速绘制线框图、流程图、网站架构图、示意图、HTML 模版等。</p>
+<p>Axure RP Pro 是专为 Rapid Prototype Design 而生，它可以辅助产品经理快速设计完整的<strong>产品原型</strong>，并结合批注、说明以及流程图、框架图等元素将产品完整地表述给各方面设计人员，如 UI、UE 等等，并在讨论中不断完善。</p>
+<p>作为办公自动化辅助工具，<a href="http://www.portablesoft.org/axure-rp-pro/">Axure</a> 更适合 <strong>Web Prototype</strong> 制作，Axure 8 在 Axure 7、Axure 6 基础上做了比较多的改进，旨在提高原型设计效率，包括重新组织界面功能、自适应视图、新增多个形状、样式、事件、动画效果支持等，具体可见这里的<a target="_blank" title="Axure 8 新增功能介绍" href="https://www.zhihu.com/question/24574207/answer/59084706">介绍</a>。<span id="more-1099"></span></p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2016/07/Axure.png" alt="Axure 8" title="Axure 8" /></p>
+<p><b>使用说明</b>：2016/4/15，Axure 8 由 Beta 升级为正式版。Axure 8 新增了钢笔工具、页面快照和更多动画效果支持等。2016/8/1 基于 <strong>Axure RP 8.0.0.3303 Stable</strong> 制作 Axure 8.0.0.3303 汉化绿色版。</p>
+<ul>
+<li>使用前的准备：使用 Axure RP Pro 之前必须先安装 <a href="https://www.microsoft.com/zh-cn/download/details.aspx?id=17718" target="_blank">.NET Framework 4.0</a> 组件；</li>
+<li>安装说明：以管理员权限运行 !-AxureRP8Poratble.exe 完成初始化安装，以后直接执行主程序 AxureRP8.exe 即可，无需再次运行初始化安装；</li>
+<li>特别提醒：*.rp 工程文件如果用 <a href="http://www.portablesoft.org/axure-rp-pro/">Axure 8</a> 打开编辑过的话，则无法再用旧版本的 Axure 6/7 打开，请特别注意此兼容性问题；</li>
+<li>关于汉化： 汉化作者为 Axure 中文社区 <a target="_blank" href="http://www.webppd.com/">WebPPD</a> 的 best919，汉化信息及补丁详见<a href="http://www.webppd.com/thread-8150-1-1.html" target="_blank">此贴</a>。</li>
+</ul>
+<p><a href="http://www.portablesoft.org/wp-content/uploads/2016/07/Axure-8-Full.jpg" target="_blank"><img src="http://www.portablesoft.org/wp-content/uploads/2016/07/Axure-8.jpg" alt="Axure RP Pro" title="点击查看原图" border="0" /></a> </p>
+<p>Axure RP is the leading tool for rapidly creating wireframes, prototypes and specifications for applications and web sites. Quickly get the benefits of prototyping without a lot of hassle. It ives business and UX professionals diagramming, documentation, and interactive tools to quickly design and share interactive prototypes and specifications.</p>
+<p>Axure 8 部分新功能与特性：</p>
+<ul>
+<li>新增钢笔工具</li>
+<li>新增页面快照功能</li>
+<li>变换形状新增算法：联合、减去、相交、排除</li>
+<li>支持通过交互动作来旋转图形了</li>
+<li>可以对组件或图像进行放大与缩小</li>
+<li>在面板切换状态时，可以有翻转的动画效果了，以前只有淡变和移入</li>
+<li>内置了 Font Awesome 图标，可拖动大小和设置填充颜色</li>
+<li>可以设置连接线为曲线</li>
+<li>部件注释里可以设置字体颜色和项目符号</li>
+<li>通过交互动作，设置组件的透明度变化</li>
+<li>窗口滚动可以选择向上滚动还是向下滚动</li>
+</ul>
+<p>Axure v8.0.0.3303 2016/6/30 <a href="http://www.axure.com/release-history" target="_blank">更新日志</a>：</p>
+<ol><li>Optimized Repeater heavy files</li><li>Optimized Group heavy files</li><li>Optimized Sketchy</li><li>Optimized Connectors</li><li>Optimized Team Project updates</li><li>Optimized Grid and Background</li><li>Optimized Dots and Dashes</li><li>Optimized Adaptive View switching</li><li>Optimized selecting and adding Widgets</li><li>Optimized rich text rendering (minor)</li></ol>
+<h4>Axure RP Pro 相关文件下载</h4>
+<p>官方网站：<a target="_blank" href="http://www.axure.com/">www.axure.com</a><br />
+解压密码：www.portablesoft.org<br />
+压缩包MD5：<a href="https://www.virustotal.com/en/search/?query=D5DBFAF74C99D8390D75A5B29CE3F381" title="压缩包多引擎病毒扫描报告" target="_blank">D5DBFAF74C99D8390D75A5B29CE3F381</a></p>
+<div class="quote">开始下载 <strong>Axure RP Pro 8.0.0.3303 汉化绿色版</strong> (Stable/正式版)<br />
+AxureRPPro_8.0.0.3303_PortableSoft.7z (30.10 MB)<br />
+@精品绿色便携软件 &#124; <a class="down" title="Axure RP Pro 8.0.0.3303 下载地址" href="http://www.portablesoft.org/down/1099/">Axure RP Pro 8.0.0.3303 下载页面</a> &#124; <a href="http://www.portablesoft.org/axure-rp-pro-legacy-versions/">更多版本下载</a></p>
+<p><strong>试用说明：Axure 8 绿色版没有集成任何注册码或其他注册信息，为 Axure 8 企业版的试用版，默认有 31 天的全功能试用期。试用期结束后，请考虑购买官方正版授权。如果还想继续试用的话，请给我发邮件至 admin@portablesoft.org 询问解决方案。</strong></p>
+<p>开始下载 Axure RP Pro 7.x (7.0.0.3189) 汉化绿色版 (Stable/正式版)<br />
+AxureRPPro_7.0.0.3189_PortableSoft.7z (6.84 MB)<br />
+@精品绿色便携软件 &#124; <a title="下载 Axure RP Pro 7.0.0.3189" href="/down/4050/">Axure RP Pro 7.0.0.3189 Stable 下载页面</a></p>
+<p>开始下载 Axure RP Pro 6.x (6.5.0.3055) 汉化绿色版 (Stable/正式版)<br />
+AxureRPPro_6.5.0.3055_PortableSoft.rar (6.09 MB)<br />
+@精品绿色便携软件 &#124; <a title="下载 Axure RP Pro 6.5.0.3055" href="/down/3692/">Axure RP Pro 6.5.0.3055 Stable 下载页面</a></div>
+<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/pacestar-lanflow/" rel="bookmark" title="Pacestar LanFlow绿色免安装版：网络拓扑图绘制工具">Pacestar LanFlow绿色免安装版：网络拓扑图绘制工具 </a></li>
+<li><a href="http://www.portablesoft.org/edraw-mind-map/" rel="bookmark" title="Edraw Mind Map中文绿色免费版[增强版]：专业多功能绘图软件">Edraw Mind Map中文绿色免费版[增强版]：专业多功能绘图软件 </a></li>
+<li><a href="http://www.portablesoft.org/edraw-max/" rel="bookmark" title="亿图图示专家 - Edraw Max 6.8中文绿色版">亿图图示专家 - Edraw Max 6.8中文绿色版 </a></li>
+<li><a href="http://www.portablesoft.org/adobe-fireworks-cs6/" rel="bookmark" title="Adobe Fireworks CS6 12.0.0.236 简体中文精简绿色版">Adobe Fireworks CS6 12.0.0.236 简体中文精简绿色版 </a></li>
+<li><a href="http://www.portablesoft.org/processon/" rel="bookmark" title="ProcessOn - 优秀的在线流程图绘制工具，实时协作绘图与共享">ProcessOn - 优秀的在线流程图绘制工具，实时协作绘图与共享 </a></li>
+<li><a href="http://www.portablesoft.org/adobe-fireworks-cs4/" rel="bookmark" title="Adobe Fireworks CS4英文/简体中文/繁体中文绿色特别版">Adobe Fireworks CS4英文/简体中文/繁体中文绿色特别版 </a></li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.portablesoft.org/axure-rp-pro/feed/</wfw:commentRss>
+		<slash:comments>175</slash:comments>
+		</item>
+		<item>
+		<title>QTranslate 5.7.0.3 - 优秀的全语种多引擎实时翻译工具</title>
+		<link>http://www.portablesoft.org/qtranslate-portable/</link>
+		<comments>http://www.portablesoft.org/qtranslate-portable/#comments</comments>
+		<pubDate>Sat, 30 Jul 2016 13:04:44 +0000</pubDate>
+		<dc:creator><![CDATA[黯然过客]]></dc:creator>
+				<category><![CDATA[办公软件]]></category>
+		<category><![CDATA[QTranslate]]></category>
+		<category><![CDATA[划词翻译]]></category>
+		<category><![CDATA[在线翻译]]></category>
+		<category><![CDATA[多引擎翻译]]></category>
+		<category><![CDATA[实时翻译]]></category>
+		<category><![CDATA[电子词典]]></category>
+
+		<guid isPermaLink="false">http://www.portablesoft.org/?p=2197&#038;v=5.7.0.3&#038;from=rss</guid>
+		<description><![CDATA[QTranslate 是一个轻量级的免费电子词典，通过集成各大在线翻译引擎实现便捷的实时翻译。QTranslate 帮助你更好地利用在线翻译工具，目前支持 Babylon、Definr、Google Search、Google Translate、ImTranslator、Microsoft Translator、Multitran、Promt、Reverso、SDL、Wikipedia、WordReference、Yandex、有道翻译等翻译引擎或信息服务。 启动 QTranslate 后，默认配置下，鼠标选中任意文本，连点两下 Ctrl 即可激活主窗口并翻译选中的文本，或者通过 Ctrl+Q 弹出小窗口直接显示翻译结果、Ctrl+W 则显示网络搜索结果。 启用即时翻译模式后，在任意程序中选择文字，则自动弹出 QTranslate 图标，点击图标即可查看翻译结果，QTranslate 会自动检测源文本语言格式。 使用说明：已经做成绿色便携版，直接运行 QTranslate.exe 即可，2016/7/30 更新版本为 QTranslate 5.7.0.3，自动显示简体中文界面。 个人非常喜欢 QTranslate，软件小巧精悍、速度流畅，能快速给出翻译结果，以前使用的灵格斯词霸还有有道词典感觉是越来越臃肿、运行效率越来越低了，不过最近的金山词霸 2012还不错。QTranslate 立足于在线翻译并做到极致操作体验，虽然使用时必须联网，但已适用于大部分情况了。 值得一提的是，QTranslate 还提供了国际字符软键盘，能够轻松输入各国语言，特别当你不方便或者懒得安装新的输入法时，这个小功能尤为有用。 QTranslate is a free translator for Windows. With this small utility, you simply select the text you want to translate and then press hot [&#8230;]<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/lingoes-portable-new/" rel="bookmark" title="Lingoes 灵格斯词霸 2.9.1 绿色便携版">Lingoes 灵格斯词霸 2.9.1 绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/kingsoft-powerword/" rel="bookmark" title="金山词霸 2012 v4.2 - 完美支持 Chrome 和 PDF 取词">金山词霸 2012 v4.2 - 完美支持 Chrome 和 PDF 取词 </a></li>
+<li><a href="http://www.portablesoft.org/whitesmoke/" rel="bookmark" title="高质量英文写作辅助工具：WhiteSmoke绿色便携版">高质量英文写作辅助工具：WhiteSmoke绿色便携版 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>QTranslate</strong> 是一个轻量级的免费电子词典，通过集成各大在线翻译引擎实现便捷的实时翻译。QTranslate 帮助你更好地利用在线翻译工具，目前支持 Babylon、Definr、Google Search、Google Translate、ImTranslator、Microsoft Translator、Multitran、Promt、Reverso、SDL、Wikipedia、WordReference、Yandex、有道翻译等翻译引擎或信息服务。</p>
+<p>启动 <a href="http://www.portablesoft.org/qtranslate-portable/">QTranslate</a> 后，默认配置下，鼠标选中任意文本，<strong>连点两下 Ctrl</strong> 即可激活主窗口并翻译选中的文本，或者通过 Ctrl+Q 弹出小窗口直接显示翻译结果、Ctrl+W 则显示网络搜索结果。</p>
+<p>启用<strong>即时翻译模式</strong>后，在任意程序中选择文字，则自动弹出 QTranslate 图标，点击图标即可查看翻译结果，QTranslate 会自动检测源文本语言格式。<span id="more-2197"></span></p>
+<p>使用说明：已经做成绿色便携版，直接运行 QTranslate.exe 即可，<b>2016/7/30 更新版本为 QTranslate 5.7.0.3</b>，自动显示简体中文界面。</p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2012/02/QTranslate.png" alt="QTranslate" title="QTranslate" border="0" /></p>
+<p>个人非常喜欢 QTranslate，软件小巧精悍、速度流畅，能快速给出翻译结果，以前使用的<a href="http://www.portablesoft.org/lingoes-portable-new/">灵格斯词霸</a>还有<a href="http://www.portablesoft.org/youdaodict/">有道词典</a>感觉是越来越臃肿、运行效率越来越低了，不过最近的<a href="http://www.portablesoft.org/kingsoft-powerword/">金山词霸 2012</a>还不错。QTranslate 立足于在线翻译并做到极致操作体验，虽然使用时必须联网，但已适用于大部分情况了。</p>
+<p>值得一提的是，QTranslate 还提供了<strong>国际字符软键盘</strong>，能够轻松输入各国语言，特别当你不方便或者懒得安装新的输入法时，这个小功能尤为有用。</p>
+<p>QTranslate is a free translator for Windows. With this small utility, you simply select the text you want to translate and then press hot key (Ctrl+Q to show translation in the popup window or Double Ctrl click to show the translation in the main window). </p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2012/02/QTranslate-Result.png" alt="QTranslate" title="QTranslate" border="1" /></p>
+<p>QTranslate 5.7.0.3 <a href="http://quest-app.appspot.com/download" target="_blank">更新日志</a>：</p>
+<ul><li>Fixed: Google Translate service doesn't work in China</li></ul>
+<h4>QTranslate 相关文件下载</h4>
+<p>官方网站：<a href="http://quest-app.appspot.com/" target="_blank">quest-app.appspot.com</a><br />
+解压密码：www.portablesoft.org<br />
+压缩包MD5：<a href="https://www.virustotal.com/en/search/?query=F5045C4B63A62DD1A2E0D5B500972170" title="压缩包多引擎病毒扫描报告" target="_blank">F5045C4B63A62DD1A2E0D5B500972170</a></p>
+<div class="quote">开始下载 <strong>QTranslate Portable 5.7.0.3 中文绿色便携版</strong><br />
+QTranslate_5.7.0.3_PortableSoft.7z (389.62 KB)<br />
+@精品绿色便携软件 &#124; <a class="down" title="QTranslate 5.7.0.3 下载地址" href="http://www.portablesoft.org/down/2197/">QTranslate 5.7.0.3 下载页面</a> &#124; <a href="http://www.portablesoft.org/qtranslate-legacy-versions/">更多版本下载</a></p>
+<p>开始下载 QTranslate Portable 5.6.0 中文绿色便携版<br />
+QTranslate_5.6.0_PortableSoft.7z (377 KB)<br />
+@精品绿色便携软件 &#124; <a title="下载 QTranslate 5.6.0" href="/down/4045/">QTranslate 5.6.0 下载页面</a></div>
+<div class='yarpp-related-rss'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://www.portablesoft.org/lingoes-portable-new/" rel="bookmark" title="Lingoes 灵格斯词霸 2.9.1 绿色便携版">Lingoes 灵格斯词霸 2.9.1 绿色便携版 </a></li>
+<li><a href="http://www.portablesoft.org/kingsoft-powerword/" rel="bookmark" title="金山词霸 2012 v4.2 - 完美支持 Chrome 和 PDF 取词">金山词霸 2012 v4.2 - 完美支持 Chrome 和 PDF 取词 </a></li>
+<li><a href="http://www.portablesoft.org/whitesmoke/" rel="bookmark" title="高质量英文写作辅助工具：WhiteSmoke绿色便携版">高质量英文写作辅助工具：WhiteSmoke绿色便携版 </a></li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.portablesoft.org/qtranslate-portable/feed/</wfw:commentRss>
+		<slash:comments>84</slash:comments>
+		</item>
+	</channel>
+</rss>
